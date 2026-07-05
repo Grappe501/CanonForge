@@ -1,7 +1,7 @@
-# Master Canon v1.3.4
+# Master Canon v1.3.5
 
-> **BUILD-019:** The Memory Engine · reconstruction · true medium is text + reader memory
-> Supersedes v1.3.3 (2026-07-05 · BUILD-019 CF-ENTRY-057 · CanonForge 1.7.0)
+> **BUILD-020:** The Resonance Registry · narrative motifs · closed/open · composer workbench
+> Supersedes v1.3.4 (2026-07-05 · BUILD-020 CF-ENTRY-058 · CanonForge 1.8.0)
 
 ---
 
@@ -42,15 +42,11 @@ Key locked insights:
 | **Four Pillars** | Strengthen ≥1 of Wonder · **Connection** · Resonance · Transformation? | BUILD-003 v1.0 |
 | Seven Laws | Immutable · complies with BUILD-004 v1.0? | BUILD-004 |
 
-**Stack:** BUILD-001 = *why* · … · **016 = *consciousness*** · **017 = *reality*** · **018 = *understanding gap*** · **019 = *living memory***
+**Stack:** BUILD-001 = *why* · … · **019 = *living memory*** · **020 = *motif vocabulary***
+
+→ [build/BUILD-020-resonance-registry.md](build/BUILD-020-resonance-registry.md) · Motif Families · Rule of Return · Closed/Open Motifs
 
 → [build/BUILD-019-memory-engine.md](build/BUILD-019-memory-engine.md) · Five States · Memory Cycle · True Medium
-
-→ [build/BUILD-018-fracture-engine.md](build/BUILD-018-fracture-engine.md) · Five Domains · Fracture Curve · Recognition Not Puzzle
-
-→ [build/BUILD-017-reality-engine.md](build/BUILD-017-reality-engine.md) · Five Layers · Story-True Reality · Reality Test
-
-→ [build/BUILD-016-consciousness-engine.md](build/BUILD-016-consciousness-engine.md) · Ten Living Systems · Sixth Consciousness · Incomplete Principle
 
 → [build/BUILD-015.5-chronoforge-master-architecture.md](build/BUILD-015.5-chronoforge-master-architecture.md) · Build Bible · Chronoforge Method
 

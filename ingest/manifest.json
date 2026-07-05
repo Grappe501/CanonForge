@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "1.7.0",
-  "generated_at": "2026-07-05T21:48:38.055562+00:00",
+  "canonforge_version": "1.8.0",
+  "generated_at": "2026-07-05T21:50:35.917828+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 57,
-  "concept_count": 430,
+  "entry_count": 58,
+  "concept_count": 448,
   "project_version": "0.2.0",
   "phase_two": "begun",
   "build_016_version": "1.0",
@@ -17,6 +17,8 @@
   "build_018_title": "Fracture Engine",
   "build_019_version": "1.0",
   "build_019_title": "Memory Engine",
+  "build_020_version": "1.0",
+  "build_020_title": "Resonance Registry",
   "phase_one": "complete",
   "build_015_5_version": "0.1",
   "build_015_5_title": "Chronoforge Master Architecture",
@@ -1085,6 +1087,34 @@
         "CF-CON-430"
       ],
       "byte_size": 7101
+    },
+    {
+      "entry_id": "CF-ENTRY-058",
+      "file": "knowledge/entries/058-build-020-resonance-registry-v1.md",
+      "sha256": "dc4b1082956127191a5aa2d86fbd8eea131024421246d2d27fccbc063fcc42b8",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-431",
+        "CF-CON-432",
+        "CF-CON-433",
+        "CF-CON-434",
+        "CF-CON-435",
+        "CF-CON-436",
+        "CF-CON-437",
+        "CF-CON-438",
+        "CF-CON-439",
+        "CF-CON-440",
+        "CF-CON-441",
+        "CF-CON-442",
+        "CF-CON-443",
+        "CF-CON-444",
+        "CF-CON-445",
+        "CF-CON-446",
+        "CF-CON-447",
+        "CF-CON-448"
+      ],
+      "byte_size": 8384
     }
   ],
   "indexes": {

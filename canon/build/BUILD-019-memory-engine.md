@@ -103,7 +103,7 @@ Memories awaken through association — sound · phrase · smell · rhythm · si
 
 The novel uses these **naturally** — one moment calls another back **without announcing it**.
 
-*(CF-CON-422 · BUILD-015 Resonance Registry queued · CF-CON-094 Resonance)*
+*(CF-CON-422 · BUILD-020 Resonance Registry §020.2 · CF-CON-094 Resonance)*
 
 ---
 
@@ -250,11 +250,11 @@ Fracture governs the **gap**. Memory governs **how the gap closes across time**.
 
 ---
 
-## BUILD-020 preview *(CF-ENTRY-057)*
+## BUILD-021 preview *(CF-ENTRY-058)*
 
-Memory triggers and constellations need **registered objects** — phrases · gestures · dreams · threads.
+The Registry catalogs motifs. The **Symbol Genome** governs inheritance · evolution · payoffs across families.
 
-→ **BUILD-020 Resonance Registry** *(queued)*
+→ **BUILD-021 Symbol Genome** *(queued)*
 
 ---
 

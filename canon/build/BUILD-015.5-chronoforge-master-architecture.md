@@ -121,7 +121,7 @@ We did not build a novel. We built a **theory of storytelling** — an operating
 | **017** | The Reality Engine | **✓ v1.0** · five layers · CF-ENTRY-055 |
 | **018** | The Fracture Engine | **✓ v1.0** · five domains · CF-ENTRY-056 |
 | **019** | The Memory Engine | **✓ v1.0** · living memory · CF-ENTRY-057 |
-| **020** | Resonance Registry | Every recurring motif |
+| **020** | The Resonance Registry | **✓ v1.0** · motif catalog · CF-ENTRY-058 |
 | **021** | Symbol Genome | Symbolic language · families · payoffs |
 | **022** | Silence Ledger | Every pause · blank · omission |
 | **023** | Typography Physics | Canonical edition · ~20 events |
@@ -264,7 +264,7 @@ Build Bible v1.0 requires:
 
 ## 015.5.11 — What happens next
 
-**Do not proceed to BUILD-020** until BUILD-015.5 reaches v1.0 *(BUILD-016–019 excepted per CF-ENTRY-053/055/056/057)*.
+**Do not proceed to BUILD-021** until BUILD-015.5 reaches v1.0 *(BUILD-016–020 excepted per CF-ENTRY-053/055/056/057/058)*.
 
 Next passes expand this document into the full 100–200 page Build Bible:
 
@@ -274,7 +274,7 @@ Next passes expand this document into the full 100–200 page Build Bible:
 4. Master data dictionary (elements · symbols · echo IDs)
 5. Execution index (which BUILD when · blocking rules)
 
-When v1.0 ships — Phase Two continues with **BUILD-020 Resonance Registry**.
+When v1.0 ships — Phase Two continues with **BUILD-021 Symbol Genome**.
 
 ---
 

@@ -232,9 +232,9 @@ Not merely fractured time · not something that **broke** · the visible process
 
 ---
 
-## BUILD-020 preview *(CF-ENTRY-057)*
+## BUILD-021 preview *(CF-ENTRY-058)*
 
-→ **BUILD-020 Resonance Registry** — memory triggers · registered echoes *(queued)*
+→ **BUILD-021 Symbol Genome** — motif inheritance · evolution · payoffs *(queued)*
 
 ---
 

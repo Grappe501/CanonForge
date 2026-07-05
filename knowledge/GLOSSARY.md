@@ -49,6 +49,8 @@
 | **Central fracture** | Governing fracture all others orbit | CF-CON-413 |
 | **Memory Engine** | Living memory · reconstruction not storage | CF-CON-416 |
 | **True medium** | Fixed text + evolving reader memory | CF-CON-430 |
+| **Resonance Registry** | Motif catalog · composer workbench | CF-CON-431 |
+| **Closed and open motifs** | Complete in book vs alive after | CF-CON-448 |
 | **Prime Directive** | Does this increase discovery? | CF-CON-158 |
 | **I was out of order** | Reader not timeline is the deeper realization | CF-CON-172 |
 | **Wrong chapter anchor** | Hidden development bone · may not be printed | CF-CON-174 |

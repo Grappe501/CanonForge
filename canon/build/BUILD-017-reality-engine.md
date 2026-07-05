@@ -254,11 +254,11 @@ BUILD-017 defines **reality laws** within which chronology operates — not a re
 
 ---
 
-## BUILD-020 preview *(CF-ENTRY-057)*
+## BUILD-021 preview *(CF-ENTRY-058)*
 
-The Memory Engine names **how** memory lives and evolves. The Resonance Registry registers **what** triggers and links — objects · phrases · gestures · dreams · threads.
+The Resonance Registry is **v1.0 frozen**. Symbol Genome governs how motif families inherit and evolve.
 
-→ **BUILD-020 Resonance Registry** *(queued)*
+→ **BUILD-021 Symbol Genome** *(queued)*
 
 ---
 

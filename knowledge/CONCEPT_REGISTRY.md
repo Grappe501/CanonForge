@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 1.7.0 · 2026-07-05 · 430 concepts registered
+> Version 1.8.0 · 2026-07-05 · 448 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -434,6 +434,24 @@
 | CF-CON-428 | Memory test | Governance | **Frozen** | Five questions; memory must be alive. | CF-ENTRY-057 |
 | CF-CON-429 | Remember differently | Mission | **Frozen** | Deepest transformation; not remember more. | CF-ENTRY-057 |
 | CF-CON-430 | True medium text plus memory | Mission | **Frozen** | One text; reader memory evolves; compose for relationship. | CF-ENTRY-057 |
+| CF-CON-431 | Resonance Registry | Architecture | **Frozen** | Catalog of recurring motifs; intentional traceable earned. | CF-ENTRY-058 |
+| CF-CON-432 | Motif two lives | Heart | **Frozen** | First life appearance; second life reader relationship. | CF-ENTRY-058 |
+| CF-CON-433 | Motif families | Architecture | **Frozen** | Object phrase gesture sound place natural structural. | CF-ENTRY-058 |
+| CF-CON-434 | Motif record | Architecture | **Frozen** | Permanent ledger row per motif; retirement field. | CF-ENTRY-058 |
+| CF-CON-435 | Five motif evolutions | Process | **Frozen** | Recognition association expansion transformation integration. | CF-ENTRY-058 |
+| CF-CON-436 | Rule of return | Governance | **Frozen** | No unchanged return; ornamental recurrence removed. | CF-ENTRY-058 |
+| CF-CON-437 | Motif constellation | Architecture | **Frozen** | Motifs cluster; one activates others in memory. | CF-ENTRY-058 |
+| CF-CON-438 | Cross-resonance | Architecture | **Frozen** | One motif awakens another without analysis. | CF-ENTRY-058 |
+| CF-CON-439 | Invisible motifs | Architecture | **Frozen** | Rhythm pattern absence; registered as fully as objects. | CF-ENTRY-058 |
+| CF-CON-440 | Typographic motifs | Architecture | **Frozen** | Visual deviation as motif; never decorative. | CF-ENTRY-058 |
+| CF-CON-441 | Musical motifs cadence | Architecture | **Frozen** | Same cadence not words; felt before intellectual. | CF-ENTRY-058 |
+| CF-CON-442 | Motif balance | Governance | **Frozen** | Too many noise too few thin; justify continued life. | CF-ENTRY-058 |
+| CF-CON-443 | Motif human test | Governance | **Frozen** | Deepen human truth not plot point only. | CF-ENTRY-058 |
+| CF-CON-444 | Fifth read motif test | Governance | **Frozen** | Full significance after multiple reads; fair layering. | CF-ENTRY-058 |
+| CF-CON-445 | Master index motifs | Architecture | **Frozen** | Query every motif; nothing outside index. | CF-ENTRY-058 |
+| CF-CON-446 | Living network motifs | Architecture | **Frozen** | Registry as graph not list; full symbolic system. | CF-ENTRY-058 |
+| CF-CON-447 | Motif test | Governance | **Frozen** | Six questions before motif enters manuscript. | CF-ENTRY-058 |
+| CF-CON-448 | Closed and open motifs | Mission | **Frozen** | Closed complete in book; open alive after final page. | CF-ENTRY-058 |
 
 ## Related Concepts
 
@@ -867,3 +885,21 @@
 - **CF-CON-428** (Memory test, Frozen): CF-CON-416, CF-CON-412 → `canon/build/BUILD-019-memory-engine.md#01912--the-memory-test`
 - **CF-CON-429** (Remember differently, Frozen): CF-CON-416, CF-CON-053 → `canon/build/BUILD-019-memory-engine.md#01913--the-final-memory-principle`
 - **CF-CON-430** (True medium text plus memory, Frozen): CF-CON-416, CF-CON-108, CF-CON-025 → `canon/build/BUILD-019-memory-engine.md`
+- **CF-CON-431** (Resonance Registry, Frozen): CF-CON-134, CF-CON-094, CF-CON-432 → `canon/build/BUILD-020-resonance-registry.md`
+- **CF-CON-432** (Motif two lives, Frozen): CF-CON-431, CF-CON-430 → `canon/build/BUILD-020-resonance-registry.md#0201--the-first-principle`
+- **CF-CON-433** (Motif families, Frozen): CF-CON-431, CF-CON-422 → `canon/build/BUILD-020-resonance-registry.md#0202--the-motif-families`
+- **CF-CON-434** (Motif record, Frozen): CF-CON-431, CF-CON-134 → `canon/build/BUILD-020-resonance-registry.md#0203--the-motif-record`
+- **CF-CON-435** (Five motif evolutions, Frozen): CF-CON-431, CF-CON-419 → `canon/build/BUILD-020-resonance-registry.md#0204--the-five-evolutions`
+- **CF-CON-436** (Rule of return, Frozen): CF-CON-431, CF-CON-158 → `canon/build/BUILD-020-resonance-registry.md#0205--the-rule-of-return`
+- **CF-CON-437** (Motif constellation, Frozen): CF-CON-431, CF-CON-427 → `canon/build/BUILD-020-resonance-registry.md#0206--the-constellation-model`
+- **CF-CON-438** (Cross-resonance, Frozen): CF-CON-431, CF-CON-422 → `canon/build/BUILD-020-resonance-registry.md#0207--the-cross-resonance-rule`
+- **CF-CON-439** (Invisible motifs, Frozen): CF-CON-431, CF-CON-425 → `canon/build/BUILD-020-resonance-registry.md#0208--the-invisible-motifs`
+- **CF-CON-440** (Typographic motifs, Frozen): CF-CON-431, CF-CON-089 → `canon/build/BUILD-020-resonance-registry.md#0209--the-typographic-motifs`
+- **CF-CON-441** (Musical motifs cadence, Frozen): CF-CON-431, CF-CON-366 → `canon/build/BUILD-020-resonance-registry.md#02010--the-musical-motifs`
+- **CF-CON-442** (Motif balance, Frozen): CF-CON-431, CF-CON-407 → `canon/build/BUILD-020-resonance-registry.md#02011--the-motif-balance`
+- **CF-CON-443** (Motif human test, Frozen): CF-CON-431, CF-CON-240 → `canon/build/BUILD-020-resonance-registry.md#02012--the-human-test`
+- **CF-CON-444** (Fifth read motif test, Frozen): CF-CON-431, CF-CON-376 → `canon/build/BUILD-020-resonance-registry.md#02013--the-fifth-read-test`
+- **CF-CON-445** (Master index motifs, Frozen): CF-CON-431, CF-CON-134 → `canon/build/BUILD-020-resonance-registry.md#02014--the-master-index`
+- **CF-CON-446** (Living network motifs, Frozen): CF-CON-431, CF-CON-358 → `canon/build/BUILD-020-resonance-registry.md#02015--the-living-network`
+- **CF-CON-447** (Motif test, Frozen): CF-CON-431, CF-CON-399 → `canon/build/BUILD-020-resonance-registry.md#02016--the-motif-test`
+- **CF-CON-448** (Closed and open motifs, Frozen): CF-CON-431, CF-CON-380, CF-CON-385 → `canon/build/BUILD-020-resonance-registry.md`

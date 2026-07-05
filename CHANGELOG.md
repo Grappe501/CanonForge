@@ -3,6 +3,15 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [1.8.0] — 2026-07-05
+
+### Added
+- CF-ENTRY-058: BUILD-020 The Resonance Registry Canonical v1.0
+- Concepts CF-CON-431 through CF-CON-448
+- Motif families · five evolutions · rule of return · living network
+- **Closed and open motifs** · understanding as candidate open motif
+- Master Canon v1.3.5
+
 ## [1.7.0] — 2026-07-05
 
 ### Added

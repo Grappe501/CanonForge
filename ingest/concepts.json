@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "1.7.0",
-  "generated_at": "2026-07-05T21:48:38.073761+00:00",
+  "canonforge_version": "1.8.0",
+  "generated_at": "2026-07-05T21:50:35.943122+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -4770,6 +4770,204 @@
         "CF-ENTRY-057"
       ],
       "canon_ref": "canon/build/BUILD-019-memory-engine.md"
+    },
+    {
+      "id": "CF-CON-431",
+      "label": "Resonance Registry",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Catalog of recurring motifs; intentional traceable earned.",
+      "sources": [
+        "CF-ENTRY-058"
+      ],
+      "canon_ref": "canon/build/BUILD-020-resonance-registry.md"
+    },
+    {
+      "id": "CF-CON-432",
+      "label": "Motif two lives",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "First life appearance; second life reader relationship.",
+      "sources": [
+        "CF-ENTRY-058"
+      ],
+      "canon_ref": "canon/build/BUILD-020-resonance-registry.md#0201--the-first-principle"
+    },
+    {
+      "id": "CF-CON-433",
+      "label": "Motif families",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Object phrase gesture sound place natural structural.",
+      "sources": [
+        "CF-ENTRY-058"
+      ],
+      "canon_ref": "canon/build/BUILD-020-resonance-registry.md#0202--the-motif-families"
+    },
+    {
+      "id": "CF-CON-434",
+      "label": "Motif record",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Permanent ledger row per motif; retirement field.",
+      "sources": [
+        "CF-ENTRY-058"
+      ],
+      "canon_ref": "canon/build/BUILD-020-resonance-registry.md#0203--the-motif-record"
+    },
+    {
+      "id": "CF-CON-435",
+      "label": "Five motif evolutions",
+      "category": "Process",
+      "status": "Frozen",
+      "definition": "Recognition association expansion transformation integration.",
+      "sources": [
+        "CF-ENTRY-058"
+      ],
+      "canon_ref": "canon/build/BUILD-020-resonance-registry.md#0204--the-five-evolutions"
+    },
+    {
+      "id": "CF-CON-436",
+      "label": "Rule of return",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "No unchanged return; ornamental recurrence removed.",
+      "sources": [
+        "CF-ENTRY-058"
+      ],
+      "canon_ref": "canon/build/BUILD-020-resonance-registry.md#0205--the-rule-of-return"
+    },
+    {
+      "id": "CF-CON-437",
+      "label": "Motif constellation",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Motifs cluster; one activates others in memory.",
+      "sources": [
+        "CF-ENTRY-058"
+      ],
+      "canon_ref": "canon/build/BUILD-020-resonance-registry.md#0206--the-constellation-model"
+    },
+    {
+      "id": "CF-CON-438",
+      "label": "Cross-resonance",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "One motif awakens another without analysis.",
+      "sources": [
+        "CF-ENTRY-058"
+      ],
+      "canon_ref": "canon/build/BUILD-020-resonance-registry.md#0207--the-cross-resonance-rule"
+    },
+    {
+      "id": "CF-CON-439",
+      "label": "Invisible motifs",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Rhythm pattern absence; registered as fully as objects.",
+      "sources": [
+        "CF-ENTRY-058"
+      ],
+      "canon_ref": "canon/build/BUILD-020-resonance-registry.md#0208--the-invisible-motifs"
+    },
+    {
+      "id": "CF-CON-440",
+      "label": "Typographic motifs",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Visual deviation as motif; never decorative.",
+      "sources": [
+        "CF-ENTRY-058"
+      ],
+      "canon_ref": "canon/build/BUILD-020-resonance-registry.md#0209--the-typographic-motifs"
+    },
+    {
+      "id": "CF-CON-441",
+      "label": "Musical motifs cadence",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Same cadence not words; felt before intellectual.",
+      "sources": [
+        "CF-ENTRY-058"
+      ],
+      "canon_ref": "canon/build/BUILD-020-resonance-registry.md#02010--the-musical-motifs"
+    },
+    {
+      "id": "CF-CON-442",
+      "label": "Motif balance",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Too many noise too few thin; justify continued life.",
+      "sources": [
+        "CF-ENTRY-058"
+      ],
+      "canon_ref": "canon/build/BUILD-020-resonance-registry.md#02011--the-motif-balance"
+    },
+    {
+      "id": "CF-CON-443",
+      "label": "Motif human test",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Deepen human truth not plot point only.",
+      "sources": [
+        "CF-ENTRY-058"
+      ],
+      "canon_ref": "canon/build/BUILD-020-resonance-registry.md#02012--the-human-test"
+    },
+    {
+      "id": "CF-CON-444",
+      "label": "Fifth read motif test",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Full significance after multiple reads; fair layering.",
+      "sources": [
+        "CF-ENTRY-058"
+      ],
+      "canon_ref": "canon/build/BUILD-020-resonance-registry.md#02013--the-fifth-read-test"
+    },
+    {
+      "id": "CF-CON-445",
+      "label": "Master index motifs",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Query every motif; nothing outside index.",
+      "sources": [
+        "CF-ENTRY-058"
+      ],
+      "canon_ref": "canon/build/BUILD-020-resonance-registry.md#02014--the-master-index"
+    },
+    {
+      "id": "CF-CON-446",
+      "label": "Living network motifs",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Registry as graph not list; full symbolic system.",
+      "sources": [
+        "CF-ENTRY-058"
+      ],
+      "canon_ref": "canon/build/BUILD-020-resonance-registry.md#02015--the-living-network"
+    },
+    {
+      "id": "CF-CON-447",
+      "label": "Motif test",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Six questions before motif enters manuscript.",
+      "sources": [
+        "CF-ENTRY-058"
+      ],
+      "canon_ref": "canon/build/BUILD-020-resonance-registry.md#02016--the-motif-test"
+    },
+    {
+      "id": "CF-CON-448",
+      "label": "Closed and open motifs",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Closed complete in book; open alive after final page.",
+      "sources": [
+        "CF-ENTRY-058"
+      ],
+      "canon_ref": "canon/build/BUILD-020-resonance-registry.md"
     }
   ],
   "edges": [
@@ -8566,6 +8764,196 @@
     {
       "from": "CF-CON-430",
       "to": "CF-CON-025",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-431",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-431",
+      "to": "CF-CON-094",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-431",
+      "to": "CF-CON-432",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-432",
+      "to": "CF-CON-431",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-432",
+      "to": "CF-CON-430",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-433",
+      "to": "CF-CON-431",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-433",
+      "to": "CF-CON-422",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-434",
+      "to": "CF-CON-431",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-434",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-435",
+      "to": "CF-CON-431",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-435",
+      "to": "CF-CON-419",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-436",
+      "to": "CF-CON-431",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-436",
+      "to": "CF-CON-158",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-437",
+      "to": "CF-CON-431",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-437",
+      "to": "CF-CON-427",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-438",
+      "to": "CF-CON-431",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-438",
+      "to": "CF-CON-422",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-439",
+      "to": "CF-CON-431",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-439",
+      "to": "CF-CON-425",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-440",
+      "to": "CF-CON-431",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-440",
+      "to": "CF-CON-089",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-441",
+      "to": "CF-CON-431",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-441",
+      "to": "CF-CON-366",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-442",
+      "to": "CF-CON-431",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-442",
+      "to": "CF-CON-407",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-443",
+      "to": "CF-CON-431",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-443",
+      "to": "CF-CON-240",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-444",
+      "to": "CF-CON-431",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-444",
+      "to": "CF-CON-376",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-445",
+      "to": "CF-CON-431",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-445",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-446",
+      "to": "CF-CON-431",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-446",
+      "to": "CF-CON-358",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-447",
+      "to": "CF-CON-431",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-447",
+      "to": "CF-CON-399",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-448",
+      "to": "CF-CON-431",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-448",
+      "to": "CF-CON-380",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-448",
+      "to": "CF-CON-385",
       "type": "related"
     }
   ]

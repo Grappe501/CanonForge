@@ -11,8 +11,8 @@
 |---|---|
 | **Project Name** | CHRONOFORGE |
 | **Product** | **The Chronoforge Method** · novel = Version 1 |
-| **Project Version** | **0.2.0** *(Phase Two · BUILD-016–019)* |
-| **Phase** | **One ✓** · **Two begun** (016–019 ✓) · BUILD-015.5 in progress |
+| **Project Version** | **0.2.0** *(Phase Two · BUILD-016–020)* |
+| **Phase** | **One ✓** · **Two begun** (016–020 ✓) · BUILD-015.5 in progress |
 | **Story Written** | 0% |
 | **Philosophy + Schema** | **100%** (BUILD-001–015 frozen) |
 | **Build Bible** | **~15%** (BUILD-015.5 v0.1 scaffold) |
@@ -24,10 +24,10 @@
 | Field | Value |
 |---|---|
 | **Repo** | CanonForge (`Grappe501/CanonForge`) |
-| **Repo Version** | See [VERSION](../../VERSION) · **1.7.0** |
-| **Build Layer** | BUILD-001–019 frozen · **015.5 active** |
-| **Entries** | CF-ENTRY-001 through CF-ENTRY-057 |
-| **Concepts** | 430+ |
+| **Repo Version** | See [VERSION](../../VERSION) · **1.8.0** |
+| **Build Layer** | BUILD-001–020 frozen · **015.5 active** |
+| **Entries** | CF-ENTRY-001 through CF-ENTRY-058 |
+| **Concepts** | 448+ |
 | **Traceability** | Entry → Concept → BUILD → Architecture → Matrix |
 
 ---
@@ -38,7 +38,7 @@
 |---|---|---|
 | **One** | Philosophy + engineering schema | **✓ COMPLETE** |
 | **015.5** | Build Bible (master architecture) | **In progress** |
-| **Two** | Engineering (BUILD-016–025) | **Begun** (016–019 ✓) |
+| **Two** | Engineering (BUILD-016–025) | **Begun** (016–020 ✓) |
 | **Three** | Novel substrate (BUILD-026–036) | Queued |
 | **Four–Six** | Lives · Composition · Performance | Queued |
 
@@ -49,11 +49,11 @@
 ## Governance mode
 
 ```txt
-STOP:   BUILD-020 until BUILD-015.5 v1.0 (016–019 done per CF-ENTRY-053/055/056/057)
-START:  Build Bible expansion · then Phase Two engines (020+)
+STOP:   BUILD-021 until BUILD-015.5 v1.0 (016–020 done per CF-ENTRY-053/055/056/057/058)
+START:  Build Bible expansion · then Phase Two engines (021+)
 NEVER:  manuscript/ until Phase Five gate
 ```
 
 ---
 
-*Project v0.2.0 · Phase Two · BUILD-016–019 frozen · CF-ENTRY-057*
+*Project v0.2.0 · Phase Two · BUILD-016–020 frozen · CF-ENTRY-058*
