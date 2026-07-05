@@ -3,6 +3,13 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [0.4.1] — 2026-07-05
+
+### Added
+- CF-ENTRY-034: reader-assigned identity · selective silence · Article XVII Assumption
+- Concepts CF-CON-145 through CF-CON-149
+- Constitution amended: Article XVII
+
 ## [0.4.0] — 2026-07-05
 
 ### Added

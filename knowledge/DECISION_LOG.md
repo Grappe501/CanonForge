@@ -38,7 +38,7 @@
 | 2026-07-05 | Constitution ratified | BUILD-000.000 Articles I–XVI | CF-CON-136 |
 | 2026-07-05 | North Star locked | Book never changes; reader does | CF-CON-137 |
 | 2026-07-05 | Thematic foundation | Fractured perception · Article XVI Humanity | CF-CON-139–144 |
-| 2026-07-05 | BUILD-001 gate cleared | Human truth question answered in entry | CF-CON-141 |
+| 2026-07-05 | Article XVII Assumption | Reader-assigned identity · fair omission | CF-CON-145–149 |
 | 2026-07-05 | Originality firewall | Genre pillars as physics not copy | CF-CON-039 |
 
 ## Open Forks (see OPEN_QUESTIONS.md)

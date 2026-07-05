@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 0.4.0 · 2026-07-05 · 144 concepts registered
+> Version 0.4.1 · 2026-07-05 · 149 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -148,6 +148,11 @@
 | CF-CON-142 | Experience not moral | Theme | **Locked** | Changed perspective not lecture; experience equality don't tell it. | CF-ENTRY-033 |
 | CF-CON-143 | Categorization dissolve arc | Theme | **Locked** | Read 1 categorize · 2 weaken · 3 dissolve assumptions. | CF-ENTRY-033 |
 | CF-CON-144 | Character not group | Theme | **Locked** | No character represents a group; every character is a human being. | CF-ENTRY-033 |
+| CF-CON-145 | Article XVII Assumption | Governance | **Locked** | Silent on irrelevant identity; reader free to imagine; fair omission not trick. | CF-ENTRY-034 |
+| CF-CON-146 | Fair omission not mislead | Governance | **Locked** | Leave unstated; never imply false attributes; no appearance gotcha. | CF-ENTRY-034 |
+| CF-CON-147 | Selective identity silence | Theme | **Locked** | Race nationality religion age etc omitted unless story requires. | CF-ENTRY-034 |
+| CF-CON-148 | Person before labels | Theme | **Locked** | Introduce via choices fears sacrifices loves regrets. | CF-ENTRY-034 |
+| CF-CON-149 | Self-awareness reveal | Heart | **Locked** | Deep reveal: assumptions reader made without author stating. | CF-ENTRY-034 |
 
 ## Related Concepts
 
@@ -295,3 +300,8 @@
 - **CF-CON-142** (Experience not moral, Locked): CF-CON-139 → `canon/CONSTITUTION.md`
 - **CF-CON-143** (Categorization dissolve arc, Locked): CF-CON-140 → `canon/CONSTITUTION.md`
 - **CF-CON-144** (Character not group, Locked): CF-CON-139 → `canon/CONSTITUTION.md`
+- **CF-CON-145** (Article XVII Assumption, Locked): CF-CON-146, CF-CON-139 → `canon/CONSTITUTION.md`
+- **CF-CON-146** (Fair omission not mislead, Locked): CF-CON-023, CF-CON-145 → `canon/CONSTITUTION.md`
+- **CF-CON-147** (Selective identity silence, Locked): CF-CON-145 → `canon/CONSTITUTION.md`
+- **CF-CON-148** (Person before labels, Locked): CF-CON-144 → `canon/CONSTITUTION.md`
+- **CF-CON-149** (Self-awareness reveal, Locked): CF-CON-143, CF-CON-145 → `canon/CONSTITUTION.md`

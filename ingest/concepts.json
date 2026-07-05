@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "canonforge_version": "0.2.0",
-  "generated_at": "2026-07-05T21:03:23.586442+00:00",
+  "generated_at": "2026-07-05T21:04:07.163682+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -1600,6 +1600,61 @@
         "CF-ENTRY-033"
       ],
       "canon_ref": "canon/CONSTITUTION.md"
+    },
+    {
+      "id": "CF-CON-145",
+      "label": "Article XVII Assumption",
+      "category": "Governance",
+      "status": "Locked",
+      "definition": "Silent on irrelevant identity; reader free to imagine; fair omission not trick.",
+      "sources": [
+        "CF-ENTRY-034"
+      ],
+      "canon_ref": "canon/CONSTITUTION.md"
+    },
+    {
+      "id": "CF-CON-146",
+      "label": "Fair omission not mislead",
+      "category": "Governance",
+      "status": "Locked",
+      "definition": "Leave unstated; never imply false attributes; no appearance gotcha.",
+      "sources": [
+        "CF-ENTRY-034"
+      ],
+      "canon_ref": "canon/CONSTITUTION.md"
+    },
+    {
+      "id": "CF-CON-147",
+      "label": "Selective identity silence",
+      "category": "Theme",
+      "status": "Locked",
+      "definition": "Race nationality religion age etc omitted unless story requires.",
+      "sources": [
+        "CF-ENTRY-034"
+      ],
+      "canon_ref": "canon/CONSTITUTION.md"
+    },
+    {
+      "id": "CF-CON-148",
+      "label": "Person before labels",
+      "category": "Theme",
+      "status": "Locked",
+      "definition": "Introduce via choices fears sacrifices loves regrets.",
+      "sources": [
+        "CF-ENTRY-034"
+      ],
+      "canon_ref": "canon/CONSTITUTION.md"
+    },
+    {
+      "id": "CF-CON-149",
+      "label": "Self-awareness reveal",
+      "category": "Heart",
+      "status": "Locked",
+      "definition": "Deep reveal: assumptions reader made without author stating.",
+      "sources": [
+        "CF-ENTRY-034"
+      ],
+      "canon_ref": "canon/CONSTITUTION.md"
     }
   ],
   "edges": [
@@ -2626,6 +2681,46 @@
     {
       "from": "CF-CON-144",
       "to": "CF-CON-139",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-145",
+      "to": "CF-CON-146",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-145",
+      "to": "CF-CON-139",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-146",
+      "to": "CF-CON-023",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-146",
+      "to": "CF-CON-145",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-147",
+      "to": "CF-CON-145",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-148",
+      "to": "CF-CON-144",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-149",
+      "to": "CF-CON-143",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-149",
+      "to": "CF-CON-145",
       "type": "related"
     }
   ]

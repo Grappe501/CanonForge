@@ -101,6 +101,8 @@ Internal engineering vocabulary stays in `architecture/` and `canon/`.
 1. No character exists solely as a twist delivery mechanism
 2. Every POV character has dual chronology (beliefs vs truth) — details in Character Bible (Phase 6)
 3. Antagonist force = Certainty, not a mustache-twirling villain
+4. **Article XVII:** Never assign identity the story does not require; reader may imagine; novel neither confirms nor denies unless required (CF-CON-145)
+5. Introduce characters through choices · fears · sacrifices · loves · regrets — person before labels (CF-CON-148)
 
 ---
 
@@ -113,4 +115,4 @@ Internal engineering vocabulary stays in `architecture/` and `canon/`.
 
 ---
 
-*Derived from CONSTITUTION BUILD-000.000 · CF-CON-023 · CF-ENTRY-010 · CF-ENTRY-033*
+*Derived from CONSTITUTION BUILD-000.000 · Articles I–XVII · CF-ENTRY-033 · CF-ENTRY-034*

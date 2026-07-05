@@ -185,4 +185,37 @@ Constitution amends only by explicit author decision · logged in `knowledge/DEC
 
 ---
 
-*Ratified 2026-07-05 · CF-ENTRY-033 · Supersedes informal constitution fragments in MASTER_CANON v0.3.0*
+## Article XVII — Assumption
+
+The novel provides readers with **only the information necessary** to understand the story.
+
+Where identity is irrelevant, **the novel remains silent.**
+
+Readers are free to imagine. The novel **neither confirms nor denies** those imaginings unless the story itself requires it.
+
+The purpose is not to conceal identity, but to reveal **how readily we complete incomplete pictures.**
+
+### Fair-play boundary (CF-CON-146)
+
+```txt
+DO NOT:  deliberately mislead by implying false attributes
+DO:      leave attributes unstated unless story requires them
+DO NOT:  appearance "gotcha" reveal ("they looked different than you imagined")
+DO:      self-awareness reveal ("I made assumptions the author never stated")
+```
+
+### Intentionally undefined (unless story requires)
+
+Race · skin color · nationality · religion · political beliefs · physical attractiveness · exact age · accent · socioeconomic status.
+
+### Character introduction order (CF-CON-148)
+
+Introduce through: **choices · fears · sacrifices · loves · regrets** — person before labels.
+
+When cultural/historical identity **shapes events**, state it. Do not erase required identity for ambiguity's sake.
+
+*(CF-CON-145 · CF-CON-147 · CF-ENTRY-034)*
+
+---
+
+*Ratified 2026-07-05 · Amended Article XVII 2026-07-05 · CF-ENTRY-033 · CF-ENTRY-034*

@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0.0",
   "canonforge_version": "0.2.0",
-  "generated_at": "2026-07-05T21:03:23.578322+00:00",
+  "generated_at": "2026-07-05T21:04:07.155546+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 33,
-  "concept_count": 144,
+  "entry_count": 34,
+  "concept_count": 149,
   "constitution_build": "000.000",
   "entries": [
     {
@@ -483,6 +483,21 @@
         "CF-CON-144"
       ],
       "byte_size": 8134
+    },
+    {
+      "entry_id": "CF-ENTRY-034",
+      "file": "knowledge/entries/034-reader-assigned-identity-article-xvii.md",
+      "sha256": "6bb797257bdce1b65865acc4fa004e4c8182a91cec9d7c0b31b8a76249f33cdb",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-145",
+        "CF-CON-146",
+        "CF-CON-147",
+        "CF-CON-148",
+        "CF-CON-149"
+      ],
+      "byte_size": 3575
     }
   ],
   "indexes": {

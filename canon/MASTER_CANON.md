@@ -32,7 +32,9 @@ Tell the **best adventure story we can possibly tell** — tested against [CONST
 
 Novel about **fractured perception** — not merely fractured time. Read 1 categorizes · Read 2 weakens · Read 3+ dissolves. Reader experiences empathy through mistaken assumptions — **no moral lecture**.
 
-See Article XVI — Humanity in Constitution.
+See Article XVI — Humanity · **Article XVII — Assumption** in Constitution.
+
+**Reader-assigned identity:** text omits race, nationality, religion, and similar attributes unless the story requires them. Fair omission — never false implication. Deep reveal: *"I made assumptions the author never stated."*
 
 ## Compose Laws (center doctrine · CF-CON-077 · CF-CON-069)
 
@@ -383,4 +385,4 @@ See [knowledge/OPEN_QUESTIONS.md](../knowledge/OPEN_QUESTIONS.md):
 
 ---
 
-*v0.4.0 · 2026-07-05 · derived from CONSTITUTION BUILD-000.000 · 144 concepts*
+*v0.4.1 · 2026-07-05 · derived from CONSTITUTION Art. I–XVII · 149 concepts*
