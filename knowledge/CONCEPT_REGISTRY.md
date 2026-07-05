@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 2.17.0 · 2026-07-05 · 796 concepts registered
+> Version 2.18.0 · 2026-07-05 · 816 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -800,6 +800,26 @@
 | CF-CON-794 | Change reader listening | Mission | **Frozen** | Conversation practice for real world listening habit. | CF-ENTRY-077 |
 | CF-CON-795 | Four simultaneous conversations | Architecture | **Frozen** | Words emotions memories meanings at once. | CF-ENTRY-077 |
 | CF-CON-796 | Consciousness collides in conversation | Heart | **Frozen** | Not explain story; reveal speaker listener relationship world. | CF-ENTRY-077 |
+| CF-CON-797 | Moment Engine | Architecture | **Frozen** | Smallest complete unit of transformation not location. | CF-ENTRY-078 |
+| CF-CON-798 | Moment first law | Governance | **Frozen** | Changes perception relationship meaning memory hope identity. | CF-ENTRY-078 |
+| CF-CON-799 | Five moment families | Architecture | **Frozen** | Discovery decision recognition communion departure. | CF-ENTRY-078 |
+| CF-CON-800 | Moment arc | Architecture | **Frozen** | Stillness attention shift recognition echo silence. | CF-ENTRY-078 |
+| CF-CON-801 | Invisible moment | Architecture | **Frozen** | Ordinary appearance; delayed recognition of importance. | CF-ENTRY-078 |
+| CF-CON-802 | Weight of moment | Architecture | **Frozen** | Resonance weight; increases on rereads. | CF-ENTRY-078 |
+| CF-CON-803 | Moment of no return | Architecture | **Frozen** | Observer never returns to earlier understanding. | CF-ENTRY-078 |
+| CF-CON-804 | Body remembers moment | Heart | **Frozen** | Physical recognition before intellect. | CF-ENTRY-078 |
+| CF-CON-805 | Moment Prime Event echo | Architecture | **Frozen** | Major moments echo hidden history through new lives. | CF-ENTRY-078 |
+| CF-CON-806 | Fractal moment | Architecture | **Frozen** | One sentence or ten pages; transformation not length. | CF-ENTRY-078 |
+| CF-CON-807 | Reader moments | Heart | **Frozen** | Reader creates moments after reading ends. | CF-ENTRY-078 |
+| CF-CON-808 | Moment ledger record | Architecture | **Frozen** | Ten fields per major moment. | CF-ENTRY-078 |
+| CF-CON-809 | Rule of irreversibility | Governance | **Frozen** | Moments permanently alter emotional landscape. | CF-ENTRY-078 |
+| CF-CON-810 | Moment of stillness | Architecture | **Frozen** | Recognition of always-present; recognition as action. | CF-ENTRY-078 |
+| CF-CON-811 | Moment final principle | Mission | **Frozen** | Composed of remembered moments not scenes chapters. | CF-ENTRY-078 |
+| CF-CON-812 | Stories remembered one moment | Heart | **Frozen** | Fundamental memory unit is moment not scene. | CF-ENTRY-078 |
+| CF-CON-813 | Scene Engine superseded | Architecture | **Deprecated** | Replaced by Moment Engine BUILD-038. | CF-ENTRY-072, CF-ENTRY-078 |
+| CF-CON-814 | Islands of memory | Mission | **Frozen** | Twelve fifteen moments not plot sequence. | CF-ENTRY-078 |
+| CF-CON-815 | Measured by change not time | Architecture | **Frozen** | Moment significance from transformation not duration. | CF-ENTRY-078 |
+| CF-CON-816 | Smallest unit transformation | Architecture | **Frozen** | Complete unit of change in Chronoforge. | CF-ENTRY-078 |
 
 ## Related Concepts
 
@@ -1599,3 +1619,23 @@
 - **CF-CON-794** (Change reader listening, Frozen): CF-CON-777, CF-CON-053 → `canon/build/BUILD-037-conversation-engine.md#change-the-readers-listening-cf-con-794--author-closing`
 - **CF-CON-795** (Four simultaneous conversations, Frozen): CF-CON-777, CF-CON-779 → `canon/build/BUILD-037-conversation-engine.md#four-simultaneous-conversations-cf-con-795--author-opening`
 - **CF-CON-796** (Consciousness collides in conversation, Frozen): CF-CON-777, CF-CON-772 → `canon/build/BUILD-037-conversation-engine.md#0370--purpose`
+- **CF-CON-797** (Moment Engine, Frozen): CF-CON-815, CF-CON-816, CF-CON-812 → `canon/build/BUILD-038-moment-engine.md`
+- **CF-CON-798** (Moment first law, Frozen): CF-CON-797, CF-CON-710 → `canon/build/BUILD-038-moment-engine.md#0381--the-first-law`
+- **CF-CON-799** (Five moment families, Frozen): CF-CON-797, CF-CON-176 → `canon/build/BUILD-038-moment-engine.md#0382--the-five-moments`
+- **CF-CON-800** (Moment arc, Frozen): CF-CON-797, CF-CON-505 → `canon/build/BUILD-038-moment-engine.md#0383--the-moment-arc`
+- **CF-CON-801** (Invisible moment, Frozen): CF-CON-797, CF-CON-666 → `canon/build/BUILD-038-moment-engine.md#0384--the-invisible-moment`
+- **CF-CON-802** (Weight of moment, Frozen): CF-CON-797, CF-CON-336 → `canon/build/BUILD-038-moment-engine.md#0385--the-weight-of-a-moment`
+- **CF-CON-803** (Moment of no return, Frozen): CF-CON-797, CF-CON-809 → `canon/build/BUILD-038-moment-engine.md#0386--the-moment-of-no-return`
+- **CF-CON-804** (Body remembers moment, Frozen): CF-CON-797, CF-CON-231 → `canon/build/BUILD-038-moment-engine.md#0387--the-body-remembers`
+- **CF-CON-805** (Moment Prime Event echo, Frozen): CF-CON-797, CF-CON-665 → `canon/build/BUILD-038-moment-engine.md#0388--the-moment-and-the-prime-event`
+- **CF-CON-806** (Fractal moment, Frozen): CF-CON-797, CF-CON-101 → `canon/build/BUILD-038-moment-engine.md#0389--the-fractal-moment`
+- **CF-CON-807** (Reader moments, Frozen): CF-CON-797, CF-CON-108 → `canon/build/BUILD-038-moment-engine.md#03810--the-readers-moments`
+- **CF-CON-808** (Moment ledger record, Frozen): CF-CON-797, CF-CON-789 → `canon/build/BUILD-038-moment-engine.md#03811--the-moment-ledger`
+- **CF-CON-809** (Rule of irreversibility, Frozen): CF-CON-797, CF-CON-803 → `canon/build/BUILD-038-moment-engine.md#03812--the-rule-of-irreversibility`
+- **CF-CON-810** (Moment of stillness, Frozen): CF-CON-797, CF-CON-401 → `canon/build/BUILD-038-moment-engine.md#03813--the-moment-of-stillness`
+- **CF-CON-811** (Moment final principle, Frozen): CF-CON-797, CF-CON-059 → `canon/build/BUILD-038-moment-engine.md#03814--the-final-principle`
+- **CF-CON-812** (Stories remembered one moment, Frozen): CF-CON-797, CF-CON-416 → `canon/build/BUILD-038-moment-engine.md`
+- **CF-CON-813** (Scene Engine superseded, Deprecated): CF-CON-797 → `canon/build/BUILD-038-moment-engine.md`
+- **CF-CON-814** (Islands of memory, Frozen): CF-CON-797, CF-CON-807 → `canon/build/BUILD-038-moment-engine.md#islands-of-memory-cf-con-814--author-closing`
+- **CF-CON-815** (Measured by change not time, Frozen): CF-CON-797, CF-CON-165 → `canon/build/BUILD-038-moment-engine.md#0380--purpose`
+- **CF-CON-816** (Smallest unit transformation, Frozen): CF-CON-797, CF-CON-159 → `canon/build/BUILD-038-moment-engine.md#0380--purpose`

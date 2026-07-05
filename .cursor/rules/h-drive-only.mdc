@@ -1,0 +1,32 @@
+---
+description: Rule #1 — H: drive only; C: drive is full and off limits
+alwaysApply: true
+---
+
+# Rule #1 — H: Drive Only
+
+**C: drive has no free space. Do not use it — not for permanent files, not for temp, not for cache, not for node_modules.**
+
+## Required
+
+- **Workspace root:** `H:\CanonForge` (or other explicit `H:\` paths the user names)
+- **All writes:** entries, BUILD docs, generated ingest, commits, scripts, temp, logs — **H: only**
+- **Shell temp:** before commands that create temp files, set:
+  - `$env:TEMP = "H:\CanonForge\.tmp"`
+  - `$env:TMP = "H:\CanonForge\.tmp"`
+- **Python generators:** `ROOT = Path(r"H:\CanonForge")` — never derive root from `%USERPROFILE%` or `C:\`
+- **Paths in manifests:** `local_root` must stay `H:/CanonForge`
+
+## Forbidden
+
+- Writing to `C:\` (including `AppData`, `%TEMP%` on C:, `%USERPROFILE%` project folders)
+- `npm install` / `node_modules` under C:
+- Creating project artifacts in Cursor metadata paths on C: when an H: path exists
+
+## If blocked
+
+If a tool defaults to C: and cannot be redirected, **stop and tell the user** — do not silently write to C:.
+
+## Canon reference
+
+CF-ENTRY-001 · CF-CON-041 — *H:/ local truth*

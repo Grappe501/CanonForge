@@ -3,6 +3,17 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [2.18.0] — 2026-07-05
+
+### Added
+- CF-ENTRY-078: BUILD-038 The Moment Engine Canonical v1.0
+- Concepts CF-CON-797 through CF-CON-816
+- Five moment families · moment ledger · rule of irreversibility
+- **Islands of memory** — twelve or fifteen moments not plot sequence (CF-CON-814)
+- **Measured by change not time** · fractal moment (CF-CON-815 · CF-CON-806)
+- Scene Engine superseded (CF-CON-813)
+- Master Canon v1.6.2
+
 ## [2.17.0] — 2026-07-05
 
 ### Added

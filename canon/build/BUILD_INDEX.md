@@ -28,7 +28,8 @@ BUILD-032                             → Phase II **v1.0** · **AUTHOR-ONLY**
 BUILD-035                             → Phase III **v1.0**
 BUILD-036                             → Phase III **v1.0**
 BUILD-037                             → Phase III **v1.0**
-BUILD-038+                            → Story Genome cont. · queued
+BUILD-038                             → Phase III **v1.0**
+BUILD-039+                            → Story Genome cont. · queued
 architecture/                         → expanded specs (derived · cross-ref)
 knowledge/entries/                    → verbatim source uploads
 ```
@@ -83,7 +84,8 @@ knowledge/entries/                    → verbatim source uploads
 | **035** | The Opposing Consciousness | **1.0** | **Frozen** | 075 | CF-CON-737–756 | [BUILD-035](BUILD-035-opposing-consciousness.md) |
 | **036** | The Relationship Engine | **1.0** | **Frozen** | 076 | CF-CON-757–776 | [BUILD-036](BUILD-036-relationship-engine.md) |
 | **037** | The Conversation Engine | **1.0** | **Frozen** | 077 | CF-CON-777–796 | [BUILD-037](BUILD-037-conversation-engine.md) |
-| **038–072** | Roadmap v2 phases | — | **Queued** | — | — | [CHRONOFORGE_ROADMAP](../architecture/CHRONOFORGE_ROADMAP.md) |
+| **038** | The Moment Engine | **1.0** | **Frozen** | 078 | CF-CON-797–816 | [BUILD-038](BUILD-038-moment-engine.md) |
+| **039–072** | Roadmap v2 phases | — | **Queued** | — | — | [CHRONOFORGE_ROADMAP](../architecture/CHRONOFORGE_ROADMAP.md) |
 
 ---
 

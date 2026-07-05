@@ -8,7 +8,7 @@
 
 > **Opposition as incompleteness** — not villainy. Renamed from queued **Antagonist Engine** *(CF-CON-750 · CF-CON-694)*. Aligns **Antagonist: Certainty** *(CF-CON-003)* at story scale.
 
-**Story Genome continues** *(BUILD-033–037 ✓)*. Next: **BUILD-038 Scene Engine** *(queued)*.
+**Story Genome continues** *(BUILD-033–038 ✓)*. Next: **BUILD-039 Movement Engine** *(queued)*.
 
 ---
 
@@ -163,13 +163,13 @@ Central conflict becomes **lifelong invitation to keep discovering** — beyond 
 | Antagonist Engine *(Roadmap v2 · CF-CON-694)* | **Superseded** *(CF-CON-750)* |
 | **The Opposing Consciousness** | **Authoritative · BUILD-035 v1.0** |
 
-→ **BUILD-036 Relationship Engine** *(✓ v1.0)* · **BUILD-037 Conversation Engine** *(✓ v1.0)* · **BUILD-038 Scene Engine** *(queued)*
+→ **BUILD-036 Relationship Engine** *(✓ v1.0)* · **BUILD-037 Conversation Engine** *(✓ v1.0)* · **BUILD-038 Moment Engine** *(✓ v1.0)* · **BUILD-039 Movement Engine** *(queued)*
 
 ---
 
-## BUILD-038 preview *(CF-ENTRY-077)*
+## BUILD-039 preview *(CF-ENTRY-078)*
 
-→ **BUILD-038 Scene Engine** *(queued)*
+→ **BUILD-039 Movement Engine** *(queued)*
 
 ---
 

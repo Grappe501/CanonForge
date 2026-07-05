@@ -97,6 +97,9 @@
 | **Conversation Engine** | Consciousness collides in spoken exchange | CF-CON-777 |
 | **Four layers of conversation** | Literal emotional relational hidden | CF-CON-779 |
 | **Change reader listening** | Practice for real-world conversations | CF-CON-794 |
+| **Moment Engine** | Smallest unit of transformation not scene | CF-CON-797 |
+| **Five moment families** | Discovery decision recognition communion departure | CF-CON-799 |
+| **Islands of memory** | Remembered moments not plot sequence | CF-CON-814 |
 | **Universe larger than imagined** | Ordinary world larger after closing book | CF-CON-563 |
 | **Motif not symbol** | Returns vs carries meaning | CF-CON-450 |
 | **Language of Silence** | Composed silence · seven forms | CF-CON-457 |

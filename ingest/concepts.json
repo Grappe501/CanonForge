@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "canonforge_version": "2.14.0",
-  "generated_at": "2026-07-05T22:52:20.418991+00:00",
+  "generated_at": "2026-07-05T22:56:32.991412+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -8812,6 +8812,227 @@
         "CF-ENTRY-077"
       ],
       "canon_ref": "canon/build/BUILD-037-conversation-engine.md#0370--purpose"
+    },
+    {
+      "id": "CF-CON-797",
+      "label": "Moment Engine",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Smallest complete unit of transformation not location.",
+      "sources": [
+        "CF-ENTRY-078"
+      ],
+      "canon_ref": "canon/build/BUILD-038-moment-engine.md"
+    },
+    {
+      "id": "CF-CON-798",
+      "label": "Moment first law",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Changes perception relationship meaning memory hope identity.",
+      "sources": [
+        "CF-ENTRY-078"
+      ],
+      "canon_ref": "canon/build/BUILD-038-moment-engine.md#0381--the-first-law"
+    },
+    {
+      "id": "CF-CON-799",
+      "label": "Five moment families",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Discovery decision recognition communion departure.",
+      "sources": [
+        "CF-ENTRY-078"
+      ],
+      "canon_ref": "canon/build/BUILD-038-moment-engine.md#0382--the-five-moments"
+    },
+    {
+      "id": "CF-CON-800",
+      "label": "Moment arc",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Stillness attention shift recognition echo silence.",
+      "sources": [
+        "CF-ENTRY-078"
+      ],
+      "canon_ref": "canon/build/BUILD-038-moment-engine.md#0383--the-moment-arc"
+    },
+    {
+      "id": "CF-CON-801",
+      "label": "Invisible moment",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Ordinary appearance; delayed recognition of importance.",
+      "sources": [
+        "CF-ENTRY-078"
+      ],
+      "canon_ref": "canon/build/BUILD-038-moment-engine.md#0384--the-invisible-moment"
+    },
+    {
+      "id": "CF-CON-802",
+      "label": "Weight of moment",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Resonance weight; increases on rereads.",
+      "sources": [
+        "CF-ENTRY-078"
+      ],
+      "canon_ref": "canon/build/BUILD-038-moment-engine.md#0385--the-weight-of-a-moment"
+    },
+    {
+      "id": "CF-CON-803",
+      "label": "Moment of no return",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Observer never returns to earlier understanding.",
+      "sources": [
+        "CF-ENTRY-078"
+      ],
+      "canon_ref": "canon/build/BUILD-038-moment-engine.md#0386--the-moment-of-no-return"
+    },
+    {
+      "id": "CF-CON-804",
+      "label": "Body remembers moment",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Physical recognition before intellect.",
+      "sources": [
+        "CF-ENTRY-078"
+      ],
+      "canon_ref": "canon/build/BUILD-038-moment-engine.md#0387--the-body-remembers"
+    },
+    {
+      "id": "CF-CON-805",
+      "label": "Moment Prime Event echo",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Major moments echo hidden history through new lives.",
+      "sources": [
+        "CF-ENTRY-078"
+      ],
+      "canon_ref": "canon/build/BUILD-038-moment-engine.md#0388--the-moment-and-the-prime-event"
+    },
+    {
+      "id": "CF-CON-806",
+      "label": "Fractal moment",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "One sentence or ten pages; transformation not length.",
+      "sources": [
+        "CF-ENTRY-078"
+      ],
+      "canon_ref": "canon/build/BUILD-038-moment-engine.md#0389--the-fractal-moment"
+    },
+    {
+      "id": "CF-CON-807",
+      "label": "Reader moments",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Reader creates moments after reading ends.",
+      "sources": [
+        "CF-ENTRY-078"
+      ],
+      "canon_ref": "canon/build/BUILD-038-moment-engine.md#03810--the-readers-moments"
+    },
+    {
+      "id": "CF-CON-808",
+      "label": "Moment ledger record",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Ten fields per major moment.",
+      "sources": [
+        "CF-ENTRY-078"
+      ],
+      "canon_ref": "canon/build/BUILD-038-moment-engine.md#03811--the-moment-ledger"
+    },
+    {
+      "id": "CF-CON-809",
+      "label": "Rule of irreversibility",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Moments permanently alter emotional landscape.",
+      "sources": [
+        "CF-ENTRY-078"
+      ],
+      "canon_ref": "canon/build/BUILD-038-moment-engine.md#03812--the-rule-of-irreversibility"
+    },
+    {
+      "id": "CF-CON-810",
+      "label": "Moment of stillness",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Recognition of always-present; recognition as action.",
+      "sources": [
+        "CF-ENTRY-078"
+      ],
+      "canon_ref": "canon/build/BUILD-038-moment-engine.md#03813--the-moment-of-stillness"
+    },
+    {
+      "id": "CF-CON-811",
+      "label": "Moment final principle",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Composed of remembered moments not scenes chapters.",
+      "sources": [
+        "CF-ENTRY-078"
+      ],
+      "canon_ref": "canon/build/BUILD-038-moment-engine.md#03814--the-final-principle"
+    },
+    {
+      "id": "CF-CON-812",
+      "label": "Stories remembered one moment",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Fundamental memory unit is moment not scene.",
+      "sources": [
+        "CF-ENTRY-078"
+      ],
+      "canon_ref": "canon/build/BUILD-038-moment-engine.md"
+    },
+    {
+      "id": "CF-CON-813",
+      "label": "Scene Engine superseded",
+      "category": "Architecture",
+      "status": "Deprecated",
+      "definition": "Replaced by Moment Engine BUILD-038.",
+      "sources": [
+        "CF-ENTRY-072",
+        "CF-ENTRY-078"
+      ],
+      "canon_ref": "canon/build/BUILD-038-moment-engine.md"
+    },
+    {
+      "id": "CF-CON-814",
+      "label": "Islands of memory",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Twelve fifteen moments not plot sequence.",
+      "sources": [
+        "CF-ENTRY-078"
+      ],
+      "canon_ref": "canon/build/BUILD-038-moment-engine.md#islands-of-memory-cf-con-814--author-closing"
+    },
+    {
+      "id": "CF-CON-815",
+      "label": "Measured by change not time",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Moment significance from transformation not duration.",
+      "sources": [
+        "CF-ENTRY-078"
+      ],
+      "canon_ref": "canon/build/BUILD-038-moment-engine.md#0380--purpose"
+    },
+    {
+      "id": "CF-CON-816",
+      "label": "Smallest unit transformation",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Complete unit of change in Chronoforge.",
+      "sources": [
+        "CF-ENTRY-078"
+      ],
+      "canon_ref": "canon/build/BUILD-038-moment-engine.md#0380--purpose"
     }
   ],
   "edges": [
@@ -16388,6 +16609,206 @@
     {
       "from": "CF-CON-796",
       "to": "CF-CON-772",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-797",
+      "to": "CF-CON-815",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-797",
+      "to": "CF-CON-816",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-797",
+      "to": "CF-CON-812",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-798",
+      "to": "CF-CON-797",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-798",
+      "to": "CF-CON-710",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-799",
+      "to": "CF-CON-797",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-799",
+      "to": "CF-CON-176",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-800",
+      "to": "CF-CON-797",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-800",
+      "to": "CF-CON-505",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-801",
+      "to": "CF-CON-797",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-801",
+      "to": "CF-CON-666",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-802",
+      "to": "CF-CON-797",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-802",
+      "to": "CF-CON-336",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-803",
+      "to": "CF-CON-797",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-803",
+      "to": "CF-CON-809",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-804",
+      "to": "CF-CON-797",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-804",
+      "to": "CF-CON-231",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-805",
+      "to": "CF-CON-797",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-805",
+      "to": "CF-CON-665",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-806",
+      "to": "CF-CON-797",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-806",
+      "to": "CF-CON-101",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-807",
+      "to": "CF-CON-797",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-807",
+      "to": "CF-CON-108",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-808",
+      "to": "CF-CON-797",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-808",
+      "to": "CF-CON-789",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-809",
+      "to": "CF-CON-797",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-809",
+      "to": "CF-CON-803",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-810",
+      "to": "CF-CON-797",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-810",
+      "to": "CF-CON-401",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-811",
+      "to": "CF-CON-797",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-811",
+      "to": "CF-CON-059",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-812",
+      "to": "CF-CON-797",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-812",
+      "to": "CF-CON-416",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-813",
+      "to": "CF-CON-797",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-814",
+      "to": "CF-CON-797",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-814",
+      "to": "CF-CON-807",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-815",
+      "to": "CF-CON-797",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-815",
+      "to": "CF-CON-165",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-816",
+      "to": "CF-CON-797",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-816",
+      "to": "CF-CON-159",
       "type": "related"
     }
   ]

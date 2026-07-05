@@ -42,6 +42,8 @@
 | 2026-07-05 | Master Build Roadmap v1.0 | CF-ENTRY-035 session pause | CF-CON-150–155 |
 | 2026-07-05 | BUILD-001–013 frozen v1.0 | Foundational canon complete | CF-CON-156–320 |
 | 2026-07-05 | BUILD-014 Elements of Meaning | Supersedes Periodic Table stub | CF-CON-170 |
+| 2026-07-05 | BUILD-038 Moment Engine v1.0 | Moments not scenes · islands of memory | CF-CON-797–816 |
+| 2026-07-05 | Scene Engine superseded | Moment Engine replaces scene | CF-CON-813 |
 | 2026-07-05 | BUILD-037 Conversation Engine v1.0 | Four layers · change reader listening · not dialogue | CF-CON-777–796 |
 | 2026-07-05 | Dialogue Engine superseded | Conversation Engine replaces dialogue | CF-CON-793 |
 | 2026-07-05 | BUILD-036 Relationship Engine v1.0 | Relationship arcs · consciousness visible in meeting | CF-CON-757–776 |

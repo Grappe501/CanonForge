@@ -32,7 +32,7 @@ We did not build a novel. We built a **theory of storytelling** — an operating
 | **One** | The Philosophy + Engineering Schema | **✓ COMPLETE** (BUILD-001–015) |
 | **Two** | Engineering Documents | **✓ COMPLETE** (BUILD-016–032 · engine room) |
 | **II.5** | Design Language | **Deferred** |
-| **Three** | Story Genome | **Active** (033–037 ✓ · BUILD-038+ queued) |
+| **Three** | Story Genome | **Active** (033–038 ✓ · BUILD-039+ queued) |
 | **Four–Six** | Five Reads · Score · Canonical Edition | Queued (BUILD-053–072) |
 | **Seven** | The Novel | Queued · prose authorized BUILD-073+ |
 
@@ -135,7 +135,7 @@ We did not build a novel. We built a **theory of storytelling** — an operating
 | **016–025** | Engineering documents | **✓ v1.0** |
 | **026–032** | World through Prime Event | **✓ v1.0** · 031–032 AUTHOR-ONLY |
 
-### Phase III — Story Genome (BUILD-033–037 ✓ · 038+ queued)
+### Phase III — Story Genome (BUILD-033–038 ✓ · 039+ queued)
 
 | BUILD | Title | Status |
 |---|---|---|
@@ -144,7 +144,8 @@ We did not build a novel. We built a **theory of storytelling** — an operating
 | **035** | **The Opposing Consciousness** | **✓ v1.0** · CF-ENTRY-075 |
 | **036** | **The Relationship Engine** | **✓ v1.0** · CF-ENTRY-076 |
 | **037** | **The Conversation Engine** | **✓ v1.0** · CF-ENTRY-077 |
-| **038** | Scene Engine | Queued · **NEXT** |
+| **038** | **The Moment Engine** | **✓ v1.0** · CF-ENTRY-078 |
+| **039** | Movement Engine | Queued · **NEXT** |
 
 | BUILD | Title |
 |---|---|
@@ -278,7 +279,7 @@ Build Bible v1.0 requires:
 
 ## 015.5.11 — What happens next
 
-**Do not proceed to BUILD-038** until BUILD-015.5 reaches v1.0 *(BUILD-016–037 excepted per author uploads)*.
+**Do not proceed to BUILD-039** until BUILD-015.5 reaches v1.0 *(BUILD-016–038 excepted per author uploads)*.
 
 Next passes expand this document into the full 100–200 page Build Bible:
 
@@ -288,7 +289,7 @@ Next passes expand this document into the full 100–200 page Build Bible:
 4. Master data dictionary (elements · symbols · echo IDs)
 5. Execution index (which BUILD when · blocking rules)
 
-When v1.0 ships — **Story Genome** continues with **BUILD-038 Scene Engine**.
+When v1.0 ships — **Story Genome** continues with **BUILD-039 Movement Engine**.
 
 ---
 

@@ -24,10 +24,10 @@
 | Field | Value |
 |---|---|
 | **Repo** | CanonForge (`Grappe501/CanonForge`) |
-| **Repo Version** | See [VERSION](../../VERSION) · **2.17.0** |
-| **Build Layer** | BUILD-001–037 frozen · **015.5 active** |
-| **Entries** | CF-ENTRY-001 through CF-ENTRY-077 |
-| **Concepts** | 796+ |
+| **Repo Version** | See [VERSION](../../VERSION) · **2.18.0** |
+| **Build Layer** | BUILD-001–038 frozen · **015.5 active** |
+| **Entries** | CF-ENTRY-001 through CF-ENTRY-078 |
+| **Concepts** | 816+ |
 | **Traceability** | Entry → Concept → BUILD → Architecture → Matrix |
 
 ---
@@ -39,7 +39,7 @@
 | **One** | Philosophy | **✓ COMPLETE** |
 | **Two** | Engines (016–032) | **✓ COMPLETE** |
 | **II.5** | Design Language (034–045) | **NEXT** |
-| **Three** | Story Genome (033–052) | **Active** (033–037 ✓) |
+| **Three** | Story Genome (033–052) | **Active** (033–038 ✓) |
 | **Four–Seven** | Five Reads · Score · Audits · Novel | Queued |
 | **015.5** | Build Bible | **In progress** |
 
@@ -50,11 +50,11 @@
 ## Governance mode
 
 ```txt
-STOP:   BUILD-038 until BUILD-015.5 v1.0 (016–037 excepted per author uploads)
-START:  Story Genome · BUILD-038 Scene Engine
+STOP:   BUILD-039 until BUILD-015.5 v1.0 (016–038 excepted per author uploads)
+START:  Story Genome · BUILD-039 Movement Engine
 NEVER:  manuscript/ until Phase VII (BUILD-073+) · BUILD-031–032 never reader-facing
 ```
 
 ---
 
-*Project v0.4.0 · BUILD-037 Conversation Engine frozen · BUILD-038 Scene Engine next · CF-ENTRY-077*
+*Project v0.4.0 · BUILD-038 Moment Engine frozen · BUILD-039 Movement Engine next · CF-ENTRY-078*

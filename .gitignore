@@ -25,6 +25,7 @@ generate_all.py
 manuscript/
 
 # Local brain / temp
+.tmp/
 *.tmp
 *.bak
 ~$*

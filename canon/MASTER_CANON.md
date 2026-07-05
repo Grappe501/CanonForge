@@ -1,7 +1,7 @@
-# Master Canon v1.6.1
+# Master Canon v1.6.2
 
-> **BUILD-037:** Conversation Engine · four layers · change the reader's listening
-> Supersedes v1.6.0 (2026-07-05 · BUILD-037 CF-ENTRY-077 · CanonForge 2.17.0)
+> **BUILD-038:** Moment Engine · transformation not location · islands of memory
+> Supersedes v1.6.1 (2026-07-05 · BUILD-038 CF-ENTRY-078 · CanonForge 2.18.0)
 
 ---
 
@@ -42,7 +42,9 @@ Key locked insights:
 | **Four Pillars** | Strengthen ≥1 of Wonder · **Connection** · Resonance · Transformation? | BUILD-003 v1.0 |
 | Seven Laws | Immutable · complies with BUILD-004 v1.0? | BUILD-004 |
 
-**Stack:** BUILD-001 = *why* · … · **036 = *relationship arcs*** · **037 = *conversation layers***
+**Stack:** BUILD-001 = *why* · … · **037 = *conversation layers*** · **038 = *moments not scenes***
+
+→ [build/BUILD-038-moment-engine.md](build/BUILD-038-moment-engine.md) · Five Moment Families · Moment Ledger · Islands of Memory
 
 → [build/BUILD-037-conversation-engine.md](build/BUILD-037-conversation-engine.md) · Four Layers · Conversation Ledger · Change Reader Listening
 
@@ -286,6 +288,12 @@ Possibility under consideration: **never shown directly** — reader **assembles
 
 > **Four layers** *(CF-CON-779)* — literal · emotional · relational · hidden. Conversation **collides consciousness** *(CF-CON-796)* — reveals speaker · listener · relationship · world. **Purpose test:** why not narrated? *(CF-CON-780)*. **Rule of trust:** never explain solely for reader *(CF-CON-790)*. Greatest conversations **continue inside the reader** *(CF-CON-791)* — novel changes **how readers hear other human beings** *(CF-CON-794)*.
 
+### Moment immutable law (CF-CON-797 · BUILD-038)
+
+> **Stories are remembered one moment at a time.**
+
+> **Measured by change, not time** *(CF-CON-815)* — smallest complete unit of **transformation**, not screenplay location *(CF-CON-813 Scene superseded)*. **Five families:** Discovery · Decision · Recognition · Communion · Departure *(CF-CON-799)*. Novella composed of **remembered moments** — readers carry **twelve or fifteen islands of memory**, not chronology *(CF-CON-814 · CF-CON-811)*.
+
 ### Cosmology immutable law (CF-CON-625 · BUILD-030)
 
 > **The universe is not a machine to be solved. It is a reality to be explored.**
@@ -298,7 +306,7 @@ Final question: **"How should conscious beings live within a universe they can n
 
 **Secret History** *(BUILD-031 · CF-CON-645 · AUTHOR-ONLY)* — hidden chronology framework. Populated events never reader-facing. See protected BUILD doc — not cited in surface canon.
 
-**Story Genome active** *(BUILD-033–037 · CF-CON-697 · CF-CON-717 · CF-CON-737 · CF-CON-757 · CF-CON-777)*. Next: **BUILD-038 Scene Engine**.
+**Story Genome active** *(BUILD-033–038 · CF-CON-697 · CF-CON-717 · CF-CON-737 · CF-CON-757 · CF-CON-777 · CF-CON-797)*. Next: **BUILD-039 Movement Engine**.
 
 ### Visual Grammar (CF-CON-080 · CF-CON-081)
 
