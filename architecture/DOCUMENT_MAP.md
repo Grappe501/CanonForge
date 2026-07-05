@@ -66,6 +66,7 @@ H:/           = local truth
 | 11 | Rhythm Bible | 4+ | `architecture/RHYTHM_BIBLE.md` | **Framework** ✓ |
 | 12 | Visual Grammar | 4+ | `architecture/VISUAL_GRAMMAR.md` | **Framework** ✓ |
 | 13 | The Score | 4+ | `architecture/THE_SCORE.md` | **Framework** ✓ |
+| 15 | Narrative Meter | 4+ | `architecture/NARRATIVE_METER.md` | **Framework** ✓ |
 | 16 | Production Philosophy | 14+ | `architecture/PRODUCTION_PHILOSOPHY.md` | **Framework** ✓ |
 
 Story Bible ≠ project root. It will live **inside** Master Canon as one section when written.
