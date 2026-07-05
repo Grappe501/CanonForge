@@ -61,8 +61,9 @@ H:/           = local truth
 | 7 | World Atlas | 7 | future | Not started |
 | 8 | Clue Ledger | 8 | future | Not started |
 | 9 | Movement Map | 4+ | `architecture/MOVEMENTS_NOT_CHAPTERS.md` | Spec only |
-| 12 | Visual Grammar | 4+ | `architecture/VISUAL_GRAMMAR.md` | **Framework** ✓ |
 | 10 | Validation Stack | ongoing | `architecture/VALIDATION_STACK.md` | **Done** |
+| 11 | Rhythm Bible | 4+ | `architecture/RHYTHM_BIBLE.md` | **Framework** ✓ |
+| 12 | Visual Grammar | 4+ | `architecture/VISUAL_GRAMMAR.md` | **Framework** ✓ |
 
 Story Bible ≠ project root. It will live **inside** Master Canon as one section when written.
 
