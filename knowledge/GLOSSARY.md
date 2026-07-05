@@ -50,7 +50,8 @@
 | **Reader Arc** | Five-stage reader journey parallel to protagonist | CF-CON-161 |
 | **Assumption Engine** | Pattern completion · I added that | CF-CON-164 |
 | **Grammar of Time** | Five Times · experienced time not clock | CF-CON-165 |
-| **Five Times** | Clock narrative memory emotional discovery | CF-CON-256 |
+| **Physics of Reading** | Perception before understanding · Five Instruments | CF-CON-166 |
+| **Reading Matrix** | Passage eval dimensions · full experience | CF-CON-278 |
 | **BUILD layer** | Versioned canonical build documents 001+ | CF-CON-156 |
 | **Experience product** | The reading journey is the product, not the artifact | CF-CON-037 |
 | **3-text-before-page-5** | Experience success scene: text three people before reaching page five on reread | CF-CON-045 |

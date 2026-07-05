@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "0.6.9",
-  "generated_at": "2026-07-05T21:20:41.577004+00:00",
+  "canonforge_version": "0.7.0",
+  "generated_at": "2026-07-05T21:23:08.978764+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -1843,12 +1843,13 @@
     },
     {
       "id": "CF-CON-166",
-      "label": "BUILD-010 Physics of Reading",
+      "label": "Physics of Reading",
       "category": "Architecture",
       "status": "Frozen",
-      "definition": "Compose for eyes voice breathing prediction emotion memory.",
+      "definition": "Reading as living process; perception before understanding; instrument.",
       "sources": [
-        "CF-ENTRY-036"
+        "CF-ENTRY-036",
+        "CF-ENTRY-046"
       ],
       "canon_ref": "canon/build/BUILD-010-physics-of-reading.md"
     },
@@ -2973,6 +2974,149 @@
         "CF-ENTRY-045"
       ],
       "canon_ref": "canon/build/BUILD-009-grammar-of-time.md"
+    },
+    {
+      "id": "CF-CON-269",
+      "label": "Reading loop",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "See hear predict interpret feel remember predict again.",
+      "sources": [
+        "CF-ENTRY-046"
+      ],
+      "canon_ref": "canon/build/BUILD-010-physics-of-reading.md"
+    },
+    {
+      "id": "CF-CON-270",
+      "label": "Five reading instruments",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Vision inner voice emotion memory prediction.",
+      "sources": [
+        "CF-ENTRY-046"
+      ],
+      "canon_ref": "canon/build/BUILD-010-physics-of-reading.md"
+    },
+    {
+      "id": "CF-CON-271",
+      "label": "Cognitive load threshold",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Max curiosity min overload; disconnect vs skim.",
+      "sources": [
+        "CF-ENTRY-046"
+      ],
+      "canon_ref": "canon/build/BUILD-010-physics-of-reading.md"
+    },
+    {
+      "id": "CF-CON-272",
+      "label": "Attention wave",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Focus release cycle; compose with not against.",
+      "sources": [
+        "CF-ENTRY-046"
+      ],
+      "canon_ref": "canon/build/BUILD-010-physics-of-reading.md"
+    },
+    {
+      "id": "CF-CON-273",
+      "label": "Breath model",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Inhale hold release silence; physiological not stylistic.",
+      "sources": [
+        "CF-ENTRY-046"
+      ],
+      "canon_ref": "canon/build/BUILD-010-physics-of-reading.md"
+    },
+    {
+      "id": "CF-CON-274",
+      "label": "Memory compose order",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Emotion images dialogue facts; compose that order.",
+      "sources": [
+        "CF-ENTRY-046"
+      ],
+      "canon_ref": "canon/build/BUILD-010-physics-of-reading.md"
+    },
+    {
+      "id": "CF-CON-275",
+      "label": "Recognition currency",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Seen before now understand; not surprise pleasure.",
+      "sources": [
+        "CF-ENTRY-046"
+      ],
+      "canon_ref": "canon/build/BUILD-010-physics-of-reading.md"
+    },
+    {
+      "id": "CF-CON-276",
+      "label": "Productive uncertainty",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "I almost know never I cannot know; hope sustains.",
+      "sources": [
+        "CF-ENTRY-046"
+      ],
+      "canon_ref": "canon/build/BUILD-010-physics-of-reading.md"
+    },
+    {
+      "id": "CF-CON-277",
+      "label": "Internal camera",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Provide enough leave enough; reader builds film.",
+      "sources": [
+        "CF-ENTRY-046"
+      ],
+      "canon_ref": "canon/build/BUILD-010-physics-of-reading.md"
+    },
+    {
+      "id": "CF-CON-278",
+      "label": "Physics of Reading Matrix",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Passage eval: attention prediction trust wonder etc.",
+      "sources": [
+        "CF-ENTRY-046"
+      ],
+      "canon_ref": "canon/build/BUILD-010-physics-of-reading.md"
+    },
+    {
+      "id": "CF-CON-279",
+      "label": "Perception before understanding",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "How readers perceive not how they understand first.",
+      "sources": [
+        "CF-ENTRY-046"
+      ],
+      "canon_ref": "canon/build/BUILD-010-physics-of-reading.md"
+    },
+    {
+      "id": "CF-CON-280",
+      "label": "Novel as instrument",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "BUILD-010: book experienced in nervous system not paper.",
+      "sources": [
+        "CF-ENTRY-046"
+      ],
+      "canon_ref": "canon/build/BUILD-010-physics-of-reading.md"
+    },
+    {
+      "id": "CF-CON-281",
+      "label": "Constructing reality",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Reader never consuming words; continuously constructing reality.",
+      "sources": [
+        "CF-ENTRY-046"
+      ],
+      "canon_ref": "canon/build/BUILD-010-physics-of-reading.md"
     }
   ],
   "edges": [
@@ -4183,7 +4327,7 @@
     },
     {
       "from": "CF-CON-166",
-      "to": "CF-CON-106",
+      "to": "CF-CON-164",
       "type": "related"
     },
     {
@@ -5109,6 +5253,131 @@
     {
       "from": "CF-CON-268",
       "to": "CF-CON-256",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-269",
+      "to": "CF-CON-245",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-269",
+      "to": "CF-CON-166",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-270",
+      "to": "CF-CON-166",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-270",
+      "to": "CF-CON-229",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-271",
+      "to": "CF-CON-178",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-271",
+      "to": "CF-CON-166",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-272",
+      "to": "CF-CON-271",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-273",
+      "to": "CF-CON-223",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-273",
+      "to": "CF-CON-166",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-274",
+      "to": "CF-CON-235",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-274",
+      "to": "CF-CON-166",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-275",
+      "to": "CF-CON-030",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-275",
+      "to": "CF-CON-251",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-276",
+      "to": "CF-CON-178",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-276",
+      "to": "CF-CON-166",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-277",
+      "to": "CF-CON-247",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-277",
+      "to": "CF-CON-166",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-278",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-278",
+      "to": "CF-CON-192",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-279",
+      "to": "CF-CON-166",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-279",
+      "to": "CF-CON-158",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-280",
+      "to": "CF-CON-229",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-280",
+      "to": "CF-CON-155",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-281",
+      "to": "CF-CON-247",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-281",
+      "to": "CF-CON-255",
       "type": "related"
     }
   ]

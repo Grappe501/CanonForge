@@ -3,6 +3,20 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [0.7.0] — 2026-07-05
+
+### Added
+- CF-ENTRY-046: BUILD-010 Physics of Reading Canonical v1.0
+- Concepts CF-CON-269 through CF-CON-281
+- Five Instruments · Reading Loop · Physics of Reading Matrix
+- Perception before understanding · novel as instrument
+
+### Changed
+- BUILD-010 expanded from stub to full living-process spec
+- architecture/PHYSICS_OF_READING.md = typography layer only
+- BUILD-011 expansion directive queued (unspoken promises)
+- Master Canon v0.6.0
+
 ## [0.6.9] — 2026-07-05
 
 ### Added

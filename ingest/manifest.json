@@ -1,22 +1,14 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "0.6.9",
-  "generated_at": "2026-07-05T21:21:08.052133+00:00",
+  "canonforge_version": "0.7.0",
+  "generated_at": "2026-07-05T21:23:08.962883+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 45,
-  "concept_count": 268,
-  "build_001_version": "0.1",
-  "build_002_version": "1.0",
-  "build_003_version": "1.0",
-  "build_004_version": "1.0",
-  "build_005_version": "1.0",
-  "build_006_version": "1.0",
-  "build_007_version": "1.0",
-  "build_008_version": "1.0",
+  "entry_count": 46,
+  "concept_count": 281,
   "build_009_version": "1.0",
-  "build_009_title": "Grammar of Time",
+  "build_010_version": "1.0",
   "roadmap_version": "1.0",
   "project_version": "0.0.1",
   "build_layer": "BUILD-001-013 frozen",
@@ -748,6 +740,30 @@
         "CF-CON-268"
       ],
       "byte_size": 7281
+    },
+    {
+      "entry_id": "CF-ENTRY-046",
+      "file": "knowledge/entries/046-build-010-physics-of-reading-v1.md",
+      "sha256": "8b7837176ebb088403848129bafc0b1900bee1ab2745c24ec16034f006370ce2",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-166",
+        "CF-CON-269",
+        "CF-CON-270",
+        "CF-CON-271",
+        "CF-CON-272",
+        "CF-CON-273",
+        "CF-CON-274",
+        "CF-CON-275",
+        "CF-CON-276",
+        "CF-CON-277",
+        "CF-CON-278",
+        "CF-CON-279",
+        "CF-CON-280",
+        "CF-CON-281"
+      ],
+      "byte_size": 7763
     }
   ],
   "indexes": {

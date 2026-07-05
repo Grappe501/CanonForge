@@ -1,7 +1,8 @@
-# Physics of Reading
+# Physics of Reading — Typography Layer
 
-> **Canonical source:** [canon/build/BUILD-010-physics-of-reading.md](../canon/build/BUILD-010-physics-of-reading.md) v1.0.0
-> This document is the **expanded typography spec** · CF-CON-092 · CF-ENTRY-029
+> **Canonical source:** [canon/build/BUILD-010-physics-of-reading.md](../canon/build/BUILD-010-physics-of-reading.md) **v1.0**
+> **This document:** Visual instrument · typography physics only · CF-CON-092 · CF-ENTRY-029
+> Full reading process (Five Instruments · Reading Loop · Matrix): **BUILD-010 §010.0–010.24**
 
 ---
 

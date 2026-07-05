@@ -1,7 +1,7 @@
-# Master Canon v0.5.9
+# Master Canon v0.6.0
 
-> **BUILD-009:** Grammar of Time · experienced time not clock · supersedes Music Theory
-> Supersedes v0.5.8 (2026-07-05 · BUILD-009 Grammar of Time CF-ENTRY-045)
+> **BUILD-010:** Physics of Reading · perception before understanding · the instrument
+> Supersedes v0.5.9 (2026-07-05 · BUILD-010 Physics of Reading CF-ENTRY-046)
 
 ---
 

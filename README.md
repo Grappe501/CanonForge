@@ -3,7 +3,7 @@
 > Institutional knowledge system for **CHRONOFORGE** — the recursive adventure novel project.
 > Codename: CHRONOFORGE · Repo: `Grappe501/CanonForge` · Local truth: `H:\CanonForge`
 
-**Version:** see [VERSION](VERSION) · **CanonForge:** 0.6.9 · **BUILD-009:** Grammar of Time v1.0 · **Concepts:** 268
+**Version:** see [VERSION](VERSION) · **CanonForge:** 0.7.0 · **BUILD-010:** v1.0 · **Concepts:** 281
 
 ---
 
@@ -90,4 +90,4 @@ H:\CanonForge\
 
 ---
 
-*Built 2026-07-05 · BUILD-009 Grammar of Time · 45 entries · 268 concepts*
+*Built 2026-07-05 · BUILD-010 v1.0 · the instrument · 46 entries · 281 concepts*

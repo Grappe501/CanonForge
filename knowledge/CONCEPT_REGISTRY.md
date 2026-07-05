@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 0.6.9 · 2026-07-05 · 268 concepts registered
+> Version 0.7.0 · 2026-07-05 · 281 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | CF-CON-163 | Human Experience Model | Theme | **Frozen** | Human beings not characters; consciousness as design unit. | CF-ENTRY-036, CF-ENTRY-043 |
 | CF-CON-164 | Assumption Engine | Architecture | **Frozen** | Pattern completion; incomplete truths; cognition model v1.0. | CF-ENTRY-036, CF-ENTRY-044 |
 | CF-CON-165 | Grammar of Time | Architecture | **Frozen** | Five times; experienced time; supersedes Music Theory stub. | CF-ENTRY-036, CF-ENTRY-045 |
-| CF-CON-166 | BUILD-010 Physics of Reading | Architecture | **Frozen** | Compose for eyes voice breathing prediction emotion memory. | CF-ENTRY-036 |
+| CF-CON-166 | Physics of Reading | Architecture | **Frozen** | Reading as living process; perception before understanding; instrument. | CF-ENTRY-036, CF-ENTRY-046 |
 | CF-CON-167 | BUILD-011 Invisible Contract | Architecture | **Frozen** | Allow unstated reader assumptions; fair subversion. | CF-ENTRY-036 |
 | CF-CON-168 | Title fifth-read gate | Design fork | **Frozen** | Title not understood until fifth reading; deepest truth. | CF-ENTRY-036 |
 | CF-CON-169 | Writer's Oath | Process | **Frozen** | Before session: discover truth; reader is partner not opponent. | CF-ENTRY-036 |
@@ -272,6 +272,19 @@
 | CF-CON-266 | Reader experience question | Process | **Frozen** | What is reader experiencing not what happens next. | CF-ENTRY-045 |
 | CF-CON-267 | BUILD-009 Grammar of Time | Governance | **Frozen** | Time as experience; supersedes Music Theory title. | CF-ENTRY-045 |
 | CF-CON-268 | Understanding as calendar | Architecture | **Frozen** | What understanding am I occupying not what year. | CF-ENTRY-045 |
+| CF-CON-269 | Reading loop | Architecture | **Frozen** | See hear predict interpret feel remember predict again. | CF-ENTRY-046 |
+| CF-CON-270 | Five reading instruments | Architecture | **Frozen** | Vision inner voice emotion memory prediction. | CF-ENTRY-046 |
+| CF-CON-271 | Cognitive load threshold | Architecture | **Frozen** | Max curiosity min overload; disconnect vs skim. | CF-ENTRY-046 |
+| CF-CON-272 | Attention wave | Architecture | **Frozen** | Focus release cycle; compose with not against. | CF-ENTRY-046 |
+| CF-CON-273 | Breath model | Architecture | **Frozen** | Inhale hold release silence; physiological not stylistic. | CF-ENTRY-046 |
+| CF-CON-274 | Memory compose order | Architecture | **Frozen** | Emotion images dialogue facts; compose that order. | CF-ENTRY-046 |
+| CF-CON-275 | Recognition currency | Architecture | **Frozen** | Seen before now understand; not surprise pleasure. | CF-ENTRY-046 |
+| CF-CON-276 | Productive uncertainty | Architecture | **Frozen** | I almost know never I cannot know; hope sustains. | CF-ENTRY-046 |
+| CF-CON-277 | Internal camera | Architecture | **Frozen** | Provide enough leave enough; reader builds film. | CF-ENTRY-046 |
+| CF-CON-278 | Physics of Reading Matrix | Architecture | **Frozen** | Passage eval: attention prediction trust wonder etc. | CF-ENTRY-046 |
+| CF-CON-279 | Perception before understanding | Architecture | **Frozen** | How readers perceive not how they understand first. | CF-ENTRY-046 |
+| CF-CON-280 | Novel as instrument | Mission | **Frozen** | BUILD-010: book experienced in nervous system not paper. | CF-ENTRY-046 |
+| CF-CON-281 | Constructing reality | Heart | **Frozen** | Reader never consuming words; continuously constructing reality. | CF-ENTRY-046 |
 
 ## Related Concepts
 
@@ -440,7 +453,7 @@
 - **CF-CON-163** (Human Experience Model, Frozen): CF-CON-139, CF-CON-190 → `canon/build/BUILD-007-human-experience-model.md`
 - **CF-CON-164** (Assumption Engine, Frozen): CF-CON-145, CF-CON-243 → `canon/build/BUILD-008-assumption-engine.md`
 - **CF-CON-165** (Grammar of Time, Frozen): CF-CON-014, CF-CON-256 → `canon/build/BUILD-009-grammar-of-time.md`
-- **CF-CON-166** (BUILD-010 Physics of Reading, Frozen): CF-CON-092, CF-CON-106 → `canon/build/BUILD-010-physics-of-reading.md`
+- **CF-CON-166** (Physics of Reading, Frozen): CF-CON-092, CF-CON-164 → `canon/build/BUILD-010-physics-of-reading.md`
 - **CF-CON-167** (BUILD-011 Invisible Contract, Frozen): CF-CON-054, CF-CON-057 → `canon/build/BUILD-011-invisible-contract.md`
 - **CF-CON-168** (Title fifth-read gate, Frozen): CF-CON-152 → `canon/build/BUILD-012-title.md`
 - **CF-CON-169** (Writer's Oath, Frozen): CF-CON-038, CF-CON-135 → `canon/build/BUILD-013-writers-oath.md`
@@ -543,3 +556,16 @@
 - **CF-CON-266** (Reader experience question, Frozen): CF-CON-158, CF-CON-187 → `canon/build/BUILD-009-grammar-of-time.md`
 - **CF-CON-267** (BUILD-009 Grammar of Time, Frozen): CF-CON-165, CF-CON-006 → `canon/build/BUILD-009-grammar-of-time.md`
 - **CF-CON-268** (Understanding as calendar, Frozen): CF-CON-211, CF-CON-256 → `canon/build/BUILD-009-grammar-of-time.md`
+- **CF-CON-269** (Reading loop, Frozen): CF-CON-245, CF-CON-166 → `canon/build/BUILD-010-physics-of-reading.md`
+- **CF-CON-270** (Five reading instruments, Frozen): CF-CON-166, CF-CON-229 → `canon/build/BUILD-010-physics-of-reading.md`
+- **CF-CON-271** (Cognitive load threshold, Frozen): CF-CON-178, CF-CON-166 → `canon/build/BUILD-010-physics-of-reading.md`
+- **CF-CON-272** (Attention wave, Frozen): CF-CON-271 → `canon/build/BUILD-010-physics-of-reading.md`
+- **CF-CON-273** (Breath model, Frozen): CF-CON-223, CF-CON-166 → `canon/build/BUILD-010-physics-of-reading.md`
+- **CF-CON-274** (Memory compose order, Frozen): CF-CON-235, CF-CON-166 → `canon/build/BUILD-010-physics-of-reading.md`
+- **CF-CON-275** (Recognition currency, Frozen): CF-CON-030, CF-CON-251 → `canon/build/BUILD-010-physics-of-reading.md`
+- **CF-CON-276** (Productive uncertainty, Frozen): CF-CON-178, CF-CON-166 → `canon/build/BUILD-010-physics-of-reading.md`
+- **CF-CON-277** (Internal camera, Frozen): CF-CON-247, CF-CON-166 → `canon/build/BUILD-010-physics-of-reading.md`
+- **CF-CON-278** (Physics of Reading Matrix, Frozen): CF-CON-134, CF-CON-192 → `canon/build/BUILD-010-physics-of-reading.md`
+- **CF-CON-279** (Perception before understanding, Frozen): CF-CON-166, CF-CON-158 → `canon/build/BUILD-010-physics-of-reading.md`
+- **CF-CON-280** (Novel as instrument, Frozen): CF-CON-229, CF-CON-155 → `canon/build/BUILD-010-physics-of-reading.md`
+- **CF-CON-281** (Constructing reality, Frozen): CF-CON-247, CF-CON-255 → `canon/build/BUILD-010-physics-of-reading.md`
