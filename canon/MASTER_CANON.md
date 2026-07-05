@@ -42,7 +42,9 @@ Key locked insights:
 | **Four Pillars** | Strengthen ≥1 of Wonder · **Connection** · Resonance · Transformation? | BUILD-003 v1.0 |
 | Seven Laws | Immutable · complies with BUILD-004 v1.0? | BUILD-004 |
 
-**Stack:** BUILD-001 = *why* · … · BUILD-008 = *cognition* · BUILD-009 = *experienced time*
+**Stack:** BUILD-001 = *why* · … · BUILD-009 = *experienced time* · BUILD-010 = *reading as instrument*
+
+→ [build/BUILD-010-physics-of-reading.md](build/BUILD-010-physics-of-reading.md) · Five Instruments · Reading Loop · Perception First
 
 → [build/BUILD-009-grammar-of-time.md](build/BUILD-009-grammar-of-time.md) · Five Times · Time Weave · Temporal Spiral
 
