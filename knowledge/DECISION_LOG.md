@@ -35,7 +35,10 @@
 | 2026-07-05 | Narrative Meter | Weight not word count; organic structure | CF-CON-101, CF-CON-102 |
 | 2026-07-05 | Production philosophy | Two manuscripts · Composer's Pass · Original Score | CF-CON-111–120 |
 | 2026-07-05 | Composer's Blueprint | Master Build System v0.1 · ten layers | CF-CON-121, CF-CON-122 |
-| 2026-07-05 | People over architecture | Master promise before any scene | CF-CON-135 |
+| 2026-07-05 | Constitution ratified | BUILD-000.000 Articles I–XVI | CF-CON-136 |
+| 2026-07-05 | North Star locked | Book never changes; reader does | CF-CON-137 |
+| 2026-07-05 | Thematic foundation | Fractured perception · Article XVI Humanity | CF-CON-139–144 |
+| 2026-07-05 | BUILD-001 gate cleared | Human truth question answered in entry | CF-CON-141 |
 | 2026-07-05 | Originality firewall | Genre pillars as physics not copy | CF-CON-039 |
 
 ## Open Forks (see OPEN_QUESTIONS.md)

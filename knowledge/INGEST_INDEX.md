@@ -36,3 +36,4 @@
 | CF-ENTRY-030 | `knowledge/entries/030-narrative-meter-reader-performance.md` | 2026-07-05 | processed | CF-CON-101, CF-CON-102, CF-CON-103, CF-CON-104, CF-CON-105, CF-CON-106, CF-CON-107, CF-CON-108, CF-CON-109, CF-CON-110 |
 | CF-ENTRY-031 | `knowledge/entries/031-production-philosophy-composer-pass.md` | 2026-07-05 | processed | CF-CON-111, CF-CON-112, CF-CON-113, CF-CON-114, CF-CON-115, CF-CON-116, CF-CON-117, CF-CON-118, CF-CON-119, CF-CON-120 |
 | CF-ENTRY-032 | `knowledge/entries/032-composers-blueprint-master-build-system.md` | 2026-07-05 | processed | CF-CON-121, CF-CON-122, CF-CON-123, CF-CON-124, CF-CON-125, CF-CON-126, CF-CON-127, CF-CON-128, CF-CON-129, CF-CON-130, CF-CON-131, CF-CON-132, CF-CON-133, CF-CON-134, CF-CON-135 |
+| CF-ENTRY-033 | `knowledge/entries/033-the-constitution-build-000-humanity.md` | 2026-07-05 | processed | CF-CON-136, CF-CON-137, CF-CON-138, CF-CON-139, CF-CON-140, CF-CON-141, CF-CON-142, CF-CON-143, CF-CON-144 |

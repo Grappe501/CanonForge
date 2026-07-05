@@ -3,6 +3,17 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [0.4.0] — 2026-07-05
+
+### Added
+- CF-ENTRY-033: THE CONSTITUTION BUILD-000.000 · Articles I–XVI
+- `canon/CONSTITUTION.md` — project law · North Star · One Question · thematic foundation
+- BUILD-000.003 Thematic North Star: fractured perception · human race · empathy through discovery
+- Concepts CF-CON-136 through CF-CON-144
+
+### Milestone
+- Constitution ratified — do not proceed to BUILD-001 without returning here
+
 ## [0.3.0] — 2026-07-05
 
 ### Added

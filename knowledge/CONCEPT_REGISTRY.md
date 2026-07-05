@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 0.3.0 · 2026-07-05 · 135 concepts registered
+> Version 0.4.0 · 2026-07-05 · 144 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -139,6 +139,15 @@
 | CF-CON-133 | Reader Simulator | Architecture | **Open** | Persona models A–E; simulate experiences while designing. | CF-ENTRY-032 |
 | CF-CON-134 | Resonance Matrix | Architecture | **Open** | Crown jewel: per-page row across all dimensions. | CF-ENTRY-032 |
 | CF-CON-135 | People over architecture | Governance | **Locked** | If architecture beats people, stop and fix. | CF-ENTRY-032 |
+| CF-CON-136 | The Constitution | Governance | **Locked** | BUILD-000.000 project law; sixteen articles; return when lost. | CF-ENTRY-033 |
+| CF-CON-137 | North Star sentence | Governance | **Locked** | The book never changes. Only the reader does. | CF-ENTRY-033 |
+| CF-CON-138 | One Question | Governance | **Locked** | Does this increase wonder without reducing clarity? | CF-ENTRY-033 |
+| CF-CON-139 | Article XVI Humanity | Theme | **Locked** | One race human race; shared humanity beneath differences. | CF-ENTRY-033 |
+| CF-CON-140 | Fractured perception | Theme | **Locked** | Novel about fractured perception not merely fractured time. | CF-ENTRY-033 |
+| CF-CON-141 | Thematic North Star | Theme | **Locked** | Cannot understand a person from single moment memory or label. | CF-ENTRY-033 |
+| CF-CON-142 | Experience not moral | Theme | **Locked** | Changed perspective not lecture; experience equality don't tell it. | CF-ENTRY-033 |
+| CF-CON-143 | Categorization dissolve arc | Theme | **Locked** | Read 1 categorize · 2 weaken · 3 dissolve assumptions. | CF-ENTRY-033 |
+| CF-CON-144 | Character not group | Theme | **Locked** | No character represents a group; every character is a human being. | CF-ENTRY-033 |
 
 ## Related Concepts
 
@@ -277,3 +286,12 @@
 - **CF-CON-133** (Reader Simulator, Open): CF-CON-126 → `architecture/COMPOSERS_BLUEPRINT.md`
 - **CF-CON-134** (Resonance Matrix, Open): CF-CON-094, CF-CON-129 → `architecture/COMPOSERS_BLUEPRINT.md`
 - **CF-CON-135** (People over architecture, Locked): CF-CON-028 → `canon/MASTER_CANON.md`
+- **CF-CON-136** (The Constitution, Locked): CF-CON-137, CF-CON-138 → `canon/CONSTITUTION.md`
+- **CF-CON-137** (North Star sentence, Locked): CF-CON-025, CF-CON-108 → `canon/CONSTITUTION.md`
+- **CF-CON-138** (One Question, Locked): CF-CON-137 → `canon/CONSTITUTION.md`
+- **CF-CON-139** (Article XVI Humanity, Locked): CF-CON-140, CF-CON-144 → `canon/CONSTITUTION.md`
+- **CF-CON-140** (Fractured perception, Locked): CF-CON-143, CF-CON-014 → `canon/CONSTITUTION.md`
+- **CF-CON-141** (Thematic North Star, Locked): CF-CON-139, CF-CON-106 → `canon/CONSTITUTION.md`
+- **CF-CON-142** (Experience not moral, Locked): CF-CON-139 → `canon/CONSTITUTION.md`
+- **CF-CON-143** (Categorization dissolve arc, Locked): CF-CON-140 → `canon/CONSTITUTION.md`
+- **CF-CON-144** (Character not group, Locked): CF-CON-139 → `canon/CONSTITUTION.md`

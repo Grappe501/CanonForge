@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "canonforge_version": "0.2.0",
-  "generated_at": "2026-07-05T21:01:32.314221+00:00",
+  "generated_at": "2026-07-05T21:03:23.586442+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -1501,6 +1501,105 @@
         "CF-ENTRY-032"
       ],
       "canon_ref": "canon/MASTER_CANON.md"
+    },
+    {
+      "id": "CF-CON-136",
+      "label": "The Constitution",
+      "category": "Governance",
+      "status": "Locked",
+      "definition": "BUILD-000.000 project law; sixteen articles; return when lost.",
+      "sources": [
+        "CF-ENTRY-033"
+      ],
+      "canon_ref": "canon/CONSTITUTION.md"
+    },
+    {
+      "id": "CF-CON-137",
+      "label": "North Star sentence",
+      "category": "Governance",
+      "status": "Locked",
+      "definition": "The book never changes. Only the reader does.",
+      "sources": [
+        "CF-ENTRY-033"
+      ],
+      "canon_ref": "canon/CONSTITUTION.md"
+    },
+    {
+      "id": "CF-CON-138",
+      "label": "One Question",
+      "category": "Governance",
+      "status": "Locked",
+      "definition": "Does this increase wonder without reducing clarity?",
+      "sources": [
+        "CF-ENTRY-033"
+      ],
+      "canon_ref": "canon/CONSTITUTION.md"
+    },
+    {
+      "id": "CF-CON-139",
+      "label": "Article XVI Humanity",
+      "category": "Theme",
+      "status": "Locked",
+      "definition": "One race human race; shared humanity beneath differences.",
+      "sources": [
+        "CF-ENTRY-033"
+      ],
+      "canon_ref": "canon/CONSTITUTION.md"
+    },
+    {
+      "id": "CF-CON-140",
+      "label": "Fractured perception",
+      "category": "Theme",
+      "status": "Locked",
+      "definition": "Novel about fractured perception not merely fractured time.",
+      "sources": [
+        "CF-ENTRY-033"
+      ],
+      "canon_ref": "canon/CONSTITUTION.md"
+    },
+    {
+      "id": "CF-CON-141",
+      "label": "Thematic North Star",
+      "category": "Theme",
+      "status": "Locked",
+      "definition": "Cannot understand a person from single moment memory or label.",
+      "sources": [
+        "CF-ENTRY-033"
+      ],
+      "canon_ref": "canon/CONSTITUTION.md"
+    },
+    {
+      "id": "CF-CON-142",
+      "label": "Experience not moral",
+      "category": "Theme",
+      "status": "Locked",
+      "definition": "Changed perspective not lecture; experience equality don't tell it.",
+      "sources": [
+        "CF-ENTRY-033"
+      ],
+      "canon_ref": "canon/CONSTITUTION.md"
+    },
+    {
+      "id": "CF-CON-143",
+      "label": "Categorization dissolve arc",
+      "category": "Theme",
+      "status": "Locked",
+      "definition": "Read 1 categorize \u00b7 2 weaken \u00b7 3 dissolve assumptions.",
+      "sources": [
+        "CF-ENTRY-033"
+      ],
+      "canon_ref": "canon/CONSTITUTION.md"
+    },
+    {
+      "id": "CF-CON-144",
+      "label": "Character not group",
+      "category": "Theme",
+      "status": "Locked",
+      "definition": "No character represents a group; every character is a human being.",
+      "sources": [
+        "CF-ENTRY-033"
+      ],
+      "canon_ref": "canon/CONSTITUTION.md"
     }
   ],
   "edges": [
@@ -2457,6 +2556,76 @@
     {
       "from": "CF-CON-135",
       "to": "CF-CON-028",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-136",
+      "to": "CF-CON-137",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-136",
+      "to": "CF-CON-138",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-137",
+      "to": "CF-CON-025",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-137",
+      "to": "CF-CON-108",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-138",
+      "to": "CF-CON-137",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-139",
+      "to": "CF-CON-140",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-139",
+      "to": "CF-CON-144",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-140",
+      "to": "CF-CON-143",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-140",
+      "to": "CF-CON-014",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-141",
+      "to": "CF-CON-139",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-141",
+      "to": "CF-CON-106",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-142",
+      "to": "CF-CON-139",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-143",
+      "to": "CF-CON-140",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-144",
+      "to": "CF-CON-139",
       "type": "related"
     }
   ]

@@ -113,4 +113,4 @@ Internal engineering vocabulary stays in `architecture/` and `canon/`.
 
 ---
 
-*Derived from CF-CON-023 · CF-CON-047 · CF-CON-054 · CF-CON-057 · CF-ENTRY-010 · CF-ENTRY-014 · CF-ENTRY-023 · CF-ENTRY-025*
+*Derived from CONSTITUTION BUILD-000.000 · CF-CON-023 · CF-ENTRY-010 · CF-ENTRY-033*

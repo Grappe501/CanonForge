@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0.0",
   "canonforge_version": "0.2.0",
-  "generated_at": "2026-07-05T21:01:32.306717+00:00",
+  "generated_at": "2026-07-05T21:03:23.578322+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 32,
-  "concept_count": 135,
-  "build_system_version": "0.1",
+  "entry_count": 33,
+  "concept_count": 144,
+  "constitution_build": "000.000",
   "entries": [
     {
       "entry_id": "CF-ENTRY-001",
@@ -464,6 +464,25 @@
         "CF-CON-135"
       ],
       "byte_size": 5681
+    },
+    {
+      "entry_id": "CF-ENTRY-033",
+      "file": "knowledge/entries/033-the-constitution-build-000-humanity.md",
+      "sha256": "d45b548af04e5d9d2b521e35331111b9d4019779727cbaef2d9ba1375a5f931b",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-136",
+        "CF-CON-137",
+        "CF-CON-138",
+        "CF-CON-139",
+        "CF-CON-140",
+        "CF-CON-141",
+        "CF-CON-142",
+        "CF-CON-143",
+        "CF-CON-144"
+      ],
+      "byte_size": 8134
     }
   ],
   "indexes": {

@@ -53,14 +53,15 @@ Never changes. Answers: *Why does this book exist?*
 
 | ID | Document | CanonForge mapping | Status |
 |---|---|---|---|
-| 000.1 | Project Constitution | `canon/MASTER_CANON.md` | **v0.2.9 ✓** |
-| 000.2 | Mission Statement | MASTER_CANON · The Mission | **✓** |
-| 000.3 | Design Philosophy | MASTER_CANON · Compose Laws · Resonance | **✓** |
-| 000.4 | Reader Experience Manifesto | MASTER_CANON · Commerce & Experience | **✓** |
-| 000.5 | Rules of Discovery | `architecture/FIVE_LOCKS.md` · Recognition | **✓** |
+| 000.0 | **The Constitution** | `canon/CONSTITUTION.md` | **BUILD-000.000 ✓** |
+| 000.1 | Project Constitution | CONSTITUTION Articles I–XVI | **✓** |
+| 000.2 | Mission Statement | CONSTITUTION Art I · BUILD-000.003 | **✓** |
+| 000.3 | Design Philosophy | MASTER_CANON · Compose Laws | **✓** |
+| 000.4 | Reader Experience Manifesto | MASTER_CANON · Experience | **✓** |
+| 000.5 | Rules of Discovery | FIVE_LOCKS · CONSTITUTION Art IV–V | **✓** |
 | 000.6 | Physics of Reading | `architecture/PHYSICS_OF_READING.md` | **✓** |
 | 000.7 | Performance Philosophy | `architecture/PRODUCTION_PHILOSOPHY.md` | **✓** |
-| 000.8 | Canonical Rules | `canon/RULE_BOOK.md` | **✓** |
+| 000.8 | Canonical Rules | `canon/RULE_BOOK.md` · CONSTITUTION | **✓** |
 
 ---
 
@@ -217,10 +218,12 @@ Unifies THE SCORE · Narrative Meter · Echo System · Discovery Engine.
 ## Build sequence
 
 ```txt
-NOW     ✓  Knowledge OS · Layer 0 Constitution (partial)
+NOW     ✓  Constitution BUILD-000.000 ratified
+        ✓  BUILD-000.003 thematic foundation locked
+        ✓  Knowledge OS · Layer 0 Constitution mapped
         ✓  Composition frameworks (Layers 5 · 7 · 9 · 10 partial)
 
-NEXT    ○  Watchmaker Phases 1–9 (Story Engine)
+NEXT    ○  BUILD-001 Book of Secrets population (Layer 1)
         ○  Meaning Accrues Late Movements 1–4 (Narrative MS)
         ○  Layers 2–4 · 6 · 8 specs populated
         ○  Resonance Matrix + Reader Simulator

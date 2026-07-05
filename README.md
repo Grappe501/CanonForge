@@ -3,7 +3,7 @@
 > Institutional knowledge system for **CHRONOFORGE** — the recursive adventure novel project.
 > Codename: CHRONOFORGE · Repo: `Grappe501/CanonForge` · Local truth: `H:\CanonForge`
 
-**Version:** see [VERSION](VERSION) · **Current:** 0.3.0 · **Concepts:** 135 · **Build System:** v0.1
+**Version:** see [VERSION](VERSION) · **Current:** 0.4.0 · **Concepts:** 144 · **Constitution:** BUILD-000.000
 
 ---
 
@@ -26,6 +26,7 @@ ingest/        ← machine-readable manifest for retrieval automation
 
 | Question | Go to |
 |---|---|
+| What is the law? | [canon/CONSTITUTION.md](canon/CONSTITUTION.md) |
 | What is the First Law? | [canon/RULE_BOOK.md](canon/RULE_BOOK.md) |
 | What concepts exist? | [knowledge/CONCEPT_REGISTRY.md](knowledge/CONCEPT_REGISTRY.md) |
 | What's still undecided? | [knowledge/OPEN_QUESTIONS.md](knowledge/OPEN_QUESTIONS.md) |
@@ -87,4 +88,4 @@ H:\CanonForge\
 
 ---
 
-*Built 2026-07-05 · Knowledge OS · Composer's Blueprint v0.1 · 32 entries · 135 concepts*
+*Built 2026-07-05 · Constitution BUILD-000.000 · 33 entries · 144 concepts*

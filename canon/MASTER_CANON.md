@@ -1,8 +1,8 @@
-# Master Canon v0.3.0
+# Master Canon v0.4.0
 
-> Governing creative constitution for CHRONOFORGE
-> Derived from locked concepts · open forks marked explicitly
-> Supersedes v0.2.9 · **Composer's Blueprint v0.1** (CF-ENTRY-032)
+> Implementation constitution · derived from [CONSTITUTION.md](CONSTITUTION.md)
+> **BUILD-000.000 is law** — if conflict, Constitution wins
+> Supersedes v0.3.0 (2026-07-05 · Constitution ratified CF-ENTRY-033)
 
 ---
 
@@ -20,7 +20,19 @@
 
 ## The Mission
 
-Tell the **best adventure story we can possibly tell** — with invisible engineering underneath. The reader should never think *"this author is trying to be clever."* They should finish, talk about it, and discover the architecture themselves.
+Tell the **best adventure story we can possibly tell** — tested against [CONSTITUTION.md](CONSTITUTION.md) North Star and One Question.
+
+> **The book never changes. Only the reader does.** (BUILD-000.001)
+
+> **Does this increase wonder without reducing clarity?** (BUILD-000.002)
+
+### Thematic foundation (BUILD-000.003 · CF-CON-141)
+
+> **Every human being carries a story that cannot be understood from a single moment, a single memory, or a single label.**
+
+Novel about **fractured perception** — not merely fractured time. Read 1 categorizes · Read 2 weakens · Read 3+ dissolves. Reader experiences empathy through mistaken assumptions — **no moral lecture**.
+
+See Article XVI — Humanity in Constitution.
 
 ## Compose Laws (center doctrine · CF-CON-077 · CF-CON-069)
 
@@ -142,20 +154,22 @@ Yes: **"How did this book know I would think that?"**
 ## Hierarchy
 
 ```txt
-COMPOSER'S BLUEPRINT  →  machine that produces the story (architecture/COMPOSERS_BLUEPRINT.md)
+CONSTITUTION (BUILD-000.000)  →  canon/CONSTITUTION.md · LAW
+
+COMPOSER'S BLUEPRINT           →  architecture/COMPOSERS_BLUEPRINT.md
 
 APEX (author-only):
-  BOOK OF SECRETS  →  Layer 1 · source truths · compile gate
+  BOOK OF SECRETS              →  Layer 1
 
-GOVERNANCE (Layer 0):
-  MASTER CANON     →  this document
-  RULE BOOK        →  canonical rules
+GOVERNANCE (Layer 0 impl):
+  MASTER CANON                 →  this document (derived)
+  RULE BOOK                    →  compile stack
 
 IMPLEMENTATION (Layers 2–10):
-  Story Engine / composition / validation artifacts
+  Story Engine / composition artifacts
 
 PROSE (last):
-  manuscript/      →  NOT AUTHORIZED YET
+  manuscript/                  →  NOT AUTHORIZED YET
 ```
 
 ---
@@ -369,4 +383,4 @@ See [knowledge/OPEN_QUESTIONS.md](../knowledge/OPEN_QUESTIONS.md):
 
 ---
 
-*v0.3.0 · 2026-07-05 · Composer's Blueprint v0.1 · CF-ENTRY-001 through CF-ENTRY-032 · 135 concepts*
+*v0.4.0 · 2026-07-05 · derived from CONSTITUTION BUILD-000.000 · 144 concepts*
