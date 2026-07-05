@@ -3,6 +3,18 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [0.6.8] — 2026-07-05
+
+### Added
+- CF-ENTRY-044: BUILD-008 Assumption Engine Canonical v1.0
+- Concepts CF-CON-243 through CF-CON-255
+- Pattern completion · Five Levels · Reader's Pencil · I Added That
+- architecture/ASSUMPTION_LEDGER.md (queued spec)
+
+### Changed
+- BUILD-008 expanded from stub to core invention / cognition model
+- Master Canon v0.5.8
+
 ## [0.6.7] — 2026-07-05
 
 ### Added

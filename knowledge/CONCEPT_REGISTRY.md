@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 0.6.7 · 2026-07-05 · 242 concepts registered
+> Version 0.6.8 · 2026-07-05 · 255 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | CF-CON-161 | Reader Arc | Architecture | **Frozen** | Dual arc: 12 movements · Five Reads · Theory of Reading. | CF-ENTRY-036, CF-ENTRY-041 |
 | CF-CON-162 | Emotional Score | Architecture | **Frozen** | Eight movements · six layers · orchestrate reader state not character. | CF-ENTRY-036, CF-ENTRY-042 |
 | CF-CON-163 | Human Experience Model | Theme | **Frozen** | Human beings not characters; consciousness as design unit. | CF-ENTRY-036, CF-ENTRY-043 |
-| CF-CON-164 | Assumption Engine | Architecture | **Frozen** | Per page: reader assumption · natural · transform not disprove. | CF-ENTRY-036 |
+| CF-CON-164 | Assumption Engine | Architecture | **Frozen** | Pattern completion; incomplete truths; cognition model v1.0. | CF-ENTRY-036, CF-ENTRY-044 |
 | CF-CON-165 | BUILD-009 Music Theory | Architecture | **Frozen** | Movements felt not labeled; tempo pulse density measurable. | CF-ENTRY-036 |
 | CF-CON-166 | BUILD-010 Physics of Reading | Architecture | **Frozen** | Compose for eyes voice breathing prediction emotion memory. | CF-ENTRY-036 |
 | CF-CON-167 | BUILD-011 Invisible Contract | Architecture | **Frozen** | Allow unstated reader assumptions; fair subversion. | CF-ENTRY-036 |
@@ -246,6 +246,19 @@
 | CF-CON-240 | Consciousness design unit | Architecture | **Frozen** | Smallest unit is consciousness not character; reader too. | CF-ENTRY-043 |
 | CF-CON-241 | Human legacy humility | Heart | **Frozen** | Every stranger has unseen story; approach with humility. | CF-ENTRY-043 |
 | CF-CON-242 | BUILD-007 human spec | Governance | **Frozen** | What is a human being; all later builds serve this. | CF-ENTRY-043 |
+| CF-CON-243 | Pattern completion | Architecture | **Frozen** | Brain predicts completes assumes; core invention. | CF-ENTRY-044 |
+| CF-CON-244 | Incomplete truths | Governance | **Frozen** | I completed the picture not the book fooled me. | CF-ENTRY-044 |
+| CF-CON-245 | Cognitive loop | Architecture | **Frozen** | Observation through understanding at all scales. | CF-ENTRY-044 |
+| CF-CON-246 | Five assumption levels | Architecture | **Frozen** | Visual narrative character meaning reality. | CF-ENTRY-044 |
+| CF-CON-247 | Invisible participation | Architecture | **Frozen** | Readers write invisible text; novel leaves room. | CF-ENTRY-044 |
+| CF-CON-248 | Assumption Ledger | Architecture | **Queued** | Per-scene present absent fair reshape documentation. | CF-ENTRY-044 |
+| CF-CON-249 | Assumption Map | Architecture | **Frozen** | Classify harmless emotional structural identity etc. | CF-ENTRY-044 |
+| CF-CON-250 | Reader's pencil | Heart | **Frozen** | Invisible mental annotations; reader wrote half story. | CF-ENTRY-044 |
+| CF-CON-251 | I added that | Heart | **Frozen** | Recognition not I missed that; self-awareness not admiration. | CF-ENTRY-044 |
+| CF-CON-252 | Assumption ethics | Governance | **Frozen** | Never shame; universal tendencies; reader smiles. | CF-ENTRY-044 |
+| CF-CON-253 | Confidence curve | Architecture | **Frozen** | Confidence rises before falls; earns then reshapes. | CF-ENTRY-044 |
+| CF-CON-254 | Assumption Catalog | Architecture | **Queued** | Development map every intended assumption transform. | CF-ENTRY-044 |
+| CF-CON-255 | BUILD-008 cognition engine | Governance | **Frozen** | Human cognition model; heart of Chronoforge. | CF-ENTRY-044 |
 
 ## Related Concepts
 
@@ -412,7 +425,7 @@
 - **CF-CON-161** (Reader Arc, Frozen): CF-CON-002, CF-CON-001 → `canon/build/BUILD-005-reader-arc.md`
 - **CF-CON-162** (Emotional Score, Frozen): CF-CON-093, CF-CON-165 → `canon/build/BUILD-006-emotional-score.md`
 - **CF-CON-163** (Human Experience Model, Frozen): CF-CON-139, CF-CON-190 → `canon/build/BUILD-007-human-experience-model.md`
-- **CF-CON-164** (Assumption Engine, Frozen): CF-CON-145, CF-CON-001 → `canon/build/BUILD-008-assumption-engine.md`
+- **CF-CON-164** (Assumption Engine, Frozen): CF-CON-145, CF-CON-243 → `canon/build/BUILD-008-assumption-engine.md`
 - **CF-CON-165** (BUILD-009 Music Theory, Frozen): CF-CON-070, CF-CON-059 → `canon/build/BUILD-009-music-theory.md`
 - **CF-CON-166** (BUILD-010 Physics of Reading, Frozen): CF-CON-092, CF-CON-106 → `canon/build/BUILD-010-physics-of-reading.md`
 - **CF-CON-167** (BUILD-011 Invisible Contract, Frozen): CF-CON-054, CF-CON-057 → `canon/build/BUILD-011-invisible-contract.md`
@@ -491,3 +504,16 @@
 - **CF-CON-240** (Consciousness design unit, Frozen): CF-CON-215, CF-CON-170 → `canon/build/BUILD-007-human-experience-model.md`
 - **CF-CON-241** (Human legacy humility, Frozen): CF-CON-157, CF-CON-174 → `canon/build/BUILD-007-human-experience-model.md`
 - **CF-CON-242** (BUILD-007 human spec, Frozen): CF-CON-163, CF-CON-240 → `canon/build/BUILD-007-human-experience-model.md`
+- **CF-CON-243** (Pattern completion, Frozen): CF-CON-164, CF-CON-153 → `canon/build/BUILD-008-assumption-engine.md`
+- **CF-CON-244** (Incomplete truths, Frozen): CF-CON-200, CF-CON-023 → `canon/build/BUILD-008-assumption-engine.md`
+- **CF-CON-245** (Cognitive loop, Frozen): CF-CON-181, CF-CON-182 → `canon/build/BUILD-008-assumption-engine.md`
+- **CF-CON-246** (Five assumption levels, Frozen): CF-CON-173, CF-CON-164 → `canon/build/BUILD-008-assumption-engine.md`
+- **CF-CON-247** (Invisible participation, Frozen): CF-CON-106, CF-CON-164 → `canon/build/BUILD-008-assumption-engine.md`
+- **CF-CON-248** (Assumption Ledger, Queued): CF-CON-164 → `architecture/ASSUMPTION_LEDGER.md`
+- **CF-CON-249** (Assumption Map, Frozen): CF-CON-248 → `canon/build/BUILD-008-assumption-engine.md`
+- **CF-CON-250** (Reader's pencil, Frozen): CF-CON-247, CF-CON-251 → `canon/build/BUILD-008-assumption-engine.md`
+- **CF-CON-251** (I added that, Frozen): CF-CON-171, CF-CON-149 → `canon/build/BUILD-008-assumption-engine.md`
+- **CF-CON-252** (Assumption ethics, Frozen): CF-CON-233, CF-CON-251 → `canon/build/BUILD-008-assumption-engine.md`
+- **CF-CON-253** (Confidence curve, Frozen): CF-CON-210, CF-CON-221 → `canon/build/BUILD-008-assumption-engine.md`
+- **CF-CON-254** (Assumption Catalog, Queued): CF-CON-248, CF-CON-022 → `canon/build/BUILD-008-assumption-engine.md`
+- **CF-CON-255** (BUILD-008 cognition engine, Frozen): CF-CON-164, CF-CON-157 → `canon/build/BUILD-008-assumption-engine.md`

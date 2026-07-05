@@ -1,8 +1,7 @@
-# Master Canon v0.5.7
+# Master Canon v0.5.8
 
-> Implementation constitution · derived from [CONSTITUTION.md](CONSTITUTION.md)
-> **BUILD-007:** consciousness is the design unit · human beings not characters
-> Supersedes v0.5.6 (2026-07-05 · BUILD-007 Human Experience Model CF-ENTRY-043)
+> **BUILD-008 is the invention** — pattern completion · cognition · collaboration of reading
+> Supersedes v0.5.7 (2026-07-05 · BUILD-008 Assumption Engine CF-ENTRY-044)
 
 ---
 
@@ -43,9 +42,9 @@ Key locked insights:
 | **Four Pillars** | Strengthen ≥1 of Wonder · **Connection** · Resonance · Transformation? | BUILD-003 v1.0 |
 | Seven Laws | Immutable · complies with BUILD-004 v1.0? | BUILD-004 |
 
-**Stack:** BUILD-001 = *why* · … · BUILD-007 = *what is a human being*
+**Stack:** BUILD-001 = *why* · … · BUILD-008 = *cognition* · **the invention**
 
-→ [build/BUILD-007-human-experience-model.md](build/BUILD-007-human-experience-model.md) · Consciousness · Human Equation · Invisible Biography
+→ [build/BUILD-008-assumption-engine.md](build/BUILD-008-assumption-engine.md) · Pattern Completion · Reader's Pencil · I Added That
 
 → [build/BUILD-004-seven-laws.md](build/BUILD-004-seven-laws.md)
 

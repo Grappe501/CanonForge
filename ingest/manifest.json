@@ -1,19 +1,14 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "0.6.7",
-  "generated_at": "2026-07-05T21:17:30.778247+00:00",
+  "canonforge_version": "0.6.8",
+  "generated_at": "2026-07-05T21:18:39.130514+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 43,
-  "concept_count": 242,
-  "build_001_version": "0.1",
-  "build_002_version": "1.0",
-  "build_003_version": "1.0",
-  "build_004_version": "1.0",
-  "build_005_version": "1.0",
-  "build_006_version": "1.0",
+  "entry_count": 44,
+  "concept_count": 255,
   "build_007_version": "1.0",
+  "build_008_version": "1.0",
   "roadmap_version": "1.0",
   "project_version": "0.0.1",
   "build_layer": "BUILD-001-013 frozen",
@@ -697,6 +692,30 @@
         "CF-CON-242"
       ],
       "byte_size": 8308
+    },
+    {
+      "entry_id": "CF-ENTRY-044",
+      "file": "knowledge/entries/044-build-008-assumption-engine-v1.md",
+      "sha256": "ba32c02a00beaac2d4ee1462ac1a717420f4313cae9c1242ad44fd95992e413d",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-164",
+        "CF-CON-243",
+        "CF-CON-244",
+        "CF-CON-245",
+        "CF-CON-246",
+        "CF-CON-247",
+        "CF-CON-248",
+        "CF-CON-249",
+        "CF-CON-250",
+        "CF-CON-251",
+        "CF-CON-252",
+        "CF-CON-253",
+        "CF-CON-254",
+        "CF-CON-255"
+      ],
+      "byte_size": 7747
     }
   ],
   "indexes": {

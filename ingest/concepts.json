@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "0.6.7",
-  "generated_at": "2026-07-05T21:17:30.795007+00:00",
+  "canonforge_version": "0.6.8",
+  "generated_at": "2026-07-05T21:18:39.146166+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -1822,9 +1822,10 @@
       "label": "Assumption Engine",
       "category": "Architecture",
       "status": "Frozen",
-      "definition": "Per page: reader assumption \u00b7 natural \u00b7 transform not disprove.",
+      "definition": "Pattern completion; incomplete truths; cognition model v1.0.",
       "sources": [
-        "CF-ENTRY-036"
+        "CF-ENTRY-036",
+        "CF-ENTRY-044"
       ],
       "canon_ref": "canon/build/BUILD-008-assumption-engine.md"
     },
@@ -2685,6 +2686,149 @@
         "CF-ENTRY-043"
       ],
       "canon_ref": "canon/build/BUILD-007-human-experience-model.md"
+    },
+    {
+      "id": "CF-CON-243",
+      "label": "Pattern completion",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Brain predicts completes assumes; core invention.",
+      "sources": [
+        "CF-ENTRY-044"
+      ],
+      "canon_ref": "canon/build/BUILD-008-assumption-engine.md"
+    },
+    {
+      "id": "CF-CON-244",
+      "label": "Incomplete truths",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "I completed the picture not the book fooled me.",
+      "sources": [
+        "CF-ENTRY-044"
+      ],
+      "canon_ref": "canon/build/BUILD-008-assumption-engine.md"
+    },
+    {
+      "id": "CF-CON-245",
+      "label": "Cognitive loop",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Observation through understanding at all scales.",
+      "sources": [
+        "CF-ENTRY-044"
+      ],
+      "canon_ref": "canon/build/BUILD-008-assumption-engine.md"
+    },
+    {
+      "id": "CF-CON-246",
+      "label": "Five assumption levels",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Visual narrative character meaning reality.",
+      "sources": [
+        "CF-ENTRY-044"
+      ],
+      "canon_ref": "canon/build/BUILD-008-assumption-engine.md"
+    },
+    {
+      "id": "CF-CON-247",
+      "label": "Invisible participation",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Readers write invisible text; novel leaves room.",
+      "sources": [
+        "CF-ENTRY-044"
+      ],
+      "canon_ref": "canon/build/BUILD-008-assumption-engine.md"
+    },
+    {
+      "id": "CF-CON-248",
+      "label": "Assumption Ledger",
+      "category": "Architecture",
+      "status": "Queued",
+      "definition": "Per-scene present absent fair reshape documentation.",
+      "sources": [
+        "CF-ENTRY-044"
+      ],
+      "canon_ref": "architecture/ASSUMPTION_LEDGER.md"
+    },
+    {
+      "id": "CF-CON-249",
+      "label": "Assumption Map",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Classify harmless emotional structural identity etc.",
+      "sources": [
+        "CF-ENTRY-044"
+      ],
+      "canon_ref": "canon/build/BUILD-008-assumption-engine.md"
+    },
+    {
+      "id": "CF-CON-250",
+      "label": "Reader's pencil",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Invisible mental annotations; reader wrote half story.",
+      "sources": [
+        "CF-ENTRY-044"
+      ],
+      "canon_ref": "canon/build/BUILD-008-assumption-engine.md"
+    },
+    {
+      "id": "CF-CON-251",
+      "label": "I added that",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Recognition not I missed that; self-awareness not admiration.",
+      "sources": [
+        "CF-ENTRY-044"
+      ],
+      "canon_ref": "canon/build/BUILD-008-assumption-engine.md"
+    },
+    {
+      "id": "CF-CON-252",
+      "label": "Assumption ethics",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Never shame; universal tendencies; reader smiles.",
+      "sources": [
+        "CF-ENTRY-044"
+      ],
+      "canon_ref": "canon/build/BUILD-008-assumption-engine.md"
+    },
+    {
+      "id": "CF-CON-253",
+      "label": "Confidence curve",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Confidence rises before falls; earns then reshapes.",
+      "sources": [
+        "CF-ENTRY-044"
+      ],
+      "canon_ref": "canon/build/BUILD-008-assumption-engine.md"
+    },
+    {
+      "id": "CF-CON-254",
+      "label": "Assumption Catalog",
+      "category": "Architecture",
+      "status": "Queued",
+      "definition": "Development map every intended assumption transform.",
+      "sources": [
+        "CF-ENTRY-044"
+      ],
+      "canon_ref": "canon/build/BUILD-008-assumption-engine.md"
+    },
+    {
+      "id": "CF-CON-255",
+      "label": "BUILD-008 cognition engine",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Human cognition model; heart of Chronoforge.",
+      "sources": [
+        "CF-ENTRY-044"
+      ],
+      "canon_ref": "canon/build/BUILD-008-assumption-engine.md"
     }
   ],
   "edges": [
@@ -3875,7 +4019,7 @@
     },
     {
       "from": "CF-CON-164",
-      "to": "CF-CON-001",
+      "to": "CF-CON-243",
       "type": "related"
     },
     {
@@ -4586,6 +4730,126 @@
     {
       "from": "CF-CON-242",
       "to": "CF-CON-240",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-243",
+      "to": "CF-CON-164",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-243",
+      "to": "CF-CON-153",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-244",
+      "to": "CF-CON-200",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-244",
+      "to": "CF-CON-023",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-245",
+      "to": "CF-CON-181",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-245",
+      "to": "CF-CON-182",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-246",
+      "to": "CF-CON-173",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-246",
+      "to": "CF-CON-164",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-247",
+      "to": "CF-CON-106",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-247",
+      "to": "CF-CON-164",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-248",
+      "to": "CF-CON-164",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-249",
+      "to": "CF-CON-248",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-250",
+      "to": "CF-CON-247",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-250",
+      "to": "CF-CON-251",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-251",
+      "to": "CF-CON-171",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-251",
+      "to": "CF-CON-149",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-252",
+      "to": "CF-CON-233",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-252",
+      "to": "CF-CON-251",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-253",
+      "to": "CF-CON-210",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-253",
+      "to": "CF-CON-221",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-254",
+      "to": "CF-CON-248",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-254",
+      "to": "CF-CON-022",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-255",
+      "to": "CF-CON-164",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-255",
+      "to": "CF-CON-157",
       "type": "related"
     }
   ]

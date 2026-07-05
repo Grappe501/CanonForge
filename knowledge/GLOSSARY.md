@@ -48,7 +48,8 @@
 | **Consciousness unit** | Design atom: time memory misunderstanding change | CF-CON-240 |
 | **Human equation** | Four simultaneous realities | CF-CON-231 |
 | **Reader Arc** | Five-stage reader journey parallel to protagonist | CF-CON-161 |
-| **Assumption Engine** | Per-page assumption · natural · transform | CF-CON-164 |
+| **Assumption Engine** | Pattern completion · I added that | CF-CON-164 |
+| **Reader's pencil** | Invisible mental annotations | CF-CON-250 |
 | **BUILD layer** | Versioned canonical build documents 001+ | CF-CON-156 |
 | **Experience product** | The reading journey is the product, not the artifact | CF-CON-037 |
 | **3-text-before-page-5** | Experience success scene: text three people before reaching page five on reread | CF-CON-045 |
