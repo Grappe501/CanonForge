@@ -1,0 +1,754 @@
+{
+  "schema_version": "1.0.0",
+  "canonforge_version": "0.2.0",
+  "generated_at": "2026-07-05T20:43:20.425759+00:00",
+  "nodes": [
+    {
+      "id": "CF-CON-001",
+      "label": "Five Locks",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "Assumption-based reread keys; each read unlocks deeper Recognition.",
+      "sources": [
+        "CF-ENTRY-011"
+      ],
+      "canon_ref": "canon/MASTER_CANON.md#five-locks"
+    },
+    {
+      "id": "CF-CON-002",
+      "label": "Reader as sixth protagonist",
+      "category": "Heart",
+      "status": "Locked",
+      "definition": "The reader is the missing piece; the book does not change\u2014the reader does.",
+      "sources": [
+        "CF-ENTRY-018"
+      ],
+      "canon_ref": "canon/MASTER_CANON.md#reader-protagonist"
+    },
+    {
+      "id": "CF-CON-003",
+      "label": "Antagonist: Certainty",
+      "category": "Theme",
+      "status": "Locked",
+      "definition": "The villain is not a person but the force of premature certainty.",
+      "sources": [
+        "CF-ENTRY-017"
+      ],
+      "canon_ref": "canon/MASTER_CANON.md#antagonist"
+    },
+    {
+      "id": "CF-CON-004",
+      "label": "Unconfirmed chronology",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "Published chapter order follows causality/thematic chain, not time.",
+      "sources": [
+        "CF-ENTRY-007"
+      ],
+      "canon_ref": "architecture/FIVE_LOCKS.md"
+    },
+    {
+      "id": "CF-CON-005",
+      "label": "Five protagonists fork A/B",
+      "category": "Design fork",
+      "status": "Open",
+      "definition": "Fork between five POV protagonists vs other structural options.",
+      "sources": [
+        "CF-ENTRY-015"
+      ],
+      "canon_ref": "knowledge/OPEN_QUESTIONS.md#protagonists"
+    },
+    {
+      "id": "CF-CON-006",
+      "label": "Memory not time (apex)",
+      "category": "Revelation",
+      "status": "Candidate",
+      "definition": "Possible apex truth: memory\u2014not time\u2014is the hidden axis.",
+      "sources": [
+        "CF-ENTRY-017"
+      ],
+      "canon_ref": "knowledge/OPEN_QUESTIONS.md#apex-truth"
+    },
+    {
+      "id": "CF-CON-007",
+      "label": "Guliver of Mars pillar",
+      "category": "Genre",
+      "status": "Locked",
+      "definition": "1905 prototype: magic transit, dream Mars, romance.",
+      "sources": [
+        "CF-ENTRY-002",
+        "CF-ENTRY-003"
+      ],
+      "canon_ref": "knowledge/INFLUENCE_MATRIX.md"
+    },
+    {
+      "id": "CF-CON-008",
+      "label": "Princess of Mars pillar",
+      "category": "Genre",
+      "status": "Locked",
+      "definition": "1912 perfected planetary romance: atlas world, honor, series canon.",
+      "sources": [
+        "CF-ENTRY-002"
+      ],
+      "canon_ref": "knowledge/INFLUENCE_MATRIX.md"
+    },
+    {
+      "id": "CF-CON-009",
+      "label": "Buck Rogers pillar",
+      "category": "Genre",
+      "status": "Locked",
+      "definition": "1928 tech-future, resistance, hard SF grammar.",
+      "sources": [
+        "CF-ENTRY-003"
+      ],
+      "canon_ref": "knowledge/INFLUENCE_MATRIX.md"
+    },
+    {
+      "id": "CF-CON-010",
+      "label": "Flash Gordon pillar",
+      "category": "Genre",
+      "status": "Locked",
+      "definition": "1934 cinematic space opera: Mongo, Ming, serial swashbuckle + SF.",
+      "sources": [
+        "CF-ENTRY-004"
+      ],
+      "canon_ref": "knowledge/INFLUENCE_MATRIX.md"
+    },
+    {
+      "id": "CF-CON-011",
+      "label": "Star Wars pillar",
+      "category": "Genre",
+      "status": "Locked",
+      "definition": "1977 mythic synthesis: galaxy, Force, hero's journey recombination.",
+      "sources": [
+        "CF-ENTRY-005"
+      ],
+      "canon_ref": "knowledge/INFLUENCE_MATRIX.md"
+    },
+    {
+      "id": "CF-CON-012",
+      "label": "Recursive novel",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "Story engineered so each reread retroactively rewrites prior pages.",
+      "sources": [
+        "CF-ENTRY-006"
+      ],
+      "canon_ref": "architecture/STORY_ENGINE_SPEC.md"
+    },
+    {
+      "id": "CF-CON-013",
+      "label": "Story Engine",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "Container for compile workflow: bibles, timelines, locks before prose.",
+      "sources": [
+        "CF-ENTRY-006",
+        "CF-ENTRY-009"
+      ],
+      "canon_ref": "architecture/STORY_ENGINE_SPEC.md"
+    },
+    {
+      "id": "CF-CON-014",
+      "label": "Chronology Lie",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "Reader assumes chronological chapters; actual order is causal/thematic.",
+      "sources": [
+        "CF-ENTRY-007"
+      ],
+      "canon_ref": "architecture/HIDDEN_ENGINE.md"
+    },
+    {
+      "id": "CF-CON-015",
+      "label": "Time anchors",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "Tiny fair-play temporal clues per chapter; meaningless until reread.",
+      "sources": [
+        "CF-ENTRY-007"
+      ],
+      "canon_ref": "architecture/FIVE_LOCKS.md"
+    },
+    {
+      "id": "CF-CON-016",
+      "label": "Five time fractures",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "Five genre pillars map to five temporal fracture layers.",
+      "sources": [
+        "CF-ENTRY-007"
+      ],
+      "canon_ref": "architecture/HIDDEN_ENGINE.md"
+    },
+    {
+      "id": "CF-CON-017",
+      "label": "Watchmaker phases",
+      "category": "Process",
+      "status": "Locked",
+      "definition": "Nine pre-writing phases; Chapter One is Phase 9 (last).",
+      "sources": [
+        "CF-ENTRY-008"
+      ],
+      "canon_ref": "architecture/WATCHMAKER_PHASES.md"
+    },
+    {
+      "id": "CF-CON-018",
+      "label": "Chapter One last",
+      "category": "Process",
+      "status": "Locked",
+      "definition": "Do not write opening chapter until hidden engine is complete.",
+      "sources": [
+        "CF-ENTRY-008"
+      ],
+      "canon_ref": "architecture/WATCHMAKER_PHASES.md"
+    },
+    {
+      "id": "CF-CON-019",
+      "label": "Document preservation doctrine",
+      "category": "Process",
+      "status": "Locked",
+      "definition": "Conversations are archive; documents are the operating system.",
+      "sources": [
+        "CF-ENTRY-009"
+      ],
+      "canon_ref": "architecture/DOCUMENT_MAP.md"
+    },
+    {
+      "id": "CF-CON-020",
+      "label": "Ten bibles hierarchy",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "Foundational document map before any prose.",
+      "sources": [
+        "CF-ENTRY-009"
+      ],
+      "canon_ref": "architecture/DOCUMENT_MAP.md"
+    },
+    {
+      "id": "CF-CON-021",
+      "label": "Master Canon (not Story Bible)",
+      "category": "Governance",
+      "status": "Locked",
+      "definition": "Master Canon governs all decisions; Story Bible is one section.",
+      "sources": [
+        "CF-ENTRY-010"
+      ],
+      "canon_ref": "canon/MASTER_CANON.md"
+    },
+    {
+      "id": "CF-CON-022",
+      "label": "Book of Secrets",
+      "category": "Governance",
+      "status": "Locked",
+      "definition": "Author-only apex layer; compile gate for all prose.",
+      "sources": [
+        "CF-ENTRY-010"
+      ],
+      "canon_ref": "canon/BOOK_OF_SECRETS/README.md"
+    },
+    {
+      "id": "CF-CON-023",
+      "label": "Golden Rule / First Law",
+      "category": "Governance",
+      "status": "Locked",
+      "definition": "Never lie to the reader; fair play above all.",
+      "sources": [
+        "CF-ENTRY-010"
+      ],
+      "canon_ref": "canon/RULE_BOOK.md"
+    },
+    {
+      "id": "CF-CON-024",
+      "label": "Visibility vs importance",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "What reader sees \u2260 what matters; hundreds of tiny certainties.",
+      "sources": [
+        "CF-ENTRY-011"
+      ],
+      "canon_ref": "architecture/FIVE_LOCKS.md"
+    },
+    {
+      "id": "CF-CON-025",
+      "label": "Reader changes not book",
+      "category": "Heart",
+      "status": "Locked",
+      "definition": "Text is fixed; meaning evolves through Recognition passes.",
+      "sources": [
+        "CF-ENTRY-011",
+        "CF-ENTRY-018"
+      ],
+      "canon_ref": "canon/MASTER_CANON.md"
+    },
+    {
+      "id": "CF-CON-026",
+      "label": "Puzzle second novel first",
+      "category": "Commerce",
+      "status": "Locked",
+      "definition": "Primary commercial risk: puzzle before character/story.",
+      "sources": [
+        "CF-ENTRY-012"
+      ],
+      "canon_ref": "architecture/VALIDATION_STACK.md"
+    },
+    {
+      "id": "CF-CON-027",
+      "label": "Three-level success model",
+      "category": "Commerce",
+      "status": "Locked",
+      "definition": "First read \u00b7 hook \u00b7 discussion tiers for commercial+creative success.",
+      "sources": [
+        "CF-ENTRY-012"
+      ],
+      "canon_ref": "architecture/VALIDATION_STACK.md"
+    },
+    {
+      "id": "CF-CON-028",
+      "label": "Story wins rule",
+      "category": "Art",
+      "status": "Locked",
+      "definition": "Best adventure story framing; hidden engineering invisible.",
+      "sources": [
+        "CF-ENTRY-013"
+      ],
+      "canon_ref": "canon/MASTER_CANON.md"
+    },
+    {
+      "id": "CF-CON-029",
+      "label": "7/10 organic reread",
+      "category": "Commerce",
+      "status": "Locked",
+      "definition": "Internal success metric: 7 of 10 readers reread without prompting.",
+      "sources": [
+        "CF-ENTRY-013",
+        "CF-ENTRY-019"
+      ],
+      "canon_ref": "architecture/VALIDATION_STACK.md"
+    },
+    {
+      "id": "CF-CON-030",
+      "label": "Recognition not twist",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "Five Recognition moments, not shocks; meaning reframes.",
+      "sources": [
+        "CF-ENTRY-014"
+      ],
+      "canon_ref": "architecture/FIVE_LOCKS.md"
+    },
+    {
+      "id": "CF-CON-031",
+      "label": "Sixth Sense benchmark",
+      "category": "Technique",
+      "status": "Locked",
+      "definition": "Fair-play recontextualization: same facts, new meaning.",
+      "sources": [
+        "CF-ENTRY-014"
+      ],
+      "canon_ref": "knowledge/INFLUENCE_MATRIX.md"
+    },
+    {
+      "id": "CF-CON-032",
+      "label": "Crash convergence",
+      "category": "Technique",
+      "status": "Locked",
+      "definition": "Separate threads converge into one interconnected mechanism.",
+      "sources": [
+        "CF-ENTRY-015"
+      ],
+      "canon_ref": "knowledge/INFLUENCE_MATRIX.md"
+    },
+    {
+      "id": "CF-CON-033",
+      "label": "Butterfly small moments",
+      "category": "Technique",
+      "status": "Locked",
+      "definition": "Tiny choices ripple across time; small moments carry weight.",
+      "sources": [
+        "CF-ENTRY-016"
+      ],
+      "canon_ref": "knowledge/INFLUENCE_MATRIX.md"
+    },
+    {
+      "id": "CF-CON-034",
+      "label": "Meaning in interpreter",
+      "category": "Theme",
+      "status": "Locked",
+      "definition": "Meaning-making not puzzle-solving; invitation ending.",
+      "sources": [
+        "CF-ENTRY-017"
+      ],
+      "canon_ref": "canon/MASTER_CANON.md"
+    },
+    {
+      "id": "CF-CON-035",
+      "label": "Opening as continuation",
+      "category": "Heart",
+      "status": "Locked",
+      "definition": "Opening reads as continuation of reader's prior life.",
+      "sources": [
+        "CF-ENTRY-018"
+      ],
+      "canon_ref": "canon/MASTER_CANON.md"
+    },
+    {
+      "id": "CF-CON-036",
+      "label": "First/last sentence dyad",
+      "category": "Heart",
+      "status": "Locked",
+      "definition": "Opening and closing sentences form a locked pair.",
+      "sources": [
+        "CF-ENTRY-018"
+      ],
+      "canon_ref": "canon/MASTER_CANON.md"
+    },
+    {
+      "id": "CF-CON-037",
+      "label": "Experience is product",
+      "category": "Commerce",
+      "status": "Locked",
+      "definition": "The reading experience\u2014not the book object\u2014is the product.",
+      "sources": [
+        "CF-ENTRY-019"
+      ],
+      "canon_ref": "canon/MASTER_CANON.md"
+    },
+    {
+      "id": "CF-CON-038",
+      "label": "Give it away / admire reader",
+      "category": "Commerce",
+      "status": "Locked",
+      "definition": "Generosity model; admire reader not author.",
+      "sources": [
+        "CF-ENTRY-019"
+      ],
+      "canon_ref": "canon/MASTER_CANON.md"
+    },
+    {
+      "id": "CF-CON-039",
+      "label": "Originality firewall",
+      "category": "Genre",
+      "status": "Locked",
+      "definition": "Borrow techniques; never plots, characters, planets, dialogue.",
+      "sources": [
+        "CF-ENTRY-006"
+      ],
+      "canon_ref": "knowledge/INFLUENCE_MATRIX.md"
+    },
+    {
+      "id": "CF-CON-040",
+      "label": "CHRONOFORGE codename",
+      "category": "Governance",
+      "status": "Locked",
+      "definition": "Creative codename; GitHub repo is CanonForge.",
+      "sources": [
+        "CF-ENTRY-001"
+      ],
+      "canon_ref": "canon/MASTER_CANON.md"
+    },
+    {
+      "id": "CF-CON-041",
+      "label": "GitHub governance",
+      "category": "Process",
+      "status": "Locked",
+      "definition": "Private repo; one commit per step; H:/ local truth.",
+      "sources": [
+        "CF-ENTRY-002"
+      ],
+      "canon_ref": "README.md"
+    },
+    {
+      "id": "CF-CON-042",
+      "label": "Knowledge OS",
+      "category": "Process",
+      "status": "Locked",
+      "definition": "Institutional ingest layer before Phase 14 prose.",
+      "sources": [
+        "CF-ENTRY-020",
+        "CF-ENTRY-021",
+        "CF-ENTRY-022"
+      ],
+      "canon_ref": "README.md"
+    },
+    {
+      "id": "CF-CON-043",
+      "label": "LOST breadcrumbs (finite)",
+      "category": "Technique",
+      "status": "Locked",
+      "definition": "Finite fair clues; meaning shifts with context.",
+      "sources": [
+        "CF-ENTRY-006"
+      ],
+      "canon_ref": "knowledge/INFLUENCE_MATRIX.md"
+    },
+    {
+      "id": "CF-CON-044",
+      "label": "Movements not chapters",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "Musical structure: cadence and cognitive rhythm over conventional chapters.",
+      "sources": [
+        "CF-ENTRY-006"
+      ],
+      "canon_ref": "architecture/MOVEMENTS_NOT_CHAPTERS.md"
+    }
+  ],
+  "edges": [
+    {
+      "from": "CF-CON-001",
+      "to": "CF-CON-030",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-001",
+      "to": "CF-CON-031",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-002",
+      "to": "CF-CON-035",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-002",
+      "to": "CF-CON-036",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-003",
+      "to": "CF-CON-034",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-004",
+      "to": "CF-CON-014",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-004",
+      "to": "CF-CON-015",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-005",
+      "to": "CF-CON-032",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-006",
+      "to": "CF-CON-003",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-007",
+      "to": "CF-CON-008",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-008",
+      "to": "CF-CON-007",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-009",
+      "to": "CF-CON-010",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-010",
+      "to": "CF-CON-009",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-010",
+      "to": "CF-CON-011",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-011",
+      "to": "CF-CON-010",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-012",
+      "to": "CF-CON-001",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-013",
+      "to": "CF-CON-012",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-013",
+      "to": "CF-CON-017",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-014",
+      "to": "CF-CON-004",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-014",
+      "to": "CF-CON-016",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-015",
+      "to": "CF-CON-014",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-016",
+      "to": "CF-CON-007",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-016",
+      "to": "CF-CON-014",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-017",
+      "to": "CF-CON-013",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-018",
+      "to": "CF-CON-017",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-019",
+      "to": "CF-CON-020",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-020",
+      "to": "CF-CON-019",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-021",
+      "to": "CF-CON-022",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-022",
+      "to": "CF-CON-021",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-023",
+      "to": "CF-CON-030",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-024",
+      "to": "CF-CON-001",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-025",
+      "to": "CF-CON-002",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-026",
+      "to": "CF-CON-027",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-027",
+      "to": "CF-CON-026",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-028",
+      "to": "CF-CON-029",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-029",
+      "to": "CF-CON-028",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-030",
+      "to": "CF-CON-001",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-030",
+      "to": "CF-CON-023",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-031",
+      "to": "CF-CON-030",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-032",
+      "to": "CF-CON-005",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-033",
+      "to": "CF-CON-014",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-034",
+      "to": "CF-CON-003",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-035",
+      "to": "CF-CON-002",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-036",
+      "to": "CF-CON-002",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-037",
+      "to": "CF-CON-038",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-038",
+      "to": "CF-CON-037",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-039",
+      "to": "CF-CON-011",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-040",
+      "to": "CF-CON-021",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-042",
+      "to": "CF-CON-019",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-043",
+      "to": "CF-CON-039",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-044",
+      "to": "CF-CON-012",
+      "type": "related"
+    }
+  ]
+}

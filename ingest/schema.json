@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0.0",
+  "description": "Field definitions for CanonForge ingest automation",
+  "entry": {
+    "entry_id": {
+      "type": "string",
+      "pattern": "CF-ENTRY-\\d{3}",
+      "required": true
+    },
+    "source": {
+      "type": "string",
+      "enum": [
+        "conversation upload",
+        "document import",
+        "author direct"
+      ],
+      "required": true
+    },
+    "date_ingested": {
+      "type": "string",
+      "format": "date",
+      "required": true
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "raw",
+        "processed",
+        "archived"
+      ],
+      "required": true
+    },
+    "concepts_extracted": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "CF-CON-\\d{3}"
+      }
+    }
+  },
+  "concept": {
+    "id": {
+      "type": "string",
+      "pattern": "CF-CON-\\d{3}",
+      "required": true
+    },
+    "label": {
+      "type": "string",
+      "required": true
+    },
+    "category": {
+      "type": "string",
+      "required": true
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "Locked",
+        "Open",
+        "Candidate",
+        "Deprecated"
+      ],
+      "required": true
+    },
+    "definition": {
+      "type": "string",
+      "required": true
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "canon_ref": {
+      "type": "string"
+    }
+  }
+}

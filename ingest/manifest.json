@@ -1,0 +1,278 @@
+{
+  "schema_version": "1.0.0",
+  "canonforge_version": "0.2.0",
+  "generated_at": "2026-07-05T20:43:20.410447+00:00",
+  "project_codename": "CHRONOFORGE",
+  "repository": "Grappe501/CanonForge",
+  "local_root": "H:/CanonForge",
+  "entry_count": 22,
+  "concept_count": 44,
+  "entries": [
+    {
+      "entry_id": "CF-ENTRY-001",
+      "file": "knowledge/entries/001-project-start-master-build-plan.md",
+      "sha256": "b42a6e78f88a8fd748cf780d0479e0701cb4c6341607318ffe02ba76d77871fe",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-040"
+      ],
+      "byte_size": 2093
+    },
+    {
+      "entry_id": "CF-ENTRY-002",
+      "file": "knowledge/entries/002-github-governance-and-guliver-barsoom.md",
+      "sha256": "ac768750cc295fde9ba230201f72a04003b5662ec9756e8a028c125f730b3f2a",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-041",
+        "CF-CON-007",
+        "CF-CON-008"
+      ],
+      "byte_size": 7670
+    },
+    {
+      "entry_id": "CF-ENTRY-003",
+      "file": "knowledge/entries/003-genre-buck-rogers.md",
+      "sha256": "7611daffb8dcb3a17b3cd2c29fa3e2f2bbab184afba02deb6451e2802d34bf4a",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-009"
+      ],
+      "byte_size": 6408
+    },
+    {
+      "entry_id": "CF-ENTRY-004",
+      "file": "knowledge/entries/004-genre-flash-gordon.md",
+      "sha256": "9493f880a7008d8511c7e1a49b0b7e9ea65bcba536b6c62d25de124c3ab9d1b4",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-010"
+      ],
+      "byte_size": 7856
+    },
+    {
+      "entry_id": "CF-ENTRY-005",
+      "file": "knowledge/entries/005-genre-star-wars.md",
+      "sha256": "57f4bfc7c7eee432a4e3215252c10c1a7b146783fab1009e16ce4620aaa39c83",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-011"
+      ],
+      "byte_size": 6674
+    },
+    {
+      "entry_id": "CF-ENTRY-006",
+      "file": "knowledge/entries/006-mystery-architecture-first.md",
+      "sha256": "9286dc43e08768571c18d36b18fee2706436e2d4277f51f68303e451e01e3e79",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-012",
+        "CF-CON-013"
+      ],
+      "byte_size": 3472
+    },
+    {
+      "entry_id": "CF-ENTRY-007",
+      "file": "knowledge/entries/007-chronology-lie.md",
+      "sha256": "ac77ab428eb5bfd93833d8ddc0685b3c9c032a02b2a7fe9f69a9f3496cc7c7ef",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-014",
+        "CF-CON-015",
+        "CF-CON-016"
+      ],
+      "byte_size": 3332
+    },
+    {
+      "entry_id": "CF-ENTRY-008",
+      "file": "knowledge/entries/008-watchmaker-chapter-one-last.md",
+      "sha256": "4641ee00a24323609446d37f60714817e4f2d73d6041d9418c5e5b0b08eb1e91",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-017",
+        "CF-CON-018"
+      ],
+      "byte_size": 3538
+    },
+    {
+      "entry_id": "CF-ENTRY-009",
+      "file": "knowledge/entries/009-document-preservation.md",
+      "sha256": "95b5852cd4c852d00aabbd4d8a8bd7ec3fad4c6ea8964b97a5d170f7515c3451",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-019",
+        "CF-CON-020"
+      ],
+      "byte_size": 2980
+    },
+    {
+      "entry_id": "CF-ENTRY-010",
+      "file": "knowledge/entries/010-master-canon-not-story-bible.md",
+      "sha256": "8fcefbda557607a2003b4441652f41cacad2e250405eb9b7a7cae67a733d6266",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-021",
+        "CF-CON-022",
+        "CF-CON-023"
+      ],
+      "byte_size": 5964
+    },
+    {
+      "entry_id": "CF-ENTRY-011",
+      "file": "knowledge/entries/011-five-locks-recursive-novel.md",
+      "sha256": "6c9b89749c373895fb6c483d098242353b070e3091c773ea399a2beb16e4ff03",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-001",
+        "CF-CON-024",
+        "CF-CON-025"
+      ],
+      "byte_size": 4271
+    },
+    {
+      "entry_id": "CF-ENTRY-012",
+      "file": "knowledge/entries/012-commerce-sellability.md",
+      "sha256": "e9047ccb6dc52ab2acee1261e18f2e333327e43aace1cfeaa7d11eb4b34309c5",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-026",
+        "CF-CON-027"
+      ],
+      "byte_size": 3085
+    },
+    {
+      "entry_id": "CF-ENTRY-013",
+      "file": "knowledge/entries/013-artistic-goal-enduring-fiction.md",
+      "sha256": "2384c21f11ba7af81110f9056ad9c0807a2ac1883010c723c43739c40ea3dfbb",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-028",
+        "CF-CON-029"
+      ],
+      "byte_size": 3043
+    },
+    {
+      "entry_id": "CF-ENTRY-014",
+      "file": "knowledge/entries/014-sixth-sense-recontextualization.md",
+      "sha256": "762ac35e50b4bec70571e5d3d3c8b4fe786c2313635eaa2d9cf5520af4cf5708",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-030",
+        "CF-CON-031"
+      ],
+      "byte_size": 2712
+    },
+    {
+      "entry_id": "CF-ENTRY-015",
+      "file": "knowledge/entries/015-crash-convergence.md",
+      "sha256": "81da9eb623cf60cb1c8015f03cce7f9a21687aa99f86ac8abf26a2f6ab6b62a7",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-032",
+        "CF-CON-005"
+      ],
+      "byte_size": 2883
+    },
+    {
+      "entry_id": "CF-ENTRY-016",
+      "file": "knowledge/entries/016-butterfly-effect-small-moments.md",
+      "sha256": "f6f15e525632e457f725408551cb1d61b4c195e5b4319cdbaf0323839982d577",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-033"
+      ],
+      "byte_size": 3753
+    },
+    {
+      "entry_id": "CF-ENTRY-017",
+      "file": "knowledge/entries/017-bigger-question-antagonist-certainty.md",
+      "sha256": "9f8d670e77cb39e5cfddc833541ea7c3a94bad7378ebf2230801d822634216e4",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-003",
+        "CF-CON-034"
+      ],
+      "byte_size": 4157
+    },
+    {
+      "entry_id": "CF-ENTRY-018",
+      "file": "knowledge/entries/018-reader-as-sixth-protagonist.md",
+      "sha256": "ce6265776b35c8b283036efe2a693b9a547261a43446e2b14fce72c6a1df36b3",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-002",
+        "CF-CON-035",
+        "CF-CON-036"
+      ],
+      "byte_size": 4663
+    },
+    {
+      "entry_id": "CF-ENTRY-019",
+      "file": "knowledge/entries/019-experience-product-business-model.md",
+      "sha256": "eb0dd4aec9927effb9b569150cb0fed963ab50b5200da7cf2dbc6cb4b2b502d5",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-037",
+        "CF-CON-038"
+      ],
+      "byte_size": 3261
+    },
+    {
+      "entry_id": "CF-ENTRY-020",
+      "file": "knowledge/entries/020-h-drive-save-request.md",
+      "sha256": "8e3909ec3d3451cd98e85cc89953719b5ee8cf657f4519fe552dc955b1e41551",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-042"
+      ],
+      "byte_size": 326
+    },
+    {
+      "entry_id": "CF-ENTRY-021",
+      "file": "knowledge/entries/021-knowledge-ingest-request.md",
+      "sha256": "3521c50a11645cd6c526ca61e871e57cf06c39d584222b240211642f47d47f48",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-043"
+      ],
+      "byte_size": 452
+    },
+    {
+      "entry_id": "CF-ENTRY-022",
+      "file": "knowledge/entries/022-knowledge-os-system-design.md",
+      "sha256": "111f30087881e567725d3c0c4ca16b6498e51096b6331ad184220e7a407245fb",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-044"
+      ],
+      "byte_size": 7859
+    }
+  ],
+  "indexes": {
+    "ingest_index": "knowledge/INGEST_INDEX.md",
+    "concept_registry": "knowledge/CONCEPT_REGISTRY.md",
+    "master_canon": "canon/MASTER_CANON.md"
+  }
+}
