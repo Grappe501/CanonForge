@@ -3,6 +3,16 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [0.5.0] — 2026-07-05
+
+### Added
+- CF-ENTRY-035: Master Build Roadmap v1.0 · Grand Design · session pause
+- Concepts CF-CON-150 through CF-CON-155
+- `architecture/MASTER_BUILD_ROADMAP.md` · session BUILD_LOG
+
+### Milestone
+- Roadmap v1.0 locked · Phases 0–20 mapped · ready to build the machine
+
 ## [0.4.1] — 2026-07-05
 
 ### Added

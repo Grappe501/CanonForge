@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "canonforge_version": "0.2.0",
-  "generated_at": "2026-07-05T21:04:07.163682+00:00",
+  "generated_at": "2026-07-05T21:05:14.939305+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -1655,6 +1655,72 @@
         "CF-ENTRY-034"
       ],
       "canon_ref": "canon/CONSTITUTION.md"
+    },
+    {
+      "id": "CF-CON-150",
+      "label": "Master Build Roadmap v1.0",
+      "category": "Governance",
+      "status": "Locked",
+      "definition": "Phases 0\u201320 \u00b7 year+ build sequence \u00b7 Novel That Reads the Reader.",
+      "sources": [
+        "CF-ENTRY-035"
+      ],
+      "canon_ref": "architecture/MASTER_BUILD_ROADMAP.md"
+    },
+    {
+      "id": "CF-CON-151",
+      "label": "Seven systems Grand Design",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "Story \u00b7 chronology \u00b7 psychology \u00b7 music \u00b7 philosophy \u00b7 performance \u00b7 reader.",
+      "sources": [
+        "CF-ENTRY-035"
+      ],
+      "canon_ref": "architecture/MASTER_BUILD_ROADMAP.md"
+    },
+    {
+      "id": "CF-CON-152",
+      "label": "Final Test",
+      "category": "Validation",
+      "status": "Locked",
+      "definition": "No explanation scenario; call me when you finish.",
+      "sources": [
+        "CF-ENTRY-035"
+      ],
+      "canon_ref": "architecture/MASTER_BUILD_ROADMAP.md"
+    },
+    {
+      "id": "CF-CON-153",
+      "label": "Core invention question",
+      "category": "Mission",
+      "status": "Locked",
+      "definition": "How compose experience complete inside another human mind?",
+      "sources": [
+        "CF-ENTRY-035"
+      ],
+      "canon_ref": "architecture/MASTER_BUILD_ROADMAP.md"
+    },
+    {
+      "id": "CF-CON-154",
+      "label": "Phase 20 The Loop",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "First/last connected by understanding; reader must begin again.",
+      "sources": [
+        "CF-ENTRY-035"
+      ],
+      "canon_ref": "architecture/MASTER_BUILD_ROADMAP.md"
+    },
+    {
+      "id": "CF-CON-155",
+      "label": "New storytelling medium",
+      "category": "Mission",
+      "status": "Locked",
+      "definition": "Inventing medium not writing novel; cathedral discipline.",
+      "sources": [
+        "CF-ENTRY-035"
+      ],
+      "canon_ref": "architecture/MASTER_BUILD_ROADMAP.md"
     }
   ],
   "edges": [
@@ -2721,6 +2787,46 @@
     {
       "from": "CF-CON-149",
       "to": "CF-CON-145",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-150",
+      "to": "CF-CON-122",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-151",
+      "to": "CF-CON-094",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-152",
+      "to": "CF-CON-045",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-152",
+      "to": "CF-CON-038",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-153",
+      "to": "CF-CON-121",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-154",
+      "to": "CF-CON-056",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-154",
+      "to": "CF-CON-057",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-155",
+      "to": "CF-CON-153",
       "type": "related"
     }
   ]

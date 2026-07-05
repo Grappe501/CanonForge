@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 0.4.1 · 2026-07-05 · 149 concepts registered
+> Version 0.5.0 · 2026-07-05 · 155 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -153,6 +153,12 @@
 | CF-CON-147 | Selective identity silence | Theme | **Locked** | Race nationality religion age etc omitted unless story requires. | CF-ENTRY-034 |
 | CF-CON-148 | Person before labels | Theme | **Locked** | Introduce via choices fears sacrifices loves regrets. | CF-ENTRY-034 |
 | CF-CON-149 | Self-awareness reveal | Heart | **Locked** | Deep reveal: assumptions reader made without author stating. | CF-ENTRY-034 |
+| CF-CON-150 | Master Build Roadmap v1.0 | Governance | **Locked** | Phases 0–20 · year+ build sequence · Novel That Reads the Reader. | CF-ENTRY-035 |
+| CF-CON-151 | Seven systems Grand Design | Architecture | **Locked** | Story · chronology · psychology · music · philosophy · performance · reader. | CF-ENTRY-035 |
+| CF-CON-152 | Final Test | Validation | **Locked** | No explanation scenario; call me when you finish. | CF-ENTRY-035 |
+| CF-CON-153 | Core invention question | Mission | **Locked** | How compose experience complete inside another human mind? | CF-ENTRY-035 |
+| CF-CON-154 | Phase 20 The Loop | Architecture | **Locked** | First/last connected by understanding; reader must begin again. | CF-ENTRY-035 |
+| CF-CON-155 | New storytelling medium | Mission | **Locked** | Inventing medium not writing novel; cathedral discipline. | CF-ENTRY-035 |
 
 ## Related Concepts
 
@@ -305,3 +311,9 @@
 - **CF-CON-147** (Selective identity silence, Locked): CF-CON-145 → `canon/CONSTITUTION.md`
 - **CF-CON-148** (Person before labels, Locked): CF-CON-144 → `canon/CONSTITUTION.md`
 - **CF-CON-149** (Self-awareness reveal, Locked): CF-CON-143, CF-CON-145 → `canon/CONSTITUTION.md`
+- **CF-CON-150** (Master Build Roadmap v1.0, Locked): CF-CON-122 → `architecture/MASTER_BUILD_ROADMAP.md`
+- **CF-CON-151** (Seven systems Grand Design, Locked): CF-CON-094 → `architecture/MASTER_BUILD_ROADMAP.md`
+- **CF-CON-152** (Final Test, Locked): CF-CON-045, CF-CON-038 → `architecture/MASTER_BUILD_ROADMAP.md`
+- **CF-CON-153** (Core invention question, Locked): CF-CON-121 → `architecture/MASTER_BUILD_ROADMAP.md`
+- **CF-CON-154** (Phase 20 The Loop, Locked): CF-CON-056, CF-CON-057 → `architecture/MASTER_BUILD_ROADMAP.md`
+- **CF-CON-155** (New storytelling medium, Locked): CF-CON-153 → `architecture/MASTER_BUILD_ROADMAP.md`
