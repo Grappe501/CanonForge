@@ -206,13 +206,13 @@ Next builds create **unique story identity**:
 
 *(Gates: Book of Secrets · OPEN_QUESTIONS story substrate · Phase Four lives)*
 
-→ **BUILD-033–040** *(✓ v1.0)* · **BUILD-040 Convergence Engine** *(✓ v1.0)**
+→ **BUILD-033–040** *(✓ v1.0 · Story Genome complete)* · **Phase IV BUILD-053** *(queued)**
 
 ---
 
 ## Phase IV preview *(CF-ENTRY-080)*
 
-→ **BUILD-040 Convergence Engine** *(✓ v1.0)**
+→ **BUILD-053 First Read Experience** *(queued)**
 
 ---
 
