@@ -217,20 +217,20 @@ Unifies THE SCORE · Narrative Meter · Echo System · Discovery Engine.
 
 ## Build sequence
 
-```txt
-NOW     ✓  Constitution BUILD-000.000 ratified
-        ✓  BUILD-000.003 thematic foundation locked
-        ✓  Knowledge OS · Layer 0 Constitution mapped
-        ✓  Composition frameworks (Layers 5 · 7 · 9 · 10 partial)
+> **Master sequence:** [MASTER_BUILD_ROADMAP.md](MASTER_BUILD_ROADMAP.md) · Phases 0–20 · v1.0
 
-NEXT    ○  BUILD-001 Book of Secrets population (Layer 1)
-        ○  Meaning Accrues Late Movements 1–4 (Narrative MS)
-        ○  Layers 2–4 · 6 · 8 specs populated
+```txt
+COMPLETE  ✓  Phase 0 · Phase 1 · frameworks for 3–4, 9–12, 16–19
+ROADMAP   ✓  v1.0 locked · CF-ENTRY-035
+PAUSE     ✓  Session end · 2026-07-05
+
+NEXT      ○  Phase 2 Book of Secrets (BUILD-001)
+        ○  Phases 3–8 population
         ○  Resonance Matrix + Reader Simulator
 
-LAST    ○  Movement 5 Performance MS · Original Score
-        ○  Layer 1 Book of Secrets populated
-        ○  Phase 14 prose authorization
+LAST      ○  Phase 18 Performance Edition
+        ○  Phase 19 Validation
+        ○  Phase 20 The Loop · prose authorization TBD
 ```
 
 ---
