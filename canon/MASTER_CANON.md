@@ -42,11 +42,13 @@ Key locked insights:
 | **Four Pillars** | Strengthen ≥1 of Wonder · **Connection** · Resonance · Transformation? | BUILD-003 v1.0 |
 | Seven Laws | Immutable · complies with BUILD-004 v1.0? | BUILD-004 |
 
-**Stack:** BUILD-001 = *why* · … · **018 = *understanding gap*** · **019 = *living memory***
+**Stack:** BUILD-001 = *why* · … · **016 = *consciousness*** · **017 = *reality*** · **018 = *understanding gap*** · **019 = *living memory***
 
 → [build/BUILD-019-memory-engine.md](build/BUILD-019-memory-engine.md) · Five States · Memory Cycle · True Medium
 
 → [build/BUILD-018-fracture-engine.md](build/BUILD-018-fracture-engine.md) · Five Domains · Fracture Curve · Recognition Not Puzzle
+
+→ [build/BUILD-017-reality-engine.md](build/BUILD-017-reality-engine.md) · Five Layers · Story-True Reality · Reality Test
 
 → [build/BUILD-016-consciousness-engine.md](build/BUILD-016-consciousness-engine.md) · Ten Living Systems · Sixth Consciousness · Incomplete Principle
 
@@ -55,8 +57,6 @@ Key locked insights:
 → [build/BUILD-004-seven-laws.md](build/BUILD-004-seven-laws.md)
 
 → Full registry: [build/BUILD_INDEX.md](build/BUILD_INDEX.md)
-
-→ [build/BUILD-016-consciousness-engine.md](build/BUILD-016-consciousness-engine.md) · Ten Living Systems · Sixth Consciousness · Incomplete Principle
 
 Tell the **best adventure story we can possibly tell** — tested against Constitution, BUILD layer, and filters above.
 
