@@ -1,7 +1,7 @@
-# Master Canon v1.3.6
+# Master Canon v1.4.0
 
-> **BUILD-021:** The Symbol Genome · motif≠symbol · emergence · **partial §021.7+ pending**
-> Supersedes v1.3.5 (2026-07-05 · BUILD-021 CF-ENTRY-059 · CanonForge 1.9.0)
+> **BUILD-022:** The Language of Silence · composed silence · fifth read hears silence
+> Supersedes v1.3.6 (2026-07-05 · BUILD-022 CF-ENTRY-060 · CanonForge 2.0.0)
 
 ---
 
@@ -42,7 +42,9 @@ Key locked insights:
 | **Four Pillars** | Strengthen ≥1 of Wonder · **Connection** · Resonance · Transformation? | BUILD-003 v1.0 |
 | Seven Laws | Immutable · complies with BUILD-004 v1.0? | BUILD-004 |
 
-**Stack:** BUILD-001 = *why* · … · **016 = *consciousness*** · **017 = *reality*** · **018 = *understanding gap*** · **019 = *living memory*** · **020 = *motif vocabulary*** · **021 = *symbol language (partial)***
+**Stack:** BUILD-001 = *why* · … · **021 = *symbol language (partial)*** · **022 = *silence language***
+
+→ [build/BUILD-022-language-of-silence.md](build/BUILD-022-language-of-silence.md) · Seven Forms · Breath Map · Fifth Read Hears Silence
 
 → [build/BUILD-021-symbol-genome.md](build/BUILD-021-symbol-genome.md) · Motif≠Symbol · Seven Families · Rule of Emergence *(§021.7+ pending)*
 

@@ -232,9 +232,9 @@ Not merely fractured time · not something that **broke** · the visible process
 
 ---
 
-## BUILD-022 preview *(CF-ENTRY-059 partial)*
+## BUILD-023 preview *(CF-ENTRY-060)*
 
-→ **BUILD-022 Silence Ledger** *(queued)*
+→ **BUILD-023 Typography Physics** *(queued)*
 
 ---
 

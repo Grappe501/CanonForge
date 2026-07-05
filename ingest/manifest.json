@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "1.9.0",
-  "generated_at": "2026-07-05T21:52:53.817839+00:00",
+  "canonforge_version": "2.0.0",
+  "generated_at": "2026-07-05T21:54:46.238636+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 59,
-  "concept_count": 456,
+  "entry_count": 60,
+  "concept_count": 472,
   "project_version": "0.2.0",
   "phase_two": "begun",
   "build_016_version": "1.0",
@@ -22,6 +22,8 @@
   "build_021_version": "1.0-partial",
   "build_021_title": "Symbol Genome",
   "build_021_status": "truncated_021_7",
+  "build_022_version": "1.0",
+  "build_022_title": "Language of Silence",
   "phase_one": "complete",
   "build_015_5_version": "0.1",
   "build_015_5_title": "Chronoforge Master Architecture",
@@ -1136,6 +1138,33 @@
         "CF-CON-456"
       ],
       "byte_size": 4005
+    },
+    {
+      "entry_id": "CF-ENTRY-060",
+      "file": "knowledge/entries/060-build-022-language-of-silence-v1.md",
+      "sha256": "6113bad9f2cd1b995ddae3aa6b69222c34a9177c5eab8b2c45ac6ddf9219945f",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-339",
+        "CF-CON-457",
+        "CF-CON-458",
+        "CF-CON-459",
+        "CF-CON-460",
+        "CF-CON-461",
+        "CF-CON-462",
+        "CF-CON-463",
+        "CF-CON-464",
+        "CF-CON-465",
+        "CF-CON-466",
+        "CF-CON-467",
+        "CF-CON-468",
+        "CF-CON-469",
+        "CF-CON-470",
+        "CF-CON-471",
+        "CF-CON-472"
+      ],
+      "byte_size": 7549
     }
   ],
   "indexes": {

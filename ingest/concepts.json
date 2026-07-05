@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "1.9.0",
-  "generated_at": "2026-07-05T21:52:53.841121+00:00",
+  "canonforge_version": "2.0.0",
+  "generated_at": "2026-07-05T21:54:46.259387+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -3760,11 +3760,12 @@
       "label": "Silence Ledger",
       "category": "Architecture",
       "status": "Frozen",
-      "definition": "Trackable silence network.",
+      "definition": "Trackable silence network; specified BUILD-022 Language of Silence.",
       "sources": [
-        "CF-ENTRY-051"
+        "CF-ENTRY-051",
+        "CF-ENTRY-060"
       ],
-      "canon_ref": "canon/build/BUILD-015-resonance-matrix.md"
+      "canon_ref": "canon/build/BUILD-022-language-of-silence.md#0223--the-silence-ledger"
     },
     {
       "id": "CF-CON-340",
@@ -5056,6 +5057,182 @@
         "CF-ENTRY-059"
       ],
       "canon_ref": "canon/build/BUILD-021-symbol-genome.md#0216--the-symbol-web"
+    },
+    {
+      "id": "CF-CON-457",
+      "label": "Language of Silence",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Silence composed deliberately; seven forms; participation.",
+      "sources": [
+        "CF-ENTRY-060"
+      ],
+      "canon_ref": "canon/build/BUILD-022-language-of-silence.md"
+    },
+    {
+      "id": "CF-CON-458",
+      "label": "Silence never accidental",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Omission undescribed early end must have reason.",
+      "sources": [
+        "CF-ENTRY-060"
+      ],
+      "canon_ref": "canon/build/BUILD-022-language-of-silence.md#0221--the-first-principle"
+    },
+    {
+      "id": "CF-CON-459",
+      "label": "Silence as participation",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Author stops reader thinks; not emptiness.",
+      "sources": [
+        "CF-ENTRY-060"
+      ],
+      "canon_ref": "canon/build/BUILD-022-language-of-silence.md#0220--purpose"
+    },
+    {
+      "id": "CF-CON-460",
+      "label": "Seven forms of silence",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Reflective emotional relational narrative symbolic rhythmic sacred.",
+      "sources": [
+        "CF-ENTRY-060"
+      ],
+      "canon_ref": "canon/build/BUILD-022-language-of-silence.md#0222--the-seven-forms-of-silence"
+    },
+    {
+      "id": "CF-CON-461",
+      "label": "Silence ledger record",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Entry per intentional silence; reread value.",
+      "sources": [
+        "CF-ENTRY-060"
+      ],
+      "canon_ref": "canon/build/BUILD-022-language-of-silence.md#0223--the-silence-ledger"
+    },
+    {
+      "id": "CF-CON-462",
+      "label": "Breath map",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Silence controls breathing; page part of score.",
+      "sources": [
+        "CF-ENTRY-060"
+      ],
+      "canon_ref": "canon/build/BUILD-022-language-of-silence.md#0224--the-breath-map"
+    },
+    {
+      "id": "CF-CON-463",
+      "label": "Courage of omission",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Restraint not withholding; trust reader completes.",
+      "sources": [
+        "CF-ENTRY-060"
+      ],
+      "canon_ref": "canon/build/BUILD-022-language-of-silence.md#0225--the-courage-of-omission"
+    },
+    {
+      "id": "CF-CON-464",
+      "label": "Weight of unsaid things",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Relationships defined by never spoken; equal to dialogue.",
+      "sources": [
+        "CF-ENTRY-060"
+      ],
+      "canon_ref": "canon/build/BUILD-022-language-of-silence.md#0226--the-weight-of-unsaid-things"
+    },
+    {
+      "id": "CF-CON-465",
+      "label": "Rule of no empty silence",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Purposeful resonance; what work is this doing.",
+      "sources": [
+        "CF-ENTRY-060"
+      ],
+      "canon_ref": "canon/build/BUILD-022-language-of-silence.md#0227--the-rule-of-no-empty-silence"
+    },
+    {
+      "id": "CF-CON-466",
+      "label": "Echo of silence",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Silences recur; reader hears silence itself.",
+      "sources": [
+        "CF-ENTRY-060"
+      ],
+      "canon_ref": "canon/build/BUILD-022-language-of-silence.md#0228--the-echo-of-silence"
+    },
+    {
+      "id": "CF-CON-467",
+      "label": "Page as music rests",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Margins breaks whitespace experienced physically.",
+      "sources": [
+        "CF-ENTRY-060"
+      ],
+      "canon_ref": "canon/build/BUILD-022-language-of-silence.md#0229--the-page-as-music"
+    },
+    {
+      "id": "CF-CON-468",
+      "label": "Danger of explanation",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Explanation removes possibility; silence may deepen.",
+      "sources": [
+        "CF-ENTRY-060"
+      ],
+      "canon_ref": "canon/build/BUILD-022-language-of-silence.md#02210--the-danger-of-explanation"
+    },
+    {
+      "id": "CF-CON-469",
+      "label": "Readers silence",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Reader enters book during silence; co-creates meaning.",
+      "sources": [
+        "CF-ENTRY-060"
+      ],
+      "canon_ref": "canon/build/BUILD-022-language-of-silence.md#02211--the-readers-silence"
+    },
+    {
+      "id": "CF-CON-470",
+      "label": "Five reads of silence",
+      "category": "Process",
+      "status": "Frozen",
+      "definition": "Pacing to language across five reads.",
+      "sources": [
+        "CF-ENTRY-060"
+      ],
+      "canon_ref": "canon/build/BUILD-022-language-of-silence.md#02212--the-five-reads-of-silence"
+    },
+    {
+      "id": "CF-CON-471",
+      "label": "Final silence",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "After final sentence; belongs entirely to reader.",
+      "sources": [
+        "CF-ENTRY-060"
+      ],
+      "canon_ref": "canon/build/BUILD-022-language-of-silence.md#02213--the-final-silence"
+    },
+    {
+      "id": "CF-CON-472",
+      "label": "Fifth read hears silence",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Words echoes rhythm architecture then silence.",
+      "sources": [
+        "CF-ENTRY-060"
+      ],
+      "canon_ref": "canon/build/BUILD-022-language-of-silence.md"
     }
   ],
   "edges": [
@@ -7920,6 +8097,11 @@
       "type": "related"
     },
     {
+      "from": "CF-CON-339",
+      "to": "CF-CON-457",
+      "type": "related"
+    },
+    {
       "from": "CF-CON-340",
       "to": "CF-CON-089",
       "type": "related"
@@ -9127,6 +9309,171 @@
     {
       "from": "CF-CON-456",
       "to": "CF-CON-438",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-457",
+      "to": "CF-CON-339",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-457",
+      "to": "CF-CON-459",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-457",
+      "to": "CF-CON-472",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-458",
+      "to": "CF-CON-457",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-458",
+      "to": "CF-CON-463",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-459",
+      "to": "CF-CON-457",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-459",
+      "to": "CF-CON-469",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-460",
+      "to": "CF-CON-457",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-460",
+      "to": "CF-CON-461",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-461",
+      "to": "CF-CON-457",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-461",
+      "to": "CF-CON-339",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-462",
+      "to": "CF-CON-457",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-462",
+      "to": "CF-CON-273",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-463",
+      "to": "CF-CON-457",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-463",
+      "to": "CF-CON-282",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-464",
+      "to": "CF-CON-457",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-464",
+      "to": "CF-CON-425",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-465",
+      "to": "CF-CON-457",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-465",
+      "to": "CF-CON-436",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-466",
+      "to": "CF-CON-457",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-466",
+      "to": "CF-CON-431",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-467",
+      "to": "CF-CON-457",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-467",
+      "to": "CF-CON-162",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-468",
+      "to": "CF-CON-457",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-468",
+      "to": "CF-CON-390",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-469",
+      "to": "CF-CON-457",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-469",
+      "to": "CF-CON-382",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-470",
+      "to": "CF-CON-457",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-470",
+      "to": "CF-CON-430",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-471",
+      "to": "CF-CON-457",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-471",
+      "to": "CF-CON-448",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-472",
+      "to": "CF-CON-457",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-472",
+      "to": "CF-CON-470",
       "type": "related"
     }
   ]

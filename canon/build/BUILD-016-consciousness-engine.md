@@ -234,7 +234,7 @@ Now that we know **what** experiences the novel and **where** — the architectu
 
 → **BUILD-019 Memory Engine** — living memory · reconstruction · **v1.0 frozen**
 
-→ **BUILD-021 Symbol Genome** — §021.0–021.6 frozen · §021.7+ pending *(CF-ENTRY-059)*
+→ **BUILD-022 Language of Silence** — seven forms · **v1.0 frozen**
 
 *(Supersedes "Chronology Engine" as BUILD-017 title · chronology remains subsystem in BUILD-015 §015.11)*
 

@@ -150,6 +150,10 @@ A motif may be registered **without** symbolic weight. A symbol **emerges** from
 
 Registry tracks **what comes back**. Genome tracks **what it comes to mean**.
 
+## BUILD-023 preview *(CF-ENTRY-060)*
+
+→ **BUILD-023 Typography Physics** *(queued)*
+
 ---
 
 ## Version history

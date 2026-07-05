@@ -123,7 +123,7 @@ We did not build a novel. We built a **theory of storytelling** — an operating
 | **019** | The Memory Engine | **✓ v1.0** · living memory · CF-ENTRY-057 |
 | **020** | The Resonance Registry | **✓ v1.0** · motif catalog · CF-ENTRY-058 |
 | **021** | The Symbol Genome | **✓ v1.0 partial** · CF-ENTRY-059 · §021.7+ pending |
-| **022** | Silence Ledger | Every pause · blank · omission |
+| **022** | The Language of Silence | **✓ v1.0** · CF-ENTRY-060 |
 | **023** | Typography Physics | Canonical edition · ~20 events |
 | **024** | Rhythm Score | Movement · page · pulse · breath |
 | **025** | Page Architecture | Post-write canonical page design |
@@ -150,7 +150,7 @@ BUILD-015 defines **what** gets tracked. Phase Two BUILDs **populate** each ledg
 | Grand Matrix | BUILD-015 §015.1 | All rows · BUILD-016–025 feed columns |
 | Echo Registry | BUILD-015 §015.2 | BUILD-020 |
 | Symbol Registry | BUILD-015 §015.3 | BUILD-021 |
-| Silence Ledger | BUILD-015 §015.4 | BUILD-022 |
+| Silence Ledger | BUILD-015 §015.4 | BUILD-022 Language of Silence |
 | Typography Ledger | BUILD-015 §015.5 | BUILD-023 · [PHYSICS_OF_READING.md](../../architecture/PHYSICS_OF_READING.md) |
 | Rhythm Ledger | BUILD-015 §015.6 | BUILD-024 · [RHYTHM_BIBLE.md](../../architecture/RHYTHM_BIBLE.md) |
 | Reader Ledger | BUILD-015 §015.7 | BUILD-016 · BUILD-005 |
@@ -264,7 +264,7 @@ Build Bible v1.0 requires:
 
 ## 015.5.11 — What happens next
 
-**Do not proceed to BUILD-021** until BUILD-015.5 reaches v1.0 *(BUILD-016–020 excepted per CF-ENTRY-053/055/056/057/058)*.
+**Do not proceed to BUILD-023** until BUILD-015.5 reaches v1.0 *(BUILD-016–022 excepted per author uploads)*.
 
 Next passes expand this document into the full 100–200 page Build Bible:
 
@@ -274,7 +274,7 @@ Next passes expand this document into the full 100–200 page Build Bible:
 4. Master data dictionary (elements · symbols · echo IDs)
 5. Execution index (which BUILD when · blocking rules)
 
-When v1.0 ships — Phase Two continues with **BUILD-021 Symbol Genome**.
+When v1.0 ships — Phase Two continues with **BUILD-023 Typography Physics**.
 
 ---
 

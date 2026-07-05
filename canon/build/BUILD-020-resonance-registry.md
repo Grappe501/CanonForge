@@ -133,7 +133,7 @@ Some motifs are **never named** — recurring rhythm · emotional pattern · pag
 
 The registry includes these **as fully** as physical objects.
 
-*(CF-CON-439 · BUILD-022 Silence Ledger queued · CF-CON-425 Silent memory)*
+*(CF-CON-439 · BUILD-022 Language of Silence · CF-CON-425 Silent memory)*
 
 ---
 
@@ -274,11 +274,9 @@ Matrix governs **everything**. Registry governs **what returns transformed**.
 
 ---
 
-## BUILD-021 — partial *(CF-ENTRY-059)*
+## BUILD-023 preview *(CF-ENTRY-060)*
 
-→ [BUILD-021-symbol-genome.md](BUILD-021-symbol-genome.md) · **§021.0–021.6 frozen** · §021.7+ truncated
-
-→ **BUILD-022 Silence Ledger** *(queued)*
+→ **BUILD-023 Typography Physics** — typographic motifs · rhythmic silence *(queued)*
 
 ---
 

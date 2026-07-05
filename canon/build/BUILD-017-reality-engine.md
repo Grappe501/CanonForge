@@ -254,9 +254,9 @@ BUILD-017 defines **reality laws** within which chronology operates — not a re
 
 ---
 
-## BUILD-022 preview *(CF-ENTRY-059 partial)*
+## BUILD-023 preview *(CF-ENTRY-060)*
 
-→ **BUILD-022 Silence Ledger** *(queued)*
+→ **BUILD-023 Typography Physics** *(queued)*
 
 ---
 

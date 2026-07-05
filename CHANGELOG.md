@@ -3,6 +3,16 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [2.0.0] — 2026-07-05
+
+### Added
+- CF-ENTRY-060: BUILD-022 The Language of Silence Canonical v1.0
+- Concepts CF-CON-457 through CF-CON-472
+- Seven forms of silence · breath map · five reads of silence · final silence
+- Renamed: Silence Ledger → **Language of Silence** (ledger remains §022.3 record)
+- CF-CON-339 expanded · links to BUILD-022
+- Master Canon v1.4.0
+
 ## [1.9.0] — 2026-07-05
 
 ### Added

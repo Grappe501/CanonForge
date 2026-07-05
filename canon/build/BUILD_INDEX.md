@@ -14,8 +14,8 @@ BUILD-001–015                         → Phase One **complete** (001 v0.1 · 
 BUILD-015.5                           → Build Bible **in progress**
 BUILD-016                             → Phase Two **v1.0**
 BUILD-017                             → Phase Two **v1.0**
-BUILD-021                             → Phase Two **v1.0 partial**
-BUILD-022–036                         → queued
+BUILD-022                             → Phase Two **v1.0**
+BUILD-023–036                         → queued
 architecture/                         → expanded specs (derived · cross-ref)
 knowledge/entries/                    → verbatim source uploads
 ```
@@ -54,6 +54,7 @@ knowledge/entries/                    → verbatim source uploads
 | **019** | The Memory Engine | **1.0** | **Frozen** | 057 | CF-CON-416–430 | [BUILD-019](BUILD-019-memory-engine.md) |
 | **020** | The Resonance Registry | **1.0** | **Frozen** | 058 | CF-CON-431–448 | [BUILD-020](BUILD-020-resonance-registry.md) |
 | **021** | The Symbol Genome | **1.0** | **Frozen (partial)** | 059 | CF-CON-449–456 | [BUILD-021](BUILD-021-symbol-genome.md) |
+| **022** | The Language of Silence | **1.0** | **Frozen** | 060 | CF-CON-339, 457–472 | [BUILD-022](BUILD-022-language-of-silence.md) |
 | **018–025** | Phase Two engines | — | **Queued** | — | — | [CHRONOFORGE_PHASES](../architecture/CHRONOFORGE_PHASES.md) |
 | **026–036** | Phase Three novel | — | **Queued** | — | — | [CHRONOFORGE_PHASES](../architecture/CHRONOFORGE_PHASES.md) |
 
@@ -91,6 +92,7 @@ knowledge/entries/                    → verbatim source uploads
 | 019 Memory Engine | Five states · memory cycle · reader memory · remember differently |
 | 020 Resonance Registry | Motif families · five evolutions · closed/open · living network |
 | 021 Symbol Genome | Motif≠symbol · seven families · emergence · symbol web *(§021.7+ pending)* |
+| 022 Language of Silence | Seven forms · breath map · five reads of silence · final silence |
 
 ---
 

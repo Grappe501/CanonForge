@@ -53,6 +53,8 @@
 | **Closed and open motifs** | Complete in book vs alive after | CF-CON-448 |
 | **Symbol Genome** | Symbolic language · emergence not decode | CF-CON-449 |
 | **Motif not symbol** | Returns vs carries meaning | CF-CON-450 |
+| **Language of Silence** | Composed silence · seven forms | CF-CON-457 |
+| **Fifth read hears silence** | Words to architecture to silence | CF-CON-472 |
 | **Prime Directive** | Does this increase discovery? | CF-CON-158 |
 | **I was out of order** | Reader not timeline is the deeper realization | CF-CON-172 |
 | **Wrong chapter anchor** | Hidden development bone · may not be printed | CF-CON-174 |

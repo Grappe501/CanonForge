@@ -135,7 +135,7 @@ Some memories are never spoken aloud — yet they influence every choice.
 
 The reader gradually senses these **unseen currents**. **Silence becomes evidence.**
 
-*(CF-CON-425 · BUILD-022 Silence Ledger queued · BUILD-011 Covenant of Silence)*
+*(CF-CON-425 · BUILD-022 Language of Silence · BUILD-011 Covenant of Silence)*
 
 ---
 

@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 1.9.0 · 2026-07-05 · 456 concepts registered
+> Version 2.0.0 · 2026-07-05 · 472 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -342,7 +342,7 @@
 | CF-CON-336 | Grand Matrix | Architecture | **Frozen** | Scene row x system columns; complete before entry. | CF-ENTRY-051 |
 | CF-CON-337 | Echo Registry | Architecture | **Frozen** | Echo ID; meaning evolution; nothing once. | CF-ENTRY-051 |
 | CF-CON-338 | Symbol Registry | Architecture | **Frozen** | Recurring objects; no accidental symbolism. | CF-ENTRY-051 |
-| CF-CON-339 | Silence Ledger | Architecture | **Frozen** | Trackable silence network. | CF-ENTRY-051 |
+| CF-CON-339 | Silence Ledger | Architecture | **Frozen** | Trackable silence network; specified BUILD-022 Language of Silence. | CF-ENTRY-051, CF-ENTRY-060 |
 | CF-CON-340 | Typography Ledger | Architecture | **Frozen** | Every typographic deviation tracked. | CF-ENTRY-051 |
 | CF-CON-341 | Rhythm Ledger | Architecture | **Frozen** | Movement meter cadence velocity silence ratio. | CF-ENTRY-051 |
 | CF-CON-342 | Reader Ledger | Architecture | **Frozen** | Believe discover reconsider feel per scene. | CF-ENTRY-051 |
@@ -460,6 +460,22 @@
 | CF-CON-454 | Symbol record | Architecture | **Frozen** | Profile per symbol; links related motifs. | CF-ENTRY-059 |
 | CF-CON-455 | Rule of emergence | Governance | **Frozen** | Discover not decode; cant think same way anymore. | CF-ENTRY-059 |
 | CF-CON-456 | Symbol web | Architecture | **Frozen** | Symbols interact; meaning from relationships. | CF-ENTRY-059 |
+| CF-CON-457 | Language of Silence | Architecture | **Frozen** | Silence composed deliberately; seven forms; participation. | CF-ENTRY-060 |
+| CF-CON-458 | Silence never accidental | Governance | **Frozen** | Omission undescribed early end must have reason. | CF-ENTRY-060 |
+| CF-CON-459 | Silence as participation | Heart | **Frozen** | Author stops reader thinks; not emptiness. | CF-ENTRY-060 |
+| CF-CON-460 | Seven forms of silence | Architecture | **Frozen** | Reflective emotional relational narrative symbolic rhythmic sacred. | CF-ENTRY-060 |
+| CF-CON-461 | Silence ledger record | Architecture | **Frozen** | Entry per intentional silence; reread value. | CF-ENTRY-060 |
+| CF-CON-462 | Breath map | Architecture | **Frozen** | Silence controls breathing; page part of score. | CF-ENTRY-060 |
+| CF-CON-463 | Courage of omission | Heart | **Frozen** | Restraint not withholding; trust reader completes. | CF-ENTRY-060 |
+| CF-CON-464 | Weight of unsaid things | Heart | **Frozen** | Relationships defined by never spoken; equal to dialogue. | CF-ENTRY-060 |
+| CF-CON-465 | Rule of no empty silence | Governance | **Frozen** | Purposeful resonance; what work is this doing. | CF-ENTRY-060 |
+| CF-CON-466 | Echo of silence | Architecture | **Frozen** | Silences recur; reader hears silence itself. | CF-ENTRY-060 |
+| CF-CON-467 | Page as music rests | Architecture | **Frozen** | Margins breaks whitespace experienced physically. | CF-ENTRY-060 |
+| CF-CON-468 | Danger of explanation | Governance | **Frozen** | Explanation removes possibility; silence may deepen. | CF-ENTRY-060 |
+| CF-CON-469 | Readers silence | Heart | **Frozen** | Reader enters book during silence; co-creates meaning. | CF-ENTRY-060 |
+| CF-CON-470 | Five reads of silence | Process | **Frozen** | Pacing to language across five reads. | CF-ENTRY-060 |
+| CF-CON-471 | Final silence | Heart | **Frozen** | After final sentence; belongs entirely to reader. | CF-ENTRY-060 |
+| CF-CON-472 | Fifth read hears silence | Mission | **Frozen** | Words echoes rhythm architecture then silence. | CF-ENTRY-060 |
 
 ## Related Concepts
 
@@ -801,7 +817,7 @@
 - **CF-CON-336** (Grand Matrix, Frozen): CF-CON-134, CF-CON-325 → `canon/build/BUILD-015-resonance-matrix.md`
 - **CF-CON-337** (Echo Registry, Frozen): CF-CON-134, CF-CON-304 → `canon/build/BUILD-015-resonance-matrix.md`
 - **CF-CON-338** (Symbol Registry, Frozen): CF-CON-297, CF-CON-134 → `canon/build/BUILD-015-resonance-matrix.md`
-- **CF-CON-339** (Silence Ledger, Frozen): CF-CON-134, CF-CON-273 → `canon/build/BUILD-015-resonance-matrix.md`
+- **CF-CON-339** (Silence Ledger, Frozen): CF-CON-134, CF-CON-273, CF-CON-457 → `canon/build/BUILD-022-language-of-silence.md#0223--the-silence-ledger`
 - **CF-CON-340** (Typography Ledger, Frozen): CF-CON-089, CF-CON-134 → `canon/build/BUILD-015-resonance-matrix.md`
 - **CF-CON-341** (Rhythm Ledger, Frozen): CF-CON-300, CF-CON-134 → `canon/build/BUILD-015-resonance-matrix.md`
 - **CF-CON-342** (Reader Ledger, Frozen): CF-CON-161, CF-CON-134 → `canon/build/BUILD-015-resonance-matrix.md`
@@ -919,3 +935,19 @@
 - **CF-CON-454** (Symbol record, Frozen): CF-CON-449, CF-CON-434 → `canon/build/BUILD-021-symbol-genome.md#0214--the-symbol-record`
 - **CF-CON-455** (Rule of emergence, Frozen): CF-CON-449, CF-CON-415 → `canon/build/BUILD-021-symbol-genome.md#0215--the-rule-of-emergence`
 - **CF-CON-456** (Symbol web, Frozen): CF-CON-449, CF-CON-438 → `canon/build/BUILD-021-symbol-genome.md#0216--the-symbol-web`
+- **CF-CON-457** (Language of Silence, Frozen): CF-CON-339, CF-CON-459, CF-CON-472 → `canon/build/BUILD-022-language-of-silence.md`
+- **CF-CON-458** (Silence never accidental, Frozen): CF-CON-457, CF-CON-463 → `canon/build/BUILD-022-language-of-silence.md#0221--the-first-principle`
+- **CF-CON-459** (Silence as participation, Frozen): CF-CON-457, CF-CON-469 → `canon/build/BUILD-022-language-of-silence.md#0220--purpose`
+- **CF-CON-460** (Seven forms of silence, Frozen): CF-CON-457, CF-CON-461 → `canon/build/BUILD-022-language-of-silence.md#0222--the-seven-forms-of-silence`
+- **CF-CON-461** (Silence ledger record, Frozen): CF-CON-457, CF-CON-339 → `canon/build/BUILD-022-language-of-silence.md#0223--the-silence-ledger`
+- **CF-CON-462** (Breath map, Frozen): CF-CON-457, CF-CON-273 → `canon/build/BUILD-022-language-of-silence.md#0224--the-breath-map`
+- **CF-CON-463** (Courage of omission, Frozen): CF-CON-457, CF-CON-282 → `canon/build/BUILD-022-language-of-silence.md#0225--the-courage-of-omission`
+- **CF-CON-464** (Weight of unsaid things, Frozen): CF-CON-457, CF-CON-425 → `canon/build/BUILD-022-language-of-silence.md#0226--the-weight-of-unsaid-things`
+- **CF-CON-465** (Rule of no empty silence, Frozen): CF-CON-457, CF-CON-436 → `canon/build/BUILD-022-language-of-silence.md#0227--the-rule-of-no-empty-silence`
+- **CF-CON-466** (Echo of silence, Frozen): CF-CON-457, CF-CON-431 → `canon/build/BUILD-022-language-of-silence.md#0228--the-echo-of-silence`
+- **CF-CON-467** (Page as music rests, Frozen): CF-CON-457, CF-CON-162 → `canon/build/BUILD-022-language-of-silence.md#0229--the-page-as-music`
+- **CF-CON-468** (Danger of explanation, Frozen): CF-CON-457, CF-CON-390 → `canon/build/BUILD-022-language-of-silence.md#02210--the-danger-of-explanation`
+- **CF-CON-469** (Readers silence, Frozen): CF-CON-457, CF-CON-382 → `canon/build/BUILD-022-language-of-silence.md#02211--the-readers-silence`
+- **CF-CON-470** (Five reads of silence, Frozen): CF-CON-457, CF-CON-430 → `canon/build/BUILD-022-language-of-silence.md#02212--the-five-reads-of-silence`
+- **CF-CON-471** (Final silence, Frozen): CF-CON-457, CF-CON-448 → `canon/build/BUILD-022-language-of-silence.md#02213--the-final-silence`
+- **CF-CON-472** (Fifth read hears silence, Frozen): CF-CON-457, CF-CON-470 → `canon/build/BUILD-022-language-of-silence.md`

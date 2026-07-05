@@ -10,7 +10,7 @@
 
 ```txt
 PHASE ONE     Philosophy + engineering schema     ✓ COMPLETE
-PHASE TWO     Engineering documents               **016 ✓** · **017 ✓** · **018 ✓** · **019 ✓** · **020 ✓** · 021–025 queued
+PHASE TWO     Engineering documents               **016 ✓** · **017 ✓** · **018 ✓** · **019 ✓** · **020 ✓** · **021 partial** · **022 ✓** · 023–025 queued
 PHASE THREE   The novel (substrate)               BUILD-026–036
 PHASE FOUR    The people (lives)                  Per-consciousness packages
 PHASE FIVE    Composition                         Prose · one movement at a time
@@ -57,7 +57,7 @@ Engineer the book — not outline chapters.
 | **019** | **Memory Engine** | **✓ v1.0** · reconstruction · CF-ENTRY-057 |
 | **020** | **Resonance Registry** | **✓ v1.0** · motif vocabulary · CF-ENTRY-058 |
 | **021** | **Symbol Genome** | **✓ v1.0 partial** · §021.7+ pending · CF-ENTRY-059 |
-| **022** | Silence Ledger | Every pause · blank · omission |
+| **022** | **Language of Silence** | **✓ v1.0** · seven forms · CF-ENTRY-060 |
 | **023** | Typography Physics | Canonical · ~20 events · each enormous |
 | **024** | Rhythm Score | Movement · page · pulse · breath |
 | **025** | Page Architecture | Post-write · page turns · density · one-word pages |
