@@ -206,7 +206,7 @@ Next builds create **unique story identity**:
 
 *(Gates: Book of Secrets · OPEN_QUESTIONS story substrate · Phase Four lives)*
 
-→ **BUILD-032 Prime Event** *(✓ v1.0 · AUTHOR-ONLY)* · **BUILD-033 Color Language** *(Phase II.5 · queued)*
+→ **BUILD-032 Prime Event** *(✓ v1.0 · AUTHOR-ONLY)* · **BUILD-033–034** *(✓ v1.0)* · **BUILD-035 Antagonist Engine** *(queued)*
 
 ---
 
