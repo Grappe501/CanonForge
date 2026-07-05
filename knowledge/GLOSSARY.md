@@ -102,6 +102,9 @@
 | **Islands of memory** | Remembered moments not plot sequence | CF-CON-814 |
 | **Movement Engine** | Symphony movements replace chapters | CF-CON-817 |
 | **Movements felt not named** | Hidden architecture; reread not puzzle | CF-CON-832 |
+| **Convergence Engine** | Integration not resolution; story becomes whole | CF-CON-837 |
+| **One infinite reading** | Lifelong companion; book grows without new words | CF-CON-852 |
+| **Story Genome complete** | BUILD-033-040 frozen; Phase IV next | CF-CON-856 |
 | **Universe larger than imagined** | Ordinary world larger after closing book | CF-CON-563 |
 | **Motif not symbol** | Returns vs carries meaning | CF-CON-450 |
 | **Language of Silence** | Composed silence · seven forms | CF-CON-457 |

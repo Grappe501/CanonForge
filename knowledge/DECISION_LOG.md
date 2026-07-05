@@ -42,6 +42,9 @@
 | 2026-07-05 | Master Build Roadmap v1.0 | CF-ENTRY-035 session pause | CF-CON-150–155 |
 | 2026-07-05 | BUILD-001–013 frozen v1.0 | Foundational canon complete | CF-CON-156–320 |
 | 2026-07-05 | BUILD-014 Elements of Meaning | Supersedes Periodic Table stub | CF-CON-170 |
+| 2026-07-05 | BUILD-040 Convergence Engine v1.0 | Story Genome complete · infinite reading | CF-CON-837–856 |
+| 2026-07-05 | Story Genome phase complete | BUILD-033-040 frozen; Phase IV queued | CF-CON-689 |
+| 2026-07-05 | Ending Engine superseded | Convergence Engine replaces ending | CF-CON-851 |
 | 2026-07-05 | BUILD-039 Movement Engine v1.0 | Symphony not chapters · movements felt not named | CF-CON-817–836 |
 | 2026-07-05 | Movement Engine queued fulfilled | BUILD-039 replaces chapter structure | CF-CON-695 |
 | 2026-07-05 | BUILD-038 Moment Engine v1.0 | Moments not scenes · islands of memory | CF-CON-797–816 |

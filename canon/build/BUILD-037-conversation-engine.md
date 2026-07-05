@@ -8,7 +8,7 @@
 
 > **Conversation, not dialogue** — living systems where consciousness collides. Renamed from queued **Dialogue Engine** *(CF-CON-793)*. Four layers · listener as actor · change the reader's listening *(CF-CON-794)*.
 
-**Story Genome continues** *(BUILD-033–039 ✓)*. Next: **BUILD-040 Ending Engine** *(queued)*.
+**Story Genome complete** *(BUILD-033–040 ✓)*. Next: **Phase IV · BUILD-053 First Read Experience** *(queued)*.
 
 ---
 
@@ -202,13 +202,15 @@ Conversations inside Chronoforge become **practice for conversations outside it*
 
 ---
 
-→ **BUILD-038 Moment Engine** *(✓ v1.0)* · **BUILD-039 Movement Engine** *(✓ v1.0)* · **BUILD-040 Ending Engine** *(queued)*
+→ **BUILD-038 Moment Engine** *(✓ v1.0)* · **BUILD-039 Movement Engine** *(✓ v1.0)* · **BUILD-040 Convergence Engine** *(✓ v1.0)**
 
 ---
 
-## BUILD-040 preview *(CF-ENTRY-079)*
+## Phase IV preview *(CF-ENTRY-080)*
 
-→ **BUILD-040 Ending Engine** *(queued)*
+## Phase IV preview *(CF-ENTRY-080)*
+
+→ **BUILD-053 First Read Experience** *(queued)*
 
 ---
 

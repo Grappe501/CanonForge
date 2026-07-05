@@ -3,6 +3,17 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [2.20.0] — 2026-07-05
+
+### Added
+- CF-ENTRY-080: BUILD-040 The Convergence Engine Canonical v1.0
+- Concepts CF-CON-837 through CF-CON-856
+- Five convergences · convergence ledger · return to beginning · memory collapse
+- **One infinite reading** · lifelong companion (CF-CON-852–853)
+- **Story Genome complete** BUILD-033–040 (CF-CON-856 · CF-CON-689)
+- Ending Engine superseded (CF-CON-851)
+- Master Canon v1.7.0
+
 ## [2.19.0] — 2026-07-05
 
 ### Added

@@ -12,8 +12,9 @@
 | **Project Name** | CHRONOFORGE |
 | **Product** | **The Chronoforge Method** · novel = Version 1 |
 | **Project Version** | **0.4.0** *(Roadmap v2 · Phase II complete · 80–120 BUILD projection)* |
-| **Phase** | **One ✓** · **Two ✓** · **II.5 next** · III–VII queued |
+| **Phase** | **One ✓** · **Two ✓** · **Three ✓** · IV–VII queued |
 | **Engine room** | **✓ COMPLETE** (BUILD-016–032) |
+| **Story Genome** | **✓ COMPLETE** (BUILD-033–040) |
 | **Roadmap** | **80–120 BUILDs** · see [CHRONOFORGE_ROADMAP.md](../../architecture/CHRONOFORGE_ROADMAP.md) |
 | **Build Bible** | **~15%** (BUILD-015.5 v0.1 scaffold) |
 
@@ -24,10 +25,10 @@
 | Field | Value |
 |---|---|
 | **Repo** | CanonForge (`Grappe501/CanonForge`) |
-| **Repo Version** | See [VERSION](../../VERSION) · **2.19.0** |
-| **Build Layer** | BUILD-001–039 frozen · **015.5 active** |
-| **Entries** | CF-ENTRY-001 through CF-ENTRY-079 |
-| **Concepts** | 836+ |
+| **Repo Version** | See [VERSION](../../VERSION) · **2.20.0** |
+| **Build Layer** | BUILD-001–040 frozen · **015.5 active** |
+| **Entries** | CF-ENTRY-001 through CF-ENTRY-080 |
+| **Concepts** | 856+ |
 | **Traceability** | Entry → Concept → BUILD → Architecture → Matrix |
 
 ---
@@ -38,23 +39,24 @@
 |---|---|---|
 | **One** | Philosophy | **✓ COMPLETE** |
 | **Two** | Engines (016–032) | **✓ COMPLETE** |
-| **II.5** | Design Language (034–045) | **NEXT** |
-| **Three** | Story Genome (033–052) | **Active** (033–039 ✓ · 040 queued) |
-| **Four–Seven** | Five Reads · Score · Audits · Novel | Queued |
+| **Three** | Story Genome (033–040) | **✓ COMPLETE** |
+| **II.5** | Design Language | **Deferred** |
+| **Four** | Five Reads (053–057) | **NEXT** |
+| **Five–Seven** | Score · Audits · Novel | Queued |
 | **015.5** | Build Bible | **In progress** |
 
-→ [BUILD-026](BUILD-026-world-engine.md) · [BUILD-015.5](BUILD-015.5-chronoforge-master-architecture.md)
+→ [BUILD-040](BUILD-040-convergence-engine.md) · [BUILD-015.5](BUILD-015.5-chronoforge-master-architecture.md)
 
 ---
 
 ## Governance mode
 
 ```txt
-STOP:   BUILD-040 until BUILD-015.5 v1.0 (016–039 excepted per author uploads)
-START:  Story Genome · BUILD-040 Ending Engine
+STOP:   BUILD-053 until BUILD-015.5 v1.0 (016–040 excepted per author uploads)
+START:  Phase IV · BUILD-053 First Read Experience
 NEVER:  manuscript/ until Phase VII (BUILD-073+) · BUILD-031–032 never reader-facing
 ```
 
 ---
 
-*Project v0.4.0 · BUILD-039 Movement Engine frozen · BUILD-040 Ending Engine next · CF-ENTRY-079*
+*Project v0.4.0 · BUILD-040 Convergence frozen · Story Genome complete · Phase IV next · CF-ENTRY-080*

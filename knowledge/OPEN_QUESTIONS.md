@@ -74,14 +74,14 @@ Architecture must now give birth to the actual story. **BUILD-026 World Engine v
 
 Gravitational center: **How do separate consciousnesses discover that they belong to the same reality?** *(CF-CON-549)*
 
-Concrete questions for Story Genome (BUILD-040+):
+Concrete questions for Phase IV (BUILD-053+):
 
-- **BUILD-040 Ending Engine** — final resonance and departure *(queued)*
-- **Populate Movement ledger** — five functions · musical key · closing breath *(CF-CON-829)*
-- **Populate Moment ledger** — five families · resonance weight *(CF-CON-808)*
+- **BUILD-053 First Read Experience** — engineer what reader sees at each stage *(queued)*
+- **Populate Convergence ledger** — thread recognition · open future *(CF-CON-848)*
+- **One infinite reading** — sixth seventh eighth reads over lifetime *(CF-CON-852)*
 - **Design Language phase** — deferred *(CF-CON-687)*
 
-BUILD-039 establishes **movements replace chapters** — symphony structure · movements **felt not named** *(CF-CON-832 · CF-CON-833)*.
+BUILD-040 establishes **convergence not ending** — Story Genome **BUILD-033–040 complete** *(CF-CON-856 · CF-CON-689)* · **one infinite reading** *(CF-CON-852)*.
 
 ## Hidden mathematics {#hidden-math}
 

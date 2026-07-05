@@ -8,7 +8,7 @@
 
 > **Relationship arcs, not character arcs** — consciousness becomes visible only when two meet. Primary mechanism of evolution · empathy · transformation *(CF-CON-772 · CF-CON-773)*.
 
-**Story Genome continues** *(BUILD-033–039 ✓)*. Next: **BUILD-040 Ending Engine** *(queued)*.
+**Story Genome complete** *(BUILD-033–040 ✓)*. Next: **Phase IV · BUILD-053 First Read Experience** *(queued)*.
 
 ---
 
@@ -189,13 +189,15 @@ Most novels build **character arcs**. Chronoforge builds **relationship arcs**. 
 
 ---
 
-→ **BUILD-038 Moment Engine** *(✓ v1.0)* · **BUILD-039 Movement Engine** *(✓ v1.0)* · **BUILD-040 Ending Engine** *(queued)*
+→ **BUILD-038 Moment Engine** *(✓ v1.0)* · **BUILD-039 Movement Engine** *(✓ v1.0)* · **BUILD-040 Convergence Engine** *(✓ v1.0)**
 
 ---
 
-## BUILD-040 preview *(CF-ENTRY-079)*
+## Phase IV preview *(CF-ENTRY-080)*
 
-→ **BUILD-040 Ending Engine** *(queued)*
+## Phase IV preview *(CF-ENTRY-080)*
+
+→ **BUILD-053 First Read Experience** *(queued)*
 
 ---
 

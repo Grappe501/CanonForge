@@ -8,7 +8,7 @@
 
 > **Consciousness revealed, not created** *(CF-CON-713)*. Not a character profile — **architecture of awareness**. Identity through **experience, not labels** *(CF-CON-714)*.
 
-**Story Genome active** *(BUILD-033–039 ✓)*. Next: **BUILD-040 Ending Engine** *(queued)*.
+**Story Genome complete** *(BUILD-033–040 ✓)*. Next: **Phase IV · BUILD-053 First Read Experience** *(queued)*.
 
 ---
 
@@ -190,13 +190,15 @@ Readers imagine a **living consciousness** · unconsciously lend aspects of them
 | Color Language *(Roadmap v2)* | **Deferred** |
 | **The First Consciousness** | **Authoritative · BUILD-033 v1.0** |
 
-→ **BUILD-036 Relationship Engine** *(✓ v1.0)* · **BUILD-037 Conversation Engine** *(✓ v1.0)* · **BUILD-038 Moment Engine** *(✓ v1.0)* · **BUILD-039 Movement Engine** *(✓ v1.0)* · **BUILD-040 Ending Engine** *(queued)*
+→ **BUILD-036 Relationship Engine** *(✓ v1.0)* · **BUILD-037 Conversation Engine** *(✓ v1.0)* · **BUILD-038 Moment Engine** *(✓ v1.0)* · **BUILD-039 Movement Engine** *(✓ v1.0)* · **BUILD-040 Convergence Engine** *(✓ v1.0)**
 
 ---
 
-## BUILD-040 preview *(CF-ENTRY-079)*
+## Phase IV preview *(CF-ENTRY-080)*
 
-→ **BUILD-040 Ending Engine** *(queued)*
+## Phase IV preview *(CF-ENTRY-080)*
+
+→ **BUILD-053 First Read Experience** *(queued)*
 
 ---
 

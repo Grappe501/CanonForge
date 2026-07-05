@@ -8,7 +8,7 @@
 
 > **Moments, not scenes** — smallest complete unit of **transformation**, not location. Renamed from queued **Scene Engine** *(CF-CON-813)*. Measured by **change**, not time *(CF-CON-815)*.
 
-**Story Genome continues** *(BUILD-033–039 ✓)*. Next: **BUILD-040 Ending Engine** *(queued)*.
+**Story Genome complete** *(BUILD-033–040 ✓)*. Next: **Phase IV · BUILD-053 First Read Experience** *(queued)*.
 
 ---
 
@@ -189,13 +189,13 @@ That is **how human memory actually works** *(BUILD-019 · CF-CON-416)*.
 
 ---
 
-→ **BUILD-039 Movement Engine** *(✓ v1.0)* · **BUILD-040 Ending Engine** *(queued)*
+→ **BUILD-039 Movement Engine** *(✓ v1.0)* · **BUILD-040 Convergence Engine** *(✓ v1.0)**
 
 ---
 
-## BUILD-040 preview *(CF-ENTRY-079)*
+## Phase IV preview *(CF-ENTRY-080)*
 
-→ **BUILD-040 Ending Engine** *(queued)*
+→ **BUILD-053 First Read Experience** *(queued)*
 
 ---
 

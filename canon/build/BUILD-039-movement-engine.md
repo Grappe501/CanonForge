@@ -8,7 +8,7 @@
 
 > **Symphony, not novel structure** — movements replace chapters. **Felt, not named** *(CF-CON-832)*. Emotional completion, not page count *(CF-CON-835)*. Fulfills Roadmap **Movement Engine** *(CF-CON-695 · BUILD-039)*.
 
-**Story Genome continues** *(BUILD-033–039 ✓)*. Next: **BUILD-040 Ending Engine** *(queued)*.
+**Story Genome complete** *(BUILD-033–040 ✓)*. Next: **Phase IV · BUILD-053 First Read Experience** *(queued)*.
 
 ---
 
@@ -189,9 +189,13 @@ Movements are **felt, not named** — on second or third read, reader perceives 
 
 ---
 
-## BUILD-040 preview *(CF-ENTRY-079)*
+→ **BUILD-040 Convergence Engine** *(✓ v1.0 · Story Genome complete)*
 
-→ **BUILD-040 Ending Engine** *(queued)*
+---
+
+## Phase IV preview *(CF-ENTRY-080)*
+
+→ **BUILD-053 First Read Experience** *(queued)*
 
 ---
 

@@ -8,7 +8,7 @@
 
 > **Many lives briefly intersecting** *(CF-CON-736)* — not one life with supporting characters. Renamed from queued **Companion Engine** *(CF-CON-732)*.
 
-**Story Genome continues** *(BUILD-033–039 ✓)*. Next: **BUILD-040 Ending Engine** *(queued)*.
+**Story Genome complete** *(BUILD-033–040 ✓)*. Next: **Phase IV · BUILD-053 First Read Experience** *(queued)*.
 
 ---
 
@@ -188,7 +188,7 @@ Readers **revise understanding of people** — not just events. Every reread bec
 | Color Language *(Roadmap v2 BUILD-034)* | **Deferred** |
 | **Constellation of Consciousnesses** | **Authoritative · BUILD-034 v1.0** |
 
-→ **BUILD-040 Ending Engine** *(queued)*
+→ **Phase IV · BUILD-053 First Read Experience** *(queued)*
 
 ---
 

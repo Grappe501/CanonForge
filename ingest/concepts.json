@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "canonforge_version": "2.14.0",
-  "generated_at": "2026-07-05T22:59:25.416859+00:00",
+  "generated_at": "2026-07-05T23:03:03.501204+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -7622,14 +7622,13 @@
       "id": "CF-CON-689",
       "label": "Story Genome phase",
       "category": "Architecture",
-      "status": "Open",
-      "definition": "Phase III BUILD-033-052; 033-034 frozen.",
+      "status": "Frozen",
+      "definition": "Phase III BUILD-033-040 complete; Phase IV Five Reads next.",
       "sources": [
         "CF-ENTRY-072",
-        "CF-ENTRY-073",
-        "CF-ENTRY-074"
+        "CF-ENTRY-080"
       ],
-      "canon_ref": "architecture/CHRONOFORGE_ROADMAP.md"
+      "canon_ref": "canon/build/BUILD-040-convergence-engine.md"
     },
     {
       "id": "CF-CON-690",
@@ -9254,6 +9253,227 @@
         "CF-ENTRY-079"
       ],
       "canon_ref": "canon/build/BUILD-039-movement-engine.md"
+    },
+    {
+      "id": "CF-CON-837",
+      "label": "Convergence Engine",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Final movement; integration not resolution.",
+      "sources": [
+        "CF-ENTRY-080"
+      ],
+      "canon_ref": "canon/build/BUILD-040-convergence-engine.md"
+    },
+    {
+      "id": "CF-CON-838",
+      "label": "Convergence first law",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Reveals not invents; been here all along.",
+      "sources": [
+        "CF-ENTRY-080"
+      ],
+      "canon_ref": "canon/build/BUILD-040-convergence-engine.md#0401--the-first-law"
+    },
+    {
+      "id": "CF-CON-839",
+      "label": "Five convergences",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Plot consciousness relationship reader meaning.",
+      "sources": [
+        "CF-ENTRY-080"
+      ],
+      "canon_ref": "canon/build/BUILD-040-convergence-engine.md#0402--the-five-convergences"
+    },
+    {
+      "id": "CF-CON-840",
+      "label": "Return to beginning",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "First sentence new without word change; reader changed.",
+      "sources": [
+        "CF-ENTRY-080"
+      ],
+      "canon_ref": "canon/build/BUILD-040-convergence-engine.md#0403--the-return-to-the-beginning"
+    },
+    {
+      "id": "CF-CON-841",
+      "label": "Convergence loop",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Final invites first through recognition not gimmick.",
+      "sources": [
+        "CF-ENTRY-080"
+      ],
+      "canon_ref": "canon/build/BUILD-040-convergence-engine.md#0404--the-loop"
+    },
+    {
+      "id": "CF-CON-842",
+      "label": "Five revelations ending",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Five read revelations culminating in reader change.",
+      "sources": [
+        "CF-ENTRY-080"
+      ],
+      "canon_ref": "canon/build/BUILD-040-convergence-engine.md#0405--the-five-revelations"
+    },
+    {
+      "id": "CF-CON-843",
+      "label": "Silence after",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Longest silence; meaning expands after close.",
+      "sources": [
+        "CF-ENTRY-080"
+      ],
+      "canon_ref": "canon/build/BUILD-040-convergence-engine.md#0406--the-silence-after"
+    },
+    {
+      "id": "CF-CON-844",
+      "label": "Memory collapse",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Memories reorganize; stars become constellation.",
+      "sources": [
+        "CF-ENTRY-080"
+      ],
+      "canon_ref": "canon/build/BUILD-040-convergence-engine.md#0407--the-memory-collapse"
+    },
+    {
+      "id": "CF-CON-845",
+      "label": "Prime Event recognized",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Not exposed; emotional recognition not information.",
+      "sources": [
+        "CF-ENTRY-080"
+      ],
+      "canon_ref": "canon/build/BUILD-040-convergence-engine.md#0408--the-prime-event-revealed"
+    },
+    {
+      "id": "CF-CON-846",
+      "label": "Human completion",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Plot ends humanity continues; discovery continues.",
+      "sources": [
+        "CF-ENTRY-080"
+      ],
+      "canon_ref": "canon/build/BUILD-040-convergence-engine.md#0409--the-human-completion"
+    },
+    {
+      "id": "CF-CON-847",
+      "label": "Reader convergence",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Reader final consciousness in constellation.",
+      "sources": [
+        "CF-ENTRY-080"
+      ],
+      "canon_ref": "canon/build/BUILD-040-convergence-engine.md#04010--the-readers-convergence"
+    },
+    {
+      "id": "CF-CON-848",
+      "label": "Convergence ledger record",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Eight fields per major thread convergence.",
+      "sources": [
+        "CF-ENTRY-080"
+      ],
+      "canon_ref": "canon/build/BUILD-040-convergence-engine.md#04011--the-convergence-ledger"
+    },
+    {
+      "id": "CF-CON-849",
+      "label": "Rule of restraint ending",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Trust at ending; participation not lectures.",
+      "sources": [
+        "CF-ENTRY-080"
+      ],
+      "canon_ref": "canon/build/BUILD-040-convergence-engine.md#04012--the-rule-of-restraint"
+    },
+    {
+      "id": "CF-CON-850",
+      "label": "Convergence final principle",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Expanded perception not certainty; unfinished understanding.",
+      "sources": [
+        "CF-ENTRY-080"
+      ],
+      "canon_ref": "canon/build/BUILD-040-convergence-engine.md#04013--the-final-principle"
+    },
+    {
+      "id": "CF-CON-851",
+      "label": "Ending Engine superseded",
+      "category": "Architecture",
+      "status": "Deprecated",
+      "definition": "Replaced by Convergence Engine BUILD-040.",
+      "sources": [
+        "CF-ENTRY-072",
+        "CF-ENTRY-080"
+      ],
+      "canon_ref": "canon/build/BUILD-040-convergence-engine.md"
+    },
+    {
+      "id": "CF-CON-852",
+      "label": "One infinite reading",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Five reads are dramatic transforms of infinite reading.",
+      "sources": [
+        "CF-ENTRY-080"
+      ],
+      "canon_ref": "canon/build/BUILD-040-convergence-engine.md#one-infinite-reading-cf-con-852--cf-con-853--author-closing"
+    },
+    {
+      "id": "CF-CON-853",
+      "label": "Lifelong companion book",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Fixed text evolving reader; grows without new words.",
+      "sources": [
+        "CF-ENTRY-080"
+      ],
+      "canon_ref": "canon/build/BUILD-040-convergence-engine.md#one-infinite-reading-cf-con-852--cf-con-853--author-closing"
+    },
+    {
+      "id": "CF-CON-854",
+      "label": "Convergence not ending",
+      "category": "Theme",
+      "status": "Frozen",
+      "definition": "Endings stop; convergences continue.",
+      "sources": [
+        "CF-ENTRY-080"
+      ],
+      "canon_ref": "canon/build/BUILD-040-convergence-engine.md"
+    },
+    {
+      "id": "CF-CON-855",
+      "label": "Story becomes whole",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Ending where story finally becomes whole.",
+      "sources": [
+        "CF-ENTRY-080"
+      ],
+      "canon_ref": "canon/build/BUILD-040-convergence-engine.md"
+    },
+    {
+      "id": "CF-CON-856",
+      "label": "Story Genome complete",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "BUILD-033-040 Story Genome frozen; Phase IV next.",
+      "sources": [
+        "CF-ENTRY-080"
+      ],
+      "canon_ref": "canon/build/BUILD-040-convergence-engine.md"
     }
   ],
   "edges": [
@@ -15734,12 +15954,12 @@
     },
     {
       "from": "CF-CON-689",
-      "to": "CF-CON-697",
+      "to": "CF-CON-837",
       "type": "related"
     },
     {
       "from": "CF-CON-689",
-      "to": "CF-CON-717",
+      "to": "CF-CON-697",
       "type": "related"
     },
     {
@@ -17230,6 +17450,206 @@
     {
       "from": "CF-CON-836",
       "to": "CF-CON-076",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-837",
+      "to": "CF-CON-854",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-837",
+      "to": "CF-CON-855",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-837",
+      "to": "CF-CON-839",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-838",
+      "to": "CF-CON-837",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-838",
+      "to": "CF-CON-681",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-839",
+      "to": "CF-CON-837",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-839",
+      "to": "CF-CON-697",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-840",
+      "to": "CF-CON-837",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-840",
+      "to": "CF-CON-036",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-841",
+      "to": "CF-CON-837",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-841",
+      "to": "CF-CON-056",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-842",
+      "to": "CF-CON-837",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-842",
+      "to": "CF-CON-161",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-843",
+      "to": "CF-CON-837",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-843",
+      "to": "CF-CON-457",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-844",
+      "to": "CF-CON-837",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-844",
+      "to": "CF-CON-717",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-845",
+      "to": "CF-CON-837",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-845",
+      "to": "CF-CON-665",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-846",
+      "to": "CF-CON-837",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-846",
+      "to": "CF-CON-627",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-847",
+      "to": "CF-CON-837",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-847",
+      "to": "CF-CON-002",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-848",
+      "to": "CF-CON-837",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-848",
+      "to": "CF-CON-829",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-849",
+      "to": "CF-CON-837",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-849",
+      "to": "CF-CON-282",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-850",
+      "to": "CF-CON-837",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-850",
+      "to": "CF-CON-293",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-851",
+      "to": "CF-CON-837",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-852",
+      "to": "CF-CON-837",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-852",
+      "to": "CF-CON-053",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-853",
+      "to": "CF-CON-852",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-853",
+      "to": "CF-CON-137",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-854",
+      "to": "CF-CON-837",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-854",
+      "to": "CF-CON-851",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-855",
+      "to": "CF-CON-837",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-855",
+      "to": "CF-CON-840",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-856",
+      "to": "CF-CON-837",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-856",
+      "to": "CF-CON-689",
       "type": "related"
     }
   ]

@@ -1,7 +1,7 @@
-# Master Canon v1.6.3
+# Master Canon v1.7.0
 
-> **BUILD-039:** Movement Engine · symphony not chapters · movements felt not named
-> Supersedes v1.6.2 (2026-07-05 · BUILD-039 CF-ENTRY-079 · CanonForge 2.19.0)
+> **BUILD-040:** Convergence Engine · Story Genome **complete** · one infinite reading
+> Supersedes v1.6.3 (2026-07-05 · BUILD-040 CF-ENTRY-080 · CanonForge 2.20.0)
 
 ---
 
@@ -42,7 +42,9 @@ Key locked insights:
 | **Four Pillars** | Strengthen ≥1 of Wonder · **Connection** · Resonance · Transformation? | BUILD-003 v1.0 |
 | Seven Laws | Immutable · complies with BUILD-004 v1.0? | BUILD-004 |
 
-**Stack:** BUILD-001 = *why* · … · **038 = *moments*** · **039 = *movements not chapters***
+**Stack:** BUILD-001 = *why* · … · **039 = *movements*** · **040 = *convergence · Story Genome complete***
+
+→ [build/BUILD-040-convergence-engine.md](build/BUILD-040-convergence-engine.md) · Five Convergences · Infinite Reading · Convergence Ledger
 
 → [build/BUILD-039-movement-engine.md](build/BUILD-039-movement-engine.md) · Five Functions · Movement Ledger · Felt Not Named
 
@@ -302,6 +304,12 @@ Possibility under consideration: **never shown directly** — reader **assembles
 
 > **Movements replace chapters** *(CF-CON-833 · CF-CON-059)* — defined by **emotional completion**, not page count *(CF-CON-835)*. **Five functions:** Awakening · Exploration · Fracture · Integration · Resonance *(CF-CON-819)*. Movements **felt, not named** — never labeled · perceived on reread *(CF-CON-832)*. Novella = **one symphony** *(CF-CON-828 · CF-CON-076)*.
 
+### Convergence immutable law (CF-CON-837 · BUILD-040)
+
+> **The ending is not where the story stops. It is where the story finally becomes whole.**
+
+> **Convergence, not ending** *(CF-CON-854)* — **reveals, does not invent** *(CF-CON-838)*. **Five convergences:** plot · consciousness · relationship · reader · meaning *(CF-CON-839)*. First sentence becomes new **without changing a word** *(CF-CON-840)*. Reader = **final consciousness in constellation** *(CF-CON-847)*. **One infinite reading** — lifelong companion · book grows without new words *(CF-CON-852 · CF-CON-853)*. **Story Genome complete** *(BUILD-033–040 · CF-CON-856)*.
+
 ### Cosmology immutable law (CF-CON-625 · BUILD-030)
 
 > **The universe is not a machine to be solved. It is a reality to be explored.**
@@ -314,7 +322,7 @@ Final question: **"How should conscious beings live within a universe they can n
 
 **Secret History** *(BUILD-031 · CF-CON-645 · AUTHOR-ONLY)* — hidden chronology framework. Populated events never reader-facing. See protected BUILD doc — not cited in surface canon.
 
-**Story Genome active** *(BUILD-033–039 · CF-CON-697 · CF-CON-717 · CF-CON-737 · CF-CON-757 · CF-CON-777 · CF-CON-797 · CF-CON-817)*. Next: **BUILD-040 Ending Engine**.
+**Story Genome complete** *(BUILD-033–040 · CF-CON-856 · CF-CON-689)*. Next: **Phase IV · BUILD-053 First Read Experience**.
 
 ### Visual Grammar (CF-CON-080 · CF-CON-081)
 

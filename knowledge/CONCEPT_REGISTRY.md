@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 2.19.0 · 2026-07-05 · 836 concepts registered
+> Version 2.20.0 · 2026-07-05 · 856 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -692,7 +692,7 @@
 | CF-CON-686 | Phase II engine room complete | Mission | **Frozen** | BUILD-016-032 operating system frozen. | CF-ENTRY-072 |
 | CF-CON-687 | Design Language phase | Architecture | **Open** | Atomic vocabulary deferred; BUILD numbers TBD. | CF-ENTRY-072, CF-ENTRY-073, CF-ENTRY-074 |
 | CF-CON-688 | 80-120 build scale | Governance | **Open** | Projected canonical BUILD count at completion. | CF-ENTRY-072 |
-| CF-CON-689 | Story Genome phase | Architecture | **Open** | Phase III BUILD-033-052; 033-034 frozen. | CF-ENTRY-072, CF-ENTRY-073, CF-ENTRY-074 |
+| CF-CON-689 | Story Genome phase | Architecture | **Frozen** | Phase III BUILD-033-040 complete; Phase IV Five Reads next. | CF-ENTRY-072, CF-ENTRY-080 |
 | CF-CON-690 | Five Reads engineering | Architecture | **Open** | Phase IV BUILD-053-057 reread capability. | CF-ENTRY-072 |
 | CF-CON-691 | Design language before characters | Governance | **Frozen** | Atomic vocabulary before protagonist. | CF-ENTRY-072 |
 | CF-CON-692 | Chronoforge roadmap v2 | Governance | **Frozen** | Seven phases plus II.5; renumber 033+. | CF-ENTRY-072 |
@@ -840,6 +840,26 @@
 | CF-CON-834 | Where movement took me | Heart | **Frozen** | Never what chapter; where movement taken reader. | CF-ENTRY-079 |
 | CF-CON-835 | Emotional completion movement | Architecture | **Frozen** | Movement defined by emotional completion not pages. | CF-ENTRY-079 |
 | CF-CON-836 | Symphony structure novella | Mission | **Frozen** | Stops resembling novel; starts resembling symphony. | CF-ENTRY-079 |
+| CF-CON-837 | Convergence Engine | Architecture | **Frozen** | Final movement; integration not resolution. | CF-ENTRY-080 |
+| CF-CON-838 | Convergence first law | Governance | **Frozen** | Reveals not invents; been here all along. | CF-ENTRY-080 |
+| CF-CON-839 | Five convergences | Architecture | **Frozen** | Plot consciousness relationship reader meaning. | CF-ENTRY-080 |
+| CF-CON-840 | Return to beginning | Heart | **Frozen** | First sentence new without word change; reader changed. | CF-ENTRY-080 |
+| CF-CON-841 | Convergence loop | Architecture | **Frozen** | Final invites first through recognition not gimmick. | CF-ENTRY-080 |
+| CF-CON-842 | Five revelations ending | Mission | **Frozen** | Five read revelations culminating in reader change. | CF-ENTRY-080 |
+| CF-CON-843 | Silence after | Architecture | **Frozen** | Longest silence; meaning expands after close. | CF-ENTRY-080 |
+| CF-CON-844 | Memory collapse | Architecture | **Frozen** | Memories reorganize; stars become constellation. | CF-ENTRY-080 |
+| CF-CON-845 | Prime Event recognized | Architecture | **Frozen** | Not exposed; emotional recognition not information. | CF-ENTRY-080 |
+| CF-CON-846 | Human completion | Heart | **Frozen** | Plot ends humanity continues; discovery continues. | CF-ENTRY-080 |
+| CF-CON-847 | Reader convergence | Heart | **Frozen** | Reader final consciousness in constellation. | CF-ENTRY-080 |
+| CF-CON-848 | Convergence ledger record | Architecture | **Frozen** | Eight fields per major thread convergence. | CF-ENTRY-080 |
+| CF-CON-849 | Rule of restraint ending | Governance | **Frozen** | Trust at ending; participation not lectures. | CF-ENTRY-080 |
+| CF-CON-850 | Convergence final principle | Mission | **Frozen** | Expanded perception not certainty; unfinished understanding. | CF-ENTRY-080 |
+| CF-CON-851 | Ending Engine superseded | Architecture | **Deprecated** | Replaced by Convergence Engine BUILD-040. | CF-ENTRY-072, CF-ENTRY-080 |
+| CF-CON-852 | One infinite reading | Mission | **Frozen** | Five reads are dramatic transforms of infinite reading. | CF-ENTRY-080 |
+| CF-CON-853 | Lifelong companion book | Mission | **Frozen** | Fixed text evolving reader; grows without new words. | CF-ENTRY-080 |
+| CF-CON-854 | Convergence not ending | Theme | **Frozen** | Endings stop; convergences continue. | CF-ENTRY-080 |
+| CF-CON-855 | Story becomes whole | Heart | **Frozen** | Ending where story finally becomes whole. | CF-ENTRY-080 |
+| CF-CON-856 | Story Genome complete | Architecture | **Frozen** | BUILD-033-040 Story Genome frozen; Phase IV next. | CF-ENTRY-080 |
 
 ## Related Concepts
 
@@ -1531,7 +1551,7 @@
 - **CF-CON-686** (Phase II engine room complete, Frozen): CF-CON-660, CF-CON-665 → `architecture/CHRONOFORGE_ROADMAP.md`
 - **CF-CON-687** (Design Language phase, Open): CF-CON-691, CF-CON-689 → `architecture/CHRONOFORGE_ROADMAP.md`
 - **CF-CON-688** (80-120 build scale, Open): CF-CON-685 → `architecture/CHRONOFORGE_ROADMAP.md`
-- **CF-CON-689** (Story Genome phase, Open): CF-CON-697, CF-CON-717 → `architecture/CHRONOFORGE_ROADMAP.md`
+- **CF-CON-689** (Story Genome phase, Frozen): CF-CON-837, CF-CON-697 → `canon/build/BUILD-040-convergence-engine.md`
 - **CF-CON-690** (Five Reads engineering, Open): CF-CON-001, CF-CON-689 → `architecture/CHRONOFORGE_ROADMAP.md`
 - **CF-CON-691** (Design language before characters, Frozen): CF-CON-687, CF-CON-545 → `architecture/CHRONOFORGE_ROADMAP.md`
 - **CF-CON-692** (Chronoforge roadmap v2, Frozen): CF-CON-360, CF-CON-688 → `architecture/CHRONOFORGE_ROADMAP.md`
@@ -1679,3 +1699,23 @@
 - **CF-CON-834** (Where movement took me, Frozen): CF-CON-817, CF-CON-827 → `canon/build/BUILD-039-movement-engine.md`
 - **CF-CON-835** (Emotional completion movement, Frozen): CF-CON-817, CF-CON-818 → `canon/build/BUILD-039-movement-engine.md#0390--purpose`
 - **CF-CON-836** (Symphony structure novella, Frozen): CF-CON-817, CF-CON-076 → `canon/build/BUILD-039-movement-engine.md`
+- **CF-CON-837** (Convergence Engine, Frozen): CF-CON-854, CF-CON-855, CF-CON-839 → `canon/build/BUILD-040-convergence-engine.md`
+- **CF-CON-838** (Convergence first law, Frozen): CF-CON-837, CF-CON-681 → `canon/build/BUILD-040-convergence-engine.md#0401--the-first-law`
+- **CF-CON-839** (Five convergences, Frozen): CF-CON-837, CF-CON-697 → `canon/build/BUILD-040-convergence-engine.md#0402--the-five-convergences`
+- **CF-CON-840** (Return to beginning, Frozen): CF-CON-837, CF-CON-036 → `canon/build/BUILD-040-convergence-engine.md#0403--the-return-to-the-beginning`
+- **CF-CON-841** (Convergence loop, Frozen): CF-CON-837, CF-CON-056 → `canon/build/BUILD-040-convergence-engine.md#0404--the-loop`
+- **CF-CON-842** (Five revelations ending, Frozen): CF-CON-837, CF-CON-161 → `canon/build/BUILD-040-convergence-engine.md#0405--the-five-revelations`
+- **CF-CON-843** (Silence after, Frozen): CF-CON-837, CF-CON-457 → `canon/build/BUILD-040-convergence-engine.md#0406--the-silence-after`
+- **CF-CON-844** (Memory collapse, Frozen): CF-CON-837, CF-CON-717 → `canon/build/BUILD-040-convergence-engine.md#0407--the-memory-collapse`
+- **CF-CON-845** (Prime Event recognized, Frozen): CF-CON-837, CF-CON-665 → `canon/build/BUILD-040-convergence-engine.md#0408--the-prime-event-revealed`
+- **CF-CON-846** (Human completion, Frozen): CF-CON-837, CF-CON-627 → `canon/build/BUILD-040-convergence-engine.md#0409--the-human-completion`
+- **CF-CON-847** (Reader convergence, Frozen): CF-CON-837, CF-CON-002 → `canon/build/BUILD-040-convergence-engine.md#04010--the-readers-convergence`
+- **CF-CON-848** (Convergence ledger record, Frozen): CF-CON-837, CF-CON-829 → `canon/build/BUILD-040-convergence-engine.md#04011--the-convergence-ledger`
+- **CF-CON-849** (Rule of restraint ending, Frozen): CF-CON-837, CF-CON-282 → `canon/build/BUILD-040-convergence-engine.md#04012--the-rule-of-restraint`
+- **CF-CON-850** (Convergence final principle, Frozen): CF-CON-837, CF-CON-293 → `canon/build/BUILD-040-convergence-engine.md#04013--the-final-principle`
+- **CF-CON-851** (Ending Engine superseded, Deprecated): CF-CON-837 → `canon/build/BUILD-040-convergence-engine.md`
+- **CF-CON-852** (One infinite reading, Frozen): CF-CON-837, CF-CON-053 → `canon/build/BUILD-040-convergence-engine.md#one-infinite-reading-cf-con-852--cf-con-853--author-closing`
+- **CF-CON-853** (Lifelong companion book, Frozen): CF-CON-852, CF-CON-137 → `canon/build/BUILD-040-convergence-engine.md#one-infinite-reading-cf-con-852--cf-con-853--author-closing`
+- **CF-CON-854** (Convergence not ending, Frozen): CF-CON-837, CF-CON-851 → `canon/build/BUILD-040-convergence-engine.md`
+- **CF-CON-855** (Story becomes whole, Frozen): CF-CON-837, CF-CON-840 → `canon/build/BUILD-040-convergence-engine.md`
+- **CF-CON-856** (Story Genome complete, Frozen): CF-CON-837, CF-CON-689 → `canon/build/BUILD-040-convergence-engine.md`
