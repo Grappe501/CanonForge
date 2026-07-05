@@ -1,7 +1,7 @@
 # Physics of Reading
 
-> Every visual change has **physical meaning inside the universe**
-> Not a style guide — the laws typography must obey · CF-CON-092 · CF-ENTRY-029
+> **Canonical source:** [canon/build/BUILD-010-physics-of-reading.md](../canon/build/BUILD-010-physics-of-reading.md) v1.0.0
+> This document is the **expanded typography spec** · CF-CON-092 · CF-ENTRY-029
 
 ---
 

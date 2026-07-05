@@ -33,6 +33,11 @@
 | **North Star** | The book never changes. Only the reader does. | CF-CON-137 |
 | **Article XVII** | Assumption — silent on irrelevant identity | CF-CON-145 |
 | **Resonance Matrix** | Crown jewel page-row map (TBD) | CF-CON-134 |
+| **Prime Directive** | Does this increase discovery? | CF-CON-158 |
+| **Four Pillars** | Wonder · Humanity · Resonance · Transformation | CF-CON-159 |
+| **Reader Arc** | Five-stage reader journey parallel to protagonist | CF-CON-161 |
+| **Assumption Engine** | Per-page assumption · natural · transform | CF-CON-164 |
+| **BUILD layer** | Versioned canonical build documents 001+ | CF-CON-156 |
 | **Experience product** | The reading journey is the product, not the artifact | CF-CON-037 |
 | **3-text-before-page-5** | Experience success scene: text three people before reaching page five on reread | CF-CON-045 |
 | **Call me when you finish** | Target recommendation type — experience sharing, not craft admiration | CF-CON-038 |

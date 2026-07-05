@@ -1,8 +1,8 @@
-# Master Canon v0.4.0
+# Master Canon v0.5.0
 
 > Implementation constitution · derived from [CONSTITUTION.md](CONSTITUTION.md)
-> **BUILD-000.000 is law** — if conflict, Constitution wins
-> Supersedes v0.3.0 (2026-07-05 · Constitution ratified CF-ENTRY-033)
+> **BUILD-000.000 is law** — BUILD-001–013 are frozen foundational canon
+> Supersedes v0.4.0 (2026-07-05 · BUILD layer CF-ENTRY-036)
 
 ---
 
@@ -12,6 +12,7 @@
 |---|---|
 | **Codename** | CHRONOFORGE |
 | **Repo** | CanonForge (`Grappe501/CanonForge`) |
+| **Project Version** | CHRONOFORGE **0.0.1** · see [build/PROJECT_STATUS.md](build/PROJECT_STATUS.md) |
 | **Form** | ~100–120 pages · **no chapters** · invisible movements |
 | **Architecture** | Recursive novel · Five Locks · Chronology Lie · artifact · **scored composition** |
 | **Medium** | Symphony disguised as novella · **Resonance** is central metaphor |
@@ -20,7 +21,25 @@
 
 ## The Mission
 
-Tell the **best adventure story we can possibly tell** — tested against [CONSTITUTION.md](CONSTITUTION.md) North Star and One Question.
+### BUILD-001 — Core Question (frozen v1.0.0 · CF-CON-157)
+
+> To allow readers to experience, rather than merely understand, that every human being—and every memory, story, and moment—becomes richer when we question our assumptions with humility.
+
+Genre (SF, adventure, politics) are **expressions**. This is **purpose**.
+
+→ [build/BUILD-001-core-question.md](build/BUILD-001-core-question.md)
+
+### Decision filters
+
+| Filter | Question | BUILD |
+|---|---|---|
+| Prime Directive | Does this increase **discovery**? | BUILD-002 |
+| One Question | Does this increase **wonder** without reducing **clarity**? | BUILD-000.002 |
+| Four Pillars | Strengthen ≥1 of Wonder · Humanity · Resonance · Transformation? | BUILD-003 |
+
+→ Full registry: [build/BUILD_INDEX.md](build/BUILD_INDEX.md)
+
+Tell the **best adventure story we can possibly tell** — tested against Constitution, BUILD layer, and filters above.
 
 > **The book never changes. Only the reader does.** (BUILD-000.001)
 

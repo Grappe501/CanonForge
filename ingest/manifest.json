@@ -1,13 +1,15 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "0.2.0",
-  "generated_at": "2026-07-05T21:05:14.930796+00:00",
+  "canonforge_version": "0.6.0",
+  "generated_at": "2026-07-05T21:07:55.474664+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 35,
-  "concept_count": 155,
+  "entry_count": 36,
+  "concept_count": 170,
   "roadmap_version": "1.0",
+  "project_version": "0.0.1",
+  "build_layer": "BUILD-001-013 frozen",
   "entries": [
     {
       "entry_id": "CF-ENTRY-001",
@@ -502,7 +504,7 @@
     {
       "entry_id": "CF-ENTRY-035",
       "file": "knowledge/entries/035-master-build-roadmap-v1-pause.md",
-      "sha256": "78247044a9acab0e93f7a5a32f29adc0f096950a6f88af84a367f5f11357b896",
+      "sha256": "367e42708afb272353060c75f1a75dd9ad0cf59b814254cab7813963881ccfb2",
       "date_ingested": "2026-07-05",
       "status": "processed",
       "concepts_extracted": [
@@ -513,7 +515,32 @@
         "CF-CON-154",
         "CF-CON-155"
       ],
-      "byte_size": 1838
+      "byte_size": 7974
+    },
+    {
+      "entry_id": "CF-ENTRY-036",
+      "file": "knowledge/entries/036-master-build-canonical-discipline-build-001-013.md",
+      "sha256": "855ed8c31a5277bac5665af4699e2138e4893b3b96a6bca575ca8ef40813b786",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-156",
+        "CF-CON-157",
+        "CF-CON-158",
+        "CF-CON-159",
+        "CF-CON-160",
+        "CF-CON-161",
+        "CF-CON-162",
+        "CF-CON-163",
+        "CF-CON-164",
+        "CF-CON-165",
+        "CF-CON-166",
+        "CF-CON-167",
+        "CF-CON-168",
+        "CF-CON-169",
+        "CF-CON-170"
+      ],
+      "byte_size": 6996
     }
   ],
   "indexes": {

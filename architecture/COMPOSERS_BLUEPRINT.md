@@ -224,7 +224,8 @@ COMPLETE  ✓  Phase 0 · Phase 1 · frameworks for 3–4, 9–12, 16–19
 ROADMAP   ✓  v1.0 locked · CF-ENTRY-035
 PAUSE     ✓  Session end · 2026-07-05
 
-NEXT      ○  Phase 2 Book of Secrets (BUILD-001)
+NEXT      ○  BUILD-014 Periodic Table of the Novel
+        ○  Phase 2 Book of Secrets (BUILD-001 in roadmap = core question; BoS = Phase 2)
         ○  Phases 3–8 population
         ○  Resonance Matrix + Reader Simulator
 

@@ -3,6 +3,19 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [0.6.0] — 2026-07-05
+
+### Added
+- CF-ENTRY-036: Master Build BUILD-001–013 · canonical discipline
+- `canon/build/` — versioned BUILD documents · BUILD_INDEX · PROJECT_STATUS
+- Concepts CF-CON-156 through CF-CON-170
+- BUILD-014 Periodic Table queued as next build
+- CHRONOFORGE Project v0.0.1 status tracked separately from repo version
+
+### Frozen (v1.0.0)
+- BUILD-001 Core Question through BUILD-013 Writer's Oath
+- BUILD-012 Title requirement (text still unnamed)
+
 ## [0.5.0] — 2026-07-05
 
 ### Added

@@ -39,3 +39,4 @@
 | CF-ENTRY-033 | `knowledge/entries/033-the-constitution-build-000-humanity.md` | 2026-07-05 | processed | CF-CON-136, CF-CON-137, CF-CON-138, CF-CON-139, CF-CON-140, CF-CON-141, CF-CON-142, CF-CON-143, CF-CON-144 |
 | CF-ENTRY-034 | `knowledge/entries/034-reader-assigned-identity-article-xvii.md` | 2026-07-05 | processed | CF-CON-145, CF-CON-146, CF-CON-147, CF-CON-148, CF-CON-149 |
 | CF-ENTRY-035 | `knowledge/entries/035-master-build-roadmap-v1-pause.md` | 2026-07-05 | processed | CF-CON-150, CF-CON-151, CF-CON-152, CF-CON-153, CF-CON-154, CF-CON-155 |
+| CF-ENTRY-036 | `knowledge/entries/036-master-build-canonical-discipline-build-001-013.md` | 2026-07-05 | processed | CF-CON-156, CF-CON-157, CF-CON-158, CF-CON-159, CF-CON-160, CF-CON-161, CF-CON-162, CF-CON-163, CF-CON-164, CF-CON-165, CF-CON-166, CF-CON-167, CF-CON-168, CF-CON-169, CF-CON-170 |

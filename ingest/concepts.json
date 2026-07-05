@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "0.2.0",
-  "generated_at": "2026-07-05T21:05:14.939305+00:00",
+  "canonforge_version": "0.6.0",
+  "generated_at": "2026-07-05T21:07:55.478751+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -1721,6 +1721,171 @@
         "CF-ENTRY-035"
       ],
       "canon_ref": "architecture/MASTER_BUILD_ROADMAP.md"
+    },
+    {
+      "id": "CF-CON-156",
+      "label": "Canonical build discipline",
+      "category": "Governance",
+      "status": "Locked",
+      "definition": "Stop brainstorming; version numbers; traceability like software.",
+      "sources": [
+        "CF-ENTRY-036"
+      ],
+      "canon_ref": "canon/build/BUILD_INDEX.md"
+    },
+    {
+      "id": "CF-CON-157",
+      "label": "BUILD-001 Core Question",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Why book exists: experience humility questioning assumptions.",
+      "sources": [
+        "CF-ENTRY-036"
+      ],
+      "canon_ref": "canon/build/BUILD-001-core-question.md"
+    },
+    {
+      "id": "CF-CON-158",
+      "label": "BUILD-002 Prime Directive",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Does this increase discovery? Mystery ends; discovery continues.",
+      "sources": [
+        "CF-ENTRY-036"
+      ],
+      "canon_ref": "canon/build/BUILD-002-prime-directive.md"
+    },
+    {
+      "id": "CF-CON-159",
+      "label": "Four Pillars",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Wonder \u00b7 Humanity \u00b7 Resonance \u00b7 Transformation.",
+      "sources": [
+        "CF-ENTRY-036"
+      ],
+      "canon_ref": "canon/build/BUILD-003-four-pillars.md"
+    },
+    {
+      "id": "CF-CON-160",
+      "label": "BUILD-004 Seven Laws",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Immutable distill of Constitution; story wins; never lie.",
+      "sources": [
+        "CF-ENTRY-036"
+      ],
+      "canon_ref": "canon/build/BUILD-004-seven-laws.md"
+    },
+    {
+      "id": "CF-CON-161",
+      "label": "Reader Arc",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Five stages: confidence to reflection outside the book.",
+      "sources": [
+        "CF-ENTRY-036"
+      ],
+      "canon_ref": "canon/build/BUILD-005-reader-arc.md"
+    },
+    {
+      "id": "CF-CON-162",
+      "label": "Emotional Score",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Eight movements of emotion; no victory only understanding.",
+      "sources": [
+        "CF-ENTRY-036"
+      ],
+      "canon_ref": "canon/build/BUILD-006-emotional-score.md"
+    },
+    {
+      "id": "CF-CON-163",
+      "label": "Human Experience Model",
+      "category": "Theme",
+      "status": "Frozen",
+      "definition": "One civilization humanity; characters represent being human.",
+      "sources": [
+        "CF-ENTRY-036"
+      ],
+      "canon_ref": "canon/build/BUILD-007-human-experience-model.md"
+    },
+    {
+      "id": "CF-CON-164",
+      "label": "Assumption Engine",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Per page: reader assumption \u00b7 natural \u00b7 transform not disprove.",
+      "sources": [
+        "CF-ENTRY-036"
+      ],
+      "canon_ref": "canon/build/BUILD-008-assumption-engine.md"
+    },
+    {
+      "id": "CF-CON-165",
+      "label": "BUILD-009 Music Theory",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Movements felt not labeled; tempo pulse density measurable.",
+      "sources": [
+        "CF-ENTRY-036"
+      ],
+      "canon_ref": "canon/build/BUILD-009-music-theory.md"
+    },
+    {
+      "id": "CF-CON-166",
+      "label": "BUILD-010 Physics of Reading",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Compose for eyes voice breathing prediction emotion memory.",
+      "sources": [
+        "CF-ENTRY-036"
+      ],
+      "canon_ref": "canon/build/BUILD-010-physics-of-reading.md"
+    },
+    {
+      "id": "CF-CON-167",
+      "label": "BUILD-011 Invisible Contract",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Allow unstated reader assumptions; fair subversion.",
+      "sources": [
+        "CF-ENTRY-036"
+      ],
+      "canon_ref": "canon/build/BUILD-011-invisible-contract.md"
+    },
+    {
+      "id": "CF-CON-168",
+      "label": "Title fifth-read gate",
+      "category": "Design fork",
+      "status": "Frozen",
+      "definition": "Title not understood until fifth reading; deepest truth.",
+      "sources": [
+        "CF-ENTRY-036"
+      ],
+      "canon_ref": "canon/build/BUILD-012-title.md"
+    },
+    {
+      "id": "CF-CON-169",
+      "label": "Writer's Oath",
+      "category": "Process",
+      "status": "Frozen",
+      "definition": "Before session: discover truth; reader is partner not opponent.",
+      "sources": [
+        "CF-ENTRY-036"
+      ],
+      "canon_ref": "canon/build/BUILD-013-writers-oath.md"
+    },
+    {
+      "id": "CF-CON-170",
+      "label": "Periodic Table of Novel",
+      "category": "Architecture",
+      "status": "Queued",
+      "definition": "Elemental atoms before characters; BUILD-014 next.",
+      "sources": [
+        "CF-ENTRY-036"
+      ],
+      "canon_ref": "canon/build/BUILD-014-periodic-table-of-the-novel.md"
     }
   ],
   "edges": [
@@ -2827,6 +2992,146 @@
     {
       "from": "CF-CON-155",
       "to": "CF-CON-153",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-156",
+      "to": "CF-CON-121",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-157",
+      "to": "CF-CON-141",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-157",
+      "to": "CF-CON-153",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-158",
+      "to": "CF-CON-138",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-158",
+      "to": "CF-CON-030",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-159",
+      "to": "CF-CON-094",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-159",
+      "to": "CF-CON-137",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-160",
+      "to": "CF-CON-136",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-160",
+      "to": "CF-CON-023",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-161",
+      "to": "CF-CON-002",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-161",
+      "to": "CF-CON-001",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-162",
+      "to": "CF-CON-093",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-162",
+      "to": "CF-CON-118",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-163",
+      "to": "CF-CON-139",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-163",
+      "to": "CF-CON-144",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-164",
+      "to": "CF-CON-145",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-164",
+      "to": "CF-CON-001",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-165",
+      "to": "CF-CON-070",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-165",
+      "to": "CF-CON-059",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-166",
+      "to": "CF-CON-092",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-166",
+      "to": "CF-CON-106",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-167",
+      "to": "CF-CON-054",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-167",
+      "to": "CF-CON-057",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-168",
+      "to": "CF-CON-152",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-169",
+      "to": "CF-CON-038",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-169",
+      "to": "CF-CON-135",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-170",
+      "to": "CF-CON-159",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-170",
+      "to": "CF-CON-164",
       "type": "related"
     }
   ]

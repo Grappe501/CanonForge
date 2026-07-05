@@ -20,7 +20,11 @@ H:/           = local truth
 ```txt
                     BOOK OF SECRETS (author-only apex)
                               │
-                    MASTER CANON v0.2 (governance)
+              canon/build/  BUILD-001–014 (frozen canon)
+                              │
+                    MASTER CANON (governance)
+                              │
+                    CONSTITUTION BUILD-000.000 (law)
                               │
          ┌────────────────────┼────────────────────┐
          │                    │                    │
@@ -54,6 +58,7 @@ H:/           = local truth
 | # | Bible | Phase | Location | Status |
 |---|---|---|---|---|
 | 0 | Master Build Roadmap | — | `architecture/MASTER_BUILD_ROADMAP.md` | **v1.0 ✓** |
+| 0a | BUILD Index | 1.0.0 | `canon/build/BUILD_INDEX.md` | **001–013 frozen** |
 | 0b | Composer's Blueprint | — | `architecture/COMPOSERS_BLUEPRINT.md` | **v0.1 ✓** |
 | 1 | The Promise | 1 | TBD | Open |
 | 2 | Hidden Timeline | 2 | Book of Secrets | Not started |

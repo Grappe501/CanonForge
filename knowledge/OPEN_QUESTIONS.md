@@ -19,7 +19,9 @@ Strong thematic fit with Chronology Lie; not yet confirmed as apex truth.
 
 ## Title
 
-Working title undecided. CHRONOFORGE is codename only.
+**CF-CON-168 · BUILD-012 · Status: Requirement locked · text open**
+
+Title must not be fully understood until the **fifth reading**. Must describe deepest truth, not surface story. CHRONOFORGE is codename only. Selection blocked until full machine built.
 
 ## Final image
 

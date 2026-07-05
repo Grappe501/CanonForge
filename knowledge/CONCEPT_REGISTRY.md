@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 0.5.0 · 2026-07-05 · 155 concepts registered
+> Version 0.6.0 · 2026-07-05 · 170 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -159,6 +159,21 @@
 | CF-CON-153 | Core invention question | Mission | **Locked** | How compose experience complete inside another human mind? | CF-ENTRY-035 |
 | CF-CON-154 | Phase 20 The Loop | Architecture | **Locked** | First/last connected by understanding; reader must begin again. | CF-ENTRY-035 |
 | CF-CON-155 | New storytelling medium | Mission | **Locked** | Inventing medium not writing novel; cathedral discipline. | CF-ENTRY-035 |
+| CF-CON-156 | Canonical build discipline | Governance | **Locked** | Stop brainstorming; version numbers; traceability like software. | CF-ENTRY-036 |
+| CF-CON-157 | BUILD-001 Core Question | Mission | **Frozen** | Why book exists: experience humility questioning assumptions. | CF-ENTRY-036 |
+| CF-CON-158 | BUILD-002 Prime Directive | Governance | **Frozen** | Does this increase discovery? Mystery ends; discovery continues. | CF-ENTRY-036 |
+| CF-CON-159 | Four Pillars | Architecture | **Frozen** | Wonder · Humanity · Resonance · Transformation. | CF-ENTRY-036 |
+| CF-CON-160 | BUILD-004 Seven Laws | Governance | **Frozen** | Immutable distill of Constitution; story wins; never lie. | CF-ENTRY-036 |
+| CF-CON-161 | Reader Arc | Architecture | **Frozen** | Five stages: confidence to reflection outside the book. | CF-ENTRY-036 |
+| CF-CON-162 | Emotional Score | Architecture | **Frozen** | Eight movements of emotion; no victory only understanding. | CF-ENTRY-036 |
+| CF-CON-163 | Human Experience Model | Theme | **Frozen** | One civilization humanity; characters represent being human. | CF-ENTRY-036 |
+| CF-CON-164 | Assumption Engine | Architecture | **Frozen** | Per page: reader assumption · natural · transform not disprove. | CF-ENTRY-036 |
+| CF-CON-165 | BUILD-009 Music Theory | Architecture | **Frozen** | Movements felt not labeled; tempo pulse density measurable. | CF-ENTRY-036 |
+| CF-CON-166 | BUILD-010 Physics of Reading | Architecture | **Frozen** | Compose for eyes voice breathing prediction emotion memory. | CF-ENTRY-036 |
+| CF-CON-167 | BUILD-011 Invisible Contract | Architecture | **Frozen** | Allow unstated reader assumptions; fair subversion. | CF-ENTRY-036 |
+| CF-CON-168 | Title fifth-read gate | Design fork | **Frozen** | Title not understood until fifth reading; deepest truth. | CF-ENTRY-036 |
+| CF-CON-169 | Writer's Oath | Process | **Frozen** | Before session: discover truth; reader is partner not opponent. | CF-ENTRY-036 |
+| CF-CON-170 | Periodic Table of Novel | Architecture | **Queued** | Elemental atoms before characters; BUILD-014 next. | CF-ENTRY-036 |
 
 ## Related Concepts
 
@@ -317,3 +332,18 @@
 - **CF-CON-153** (Core invention question, Locked): CF-CON-121 → `architecture/MASTER_BUILD_ROADMAP.md`
 - **CF-CON-154** (Phase 20 The Loop, Locked): CF-CON-056, CF-CON-057 → `architecture/MASTER_BUILD_ROADMAP.md`
 - **CF-CON-155** (New storytelling medium, Locked): CF-CON-153 → `architecture/MASTER_BUILD_ROADMAP.md`
+- **CF-CON-156** (Canonical build discipline, Locked): CF-CON-121 → `canon/build/BUILD_INDEX.md`
+- **CF-CON-157** (BUILD-001 Core Question, Frozen): CF-CON-141, CF-CON-153 → `canon/build/BUILD-001-core-question.md`
+- **CF-CON-158** (BUILD-002 Prime Directive, Frozen): CF-CON-138, CF-CON-030 → `canon/build/BUILD-002-prime-directive.md`
+- **CF-CON-159** (Four Pillars, Frozen): CF-CON-094, CF-CON-137 → `canon/build/BUILD-003-four-pillars.md`
+- **CF-CON-160** (BUILD-004 Seven Laws, Frozen): CF-CON-136, CF-CON-023 → `canon/build/BUILD-004-seven-laws.md`
+- **CF-CON-161** (Reader Arc, Frozen): CF-CON-002, CF-CON-001 → `canon/build/BUILD-005-reader-arc.md`
+- **CF-CON-162** (Emotional Score, Frozen): CF-CON-093, CF-CON-118 → `canon/build/BUILD-006-emotional-score.md`
+- **CF-CON-163** (Human Experience Model, Frozen): CF-CON-139, CF-CON-144 → `canon/build/BUILD-007-human-experience-model.md`
+- **CF-CON-164** (Assumption Engine, Frozen): CF-CON-145, CF-CON-001 → `canon/build/BUILD-008-assumption-engine.md`
+- **CF-CON-165** (BUILD-009 Music Theory, Frozen): CF-CON-070, CF-CON-059 → `canon/build/BUILD-009-music-theory.md`
+- **CF-CON-166** (BUILD-010 Physics of Reading, Frozen): CF-CON-092, CF-CON-106 → `canon/build/BUILD-010-physics-of-reading.md`
+- **CF-CON-167** (BUILD-011 Invisible Contract, Frozen): CF-CON-054, CF-CON-057 → `canon/build/BUILD-011-invisible-contract.md`
+- **CF-CON-168** (Title fifth-read gate, Frozen): CF-CON-152 → `canon/build/BUILD-012-title.md`
+- **CF-CON-169** (Writer's Oath, Frozen): CF-CON-038, CF-CON-135 → `canon/build/BUILD-013-writers-oath.md`
+- **CF-CON-170** (Periodic Table of Novel, Queued): CF-CON-159, CF-CON-164 → `canon/build/BUILD-014-periodic-table-of-the-novel.md`

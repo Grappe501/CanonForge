@@ -39,7 +39,10 @@
 | 2026-07-05 | North Star locked | Book never changes; reader does | CF-CON-137 |
 | 2026-07-05 | Thematic foundation | Fractured perception · Article XVI Humanity | CF-CON-139–144 |
 | 2026-07-05 | Article XVII Assumption | Reader-assigned identity · fair omission | CF-CON-145–149 |
-| 2026-07-05 | Originality firewall | Genre pillars as physics not copy | CF-CON-039 |
+| 2026-07-05 | Master Build Roadmap v1.0 | CF-ENTRY-035 session pause | CF-CON-150–155 |
+| 2026-07-05 | BUILD-001–013 frozen v1.0.0 | Canonical build discipline | CF-CON-156–169 |
+| 2026-07-05 | BUILD-014 queued | Periodic Table of Novel next | CF-CON-170 |
+| 2026-07-05 | Title fifth-read gate | BUILD-012 requirement locked | CF-CON-168 |
 
 ## Open Forks (see OPEN_QUESTIONS.md)
 
