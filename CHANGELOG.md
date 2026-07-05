@@ -3,6 +3,13 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [0.2.2] — 2026-07-05
+
+### Added
+- CF-ENTRY-024: anonymous authorship philosophy · teaches-rereading mission
+- Concepts CF-CON-048 through CF-CON-053 (authorship removal, minimal title page, ending silence, target reaction, meta-mission)
+- Master Canon mission reframed: novel that teaches how to reread life
+
 ## [0.2.1] — 2026-07-05
 
 ### Added

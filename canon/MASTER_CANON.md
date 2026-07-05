@@ -1,8 +1,8 @@
-# Master Canon v0.2.1
+# Master Canon v0.2.2
 
 > Governing creative constitution for CHRONOFORGE
 > Derived from locked concepts · open forks marked explicitly
-> Supersedes v0.2 (2026-07-05 · CF-ENTRY-023 reaffirmation)
+> Supersedes v0.2.1 (2026-07-05 · CF-ENTRY-024 mission reframe)
 
 ---
 
@@ -20,6 +20,18 @@
 ## The Mission
 
 Tell the **best adventure story we can possibly tell** — with invisible engineering underneath. The reader should never think *"this author is trying to be clever."* They should finish, talk about it, and discover the architecture themselves.
+
+### Meta-mission (CF-CON-053 · locked CF-ENTRY-024)
+
+We are not writing a novel that people reread.
+We are writing **a novel that teaches people how to reread** — not just books, but their own memories, assumptions, and lives.
+
+Whether the cover carries a famous name, a pseudonym, or no name at all is secondary. **The work itself becomes the conversation.**
+
+### Target reader reaction (CF-CON-052)
+
+Not: *"Who wrote this?"*
+Yes: **"How did this book know I would think that?"**
 
 ---
 
@@ -148,6 +160,25 @@ The ending answers **"Why did I think that happened?"** — not *"What happened?
 
 ---
 
+## Authorship Philosophy (CF-CON-048 · CF-CON-049)
+
+Anonymous or pseudonymous authorship is **not marketing** — it is artistic statement.
+
+| Wrong | Right |
+|---|---|
+| Mystery around the author | Remove author from the conversation entirely |
+
+Readers cannot lean on author intent, interviews, or confirmations. They stay **inside the book**.
+
+- No author biography · no endorsements · no *"Read this twice"*
+- Cover candidate: title only (**CHRONOFORGE**)
+- End candidate: no acknowledgments · no explanation · silence or *"Begin again."*
+- **Pseudonym** preserves reader experience while protecting legal/publication path
+
+If readers hunt the author's identity instead of the novel → focus has shifted away from the experience (failure mode).
+
+---
+
 ## Originality Firewall
 
 Borrow **techniques** from influences. Never copy plots, characters, planets, dialogue, tech, or mythology.
@@ -165,7 +196,10 @@ See [knowledge/OPEN_QUESTIONS.md](../knowledge/OPEN_QUESTIONS.md):
 - Memory-not-time apex confirmation
 - Final image
 - Promise sentence (Phase 1)
+- Final page text ("Begin again." vs silence — CF-CON-051)
+- Title page presentation (CF-CON-050)
+- Authorship mechanism (pseudonym vs anonymity — publication path)
 
 ---
 
-*v0.2.1 · 2026-07-05 · synthesized from CF-ENTRY-001 through CF-ENTRY-023*
+*v0.2.2 · 2026-07-05 · synthesized from CF-ENTRY-001 through CF-ENTRY-024*

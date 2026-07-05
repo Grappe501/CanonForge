@@ -24,7 +24,8 @@
 | **3-text-before-page-5** | Experience success scene: text three people before reaching page five on reread | CF-CON-045 |
 | **Call me when you finish** | Target recommendation type — experience sharing, not craft admiration | CF-CON-038 |
 | **Conversation architecture** | Build for reader-to-reader uncovering dialogues | CF-CON-046 |
-| **Earned reread** | Second read earned = success; demanded = failure | CF-CON-047 |
+| **Teaches rereading** | Novel teaches rereading of memories, assumptions, and lives | CF-CON-053 |
+| **Authorship philosophy** | Remove author from conversation; not author-mystery gimmick | CF-CON-048 |
 | **7/10 reread** | Target: 7 of 10 finishers reread without prompting | CF-CON-029 |
 | **Compile stack** | Ordered validation gates before prose emission | CF-CON-023 |
 | **Design fork** | Explicitly unresolved decision; never smuggled as fact | CF-CON-005 |

@@ -32,3 +32,23 @@ Phase 1 one-page truth-sentence not yet written. Gates all downstream work.
 ## Phase 14
 
 Implementation directives not yet received. No prose layer until Phase 14 arrives.
+
+## Authorship posture {#authorship}
+
+**CF-CON-048 · CF-CON-049 · Locked philosophy · publication mechanism open**
+
+| Wrong reason | Right reason |
+|---|---|
+| Mystery around the author | Remove author from the conversation entirely |
+
+Pseudonym acceptable for legal/publication (publisher knows identity). Complete anonymity is reader-experience ideal, not gimmick.
+
+## Presentation forks
+
+**CF-CON-050 · Candidate** — Title page: CHRONOFORGE only (no bio, endorsements, read-twice hints).
+
+**CF-CON-051 · Open** — Final page: *"Begin again."* · nothing · silence as ending.
+
+## Publication note
+
+Traditional publication may require pseudonym over total anonymity (contracts, copyright, royalties). Real identity protected with publisher; reader experience nearly identical.

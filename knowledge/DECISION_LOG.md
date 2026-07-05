@@ -20,7 +20,9 @@
 | 2026-07-05 | Experience success scene locked | CF-ENTRY-023 reaffirmation | CF-CON-045 |
 | 2026-07-05 | Admire reader not author in Master Canon | Author-facing principle | CF-CON-038 |
 | 2026-07-05 | Conversation architecture | Build for shared discovery | CF-CON-046 |
-| 2026-07-05 | Earned not demanded reread | No layer hints to readers | CF-CON-047 |
+| 2026-07-05 | Teaches-how-to-reread mission | CF-ENTRY-024 meta-mission | CF-CON-053 |
+| 2026-07-05 | Authorship as philosophy | Remove author from reader escape hatch | CF-CON-048, CF-CON-049 |
+| 2026-07-05 | Target reaction locked | "How did this book know I would think that?" | CF-CON-052 |
 | 2026-07-05 | Originality firewall | Genre pillars as physics not copy | CF-CON-039 |
 
 ## Open Forks (see OPEN_QUESTIONS.md)
@@ -31,4 +33,6 @@
 | 2026-07-05 | Working title | Open |
 | 2026-07-05 | Memory-not-time apex | Candidate |
 | 2026-07-05 | Final image | Open |
-| 2026-07-05 | Promise sentence (Phase 1) | Open |
+| 2026-07-05 | Final page text | Open |
+| 2026-07-05 | Title page minimalism | Candidate |
+| 2026-07-05 | Authorship mechanism (pseudonym vs anonymity) | Open |

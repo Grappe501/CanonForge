@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "canonforge_version": "0.2.0",
-  "generated_at": "2026-07-05T20:47:05.975178+00:00",
+  "generated_at": "2026-07-05T20:50:02.343812+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -530,6 +530,72 @@
         "CF-ENTRY-023"
       ],
       "canon_ref": "canon/RULE_BOOK.md"
+    },
+    {
+      "id": "CF-CON-048",
+      "label": "Authorship as philosophy",
+      "category": "Art",
+      "status": "Locked",
+      "definition": "Anonymous/pseudonymous authorship removes author from reader conversation\u2014not a gimmick.",
+      "sources": [
+        "CF-ENTRY-024"
+      ],
+      "canon_ref": "canon/MASTER_CANON.md"
+    },
+    {
+      "id": "CF-CON-049",
+      "label": "Remove author from conversation",
+      "category": "Art",
+      "status": "Locked",
+      "definition": "Readers cannot escape into author intent, interviews, or confirmations.",
+      "sources": [
+        "CF-ENTRY-024"
+      ],
+      "canon_ref": "canon/MASTER_CANON.md"
+    },
+    {
+      "id": "CF-CON-050",
+      "label": "Minimal title page",
+      "category": "Design fork",
+      "status": "Candidate",
+      "definition": "Title page: CHRONOFORGE only\u2014no author, bio, endorsements, or read-twice hints.",
+      "sources": [
+        "CF-ENTRY-024"
+      ],
+      "canon_ref": "knowledge/OPEN_QUESTIONS.md"
+    },
+    {
+      "id": "CF-CON-051",
+      "label": "Ending silence",
+      "category": "Design fork",
+      "status": "Open",
+      "definition": "Final page: 'Begin again.' or nothing\u2014silence as part of ending.",
+      "sources": [
+        "CF-ENTRY-024"
+      ],
+      "canon_ref": "knowledge/OPEN_QUESTIONS.md"
+    },
+    {
+      "id": "CF-CON-052",
+      "label": "How did this book know",
+      "category": "Heart",
+      "status": "Locked",
+      "definition": "Target reader reaction\u2014not 'who wrote this?' but 'how did it know I would think that?'",
+      "sources": [
+        "CF-ENTRY-024"
+      ],
+      "canon_ref": "canon/MASTER_CANON.md"
+    },
+    {
+      "id": "CF-CON-053",
+      "label": "Teaches how to reread",
+      "category": "Mission",
+      "status": "Locked",
+      "definition": "Novel teaches rereading of books, memories, assumptions, and lives\u2014not merely a rereadable novel.",
+      "sources": [
+        "CF-ENTRY-024"
+      ],
+      "canon_ref": "canon/MASTER_CANON.md"
     }
   ],
   "edges": [
@@ -816,6 +882,56 @@
     {
       "from": "CF-CON-047",
       "to": "CF-CON-030",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-048",
+      "to": "CF-CON-049",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-048",
+      "to": "CF-CON-038",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-049",
+      "to": "CF-CON-048",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-049",
+      "to": "CF-CON-052",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-050",
+      "to": "CF-CON-051",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-051",
+      "to": "CF-CON-036",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-052",
+      "to": "CF-CON-049",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-052",
+      "to": "CF-CON-002",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-053",
+      "to": "CF-CON-025",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-053",
+      "to": "CF-CON-002",
       "type": "related"
     }
   ]

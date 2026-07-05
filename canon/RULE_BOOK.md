@@ -47,6 +47,8 @@ Never reader-facing: "layers," "locks," "puzzle," "game," "clues," "hidden," "me
 
 Never hint that readers are "supposed" to reread. Earned reread only (CF-CON-047).
 
+No author biography, endorsements, or read-twice instructions in the published artifact (CF-CON-048).
+
 Internal engineering vocabulary stays in `architecture/` and `canon/`.
 
 ---

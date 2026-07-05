@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 0.2.1 · 2026-07-05 · 47 concepts registered
+> Version 0.2.2 · 2026-07-05 · 53 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -51,6 +51,12 @@
 | CF-CON-045 | Experience success scene | Commerce | **Locked** | Finish → silence → reopen → text 3 people before page five. | CF-ENTRY-019, CF-ENTRY-023 |
 | CF-CON-046 | Conversation architecture | Commerce | **Locked** | Build for reader-to-reader discovery dialogues; shared human experience. | CF-ENTRY-019, CF-ENTRY-023 |
 | CF-CON-047 | Earned not demanded reread | Commerce | **Locked** | Second read must be earned, never demanded; no layer hints. | CF-ENTRY-019, CF-ENTRY-023 |
+| CF-CON-048 | Authorship as philosophy | Art | **Locked** | Anonymous/pseudonymous authorship removes author from reader conversation—not a gimmick. | CF-ENTRY-024 |
+| CF-CON-049 | Remove author from conversation | Art | **Locked** | Readers cannot escape into author intent, interviews, or confirmations. | CF-ENTRY-024 |
+| CF-CON-050 | Minimal title page | Design fork | **Candidate** | Title page: CHRONOFORGE only—no author, bio, endorsements, or read-twice hints. | CF-ENTRY-024 |
+| CF-CON-051 | Ending silence | Design fork | **Open** | Final page: 'Begin again.' or nothing—silence as part of ending. | CF-ENTRY-024 |
+| CF-CON-052 | How did this book know | Heart | **Locked** | Target reader reaction—not 'who wrote this?' but 'how did it know I would think that?' | CF-ENTRY-024 |
+| CF-CON-053 | Teaches how to reread | Mission | **Locked** | Novel teaches rereading of books, memories, assumptions, and lives—not merely a rereadable novel. | CF-ENTRY-024 |
 
 ## Related Concepts
 
@@ -101,3 +107,9 @@
 - **CF-CON-045** (Experience success scene, Locked): CF-CON-037, CF-CON-029 → `architecture/VALIDATION_STACK.md`
 - **CF-CON-046** (Conversation architecture, Locked): CF-CON-037 → `canon/MASTER_CANON.md`
 - **CF-CON-047** (Earned not demanded reread, Locked): CF-CON-029, CF-CON-030 → `canon/RULE_BOOK.md`
+- **CF-CON-048** (Authorship as philosophy, Locked): CF-CON-049, CF-CON-038 → `canon/MASTER_CANON.md`
+- **CF-CON-049** (Remove author from conversation, Locked): CF-CON-048, CF-CON-052 → `canon/MASTER_CANON.md`
+- **CF-CON-050** (Minimal title page, Candidate): CF-CON-051 → `knowledge/OPEN_QUESTIONS.md`
+- **CF-CON-051** (Ending silence, Open): CF-CON-036 → `knowledge/OPEN_QUESTIONS.md`
+- **CF-CON-052** (How did this book know, Locked): CF-CON-049, CF-CON-002 → `canon/MASTER_CANON.md`
+- **CF-CON-053** (Teaches how to reread, Locked): CF-CON-025, CF-CON-002 → `canon/MASTER_CANON.md`

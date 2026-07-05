@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0.0",
   "canonforge_version": "0.2.0",
-  "generated_at": "2026-07-05T20:47:05.970676+00:00",
+  "generated_at": "2026-07-05T20:50:02.341328+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 23,
+  "entry_count": 24,
   "concept_count": 44,
   "entries": [
     {
@@ -283,6 +283,22 @@
         "CF-CON-047"
       ],
       "byte_size": 3556
+    },
+    {
+      "entry_id": "CF-ENTRY-024",
+      "file": "knowledge/entries/024-anonymous-authorship-teaches-rereading.md",
+      "sha256": "f0e2e28197a4017dbd894f06619456b9e3e7362830409b14b6bcd6ee427931e7",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-048",
+        "CF-CON-049",
+        "CF-CON-050",
+        "CF-CON-051",
+        "CF-CON-052",
+        "CF-CON-053"
+      ],
+      "byte_size": 3026
     }
   ],
   "indexes": {
