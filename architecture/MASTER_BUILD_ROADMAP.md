@@ -177,10 +177,8 @@ PHASE 14 (author directive)     →  Prose emission gate (separate · TBD)
 ## Current position (2026-07-05)
 
 ```txt
-COMPLETE:  Phase 0 · Phase 1 · composition frameworks (3–4, 9–12, 16–19 partial)
-PAUSE:     Roadmap v1.0 locked · session end
-NEXT:      Phase 2 Book of Secrets · then Phase 3–8 population
-LAST:      Phase 18–20 · prose · performance · loop
+COMPLETE:  Phase 0 (BUILD-001) · Phase 1 · BUILD-001–013 frozen · frameworks 3–4, 9–12, 16–19
+NEXT:      BUILD-014 Periodic Table → Phase 2 Book of Secrets
 ```
 
 ---
