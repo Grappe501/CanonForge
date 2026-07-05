@@ -42,11 +42,17 @@ Key locked insights:
 | **Four Pillars** | Strengthen ≥1 of Wonder · **Connection** · Resonance · Transformation? | BUILD-003 v1.0 |
 | Seven Laws | Immutable · complies with BUILD-004 v1.0? | BUILD-004 |
 
-**Stack:** BUILD-001 = *why* · … · **019 = *living memory*** · **020 = *motif vocabulary***
+**Stack:** BUILD-001 = *why* · … · **016 = *consciousness*** · **017 = *reality*** · **018 = *understanding gap*** · **019 = *living memory*** · **020 = *motif vocabulary***
 
 → [build/BUILD-020-resonance-registry.md](build/BUILD-020-resonance-registry.md) · Motif Families · Rule of Return · Closed/Open Motifs
 
 → [build/BUILD-019-memory-engine.md](build/BUILD-019-memory-engine.md) · Five States · Memory Cycle · True Medium
+
+→ [build/BUILD-018-fracture-engine.md](build/BUILD-018-fracture-engine.md) · Five Domains · Fracture Curve · Recognition Not Puzzle
+
+→ [build/BUILD-017-reality-engine.md](build/BUILD-017-reality-engine.md) · Five Layers · Story-True Reality · Reality Test
+
+→ [build/BUILD-016-consciousness-engine.md](build/BUILD-016-consciousness-engine.md) · Ten Living Systems · Sixth Consciousness · Incomplete Principle
 
 → [build/BUILD-015.5-chronoforge-master-architecture.md](build/BUILD-015.5-chronoforge-master-architecture.md) · Build Bible · Chronoforge Method
 
