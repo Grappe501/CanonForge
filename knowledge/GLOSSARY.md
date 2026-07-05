@@ -94,6 +94,9 @@
 | **Relationship Engine** | Consciousness evolves through connection | CF-CON-757 |
 | **Relationship arcs not character arcs** | Primary story arc unit | CF-CON-773 |
 | **Five reads through relationships** | Reread ladder via relationship questions | CF-CON-774 |
+| **Conversation Engine** | Consciousness collides in spoken exchange | CF-CON-777 |
+| **Four layers of conversation** | Literal emotional relational hidden | CF-CON-779 |
+| **Change reader listening** | Practice for real-world conversations | CF-CON-794 |
 | **Universe larger than imagined** | Ordinary world larger after closing book | CF-CON-563 |
 | **Motif not symbol** | Returns vs carries meaning | CF-CON-450 |
 | **Language of Silence** | Composed silence · seven forms | CF-CON-457 |

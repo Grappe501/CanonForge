@@ -8,7 +8,7 @@
 
 > Explains **just enough** — leaves the universe **permanently larger** than reader understanding. **Mystery is not a temporary defect. It is a permanent feature.**
 
-**Universal Architecture Phase complete** *(BUILD-026–030)*. **BUILD-031–036** frozen. Next: **BUILD-037 Dialogue Engine**.
+**Universal Architecture Phase complete** *(BUILD-026–030)*. **BUILD-031–037** frozen. Next: **BUILD-038 Scene Engine**.
 
 ---
 
@@ -187,9 +187,9 @@ Combined with Phase One–Two: how readers think · consciousness · memory · t
 
 ---
 
-## BUILD-037 preview *(CF-ENTRY-076)*
+## BUILD-038 preview *(CF-ENTRY-077)*
 
-→ **BUILD-037 Dialogue Engine** *(queued)*
+→ **BUILD-038 Scene Engine** *(queued)*
 
 ---
 

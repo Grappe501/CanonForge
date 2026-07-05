@@ -9,7 +9,7 @@
 
 > **Hidden truth before hidden clues.** Every mystery traces back here. This document is **never published** — the private history from which the entire novel grows.
 
-**Instrument complete** *(BUILD-001–031)*. **BUILD-032 Prime Event** *(✓ v1.0 · AUTHOR-ONLY)*. **BUILD-033 First Consciousness** *(✓ v1.0)*. **BUILD-034 Constellation** *(✓ v1.0)*. **BUILD-035 Opposing Consciousness** *(✓ v1.0)*. **BUILD-036 Relationship Engine** *(✓ v1.0)*. Next: **BUILD-037 Dialogue Engine**.
+**Instrument complete** *(BUILD-001–031)*. **BUILD-032 Prime Event** *(✓ v1.0 · AUTHOR-ONLY)*. **BUILD-033 First Consciousness** *(✓ v1.0)*. **BUILD-034 Constellation** *(✓ v1.0)*. **BUILD-035 Opposing Consciousness** *(✓ v1.0)*. **BUILD-036 Relationship Engine** *(✓ v1.0)*. **BUILD-037 Conversation Engine** *(✓ v1.0)*. Next: **BUILD-038 Scene Engine**.
 
 ---
 
@@ -206,13 +206,13 @@ Next builds create **unique story identity**:
 
 *(Gates: Book of Secrets · OPEN_QUESTIONS story substrate · Phase Four lives)*
 
-→ **BUILD-033–036** *(✓ v1.0)* · **BUILD-037 Dialogue Engine** *(queued)*
+→ **BUILD-033–037** *(✓ v1.0)* · **BUILD-038 Scene Engine** *(queued)*
 
 ---
 
-## BUILD-037 preview *(CF-ENTRY-076)*
+## BUILD-038 preview *(CF-ENTRY-077)*
 
-→ **BUILD-037 Dialogue Engine** *(queued)*
+→ **BUILD-038 Scene Engine** *(queued)*
 
 ---
 

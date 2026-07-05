@@ -42,6 +42,8 @@
 | 2026-07-05 | Master Build Roadmap v1.0 | CF-ENTRY-035 session pause | CF-CON-150–155 |
 | 2026-07-05 | BUILD-001–013 frozen v1.0 | Foundational canon complete | CF-CON-156–320 |
 | 2026-07-05 | BUILD-014 Elements of Meaning | Supersedes Periodic Table stub | CF-CON-170 |
+| 2026-07-05 | BUILD-037 Conversation Engine v1.0 | Four layers · change reader listening · not dialogue | CF-CON-777–796 |
+| 2026-07-05 | Dialogue Engine superseded | Conversation Engine replaces dialogue | CF-CON-793 |
 | 2026-07-05 | BUILD-036 Relationship Engine v1.0 | Relationship arcs · consciousness visible in meeting | CF-CON-757–776 |
 | 2026-07-05 | BUILD-035 Opposing Consciousness v1.0 | Incompleteness not villainy · no single villain | CF-CON-737–756 |
 | 2026-07-05 | Antagonist Engine superseded | Opposing Consciousness replaces antagonist | CF-CON-750 |

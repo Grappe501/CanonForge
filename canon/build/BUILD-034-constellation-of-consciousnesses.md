@@ -8,7 +8,7 @@
 
 > **Many lives briefly intersecting** *(CF-CON-736)* — not one life with supporting characters. Renamed from queued **Companion Engine** *(CF-CON-732)*.
 
-**Story Genome continues** *(BUILD-033–036 ✓)*. Next: **BUILD-037 Dialogue Engine** *(queued)*.
+**Story Genome continues** *(BUILD-033–037 ✓)*. Next: **BUILD-038 Scene Engine** *(queued)*.
 
 ---
 
@@ -188,7 +188,7 @@ Readers **revise understanding of people** — not just events. Every reread bec
 | Color Language *(Roadmap v2 BUILD-034)* | **Deferred** |
 | **Constellation of Consciousnesses** | **Authoritative · BUILD-034 v1.0** |
 
-→ **BUILD-037 Dialogue Engine** *(queued)*
+→ **BUILD-038 Scene Engine** *(queued)*
 
 ---
 

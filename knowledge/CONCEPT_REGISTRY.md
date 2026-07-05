@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 2.16.0 · 2026-07-05 · 776 concepts registered
+> Version 2.17.0 · 2026-07-05 · 796 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -780,6 +780,26 @@
 | CF-CON-774 | Five reads through relationships | Mission | **Frozen** | Five relationship questions one per read pass. | CF-ENTRY-076 |
 | CF-CON-775 | Relationship mirrors after ink | Heart | **Frozen** | Reader life changes how relationships read after closing. | CF-ENTRY-076 |
 | CF-CON-776 | People rarely change alone | Theme | **Frozen** | Transformation through relationship not isolation. | CF-ENTRY-076 |
+| CF-CON-777 | Conversation Engine | Architecture | **Frozen** | Spoken interaction where consciousness collides not explains. | CF-ENTRY-077 |
+| CF-CON-778 | Conversation first law | Governance | **Frozen** | Never say exactly what they mean; language incomplete. | CF-ENTRY-077 |
+| CF-CON-779 | Four layers of conversation | Architecture | **Frozen** | Literal emotional relational hidden meaning. | CF-ENTRY-077 |
+| CF-CON-780 | Conversation purpose test | Governance | **Frozen** | Why not narrated; rewrite if no unique experience. | CF-ENTRY-077 |
+| CF-CON-781 | Rhythm of speech | Architecture | **Frozen** | Recognize speakers without tags through rhythm. | CF-ENTRY-077 |
+| CF-CON-782 | The unsaid | Architecture | **Frozen** | Most important sentence never spoken; feel absences. | CF-ENTRY-077 |
+| CF-CON-783 | The listener | Architecture | **Frozen** | Listening is narrative action; meaning changes. | CF-ENTRY-077 |
+| CF-CON-784 | Memory activation conversation | Architecture | **Frozen** | Conversations awaken memories ripple backward. | CF-ENTRY-077 |
+| CF-CON-785 | Question beneath | Architecture | **Frozen** | Surface topic hides deeper human question. | CF-ENTRY-077 |
+| CF-CON-786 | Conversation shift | Architecture | **Frozen** | No important conversation ends unchanged. | CF-ENTRY-077 |
+| CF-CON-787 | Shared silence conversation | Architecture | **Frozen** | Pauses breaths silence belong to dialogue. | CF-ENTRY-077 |
+| CF-CON-788 | Music of conversation | Architecture | **Frozen** | Jazz chamber percussion; each pair own tempo. | CF-ENTRY-077 |
+| CF-CON-789 | Conversation ledger record | Architecture | **Frozen** | Ten fields per major conversation. | CF-ENTRY-077 |
+| CF-CON-790 | Rule of trust conversation | Governance | **Frozen** | Never explain solely for reader; lines belong to speaker. | CF-ENTRY-077 |
+| CF-CON-791 | Conversation final principle | Mission | **Frozen** | Greatest conversations continue inside reader after scene. | CF-ENTRY-077 |
+| CF-CON-792 | No two hear same conversation | Heart | **Frozen** | Each participant hears different conversation. | CF-ENTRY-077 |
+| CF-CON-793 | Dialogue Engine superseded | Architecture | **Deprecated** | Replaced by Conversation Engine BUILD-037. | CF-ENTRY-072, CF-ENTRY-077 |
+| CF-CON-794 | Change reader listening | Mission | **Frozen** | Conversation practice for real world listening habit. | CF-ENTRY-077 |
+| CF-CON-795 | Four simultaneous conversations | Architecture | **Frozen** | Words emotions memories meanings at once. | CF-ENTRY-077 |
+| CF-CON-796 | Consciousness collides in conversation | Heart | **Frozen** | Not explain story; reveal speaker listener relationship world. | CF-ENTRY-077 |
 
 ## Related Concepts
 
@@ -1559,3 +1579,23 @@
 - **CF-CON-774** (Five reads through relationships, Frozen): CF-CON-757, CF-CON-161 → `canon/build/BUILD-036-relationship-engine.md#five-reads-through-relationships-cf-con-774--author-closing`
 - **CF-CON-775** (Relationship mirrors after ink, Frozen): CF-CON-774, CF-CON-025 → `canon/build/BUILD-036-relationship-engine.md#five-reads-through-relationships-cf-con-774--author-closing`
 - **CF-CON-776** (People rarely change alone, Frozen): CF-CON-757, CF-CON-710 → `canon/build/BUILD-036-relationship-engine.md`
+- **CF-CON-777** (Conversation Engine, Frozen): CF-CON-757, CF-CON-796, CF-CON-792 → `canon/build/BUILD-037-conversation-engine.md`
+- **CF-CON-778** (Conversation first law, Frozen): CF-CON-777, CF-CON-164 → `canon/build/BUILD-037-conversation-engine.md#0371--the-first-law`
+- **CF-CON-779** (Four layers of conversation, Frozen): CF-CON-777, CF-CON-785 → `canon/build/BUILD-037-conversation-engine.md#0372--the-four-layers`
+- **CF-CON-780** (Conversation purpose test, Frozen): CF-CON-777, CF-CON-158 → `canon/build/BUILD-037-conversation-engine.md#0373--the-purpose-test`
+- **CF-CON-781** (Rhythm of speech, Frozen): CF-CON-777, CF-CON-505 → `canon/build/BUILD-037-conversation-engine.md#0374--the-rhythm-of-speech`
+- **CF-CON-782** (The unsaid, Frozen): CF-CON-777, CF-CON-457 → `canon/build/BUILD-037-conversation-engine.md#0375--the-unsaid`
+- **CF-CON-783** (The listener, Frozen): CF-CON-777, CF-CON-166 → `canon/build/BUILD-037-conversation-engine.md#0376--the-listener`
+- **CF-CON-784** (Memory activation conversation, Frozen): CF-CON-777, CF-CON-416 → `canon/build/BUILD-037-conversation-engine.md#0377--the-memory-activation`
+- **CF-CON-785** (Question beneath, Frozen): CF-CON-777, CF-CON-759 → `canon/build/BUILD-037-conversation-engine.md#0378--the-question-beneath`
+- **CF-CON-786** (Conversation shift, Frozen): CF-CON-777, CF-CON-763 → `canon/build/BUILD-037-conversation-engine.md#0379--the-shift`
+- **CF-CON-787** (Shared silence conversation, Frozen): CF-CON-777, CF-CON-766 → `canon/build/BUILD-037-conversation-engine.md#03710--the-shared-silence`
+- **CF-CON-788** (Music of conversation, Frozen): CF-CON-777, CF-CON-762 → `canon/build/BUILD-037-conversation-engine.md#03711--the-music-of-conversation`
+- **CF-CON-789** (Conversation ledger record, Frozen): CF-CON-777, CF-CON-770 → `canon/build/BUILD-037-conversation-engine.md#03712--the-conversation-ledger`
+- **CF-CON-790** (Rule of trust conversation, Frozen): CF-CON-777, CF-CON-282 → `canon/build/BUILD-037-conversation-engine.md#03713--the-rule-of-trust`
+- **CF-CON-791** (Conversation final principle, Frozen): CF-CON-777, CF-CON-794 → `canon/build/BUILD-037-conversation-engine.md#03714--the-final-principle`
+- **CF-CON-792** (No two hear same conversation, Frozen): CF-CON-777, CF-CON-795 → `canon/build/BUILD-037-conversation-engine.md`
+- **CF-CON-793** (Dialogue Engine superseded, Deprecated): CF-CON-777 → `canon/build/BUILD-037-conversation-engine.md`
+- **CF-CON-794** (Change reader listening, Frozen): CF-CON-777, CF-CON-053 → `canon/build/BUILD-037-conversation-engine.md#change-the-readers-listening-cf-con-794--author-closing`
+- **CF-CON-795** (Four simultaneous conversations, Frozen): CF-CON-777, CF-CON-779 → `canon/build/BUILD-037-conversation-engine.md#four-simultaneous-conversations-cf-con-795--author-opening`
+- **CF-CON-796** (Consciousness collides in conversation, Frozen): CF-CON-777, CF-CON-772 → `canon/build/BUILD-037-conversation-engine.md#0370--purpose`

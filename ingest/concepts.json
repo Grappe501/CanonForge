@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "canonforge_version": "2.14.0",
-  "generated_at": "2026-07-05T22:48:56.129792+00:00",
+  "generated_at": "2026-07-05T22:52:20.418991+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -8591,6 +8591,227 @@
         "CF-ENTRY-076"
       ],
       "canon_ref": "canon/build/BUILD-036-relationship-engine.md"
+    },
+    {
+      "id": "CF-CON-777",
+      "label": "Conversation Engine",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Spoken interaction where consciousness collides not explains.",
+      "sources": [
+        "CF-ENTRY-077"
+      ],
+      "canon_ref": "canon/build/BUILD-037-conversation-engine.md"
+    },
+    {
+      "id": "CF-CON-778",
+      "label": "Conversation first law",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Never say exactly what they mean; language incomplete.",
+      "sources": [
+        "CF-ENTRY-077"
+      ],
+      "canon_ref": "canon/build/BUILD-037-conversation-engine.md#0371--the-first-law"
+    },
+    {
+      "id": "CF-CON-779",
+      "label": "Four layers of conversation",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Literal emotional relational hidden meaning.",
+      "sources": [
+        "CF-ENTRY-077"
+      ],
+      "canon_ref": "canon/build/BUILD-037-conversation-engine.md#0372--the-four-layers"
+    },
+    {
+      "id": "CF-CON-780",
+      "label": "Conversation purpose test",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Why not narrated; rewrite if no unique experience.",
+      "sources": [
+        "CF-ENTRY-077"
+      ],
+      "canon_ref": "canon/build/BUILD-037-conversation-engine.md#0373--the-purpose-test"
+    },
+    {
+      "id": "CF-CON-781",
+      "label": "Rhythm of speech",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Recognize speakers without tags through rhythm.",
+      "sources": [
+        "CF-ENTRY-077"
+      ],
+      "canon_ref": "canon/build/BUILD-037-conversation-engine.md#0374--the-rhythm-of-speech"
+    },
+    {
+      "id": "CF-CON-782",
+      "label": "The unsaid",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Most important sentence never spoken; feel absences.",
+      "sources": [
+        "CF-ENTRY-077"
+      ],
+      "canon_ref": "canon/build/BUILD-037-conversation-engine.md#0375--the-unsaid"
+    },
+    {
+      "id": "CF-CON-783",
+      "label": "The listener",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Listening is narrative action; meaning changes.",
+      "sources": [
+        "CF-ENTRY-077"
+      ],
+      "canon_ref": "canon/build/BUILD-037-conversation-engine.md#0376--the-listener"
+    },
+    {
+      "id": "CF-CON-784",
+      "label": "Memory activation conversation",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Conversations awaken memories ripple backward.",
+      "sources": [
+        "CF-ENTRY-077"
+      ],
+      "canon_ref": "canon/build/BUILD-037-conversation-engine.md#0377--the-memory-activation"
+    },
+    {
+      "id": "CF-CON-785",
+      "label": "Question beneath",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Surface topic hides deeper human question.",
+      "sources": [
+        "CF-ENTRY-077"
+      ],
+      "canon_ref": "canon/build/BUILD-037-conversation-engine.md#0378--the-question-beneath"
+    },
+    {
+      "id": "CF-CON-786",
+      "label": "Conversation shift",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "No important conversation ends unchanged.",
+      "sources": [
+        "CF-ENTRY-077"
+      ],
+      "canon_ref": "canon/build/BUILD-037-conversation-engine.md#0379--the-shift"
+    },
+    {
+      "id": "CF-CON-787",
+      "label": "Shared silence conversation",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Pauses breaths silence belong to dialogue.",
+      "sources": [
+        "CF-ENTRY-077"
+      ],
+      "canon_ref": "canon/build/BUILD-037-conversation-engine.md#03710--the-shared-silence"
+    },
+    {
+      "id": "CF-CON-788",
+      "label": "Music of conversation",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Jazz chamber percussion; each pair own tempo.",
+      "sources": [
+        "CF-ENTRY-077"
+      ],
+      "canon_ref": "canon/build/BUILD-037-conversation-engine.md#03711--the-music-of-conversation"
+    },
+    {
+      "id": "CF-CON-789",
+      "label": "Conversation ledger record",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Ten fields per major conversation.",
+      "sources": [
+        "CF-ENTRY-077"
+      ],
+      "canon_ref": "canon/build/BUILD-037-conversation-engine.md#03712--the-conversation-ledger"
+    },
+    {
+      "id": "CF-CON-790",
+      "label": "Rule of trust conversation",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Never explain solely for reader; lines belong to speaker.",
+      "sources": [
+        "CF-ENTRY-077"
+      ],
+      "canon_ref": "canon/build/BUILD-037-conversation-engine.md#03713--the-rule-of-trust"
+    },
+    {
+      "id": "CF-CON-791",
+      "label": "Conversation final principle",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Greatest conversations continue inside reader after scene.",
+      "sources": [
+        "CF-ENTRY-077"
+      ],
+      "canon_ref": "canon/build/BUILD-037-conversation-engine.md#03714--the-final-principle"
+    },
+    {
+      "id": "CF-CON-792",
+      "label": "No two hear same conversation",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Each participant hears different conversation.",
+      "sources": [
+        "CF-ENTRY-077"
+      ],
+      "canon_ref": "canon/build/BUILD-037-conversation-engine.md"
+    },
+    {
+      "id": "CF-CON-793",
+      "label": "Dialogue Engine superseded",
+      "category": "Architecture",
+      "status": "Deprecated",
+      "definition": "Replaced by Conversation Engine BUILD-037.",
+      "sources": [
+        "CF-ENTRY-072",
+        "CF-ENTRY-077"
+      ],
+      "canon_ref": "canon/build/BUILD-037-conversation-engine.md"
+    },
+    {
+      "id": "CF-CON-794",
+      "label": "Change reader listening",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Conversation practice for real world listening habit.",
+      "sources": [
+        "CF-ENTRY-077"
+      ],
+      "canon_ref": "canon/build/BUILD-037-conversation-engine.md#change-the-readers-listening-cf-con-794--author-closing"
+    },
+    {
+      "id": "CF-CON-795",
+      "label": "Four simultaneous conversations",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Words emotions memories meanings at once.",
+      "sources": [
+        "CF-ENTRY-077"
+      ],
+      "canon_ref": "canon/build/BUILD-037-conversation-engine.md#four-simultaneous-conversations-cf-con-795--author-opening"
+    },
+    {
+      "id": "CF-CON-796",
+      "label": "Consciousness collides in conversation",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Not explain story; reveal speaker listener relationship world.",
+      "sources": [
+        "CF-ENTRY-077"
+      ],
+      "canon_ref": "canon/build/BUILD-037-conversation-engine.md#0370--purpose"
     }
   ],
   "edges": [
@@ -15967,6 +16188,206 @@
     {
       "from": "CF-CON-776",
       "to": "CF-CON-710",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-777",
+      "to": "CF-CON-757",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-777",
+      "to": "CF-CON-796",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-777",
+      "to": "CF-CON-792",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-778",
+      "to": "CF-CON-777",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-778",
+      "to": "CF-CON-164",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-779",
+      "to": "CF-CON-777",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-779",
+      "to": "CF-CON-785",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-780",
+      "to": "CF-CON-777",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-780",
+      "to": "CF-CON-158",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-781",
+      "to": "CF-CON-777",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-781",
+      "to": "CF-CON-505",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-782",
+      "to": "CF-CON-777",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-782",
+      "to": "CF-CON-457",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-783",
+      "to": "CF-CON-777",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-783",
+      "to": "CF-CON-166",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-784",
+      "to": "CF-CON-777",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-784",
+      "to": "CF-CON-416",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-785",
+      "to": "CF-CON-777",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-785",
+      "to": "CF-CON-759",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-786",
+      "to": "CF-CON-777",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-786",
+      "to": "CF-CON-763",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-787",
+      "to": "CF-CON-777",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-787",
+      "to": "CF-CON-766",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-788",
+      "to": "CF-CON-777",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-788",
+      "to": "CF-CON-762",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-789",
+      "to": "CF-CON-777",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-789",
+      "to": "CF-CON-770",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-790",
+      "to": "CF-CON-777",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-790",
+      "to": "CF-CON-282",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-791",
+      "to": "CF-CON-777",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-791",
+      "to": "CF-CON-794",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-792",
+      "to": "CF-CON-777",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-792",
+      "to": "CF-CON-795",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-793",
+      "to": "CF-CON-777",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-794",
+      "to": "CF-CON-777",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-794",
+      "to": "CF-CON-053",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-795",
+      "to": "CF-CON-777",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-795",
+      "to": "CF-CON-779",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-796",
+      "to": "CF-CON-777",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-796",
+      "to": "CF-CON-772",
       "type": "related"
     }
   ]

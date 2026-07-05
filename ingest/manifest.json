@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0.0",
   "canonforge_version": "2.14.0",
-  "generated_at": "2026-07-05T22:48:56.103877+00:00",
+  "generated_at": "2026-07-05T22:52:20.386474+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 76,
-  "concept_count": 776,
+  "entry_count": 77,
+  "concept_count": 796,
   "project_version": "0.4.0",
   "roadmap_version": "1.0",
   "roadmap_build_projection": "80-120",
@@ -19,9 +19,11 @@
   "build_035_title": "Opposing Consciousness",
   "build_036_version": "1.0",
   "build_036_title": "Relationship Engine",
+  "build_037_version": "1.0",
+  "build_037_title": "Conversation Engine",
   "story_genome": "active",
   "phase_ii_5_next": "deferred",
-  "story_genome_next": "BUILD-037 Dialogue Engine",
+  "story_genome_next": "BUILD-038 Scene Engine",
   "phase_two": "complete",
   "build_016_version": "1.0",
   "build_016_title": "Consciousness Engine",
@@ -92,7 +94,7 @@
   "build_015_title": "Resonance Matrix",
   "foundational_layer": "BUILD-001-013 complete",
   "engineering_layer": "BUILD-014-015 complete",
-  "build_layer": "BUILD-001-036 frozen \u00b7 BUILD-015.5 active",
+  "build_layer": "BUILD-001-037 frozen \u00b7 BUILD-015.5 active",
   "entries": [
     {
       "entry_id": "CF-ENTRY-001",
@@ -1673,6 +1675,36 @@
         "CF-CON-776"
       ],
       "byte_size": 8200
+    },
+    {
+      "entry_id": "CF-ENTRY-077",
+      "file": "knowledge/entries/077-build-037-conversation-engine-v1.md",
+      "sha256": "af32ef89811e8073618c54192a4a7a763739d9842543ac76f99776c1daf2e090",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-777",
+        "CF-CON-778",
+        "CF-CON-779",
+        "CF-CON-780",
+        "CF-CON-781",
+        "CF-CON-782",
+        "CF-CON-783",
+        "CF-CON-784",
+        "CF-CON-785",
+        "CF-CON-786",
+        "CF-CON-787",
+        "CF-CON-788",
+        "CF-CON-789",
+        "CF-CON-790",
+        "CF-CON-791",
+        "CF-CON-792",
+        "CF-CON-793",
+        "CF-CON-794",
+        "CF-CON-795",
+        "CF-CON-796"
+      ],
+      "byte_size": 8306
     }
   ],
   "indexes": {

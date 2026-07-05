@@ -1,7 +1,7 @@
-# Master Canon v1.6.0
+# Master Canon v1.6.1
 
-> **BUILD-036:** Relationship Engine · consciousness visible in meeting · relationship arcs
-> Supersedes v1.5.9 (2026-07-05 · BUILD-036 CF-ENTRY-076 · CanonForge 2.16.0)
+> **BUILD-037:** Conversation Engine · four layers · change the reader's listening
+> Supersedes v1.6.0 (2026-07-05 · BUILD-037 CF-ENTRY-077 · CanonForge 2.17.0)
 
 ---
 
@@ -42,7 +42,9 @@ Key locked insights:
 | **Four Pillars** | Strengthen ≥1 of Wonder · **Connection** · Resonance · Transformation? | BUILD-003 v1.0 |
 | Seven Laws | Immutable · complies with BUILD-004 v1.0? | BUILD-004 |
 
-**Stack:** BUILD-001 = *why* · … · **035 = *opposition as incompleteness*** · **036 = *relationship arcs***
+**Stack:** BUILD-001 = *why* · … · **036 = *relationship arcs*** · **037 = *conversation layers***
+
+→ [build/BUILD-037-conversation-engine.md](build/BUILD-037-conversation-engine.md) · Four Layers · Conversation Ledger · Change Reader Listening
 
 → [build/BUILD-036-relationship-engine.md](build/BUILD-036-relationship-engine.md) · Relationship Ledger · Five Reads Through Relationships
 
@@ -278,6 +280,12 @@ Possibility under consideration: **never shown directly** — reader **assembles
 
 > **Relationship arcs, not character arcs** *(CF-CON-773)* — consciousness · assumptions · blind spots illuminated **when two meet** *(CF-CON-772)*. Reader asks: *"How did these people change one another?"* not *"Who won?"* *(CF-CON-771)*. **Five reads through relationships** *(CF-CON-774)* — fifth read: *how have my own relationships changed how I read this book?* *(CF-CON-775)*.
 
+### Conversation immutable law (CF-CON-777 · BUILD-037)
+
+> **No two people ever hear exactly the same conversation.**
+
+> **Four layers** *(CF-CON-779)* — literal · emotional · relational · hidden. Conversation **collides consciousness** *(CF-CON-796)* — reveals speaker · listener · relationship · world. **Purpose test:** why not narrated? *(CF-CON-780)*. **Rule of trust:** never explain solely for reader *(CF-CON-790)*. Greatest conversations **continue inside the reader** *(CF-CON-791)* — novel changes **how readers hear other human beings** *(CF-CON-794)*.
+
 ### Cosmology immutable law (CF-CON-625 · BUILD-030)
 
 > **The universe is not a machine to be solved. It is a reality to be explored.**
@@ -290,7 +298,7 @@ Final question: **"How should conscious beings live within a universe they can n
 
 **Secret History** *(BUILD-031 · CF-CON-645 · AUTHOR-ONLY)* — hidden chronology framework. Populated events never reader-facing. See protected BUILD doc — not cited in surface canon.
 
-**Story Genome active** *(BUILD-033–036 · CF-CON-697 · CF-CON-717 · CF-CON-737 · CF-CON-757)*. Next: **BUILD-037 Dialogue Engine**.
+**Story Genome active** *(BUILD-033–037 · CF-CON-697 · CF-CON-717 · CF-CON-737 · CF-CON-757 · CF-CON-777)*. Next: **BUILD-038 Scene Engine**.
 
 ### Visual Grammar (CF-CON-080 · CF-CON-081)
 

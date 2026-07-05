@@ -3,6 +3,17 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [2.17.0] — 2026-07-05
+
+### Added
+- CF-ENTRY-077: BUILD-037 The Conversation Engine Canonical v1.0
+- Concepts CF-CON-777 through CF-CON-796
+- Four layers of conversation · conversation ledger · rule of trust
+- **Change reader listening** — practice for real-world conversations (CF-CON-794)
+- **No two hear same conversation** · four simultaneous conversations (CF-CON-792 · CF-CON-795)
+- Dialogue Engine superseded (CF-CON-793)
+- Master Canon v1.6.1
+
 ## [2.16.0] — 2026-07-05
 
 ### Added
