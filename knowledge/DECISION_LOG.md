@@ -27,7 +27,9 @@
 | 2026-07-05 | Continuous opening/closing dyad | Form and theme unified | CF-CON-055, CF-CON-056 |
 | 2026-07-05 | Eliminate chapters | CF-ENTRY-026 artifact doctrine | CF-CON-059 |
 | 2026-07-05 | Artifact not novel | Physical form reinforces experience | CF-CON-067 |
-| 2026-07-05 | Form supports experience | Read 1 adventure anchor protected | CF-CON-068 |
+| 2026-07-05 | Compose not write | Rhythm Bible discipline | CF-CON-069, CF-CON-070 |
+| 2026-07-05 | Compose Laws center doctrine | Six-line governing principle | CF-CON-077 |
+| 2026-07-05 | Symphony disguised as novella | Medium discovery | CF-CON-076 |
 | 2026-07-05 | Originality firewall | Genre pillars as physics not copy | CF-CON-039 |
 
 ## Open Forks (see OPEN_QUESTIONS.md)

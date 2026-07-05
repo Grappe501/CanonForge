@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "canonforge_version": "0.2.0",
-  "generated_at": "2026-07-05T20:53:16.079726+00:00",
+  "generated_at": "2026-07-05T20:54:21.418284+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -763,6 +763,127 @@
         "CF-ENTRY-026"
       ],
       "canon_ref": "architecture/VALIDATION_STACK.md"
+    },
+    {
+      "id": "CF-CON-069",
+      "label": "Compose not write",
+      "category": "Discipline",
+      "status": "Locked",
+      "definition": "Book is scored not written; composer asks if note belongs here.",
+      "sources": [
+        "CF-ENTRY-027"
+      ],
+      "canon_ref": "architecture/RHYTHM_BIBLE.md"
+    },
+    {
+      "id": "CF-CON-070",
+      "label": "Rhythm Bible",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "Score document: tempo, pulse, silence, density, cadence per page.",
+      "sources": [
+        "CF-ENTRY-027"
+      ],
+      "canon_ref": "architecture/RHYTHM_BIBLE.md"
+    },
+    {
+      "id": "CF-CON-071",
+      "label": "White space as rest",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "White space is musical rest; meaning shifts across Recognition reads.",
+      "sources": [
+        "CF-ENTRY-027"
+      ],
+      "canon_ref": "architecture/RHYTHM_BIBLE.md"
+    },
+    {
+      "id": "CF-CON-072",
+      "label": "Emotional meter map",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "Internal meters per state: wonder 3/4, conflict 5/4, memory free time, etc.",
+      "sources": [
+        "CF-ENTRY-027"
+      ],
+      "canon_ref": "architecture/RHYTHM_BIBLE.md"
+    },
+    {
+      "id": "CF-CON-073",
+      "label": "Heartbeat pulse",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "Recurring three-short-sentences pause pattern; measures something on Read 4+.",
+      "sources": [
+        "CF-ENTRY-027"
+      ],
+      "canon_ref": "architecture/RHYTHM_BIBLE.md"
+    },
+    {
+      "id": "CF-CON-074",
+      "label": "Breathing as instrument",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "Compose for breathing, pulse, subvocalization\u2014not eyes alone.",
+      "sources": [
+        "CF-ENTRY-027"
+      ],
+      "canon_ref": "architecture/RHYTHM_BIBLE.md"
+    },
+    {
+      "id": "CF-CON-075",
+      "label": "Violated expectation emotion",
+      "category": "Heart",
+      "status": "Locked",
+      "definition": "Emotion from expectation violated\u2014not adjective density.",
+      "sources": [
+        "CF-ENTRY-027"
+      ],
+      "canon_ref": "architecture/RHYTHM_BIBLE.md"
+    },
+    {
+      "id": "CF-CON-076",
+      "label": "Symphony disguised as novella",
+      "category": "Mission",
+      "status": "Locked",
+      "definition": "Actual medium: symphony in novella form\u2014not genre label.",
+      "sources": [
+        "CF-ENTRY-027"
+      ],
+      "canon_ref": "canon/MASTER_CANON.md"
+    },
+    {
+      "id": "CF-CON-077",
+      "label": "Compose Laws",
+      "category": "Governance",
+      "status": "Locked",
+      "definition": "Six-line center doctrine: word, sentence, paragraph, page, silence, reread.",
+      "sources": [
+        "CF-ENTRY-027"
+      ],
+      "canon_ref": "canon/MASTER_CANON.md"
+    },
+    {
+      "id": "CF-CON-078",
+      "label": "Rhythm anti-skimming",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "Rhythm not complexity stops skimming; prediction failure slows reader.",
+      "sources": [
+        "CF-ENTRY-027"
+      ],
+      "canon_ref": "architecture/RHYTHM_BIBLE.md"
+    },
+    {
+      "id": "CF-CON-079",
+      "label": "Silence as content",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "Unwritten parts as important as written; silence is part of music.",
+      "sources": [
+        "CF-ENTRY-027"
+      ],
+      "canon_ref": "architecture/RHYTHM_BIBLE.md"
     }
   ],
   "edges": [
@@ -1239,6 +1360,81 @@
     {
       "from": "CF-CON-068",
       "to": "CF-CON-067",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-069",
+      "to": "CF-CON-070",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-069",
+      "to": "CF-CON-077",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-070",
+      "to": "CF-CON-069",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-070",
+      "to": "CF-CON-071",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-071",
+      "to": "CF-CON-066",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-071",
+      "to": "CF-CON-070",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-072",
+      "to": "CF-CON-070",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-073",
+      "to": "CF-CON-070",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-074",
+      "to": "CF-CON-070",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-075",
+      "to": "CF-CON-003",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-076",
+      "to": "CF-CON-069",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-076",
+      "to": "CF-CON-070",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-077",
+      "to": "CF-CON-069",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-078",
+      "to": "CF-CON-070",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-079",
+      "to": "CF-CON-071",
       "type": "related"
     }
   ]

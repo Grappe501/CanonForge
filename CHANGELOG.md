@@ -3,6 +3,14 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [0.2.5] — 2026-07-05
+
+### Added
+- CF-ENTRY-027: compose not write · Rhythm Bible · symphony disguised as novella
+- Concepts CF-CON-069 through CF-CON-079
+- `architecture/RHYTHM_BIBLE.md` — score framework (Phase 4+ page scoring)
+- Master Canon center: Compose Laws (six-line doctrine)
+
 ## [0.2.4] — 2026-07-05
 
 ### Added

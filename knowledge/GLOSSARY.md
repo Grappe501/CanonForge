@@ -21,7 +21,10 @@
 | **Watchmaker phases** | Nine-phase pre-writing pipeline | CF-CON-017 |
 | **River not stairs** | Continuous flow; no stop-start chapter rhythm | CF-CON-062 |
 | **White space punctuation** | Only permitted structural shift cue | CF-CON-066 |
-| **Artifact** | Printed object designed as experience container | CF-CON-067 |
+| **Compose** | Score the book; do not merely write prose | CF-CON-069 |
+| **Rhythm Bible** | Page-level score: tempo, pulse, silence, density | CF-CON-070 |
+| **Heartbeat pulse** | Three short sentences · pause · recurring pattern | CF-CON-073 |
+| **Symphony novella** | Medium is time/composition disguised as novella | CF-CON-076 |
 | **Experience product** | The reading journey is the product, not the artifact | CF-CON-037 |
 | **3-text-before-page-5** | Experience success scene: text three people before reaching page five on reread | CF-CON-045 |
 | **Call me when you finish** | Target recommendation type — experience sharing, not craft admiration | CF-CON-038 |

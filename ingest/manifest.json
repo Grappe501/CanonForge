@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0.0",
   "canonforge_version": "0.2.0",
-  "generated_at": "2026-07-05T20:53:16.073446+00:00",
+  "generated_at": "2026-07-05T20:54:21.408219+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 26,
+  "entry_count": 27,
   "concept_count": 44,
   "entries": [
     {
@@ -336,6 +336,27 @@
         "CF-CON-068"
       ],
       "byte_size": 3837
+    },
+    {
+      "entry_id": "CF-ENTRY-027",
+      "file": "knowledge/entries/027-compose-not-write-rhythm-bible.md",
+      "sha256": "da8a2233672e52486338c6b7937bc5325f3c66376b19b0eb7fa57496a9153438",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-069",
+        "CF-CON-070",
+        "CF-CON-071",
+        "CF-CON-072",
+        "CF-CON-073",
+        "CF-CON-074",
+        "CF-CON-075",
+        "CF-CON-076",
+        "CF-CON-077",
+        "CF-CON-078",
+        "CF-CON-079"
+      ],
+      "byte_size": 5316
     }
   ],
   "indexes": {

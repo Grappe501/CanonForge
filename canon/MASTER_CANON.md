@@ -1,8 +1,8 @@
-# Master Canon v0.2.4
+# Master Canon v0.2.5
 
 > Governing creative constitution for CHRONOFORGE
 > Derived from locked concepts · open forks marked explicitly
-> Supersedes v0.2.3 (2026-07-05 · CF-ENTRY-026 artifact / no chapters)
+> Supersedes v0.2.4 (2026-07-05 · CF-ENTRY-027 Compose Laws)
 
 ---
 
@@ -13,13 +13,32 @@
 | **Codename** | CHRONOFORGE |
 | **Repo** | CanonForge (`Grappe501/CanonForge`) |
 | **Form** | ~100–120 pages · **no chapters** · invisible movements |
-| **Architecture** | Recursive novel · Five Locks · Chronology Lie · artifact design |
+| **Architecture** | Recursive novel · Five Locks · Chronology Lie · artifact · **scored composition** |
+| **Medium** | Symphony disguised as novella (CF-CON-076) |
 
 ---
 
 ## The Mission
 
 Tell the **best adventure story we can possibly tell** — with invisible engineering underneath. The reader should never think *"this author is trying to be clever."* They should finish, talk about it, and discover the architecture themselves.
+
+## Compose Laws (center doctrine · CF-CON-077 · CF-CON-069)
+
+> **Every word has a meaning.**
+>
+> **Every sentence has a purpose.**
+>
+> **Every paragraph has a rhythm.**
+>
+> **Every page has a tempo.**
+>
+> **Every silence has a voice.**
+>
+> **Every reread changes the music.**
+
+We **compose**, we do not merely write. The book is **scored** — see [architecture/RHYTHM_BIBLE.md](../architecture/RHYTHM_BIBLE.md).
+
+Compose for: breathing · pulse · subvocalization · the reader's inner voice.
 
 ### Meta-mission (CF-CON-053 · locked CF-ENTRY-024)
 
@@ -262,4 +281,4 @@ See [knowledge/OPEN_QUESTIONS.md](../knowledge/OPEN_QUESTIONS.md):
 
 ---
 
-*v0.2.4 · 2026-07-05 · synthesized from CF-ENTRY-001 through CF-ENTRY-026*
+*v0.2.5 · 2026-07-05 · synthesized from CF-ENTRY-001 through CF-ENTRY-027*

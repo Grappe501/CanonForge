@@ -33,6 +33,7 @@ H:/           = local truth
     decisions             Watchmaker Phases
     open questions        Document Map (this)
                           Movements
+                          Rhythm Bible
                           Validation Stack
                               │
                          canon/RULE_BOOK
@@ -59,7 +60,7 @@ H:/           = local truth
 | 7 | World Atlas | 7 | future | Not started |
 | 8 | Clue Ledger | 8 | future | Not started |
 | 9 | Movement Map | 4+ | `architecture/MOVEMENTS_NOT_CHAPTERS.md` | Spec only |
-| 10 | Validation Stack | ongoing | `architecture/VALIDATION_STACK.md` | **Done** |
+| 11 | Rhythm Bible | 4+ | `architecture/RHYTHM_BIBLE.md` | **Framework** ✓ |
 
 Story Bible ≠ project root. It will live **inside** Master Canon as one section when written.
 

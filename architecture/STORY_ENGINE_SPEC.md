@@ -28,6 +28,7 @@ OUTPUT:  manuscript/ (Phase 14+ ONLY)
 | Character Bible | 6 | future |
 | World Atlas | 7 | future |
 | Clue Ledger | 8 | future |
+| Rhythm Bible | 4+ | `architecture/RHYTHM_BIBLE.md` ✓ (framework) |
 | Chapter One / Opening | 9 | **LAST** |
 
 ---
@@ -64,4 +65,4 @@ OUTPUT:  manuscript/ (Phase 14+ ONLY)
 
 ---
 
-*CF-CON-013 · CF-ENTRY-006 · CF-ENTRY-009*
+*CF-CON-013 · CF-CON-069 · CF-CON-070 · CF-ENTRY-006 · CF-ENTRY-009 · CF-ENTRY-027*

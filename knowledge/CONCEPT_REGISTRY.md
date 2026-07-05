@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 0.2.4 · 2026-07-05 · 68 concepts registered
+> Version 0.2.5 · 2026-07-05 · 79 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -72,6 +72,17 @@
 | CF-CON-066 | White space as punctuation | Architecture | **Locked** | White space is only shift cue—silence, breath, reflection. | CF-ENTRY-026 |
 | CF-CON-067 | Artifact not novel | Mission | **Locked** | Design printed artifact; every physical aspect reinforces experience. | CF-ENTRY-026 |
 | CF-CON-068 | Form supports experience | Architecture | **Locked** | Form quietly supports; never overwhelms; Read 1 must remain inviting adventure. | CF-ENTRY-026 |
+| CF-CON-069 | Compose not write | Discipline | **Locked** | Book is scored not written; composer asks if note belongs here. | CF-ENTRY-027 |
+| CF-CON-070 | Rhythm Bible | Architecture | **Locked** | Score document: tempo, pulse, silence, density, cadence per page. | CF-ENTRY-027 |
+| CF-CON-071 | White space as rest | Architecture | **Locked** | White space is musical rest; meaning shifts across Recognition reads. | CF-ENTRY-027 |
+| CF-CON-072 | Emotional meter map | Architecture | **Locked** | Internal meters per state: wonder 3/4, conflict 5/4, memory free time, etc. | CF-ENTRY-027 |
+| CF-CON-073 | Heartbeat pulse | Architecture | **Locked** | Recurring three-short-sentences pause pattern; measures something on Read 4+. | CF-ENTRY-027 |
+| CF-CON-074 | Breathing as instrument | Architecture | **Locked** | Compose for breathing, pulse, subvocalization—not eyes alone. | CF-ENTRY-027 |
+| CF-CON-075 | Violated expectation emotion | Heart | **Locked** | Emotion from expectation violated—not adjective density. | CF-ENTRY-027 |
+| CF-CON-076 | Symphony disguised as novella | Mission | **Locked** | Actual medium: symphony in novella form—not genre label. | CF-ENTRY-027 |
+| CF-CON-077 | Compose Laws | Governance | **Locked** | Six-line center doctrine: word, sentence, paragraph, page, silence, reread. | CF-ENTRY-027 |
+| CF-CON-078 | Rhythm anti-skimming | Architecture | **Locked** | Rhythm not complexity stops skimming; prediction failure slows reader. | CF-ENTRY-027 |
+| CF-CON-079 | Silence as content | Architecture | **Locked** | Unwritten parts as important as written; silence is part of music. | CF-ENTRY-027 |
 
 ## Related Concepts
 
@@ -143,3 +154,14 @@
 - **CF-CON-066** (White space as punctuation, Locked): CF-CON-061 → `architecture/MOVEMENTS_NOT_CHAPTERS.md`
 - **CF-CON-067** (Artifact not novel, Locked): CF-CON-048, CF-CON-059 → `canon/MASTER_CANON.md`
 - **CF-CON-068** (Form supports experience, Locked): CF-CON-028, CF-CON-067 → `architecture/VALIDATION_STACK.md`
+- **CF-CON-069** (Compose not write, Locked): CF-CON-070, CF-CON-077 → `architecture/RHYTHM_BIBLE.md`
+- **CF-CON-070** (Rhythm Bible, Locked): CF-CON-069, CF-CON-071 → `architecture/RHYTHM_BIBLE.md`
+- **CF-CON-071** (White space as rest, Locked): CF-CON-066, CF-CON-070 → `architecture/RHYTHM_BIBLE.md`
+- **CF-CON-072** (Emotional meter map, Locked): CF-CON-070 → `architecture/RHYTHM_BIBLE.md`
+- **CF-CON-073** (Heartbeat pulse, Locked): CF-CON-070 → `architecture/RHYTHM_BIBLE.md`
+- **CF-CON-074** (Breathing as instrument, Locked): CF-CON-070 → `architecture/RHYTHM_BIBLE.md`
+- **CF-CON-075** (Violated expectation emotion, Locked): CF-CON-003 → `architecture/RHYTHM_BIBLE.md`
+- **CF-CON-076** (Symphony disguised as novella, Locked): CF-CON-069, CF-CON-070 → `canon/MASTER_CANON.md`
+- **CF-CON-077** (Compose Laws, Locked): CF-CON-069 → `canon/MASTER_CANON.md`
+- **CF-CON-078** (Rhythm anti-skimming, Locked): CF-CON-070 → `architecture/RHYTHM_BIBLE.md`
+- **CF-CON-079** (Silence as content, Locked): CF-CON-071 → `architecture/RHYTHM_BIBLE.md`
