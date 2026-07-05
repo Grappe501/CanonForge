@@ -55,6 +55,11 @@
 | **Live with this** | Recognition not clues; symbols migrate | CF-CON-488 |
 | **Typography Physics** | Visible physics of thought · language | CF-CON-489 |
 | **One typeface** | Single visual voice canonical edition | CF-CON-504 |
+| **Tempo Engine** | Invisible heartbeat; measurable compositional system | CF-CON-505 |
+| **Five tempos** | Largo · Andante · Moderato · Allegro · Adagio | CF-CON-507 |
+| **Heartbeat test** | Read aloud naturally; awkward breath = unfinished | CF-CON-513 |
+| **Percussion layer** | Phrase · image · silence as rhythmic anchors | CF-CON-514 |
+| **Definitive edition is performance** | Music exists when score meets living reader | CF-CON-523 |
 | **Motif not symbol** | Returns vs carries meaning | CF-CON-450 |
 | **Language of Silence** | Composed silence · seven forms | CF-CON-457 |
 | **Fifth read hears silence** | Words to architecture to silence | CF-CON-472 |

@@ -236,6 +236,8 @@ Now that we know **what** experiences the novel and **where** — the architectu
 
 → **BUILD-021 Symbol Genome** — gravity · curves · **v1.0 frozen**
 
+→ **BUILD-024 The Tempo Engine** — five tempos · performance model · **v1.0 frozen**
+
 → **BUILD-023 Typography Physics** — lexicon · one typeface · **v1.0 frozen**
 
 *(Supersedes "Chronology Engine" as BUILD-017 title · chronology remains subsystem in BUILD-015 §015.11)*

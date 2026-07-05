@@ -104,7 +104,7 @@ Dense text accelerates · open text slows · isolated sentence = pause · lone w
 
 **The eye conducts rhythm before the mind interprets words.**
 
-*(BUILD-022 breath map · BUILD-006 · BUILD-024 Rhythm Score queued · CF-CON-467)*
+*(BUILD-022 breath map · BUILD-006 · BUILD-024 Tempo Engine · CF-CON-467)*
 
 ---
 
@@ -252,9 +252,9 @@ Silence is the **audible** rest. Typography is the **visible** physics.
 
 ---
 
-## BUILD-024 preview *(CF-ENTRY-062)*
+## BUILD-025 preview *(CF-ENTRY-063)*
 
-→ **BUILD-024 Rhythm Score** — movement · page · pulse · breath *(queued)*
+→ **BUILD-025 Page Architecture** — page turns · density · one-word pages *(queued)*
 
 ---
 

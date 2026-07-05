@@ -1,7 +1,7 @@
-# Master Canon v1.4.2
+# Master Canon v1.4.3
 
-> **BUILD-023:** Typography Physics · language not emphasis · one typeface
-> Supersedes v1.4.1 (2026-07-05 · BUILD-023 CF-ENTRY-062 · CanonForge 2.2.0)
+> **BUILD-024:** The Tempo Engine · invisible heartbeat · performance is definitive edition
+> Supersedes v1.4.2 (2026-07-05 · BUILD-024 CF-ENTRY-063 · CanonForge 2.3.0)
 
 ---
 
@@ -42,7 +42,9 @@ Key locked insights:
 | **Four Pillars** | Strengthen ≥1 of Wonder · **Connection** · Resonance · Transformation? | BUILD-003 v1.0 |
 | Seven Laws | Immutable · complies with BUILD-004 v1.0? | BUILD-004 |
 
-**Stack:** BUILD-001 = *why* · … · **021 = *symbol language*** · **022 = *silence*** · **023 = *visual physics***
+**Stack:** BUILD-001 = *why* · … · **023 = *visual physics*** · **024 = *living heartbeat***
+
+→ [build/BUILD-024-tempo-engine.md](build/BUILD-024-tempo-engine.md) · Five Tempos · Tempo Ledger · Performance Model
 
 → [build/BUILD-023-typography-physics.md](build/BUILD-023-typography-physics.md) · Typographic Lexicon · Law of Rarity · One Typeface
 
@@ -169,6 +171,16 @@ CanonForge repo = live OS instance. Full map: [architecture/COMPOSERS_BLUEPRINT.
 If typography changes → **reality changed** — not author voice, not narrator.
 
 Rare typography = **evidence**, not emphasis (six bold words in 100 pages). See [architecture/PHYSICS_OF_READING.md](../architecture/PHYSICS_OF_READING.md).
+
+### Tempo immutable law (CF-CON-505 · BUILD-024)
+
+> **Readers do not simply read the story. They perform it.**
+
+> Tempo is the **invisible conductor** — never consciously noticed · always felt. Five tempos · transitions carry the greatest change · **heartbeat test** before any passage is finished.
+
+The **definitive edition** is not the printed book — it exists only when the fixed score and a **living reader** come together *(CF-CON-523)*. See [build/BUILD-024-tempo-engine.md](build/BUILD-024-tempo-engine.md).
+
+Renamed from roadmap **Rhythm Score** → **Tempo Engine**. Tempo governs everything else.
 
 ### Visual Grammar (CF-CON-080 · CF-CON-081)
 

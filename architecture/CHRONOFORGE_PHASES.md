@@ -59,7 +59,7 @@ Engineer the book — not outline chapters.
 | **021** | **Symbol Genome** | **✓ v1.0** · CF-ENTRY-059/061 |
 | **022** | **Language of Silence** | **✓ v1.0** · seven forms · CF-ENTRY-060 |
 | **023** | **Typography Physics** | **✓ v1.0** · lexicon · one typeface · CF-ENTRY-062 |
-| **024** | Rhythm Score | Movement · page · pulse · breath |
+| **024** | **The Tempo Engine** | **✓ v1.0** · five tempos · performance model · CF-ENTRY-063 |
 | **025** | Page Architecture | Post-write · page turns · density · one-word pages |
 
 **Gate:** BUILD-015.5 v1.0 · Matrix schema understood

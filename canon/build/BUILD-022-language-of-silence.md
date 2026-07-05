@@ -134,7 +134,7 @@ The page is not only text — **margins · paragraphs · line breaks · white sp
 
 Readers experience them **physically**.
 
-*(CF-CON-467 · BUILD-006 · BUILD-024 Rhythm Score queued · CF-CON-069 Compose not write)*
+*(CF-CON-467 · BUILD-006 · BUILD-024 Tempo Engine · CF-CON-069 Compose not write)*
 
 ---
 
@@ -236,9 +236,9 @@ BUILD-015 named the ledger. BUILD-022 **specifies the grammar**.
 
 ---
 
-## BUILD-024 preview *(CF-ENTRY-062)*
+## BUILD-025 preview *(CF-ENTRY-063)*
 
-→ **BUILD-024 Rhythm Score** *(queued)*
+→ **BUILD-025 Page Architecture** *(queued)*
 
 ---
 

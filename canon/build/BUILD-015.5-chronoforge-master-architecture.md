@@ -125,7 +125,8 @@ We did not build a novel. We built a **theory of storytelling** — an operating
 | **021** | The Symbol Genome | **✓ v1.0** · CF-ENTRY-061 |
 | **022** | The Language of Silence | **✓ v1.0** · CF-ENTRY-060 |
 | **023** | Typography Physics | **✓ v1.0** · CF-ENTRY-062 · <12 events |
-| **024** | Rhythm Score | Movement · page · pulse · breath |
+| **024** | The Tempo Engine | **✓ v1.0** · CF-ENTRY-063 · five tempos |
+| **025** | Page Architecture | Post-write · page turns · density |
 | **025** | Page Architecture | Post-write canonical page design |
 
 ### Phase Three — queued (BUILD-026–036)
@@ -264,7 +265,7 @@ Build Bible v1.0 requires:
 
 ## 015.5.11 — What happens next
 
-**Do not proceed to BUILD-024** until BUILD-015.5 reaches v1.0 *(BUILD-016–023 excepted per author uploads)*.
+**Do not proceed to BUILD-025** until BUILD-015.5 reaches v1.0 *(BUILD-016–024 excepted per author uploads)*.
 
 Next passes expand this document into the full 100–200 page Build Bible:
 
@@ -274,7 +275,7 @@ Next passes expand this document into the full 100–200 page Build Bible:
 4. Master data dictionary (elements · symbols · echo IDs)
 5. Execution index (which BUILD when · blocking rules)
 
-When v1.0 ships — Phase Two continues with **BUILD-024 Rhythm Score**.
+When v1.0 ships — Phase Two continues with **BUILD-025 Page Architecture**.
 
 ---
 

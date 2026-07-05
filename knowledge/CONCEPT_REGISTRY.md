@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 2.2.0 · 2026-07-05 · 504 concepts registered
+> Version 2.3.0 · 2026-07-05 · 524 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -344,7 +344,7 @@
 | CF-CON-338 | Symbol Registry | Architecture | **Frozen** | Recurring objects; no accidental symbolism. | CF-ENTRY-051 |
 | CF-CON-339 | Silence Ledger | Architecture | **Frozen** | Trackable silence network; specified BUILD-022 Language of Silence. | CF-ENTRY-051, CF-ENTRY-060 |
 | CF-CON-340 | Typography Ledger | Architecture | **Frozen** | Every typographic deviation tracked; BUILD-023 lexicon. | CF-ENTRY-051, CF-ENTRY-062 |
-| CF-CON-341 | Rhythm Ledger | Architecture | **Frozen** | Movement meter cadence velocity silence ratio. | CF-ENTRY-051 |
+| CF-CON-341 | Rhythm Ledger | Architecture | **Frozen** | Movement meter cadence velocity silence ratio; BUILD-024 Tempo Ledger. | CF-ENTRY-051, CF-ENTRY-063 |
 | CF-CON-342 | Reader Ledger | Architecture | **Frozen** | Believe discover reconsider feel per scene. | CF-ENTRY-051 |
 | CF-CON-343 | Emotion Ledger | Architecture | **Frozen** | Emotional energy not plot tracking. | CF-ENTRY-051 |
 | CF-CON-344 | Discovery Ledger | Architecture | **Frozen** | Surface deep reader human five-read level. | CF-ENTRY-051 |
@@ -508,6 +508,26 @@
 | CF-CON-502 | Five reads of typography | Process | **Frozen** | Natural to intentional as dialogue. | CF-ENTRY-062 |
 | CF-CON-503 | Final typographic principle | Mission | **Frozen** | Nothing accidental; page is architecture. | CF-ENTRY-062 |
 | CF-CON-504 | One typeface principle | Governance | **Frozen** | Single visual voice; one typeface only. | CF-ENTRY-062 |
+| CF-CON-505 | Tempo Engine | Architecture | **Frozen** | Invisible heartbeat; measurable compositional system. | CF-ENTRY-063 |
+| CF-CON-506 | Master pulse | Architecture | **Frozen** | Resting heartbeat alive; readers unconsciously sync. | CF-ENTRY-063 |
+| CF-CON-507 | Five tempos | Architecture | **Frozen** | Largo through Adagio; Moderato default. | CF-ENTRY-063 |
+| CF-CON-508 | Tempo transitions | Architecture | **Frozen** | Greatest change in acceleration deceleration release. | CF-ENTRY-063 |
+| CF-CON-509 | Sentence conductor | Architecture | **Frozen** | Tempo at sentence level; none outside score. | CF-ENTRY-063 |
+| CF-CON-510 | Paragraph phrase | Architecture | **Frozen** | Paragraphs as musical phrases breathe resolve. | CF-ENTRY-063 |
+| CF-CON-511 | Page movement | Architecture | **Frozen** | Page as movement; completed thought before turn. | CF-ENTRY-063 |
+| CF-CON-512 | Chapterless flow | Architecture | **Frozen** | Tempo replaces chapters; emotional orientation. | CF-ENTRY-063 |
+| CF-CON-513 | Heartbeat test | Governance | **Frozen** | Read aloud naturally; awkward breath unfinished. | CF-ENTRY-063 |
+| CF-CON-514 | Percussion layer | Architecture | **Frozen** | Repeated phrase image silence as rhythmic anchors. | CF-ENTRY-063 |
+| CF-CON-515 | Polyrhythm | Architecture | **Frozen** | Four interlocking rhythms without competing. | CF-ENTRY-063 |
+| CF-CON-516 | Cadence of discovery | Architecture | **Frozen** | Question pause observation recognition silence. | CF-ENTRY-063 |
+| CF-CON-517 | Tempo ledger record | Architecture | **Frozen** | Ten fields per movement; Resonance Matrix. | CF-ENTRY-063 |
+| CF-CON-518 | Moment of stillness tempo | Architecture | **Frozen** | Tempo almost disappears; emotional anchor. | CF-ENTRY-063 |
+| CF-CON-519 | Rule of tempo contrast | Governance | **Frozen** | Stillness movement release mirrors breathing. | CF-ENTRY-063 |
+| CF-CON-520 | Reader body tempo | Heart | **Frozen** | Compose for eyes hands breath heart attention. | CF-ENTRY-063 |
+| CF-CON-521 | Tempo fractal | Architecture | **Frozen** | Word to novel every scale echoes pulse. | CF-ENTRY-063 |
+| CF-CON-522 | Final tempo | Mission | **Frozen** | Settle not race; resonance after book closed. | CF-ENTRY-063 |
+| CF-CON-523 | Definitive edition is performance | Mission | **Frozen** | Score plus reader; music exists in performance. | CF-ENTRY-063 |
+| CF-CON-524 | Invisible conductor | Architecture | **Frozen** | Tempo never consciously noticed; always felt. | CF-ENTRY-063 |
 
 ## Related Concepts
 
@@ -851,7 +871,7 @@
 - **CF-CON-338** (Symbol Registry, Frozen): CF-CON-297, CF-CON-134 → `canon/build/BUILD-015-resonance-matrix.md`
 - **CF-CON-339** (Silence Ledger, Frozen): CF-CON-134, CF-CON-273, CF-CON-457 → `canon/build/BUILD-022-language-of-silence.md#0223--the-silence-ledger`
 - **CF-CON-340** (Typography Ledger, Frozen): CF-CON-089, CF-CON-134, CF-CON-489 → `canon/build/BUILD-023-typography-physics.md#0234--the-typography-ledger`
-- **CF-CON-341** (Rhythm Ledger, Frozen): CF-CON-300, CF-CON-134 → `canon/build/BUILD-015-resonance-matrix.md`
+- **CF-CON-341** (Rhythm Ledger, Frozen): CF-CON-300, CF-CON-134, CF-CON-517 → `canon/build/BUILD-024-tempo-engine.md#02412--the-tempo-ledger`
 - **CF-CON-342** (Reader Ledger, Frozen): CF-CON-161, CF-CON-134 → `canon/build/BUILD-015-resonance-matrix.md`
 - **CF-CON-343** (Emotion Ledger, Frozen): CF-CON-162, CF-CON-134 → `canon/build/BUILD-015-resonance-matrix.md`
 - **CF-CON-344** (Discovery Ledger, Frozen): CF-CON-176, CF-CON-134 → `canon/build/BUILD-015-resonance-matrix.md`
@@ -1015,3 +1035,23 @@
 - **CF-CON-502** (Five reads of typography, Frozen): CF-CON-489, CF-CON-470 → `canon/build/BUILD-023-typography-physics.md#02313--the-five-reads`
 - **CF-CON-503** (Final typographic principle, Frozen): CF-CON-489, CF-CON-397 → `canon/build/BUILD-023-typography-physics.md#02314--the-final-typographic-principle`
 - **CF-CON-504** (One typeface principle, Frozen): CF-CON-489, CF-CON-491 → `canon/build/BUILD-023-typography-physics.md`
+- **CF-CON-505** (Tempo Engine, Frozen): CF-CON-069, CF-CON-341, CF-CON-523 → `canon/build/BUILD-024-tempo-engine.md`
+- **CF-CON-506** (Master pulse, Frozen): CF-CON-505, CF-CON-073 → `canon/build/BUILD-024-tempo-engine.md#0241--the-master-pulse`
+- **CF-CON-507** (Five tempos, Frozen): CF-CON-505, CF-CON-222 → `canon/build/BUILD-024-tempo-engine.md#0242--the-five-tempos`
+- **CF-CON-508** (Tempo transitions, Frozen): CF-CON-505, CF-CON-219 → `canon/build/BUILD-024-tempo-engine.md#0243--tempo-transitions`
+- **CF-CON-509** (Sentence conductor, Frozen): CF-CON-505, CF-CON-077 → `canon/build/BUILD-024-tempo-engine.md#0244--the-sentence-conductor`
+- **CF-CON-510** (Paragraph phrase, Frozen): CF-CON-505, CF-CON-070 → `canon/build/BUILD-024-tempo-engine.md#0245--the-paragraph-phrase`
+- **CF-CON-511** (Page movement, Frozen): CF-CON-505, CF-CON-467 → `canon/build/BUILD-024-tempo-engine.md#0246--the-page-movement`
+- **CF-CON-512** (Chapterless flow, Frozen): CF-CON-505, CF-CON-059 → `canon/build/BUILD-024-tempo-engine.md#0247--the-chapterless-flow`
+- **CF-CON-513** (Heartbeat test, Frozen): CF-CON-505, CF-CON-226 → `canon/build/BUILD-024-tempo-engine.md#0248--the-heartbeat-test`
+- **CF-CON-514** (Percussion layer, Frozen): CF-CON-505, CF-CON-457 → `canon/build/BUILD-024-tempo-engine.md#0249--the-percussion-layer`
+- **CF-CON-515** (Polyrhythm, Frozen): CF-CON-505, CF-CON-134 → `canon/build/BUILD-024-tempo-engine.md#02410--the-polyrhythm`
+- **CF-CON-516** (Cadence of discovery, Frozen): CF-CON-505, CF-CON-176 → `canon/build/BUILD-024-tempo-engine.md#02411--the-cadence-of-discovery`
+- **CF-CON-517** (Tempo ledger record, Frozen): CF-CON-505, CF-CON-341 → `canon/build/BUILD-024-tempo-engine.md#02412--the-tempo-ledger`
+- **CF-CON-518** (Moment of stillness tempo, Frozen): CF-CON-505, CF-CON-260 → `canon/build/BUILD-024-tempo-engine.md#02413--the-moment-of-stillness`
+- **CF-CON-519** (Rule of tempo contrast, Frozen): CF-CON-505, CF-CON-514 → `canon/build/BUILD-024-tempo-engine.md#02414--the-rule-of-contrast`
+- **CF-CON-520** (Reader body tempo, Frozen): CF-CON-505, CF-CON-166 → `canon/build/BUILD-024-tempo-engine.md#02415--the-readers-body`
+- **CF-CON-521** (Tempo fractal, Frozen): CF-CON-505, CF-CON-300 → `canon/build/BUILD-024-tempo-engine.md#02416--the-tempo-fractal`
+- **CF-CON-522** (Final tempo, Frozen): CF-CON-505, CF-CON-471 → `canon/build/BUILD-024-tempo-engine.md#02417--the-final-tempo`
+- **CF-CON-523** (Definitive edition is performance, Frozen): CF-CON-505, CF-CON-106 → `canon/build/BUILD-024-tempo-engine.md`
+- **CF-CON-524** (Invisible conductor, Frozen): CF-CON-505, CF-CON-074 → `canon/build/BUILD-024-tempo-engine.md#0240--purpose`

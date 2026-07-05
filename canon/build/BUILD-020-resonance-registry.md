@@ -153,7 +153,7 @@ Certain **rhythmic structures** recur — not the same words · the **same caden
 
 Readers feel recognition before intellectual pattern recognition.
 
-*(CF-CON-441 · BUILD-006 · BUILD-024 Rhythm Score queued · CF-CON-366 Inner rhythm)*
+*(CF-CON-441 · BUILD-006 · BUILD-024 Tempo Engine · CF-CON-366 Inner rhythm)*
 
 ---
 

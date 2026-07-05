@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "2.2.0",
-  "generated_at": "2026-07-05T22:03:24.297014+00:00",
+  "canonforge_version": "2.3.0",
+  "generated_at": "2026-07-05T22:06:43.116988+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -3784,11 +3784,12 @@
       "label": "Rhythm Ledger",
       "category": "Architecture",
       "status": "Frozen",
-      "definition": "Movement meter cadence velocity silence ratio.",
+      "definition": "Movement meter cadence velocity silence ratio; BUILD-024 Tempo Ledger.",
       "sources": [
-        "CF-ENTRY-051"
+        "CF-ENTRY-051",
+        "CF-ENTRY-063"
       ],
-      "canon_ref": "canon/build/BUILD-015-resonance-matrix.md"
+      "canon_ref": "canon/build/BUILD-024-tempo-engine.md#02412--the-tempo-ledger"
     },
     {
       "id": "CF-CON-342",
@@ -5587,6 +5588,226 @@
         "CF-ENTRY-062"
       ],
       "canon_ref": "canon/build/BUILD-023-typography-physics.md"
+    },
+    {
+      "id": "CF-CON-505",
+      "label": "Tempo Engine",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Invisible heartbeat; measurable compositional system.",
+      "sources": [
+        "CF-ENTRY-063"
+      ],
+      "canon_ref": "canon/build/BUILD-024-tempo-engine.md"
+    },
+    {
+      "id": "CF-CON-506",
+      "label": "Master pulse",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Resting heartbeat alive; readers unconsciously sync.",
+      "sources": [
+        "CF-ENTRY-063"
+      ],
+      "canon_ref": "canon/build/BUILD-024-tempo-engine.md#0241--the-master-pulse"
+    },
+    {
+      "id": "CF-CON-507",
+      "label": "Five tempos",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Largo through Adagio; Moderato default.",
+      "sources": [
+        "CF-ENTRY-063"
+      ],
+      "canon_ref": "canon/build/BUILD-024-tempo-engine.md#0242--the-five-tempos"
+    },
+    {
+      "id": "CF-CON-508",
+      "label": "Tempo transitions",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Greatest change in acceleration deceleration release.",
+      "sources": [
+        "CF-ENTRY-063"
+      ],
+      "canon_ref": "canon/build/BUILD-024-tempo-engine.md#0243--tempo-transitions"
+    },
+    {
+      "id": "CF-CON-509",
+      "label": "Sentence conductor",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Tempo at sentence level; none outside score.",
+      "sources": [
+        "CF-ENTRY-063"
+      ],
+      "canon_ref": "canon/build/BUILD-024-tempo-engine.md#0244--the-sentence-conductor"
+    },
+    {
+      "id": "CF-CON-510",
+      "label": "Paragraph phrase",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Paragraphs as musical phrases breathe resolve.",
+      "sources": [
+        "CF-ENTRY-063"
+      ],
+      "canon_ref": "canon/build/BUILD-024-tempo-engine.md#0245--the-paragraph-phrase"
+    },
+    {
+      "id": "CF-CON-511",
+      "label": "Page movement",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Page as movement; completed thought before turn.",
+      "sources": [
+        "CF-ENTRY-063"
+      ],
+      "canon_ref": "canon/build/BUILD-024-tempo-engine.md#0246--the-page-movement"
+    },
+    {
+      "id": "CF-CON-512",
+      "label": "Chapterless flow",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Tempo replaces chapters; emotional orientation.",
+      "sources": [
+        "CF-ENTRY-063"
+      ],
+      "canon_ref": "canon/build/BUILD-024-tempo-engine.md#0247--the-chapterless-flow"
+    },
+    {
+      "id": "CF-CON-513",
+      "label": "Heartbeat test",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Read aloud naturally; awkward breath unfinished.",
+      "sources": [
+        "CF-ENTRY-063"
+      ],
+      "canon_ref": "canon/build/BUILD-024-tempo-engine.md#0248--the-heartbeat-test"
+    },
+    {
+      "id": "CF-CON-514",
+      "label": "Percussion layer",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Repeated phrase image silence as rhythmic anchors.",
+      "sources": [
+        "CF-ENTRY-063"
+      ],
+      "canon_ref": "canon/build/BUILD-024-tempo-engine.md#0249--the-percussion-layer"
+    },
+    {
+      "id": "CF-CON-515",
+      "label": "Polyrhythm",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Four interlocking rhythms without competing.",
+      "sources": [
+        "CF-ENTRY-063"
+      ],
+      "canon_ref": "canon/build/BUILD-024-tempo-engine.md#02410--the-polyrhythm"
+    },
+    {
+      "id": "CF-CON-516",
+      "label": "Cadence of discovery",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Question pause observation recognition silence.",
+      "sources": [
+        "CF-ENTRY-063"
+      ],
+      "canon_ref": "canon/build/BUILD-024-tempo-engine.md#02411--the-cadence-of-discovery"
+    },
+    {
+      "id": "CF-CON-517",
+      "label": "Tempo ledger record",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Ten fields per movement; Resonance Matrix.",
+      "sources": [
+        "CF-ENTRY-063"
+      ],
+      "canon_ref": "canon/build/BUILD-024-tempo-engine.md#02412--the-tempo-ledger"
+    },
+    {
+      "id": "CF-CON-518",
+      "label": "Moment of stillness tempo",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Tempo almost disappears; emotional anchor.",
+      "sources": [
+        "CF-ENTRY-063"
+      ],
+      "canon_ref": "canon/build/BUILD-024-tempo-engine.md#02413--the-moment-of-stillness"
+    },
+    {
+      "id": "CF-CON-519",
+      "label": "Rule of tempo contrast",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Stillness movement release mirrors breathing.",
+      "sources": [
+        "CF-ENTRY-063"
+      ],
+      "canon_ref": "canon/build/BUILD-024-tempo-engine.md#02414--the-rule-of-contrast"
+    },
+    {
+      "id": "CF-CON-520",
+      "label": "Reader body tempo",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Compose for eyes hands breath heart attention.",
+      "sources": [
+        "CF-ENTRY-063"
+      ],
+      "canon_ref": "canon/build/BUILD-024-tempo-engine.md#02415--the-readers-body"
+    },
+    {
+      "id": "CF-CON-521",
+      "label": "Tempo fractal",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Word to novel every scale echoes pulse.",
+      "sources": [
+        "CF-ENTRY-063"
+      ],
+      "canon_ref": "canon/build/BUILD-024-tempo-engine.md#02416--the-tempo-fractal"
+    },
+    {
+      "id": "CF-CON-522",
+      "label": "Final tempo",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Settle not race; resonance after book closed.",
+      "sources": [
+        "CF-ENTRY-063"
+      ],
+      "canon_ref": "canon/build/BUILD-024-tempo-engine.md#02417--the-final-tempo"
+    },
+    {
+      "id": "CF-CON-523",
+      "label": "Definitive edition is performance",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Score plus reader; music exists in performance.",
+      "sources": [
+        "CF-ENTRY-063"
+      ],
+      "canon_ref": "canon/build/BUILD-024-tempo-engine.md"
+    },
+    {
+      "id": "CF-CON-524",
+      "label": "Invisible conductor",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Tempo never consciously noticed; always felt.",
+      "sources": [
+        "CF-ENTRY-063"
+      ],
+      "canon_ref": "canon/build/BUILD-024-tempo-engine.md#0240--purpose"
     }
   ],
   "edges": [
@@ -8481,6 +8702,11 @@
       "type": "related"
     },
     {
+      "from": "CF-CON-341",
+      "to": "CF-CON-517",
+      "type": "related"
+    },
+    {
       "from": "CF-CON-342",
       "to": "CF-CON-161",
       "type": "related"
@@ -10158,6 +10384,211 @@
     {
       "from": "CF-CON-504",
       "to": "CF-CON-491",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-505",
+      "to": "CF-CON-069",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-505",
+      "to": "CF-CON-341",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-505",
+      "to": "CF-CON-523",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-506",
+      "to": "CF-CON-505",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-506",
+      "to": "CF-CON-073",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-507",
+      "to": "CF-CON-505",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-507",
+      "to": "CF-CON-222",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-508",
+      "to": "CF-CON-505",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-508",
+      "to": "CF-CON-219",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-509",
+      "to": "CF-CON-505",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-509",
+      "to": "CF-CON-077",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-510",
+      "to": "CF-CON-505",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-510",
+      "to": "CF-CON-070",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-511",
+      "to": "CF-CON-505",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-511",
+      "to": "CF-CON-467",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-512",
+      "to": "CF-CON-505",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-512",
+      "to": "CF-CON-059",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-513",
+      "to": "CF-CON-505",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-513",
+      "to": "CF-CON-226",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-514",
+      "to": "CF-CON-505",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-514",
+      "to": "CF-CON-457",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-515",
+      "to": "CF-CON-505",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-515",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-516",
+      "to": "CF-CON-505",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-516",
+      "to": "CF-CON-176",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-517",
+      "to": "CF-CON-505",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-517",
+      "to": "CF-CON-341",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-518",
+      "to": "CF-CON-505",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-518",
+      "to": "CF-CON-260",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-519",
+      "to": "CF-CON-505",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-519",
+      "to": "CF-CON-514",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-520",
+      "to": "CF-CON-505",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-520",
+      "to": "CF-CON-166",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-521",
+      "to": "CF-CON-505",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-521",
+      "to": "CF-CON-300",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-522",
+      "to": "CF-CON-505",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-522",
+      "to": "CF-CON-471",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-523",
+      "to": "CF-CON-505",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-523",
+      "to": "CF-CON-106",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-524",
+      "to": "CF-CON-505",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-524",
+      "to": "CF-CON-074",
       "type": "related"
     }
   ]

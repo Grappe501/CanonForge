@@ -16,7 +16,8 @@ BUILD-016                             → Phase Two **v1.0**
 BUILD-017                             → Phase Two **v1.0**
 BUILD-021                             → Phase Two **v1.0**
 BUILD-023                             → Phase Two **v1.0**
-BUILD-024–036                         → queued
+BUILD-024                             → Phase Two **v1.0**
+BUILD-025–036                         → queued
 architecture/                         → expanded specs (derived · cross-ref)
 knowledge/entries/                    → verbatim source uploads
 ```
@@ -57,7 +58,8 @@ knowledge/entries/                    → verbatim source uploads
 | **021** | The Symbol Genome | **1.0** | **Frozen** | 059, 061 | CF-CON-449–488 | [BUILD-021](BUILD-021-symbol-genome.md) |
 | **022** | The Language of Silence | **1.0** | **Frozen** | 060 | CF-CON-339, 457–472 | [BUILD-022](BUILD-022-language-of-silence.md) |
 | **023** | Typography Physics | **1.0** | **Frozen** | 062 | CF-CON-089, 340, 489–504 | [BUILD-023](BUILD-023-typography-physics.md) |
-| **024–025** | Phase Two engines | — | **Queued** | — | — | [CHRONOFORGE_PHASES](../architecture/CHRONOFORGE_PHASES.md) |
+| **024** | The Tempo Engine | **1.0** | **Frozen** | 063 | CF-CON-069, 341, 505–524 | [BUILD-024](BUILD-024-tempo-engine.md) |
+| **025** | Page Architecture | — | **Queued** | — | — | [CHRONOFORGE_PHASES](../architecture/CHRONOFORGE_PHASES.md) |
 | **026–036** | Phase Three novel | — | **Queued** | — | — | [CHRONOFORGE_PHASES](../architecture/CHRONOFORGE_PHASES.md) |
 
 ---
@@ -96,6 +98,7 @@ knowledge/entries/                    → verbatim source uploads
 | 021 Symbol Genome | Motif≠symbol · gravity · curves · live with this · validation test |
 | 022 Language of Silence | Seven forms · breath map · five reads of silence · final silence |
 | 023 Typography Physics | Lexicon · law of rarity · one typeface · print test |
+| 024 Tempo Engine | Five tempos · tempo ledger · percussion · performance model |
 
 ---
 

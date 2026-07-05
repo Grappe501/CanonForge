@@ -3,6 +3,17 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [2.3.0] — 2026-07-05
+
+### Added
+- CF-ENTRY-063: BUILD-024 The Tempo Engine Canonical v1.0
+- Concepts CF-CON-505 through CF-CON-524
+- Five tempos · tempo transitions · percussion layer · polyrhythm · tempo fractal
+- **Definitive edition is performance** — score meets living reader
+- CF-CON-341 expanded · Rhythm Ledger → Tempo Ledger (BUILD-024 §024.12)
+- Renamed: Rhythm Score → **Tempo Engine**
+- Master Canon v1.4.3
+
 ## [2.2.0] — 2026-07-05
 
 ### Added
