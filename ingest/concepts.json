@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "0.6.6",
-  "generated_at": "2026-07-05T21:16:04.845685+00:00",
+  "canonforge_version": "0.6.7",
+  "generated_at": "2026-07-05T21:17:30.795007+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -1810,9 +1810,10 @@
       "label": "Human Experience Model",
       "category": "Theme",
       "status": "Frozen",
-      "definition": "One civilization humanity; characters represent being human.",
+      "definition": "Human beings not characters; consciousness as design unit.",
       "sources": [
-        "CF-ENTRY-036"
+        "CF-ENTRY-036",
+        "CF-ENTRY-043"
       ],
       "canon_ref": "canon/build/BUILD-007-human-experience-model.md"
     },
@@ -2541,6 +2542,149 @@
         "CF-ENTRY-042"
       ],
       "canon_ref": "canon/build/BUILD-006-emotional-score.md"
+    },
+    {
+      "id": "CF-CON-230",
+      "label": "Human beings not characters",
+      "category": "Theme",
+      "status": "Frozen",
+      "definition": "Story intersects life; person existed before and after book.",
+      "sources": [
+        "CF-ENTRY-043"
+      ],
+      "canon_ref": "canon/build/BUILD-007-human-experience-model.md"
+    },
+    {
+      "id": "CF-CON-231",
+      "label": "Human equation",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Four realities: are believe others becoming; distance=drama.",
+      "sources": [
+        "CF-ENTRY-043"
+      ],
+      "canon_ref": "canon/build/BUILD-007-human-experience-model.md"
+    },
+    {
+      "id": "CF-CON-232",
+      "label": "Mask principle",
+      "category": "Theme",
+      "status": "Frozen",
+      "definition": "Masks because alive; story reveals never judges.",
+      "sources": [
+        "CF-ENTRY-043"
+      ],
+      "canon_ref": "canon/build/BUILD-007-human-experience-model.md"
+    },
+    {
+      "id": "CF-CON-233",
+      "label": "Assumption invitation silence",
+      "category": "Theme",
+      "status": "Frozen",
+      "definition": "Silence on identity unless truth requires; reader supplies.",
+      "sources": [
+        "CF-ENTRY-043"
+      ],
+      "canon_ref": "canon/build/BUILD-007-human-experience-model.md"
+    },
+    {
+      "id": "CF-CON-234",
+      "label": "Empathy engine",
+      "category": "Theme",
+      "status": "Frozen",
+      "definition": "Understanding not agreement; novel waits for empathy.",
+      "sources": [
+        "CF-ENTRY-043"
+      ],
+      "canon_ref": "canon/build/BUILD-007-human-experience-model.md"
+    },
+    {
+      "id": "CF-CON-235",
+      "label": "Human memory model",
+      "category": "Theme",
+      "status": "Frozen",
+      "definition": "Memory selects edits protects; honors all forms.",
+      "sources": [
+        "CF-ENTRY-043"
+      ],
+      "canon_ref": "canon/build/BUILD-007-human-experience-model.md"
+    },
+    {
+      "id": "CF-CON-236",
+      "label": "Layered identity model",
+      "category": "Theme",
+      "status": "Frozen",
+      "definition": "Surface role relationship memory choice hope.",
+      "sources": [
+        "CF-ENTRY-043"
+      ],
+      "canon_ref": "canon/build/BUILD-007-human-experience-model.md"
+    },
+    {
+      "id": "CF-CON-237",
+      "label": "Choice over biography",
+      "category": "Theme",
+      "status": "Frozen",
+      "definition": "Defined by choices when meaning uncertain.",
+      "sources": [
+        "CF-ENTRY-043"
+      ],
+      "canon_ref": "canon/build/BUILD-007-human-experience-model.md"
+    },
+    {
+      "id": "CF-CON-238",
+      "label": "Connection web",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Humanity as web not hierarchy; connections not status.",
+      "sources": [
+        "CF-ENTRY-043"
+      ],
+      "canon_ref": "canon/build/BUILD-007-human-experience-model.md"
+    },
+    {
+      "id": "CF-CON-239",
+      "label": "Invisible biography",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Complete unseen bio per major figure; 90% never shown.",
+      "sources": [
+        "CF-ENTRY-043"
+      ],
+      "canon_ref": "canon/build/BUILD-007-human-experience-model.md"
+    },
+    {
+      "id": "CF-CON-240",
+      "label": "Consciousness design unit",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Smallest unit is consciousness not character; reader too.",
+      "sources": [
+        "CF-ENTRY-043"
+      ],
+      "canon_ref": "canon/build/BUILD-007-human-experience-model.md"
+    },
+    {
+      "id": "CF-CON-241",
+      "label": "Human legacy humility",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Every stranger has unseen story; approach with humility.",
+      "sources": [
+        "CF-ENTRY-043"
+      ],
+      "canon_ref": "canon/build/BUILD-007-human-experience-model.md"
+    },
+    {
+      "id": "CF-CON-242",
+      "label": "BUILD-007 human spec",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "What is a human being; all later builds serve this.",
+      "sources": [
+        "CF-ENTRY-043"
+      ],
+      "canon_ref": "canon/build/BUILD-007-human-experience-model.md"
     }
   ],
   "edges": [
@@ -3721,7 +3865,7 @@
     },
     {
       "from": "CF-CON-163",
-      "to": "CF-CON-144",
+      "to": "CF-CON-190",
       "type": "related"
     },
     {
@@ -4322,6 +4466,126 @@
     {
       "from": "CF-CON-229",
       "to": "CF-CON-166",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-230",
+      "to": "CF-CON-163",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-230",
+      "to": "CF-CON-144",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-231",
+      "to": "CF-CON-230",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-232",
+      "to": "CF-CON-231",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-233",
+      "to": "CF-CON-145",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-233",
+      "to": "CF-CON-164",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-234",
+      "to": "CF-CON-230",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-234",
+      "to": "CF-CON-210",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-235",
+      "to": "CF-CON-006",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-235",
+      "to": "CF-CON-014",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-236",
+      "to": "CF-CON-231",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-236",
+      "to": "CF-CON-172",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-237",
+      "to": "CF-CON-148",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-237",
+      "to": "CF-CON-230",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-238",
+      "to": "CF-CON-190",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-238",
+      "to": "CF-CON-230",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-239",
+      "to": "CF-CON-022",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-239",
+      "to": "CF-CON-230",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-240",
+      "to": "CF-CON-215",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-240",
+      "to": "CF-CON-170",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-241",
+      "to": "CF-CON-157",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-241",
+      "to": "CF-CON-174",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-242",
+      "to": "CF-CON-163",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-242",
+      "to": "CF-CON-240",
       "type": "related"
     }
   ]

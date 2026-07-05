@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 0.6.6 · 2026-07-05 · 229 concepts registered
+> Version 0.6.7 · 2026-07-05 · 242 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@
 | CF-CON-160 | BUILD-004 Seven Immutable Laws | Governance | **Frozen** | Physics of universe: story sacred · never lie · earned discovery. | CF-ENTRY-036, CF-ENTRY-040 |
 | CF-CON-161 | Reader Arc | Architecture | **Frozen** | Dual arc: 12 movements · Five Reads · Theory of Reading. | CF-ENTRY-036, CF-ENTRY-041 |
 | CF-CON-162 | Emotional Score | Architecture | **Frozen** | Eight movements · six layers · orchestrate reader state not character. | CF-ENTRY-036, CF-ENTRY-042 |
-| CF-CON-163 | Human Experience Model | Theme | **Frozen** | One civilization humanity; characters represent being human. | CF-ENTRY-036 |
+| CF-CON-163 | Human Experience Model | Theme | **Frozen** | Human beings not characters; consciousness as design unit. | CF-ENTRY-036, CF-ENTRY-043 |
 | CF-CON-164 | Assumption Engine | Architecture | **Frozen** | Per page: reader assumption · natural · transform not disprove. | CF-ENTRY-036 |
 | CF-CON-165 | BUILD-009 Music Theory | Architecture | **Frozen** | Movements felt not labeled; tempo pulse density measurable. | CF-ENTRY-036 |
 | CF-CON-166 | BUILD-010 Physics of Reading | Architecture | **Frozen** | Compose for eyes voice breathing prediction emotion memory. | CF-ENTRY-036 |
@@ -233,6 +233,19 @@
 | CF-CON-227 | Theme and variation | Architecture | **Frozen** | 7-12 narrative themes; nothing returns untransformed. | CF-ENTRY-042 |
 | CF-CON-228 | BUILD-006 music of reading | Governance | **Frozen** | Emotional score v1.0; compose nervous system not eye. | CF-ENTRY-042 |
 | CF-CON-229 | Nervous system composition | Architecture | **Frozen** | Write for reader physiology not only the eye. | CF-ENTRY-042 |
+| CF-CON-230 | Human beings not characters | Theme | **Frozen** | Story intersects life; person existed before and after book. | CF-ENTRY-043 |
+| CF-CON-231 | Human equation | Architecture | **Frozen** | Four realities: are believe others becoming; distance=drama. | CF-ENTRY-043 |
+| CF-CON-232 | Mask principle | Theme | **Frozen** | Masks because alive; story reveals never judges. | CF-ENTRY-043 |
+| CF-CON-233 | Assumption invitation silence | Theme | **Frozen** | Silence on identity unless truth requires; reader supplies. | CF-ENTRY-043 |
+| CF-CON-234 | Empathy engine | Theme | **Frozen** | Understanding not agreement; novel waits for empathy. | CF-ENTRY-043 |
+| CF-CON-235 | Human memory model | Theme | **Frozen** | Memory selects edits protects; honors all forms. | CF-ENTRY-043 |
+| CF-CON-236 | Layered identity model | Theme | **Frozen** | Surface role relationship memory choice hope. | CF-ENTRY-043 |
+| CF-CON-237 | Choice over biography | Theme | **Frozen** | Defined by choices when meaning uncertain. | CF-ENTRY-043 |
+| CF-CON-238 | Connection web | Architecture | **Frozen** | Humanity as web not hierarchy; connections not status. | CF-ENTRY-043 |
+| CF-CON-239 | Invisible biography | Architecture | **Frozen** | Complete unseen bio per major figure; 90% never shown. | CF-ENTRY-043 |
+| CF-CON-240 | Consciousness design unit | Architecture | **Frozen** | Smallest unit is consciousness not character; reader too. | CF-ENTRY-043 |
+| CF-CON-241 | Human legacy humility | Heart | **Frozen** | Every stranger has unseen story; approach with humility. | CF-ENTRY-043 |
+| CF-CON-242 | BUILD-007 human spec | Governance | **Frozen** | What is a human being; all later builds serve this. | CF-ENTRY-043 |
 
 ## Related Concepts
 
@@ -398,7 +411,7 @@
 - **CF-CON-160** (BUILD-004 Seven Immutable Laws, Frozen): CF-CON-136, CF-CON-023 → `canon/build/BUILD-004-seven-laws.md`
 - **CF-CON-161** (Reader Arc, Frozen): CF-CON-002, CF-CON-001 → `canon/build/BUILD-005-reader-arc.md`
 - **CF-CON-162** (Emotional Score, Frozen): CF-CON-093, CF-CON-165 → `canon/build/BUILD-006-emotional-score.md`
-- **CF-CON-163** (Human Experience Model, Frozen): CF-CON-139, CF-CON-144 → `canon/build/BUILD-007-human-experience-model.md`
+- **CF-CON-163** (Human Experience Model, Frozen): CF-CON-139, CF-CON-190 → `canon/build/BUILD-007-human-experience-model.md`
 - **CF-CON-164** (Assumption Engine, Frozen): CF-CON-145, CF-CON-001 → `canon/build/BUILD-008-assumption-engine.md`
 - **CF-CON-165** (BUILD-009 Music Theory, Frozen): CF-CON-070, CF-CON-059 → `canon/build/BUILD-009-music-theory.md`
 - **CF-CON-166** (BUILD-010 Physics of Reading, Frozen): CF-CON-092, CF-CON-106 → `canon/build/BUILD-010-physics-of-reading.md`
@@ -465,3 +478,16 @@
 - **CF-CON-227** (Theme and variation, Frozen): CF-CON-185, CF-CON-201 → `canon/build/BUILD-006-emotional-score.md`
 - **CF-CON-228** (BUILD-006 music of reading, Frozen): CF-CON-162, CF-CON-165 → `canon/build/BUILD-006-emotional-score.md`
 - **CF-CON-229** (Nervous system composition, Frozen): CF-CON-228, CF-CON-166 → `canon/build/BUILD-006-emotional-score.md`
+- **CF-CON-230** (Human beings not characters, Frozen): CF-CON-163, CF-CON-144 → `canon/build/BUILD-007-human-experience-model.md`
+- **CF-CON-231** (Human equation, Frozen): CF-CON-230 → `canon/build/BUILD-007-human-experience-model.md`
+- **CF-CON-232** (Mask principle, Frozen): CF-CON-231 → `canon/build/BUILD-007-human-experience-model.md`
+- **CF-CON-233** (Assumption invitation silence, Frozen): CF-CON-145, CF-CON-164 → `canon/build/BUILD-007-human-experience-model.md`
+- **CF-CON-234** (Empathy engine, Frozen): CF-CON-230, CF-CON-210 → `canon/build/BUILD-007-human-experience-model.md`
+- **CF-CON-235** (Human memory model, Frozen): CF-CON-006, CF-CON-014 → `canon/build/BUILD-007-human-experience-model.md`
+- **CF-CON-236** (Layered identity model, Frozen): CF-CON-231, CF-CON-172 → `canon/build/BUILD-007-human-experience-model.md`
+- **CF-CON-237** (Choice over biography, Frozen): CF-CON-148, CF-CON-230 → `canon/build/BUILD-007-human-experience-model.md`
+- **CF-CON-238** (Connection web, Frozen): CF-CON-190, CF-CON-230 → `canon/build/BUILD-007-human-experience-model.md`
+- **CF-CON-239** (Invisible biography, Frozen): CF-CON-022, CF-CON-230 → `canon/build/BUILD-007-human-experience-model.md`
+- **CF-CON-240** (Consciousness design unit, Frozen): CF-CON-215, CF-CON-170 → `canon/build/BUILD-007-human-experience-model.md`
+- **CF-CON-241** (Human legacy humility, Frozen): CF-CON-157, CF-CON-174 → `canon/build/BUILD-007-human-experience-model.md`
+- **CF-CON-242** (BUILD-007 human spec, Frozen): CF-CON-163, CF-CON-240 → `canon/build/BUILD-007-human-experience-model.md`

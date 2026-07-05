@@ -31,7 +31,7 @@ Once the table exists, every sentence and page becomes a **molecule** built from
 
 - [ ] Complete element list with definitions
 - [ ] Each element: symbol · atomic weight (narrative function) · bonding rules
-- [ ] Cross-ref to BUILD-003 Pillars · BUILD-008 Assumption Engine
+- [ ] Cross-ref to BUILD-007 Consciousness (CF-CON-240) · Human Constants
 - [ ] Version number assigned on completion
 - [ ] Traceability to CF-ENTRY and concept IDs
 

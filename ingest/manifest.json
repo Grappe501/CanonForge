@@ -1,18 +1,19 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "0.6.6",
-  "generated_at": "2026-07-05T21:16:23.671873+00:00",
+  "canonforge_version": "0.6.7",
+  "generated_at": "2026-07-05T21:17:30.778247+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 42,
-  "concept_count": 229,
+  "entry_count": 43,
+  "concept_count": 242,
   "build_001_version": "0.1",
   "build_002_version": "1.0",
   "build_003_version": "1.0",
   "build_004_version": "1.0",
   "build_005_version": "1.0",
   "build_006_version": "1.0",
+  "build_007_version": "1.0",
   "roadmap_version": "1.0",
   "project_version": "0.0.1",
   "build_layer": "BUILD-001-013 frozen",
@@ -672,6 +673,30 @@
         "CF-CON-229"
       ],
       "byte_size": 8058
+    },
+    {
+      "entry_id": "CF-ENTRY-043",
+      "file": "knowledge/entries/043-build-007-human-experience-model-v1.md",
+      "sha256": "e8394f3acb128d93e5912861280c67bcae01dba9b4b39108b5ba5b3e352c5c4e",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-163",
+        "CF-CON-230",
+        "CF-CON-231",
+        "CF-CON-232",
+        "CF-CON-233",
+        "CF-CON-234",
+        "CF-CON-235",
+        "CF-CON-236",
+        "CF-CON-237",
+        "CF-CON-238",
+        "CF-CON-239",
+        "CF-CON-240",
+        "CF-CON-241",
+        "CF-CON-242"
+      ],
+      "byte_size": 8308
     }
   ],
   "indexes": {

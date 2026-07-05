@@ -45,7 +45,8 @@
 | **Canonical Test** | Seven questions before scene enters MS | CF-CON-204 |
 | **Theory of Reading** | Two stories: page and inside reader | CF-CON-215 |
 | **Conductor's Test** | Six questions before passage is finished | CF-CON-226 |
-| **Theme and variation** | 7-12 motifs; returns transformed | CF-CON-227 |
+| **Consciousness unit** | Design atom: time memory misunderstanding change | CF-CON-240 |
+| **Human equation** | Four simultaneous realities | CF-CON-231 |
 | **Reader Arc** | Five-stage reader journey parallel to protagonist | CF-CON-161 |
 | **Assumption Engine** | Per-page assumption · natural · transform | CF-CON-164 |
 | **BUILD layer** | Versioned canonical build documents 001+ | CF-CON-156 |

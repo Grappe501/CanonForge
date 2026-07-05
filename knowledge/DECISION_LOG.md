@@ -42,7 +42,7 @@
 | 2026-07-05 | Master Build Roadmap v1.0 | CF-ENTRY-035 session pause | CF-CON-150–155 |
 | 2026-07-05 | BUILD-001–013 frozen v1.0.0 | Canonical build discipline | CF-CON-156–169 |
 | 2026-07-05 | BUILD-014 queued | Periodic Table of Novel next | CF-CON-170 |
-| 2026-07-05 | BUILD-006 Emotional Score v1.0 | Music of reading · theme/variation | CF-CON-219–229 |
+| 2026-07-05 | BUILD-007 Human Experience v1.0 | Consciousness unit · human equation | CF-CON-230–242 |
 | 2026-07-05 | BUILD-004 Immutable Laws v1.0 | Seven laws · meta-laws · covenant | CF-CON-199–208 |
 | 2026-07-05 | BUILD-015 queued | Reader Bill of Rights directive | CF-CON-207 |
 | 2026-07-05 | BUILD-002 Canonical v1.0 | Discovery engineering §002.0–002.26 | CF-CON-176–189 |

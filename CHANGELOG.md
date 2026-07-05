@@ -3,6 +3,17 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [0.6.7] — 2026-07-05
+
+### Added
+- CF-ENTRY-043: BUILD-007 Human Experience Model Canonical v1.0
+- Concepts CF-CON-230 through CF-CON-242
+- Consciousness as design unit · Human Equation · Invisible Biography
+
+### Changed
+- BUILD-007 expanded from stub to full human experience spec
+- Master Canon v0.5.7
+
 ## [0.6.6] — 2026-07-05
 
 ### Added
