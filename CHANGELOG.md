@@ -3,6 +3,20 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [1.1.0] — 2026-07-05
+
+### Added
+- CF-ENTRY-050: BUILD-014 The Elements of Meaning Canonical v1.0
+- Concepts CF-CON-321 through CF-CON-335
+- Twelve primary elements · elemental forces · scene molecules · composition table
+- Design language · storytelling system threshold
+
+### Changed
+- **BUILD-014 renamed:** Periodic Table → **The Elements of Meaning**
+- **BUILD-015 re-scoped:** Reader Bill of Rights → **Resonance Matrix** (queued)
+- CF-CON-207 Reader Bill of Rights superseded by BUILD-011 Covenant
+- Master Canon v1.0.0 · engineering phase begins
+
 ## [1.0.0] — 2026-07-05
 
 ### Added

@@ -268,7 +268,7 @@ True for every person in the novel — and, if successful, **for the reader**.
 
 This insight will influence every build that follows.
 
-*(Aligns: Theory of Reading CF-CON-215 · BUILD-014 Periodic Table seed element)*
+*(Aligns: Theory of Reading CF-CON-215 · BUILD-014 Elements of Meaning)*
 
 ---
 

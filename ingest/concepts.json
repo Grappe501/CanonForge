@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "1.0.0",
-  "generated_at": "2026-07-05T21:31:22.490303+00:00",
+  "canonforge_version": "1.1.0",
+  "generated_at": "2026-07-05T21:33:13.474893+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -1891,14 +1891,15 @@
     },
     {
       "id": "CF-CON-170",
-      "label": "Periodic Table of Novel",
+      "label": "Elements of Meaning",
       "category": "Architecture",
-      "status": "Queued",
-      "definition": "Elemental atoms before characters; BUILD-014 next.",
+      "status": "Frozen",
+      "definition": "Twelve primary elements; forces; molecules; design language.",
       "sources": [
-        "CF-ENTRY-036"
+        "CF-ENTRY-036",
+        "CF-ENTRY-050"
       ],
-      "canon_ref": "canon/build/BUILD-014-periodic-table-of-the-novel.md"
+      "canon_ref": "canon/build/BUILD-014-elements-of-meaning.md"
     },
     {
       "id": "CF-CON-171",
@@ -2300,12 +2301,12 @@
       "id": "CF-CON-207",
       "label": "Reader Bill of Rights",
       "category": "Governance",
-      "status": "Queued",
-      "definition": "BUILD-015 moral contract with audience; seed rights queued.",
+      "status": "Superseded",
+      "definition": "Seed rights; canonical in BUILD-011 Covenant.",
       "sources": [
         "CF-ENTRY-040"
       ],
-      "canon_ref": "canon/build/BUILD-015-reader-bill-of-rights.md"
+      "canon_ref": "canon/build/BUILD-011-readers-covenant.md"
     },
     {
       "id": "CF-CON-208",
@@ -2410,12 +2411,12 @@
       "id": "CF-CON-217",
       "label": "Reader rights seed",
       "category": "Governance",
-      "status": "Queued",
-      "definition": "005.15 rights feed BUILD-015 Bill of Rights.",
+      "status": "Superseded",
+      "definition": "005.15 rights canonical in BUILD-011 Covenant.",
       "sources": [
         "CF-ENTRY-041"
       ],
-      "canon_ref": "canon/build/BUILD-005-reader-arc.md"
+      "canon_ref": "canon/build/BUILD-011-readers-covenant.md"
     },
     {
       "id": "CF-CON-218",
@@ -3543,12 +3544,178 @@
       "id": "CF-CON-320",
       "label": "Engineering phase",
       "category": "Architecture",
-      "status": "Queued",
-      "definition": "Resonance Matrix Chronology Engine ledgers next.",
+      "status": "Frozen",
+      "definition": "Machinery after philosophy; BUILD-014 first.",
       "sources": [
-        "CF-ENTRY-049"
+        "CF-ENTRY-049",
+        "CF-ENTRY-050"
       ],
-      "canon_ref": "canon/build/BUILD-014-periodic-table-of-the-novel.md"
+      "canon_ref": "canon/build/BUILD-014-elements-of-meaning.md"
+    },
+    {
+      "id": "CF-CON-321",
+      "label": "Twelve primary elements",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Wn Cy Tr Mm Ch Si Tm Cn Rs Tf Hm Hp.",
+      "sources": [
+        "CF-ENTRY-050"
+      ],
+      "canon_ref": "canon/build/BUILD-014-elements-of-meaning.md"
+    },
+    {
+      "id": "CF-CON-322",
+      "label": "Secondary elements",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Mercy regret forgiveness joy return etc.",
+      "sources": [
+        "CF-ENTRY-050"
+      ],
+      "canon_ref": "canon/build/BUILD-014-elements-of-meaning.md"
+    },
+    {
+      "id": "CF-CON-323",
+      "label": "Elemental forces",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Wonder attracts curiosity; trust amplifies discovery.",
+      "sources": [
+        "CF-ENTRY-050"
+      ],
+      "canon_ref": "canon/build/BUILD-014-elements-of-meaning.md"
+    },
+    {
+      "id": "CF-CON-324",
+      "label": "Scene molecules",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Scene molecular formula e.g. Wn Ch Si Mm.",
+      "sources": [
+        "CF-ENTRY-050"
+      ],
+      "canon_ref": "canon/build/BUILD-014-elements-of-meaning.md"
+    },
+    {
+      "id": "CF-CON-325",
+      "label": "Composition table",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Scene fingerprint fields for Resonance Matrix.",
+      "sources": [
+        "CF-ENTRY-050"
+      ],
+      "canon_ref": "canon/build/BUILD-014-elements-of-meaning.md"
+    },
+    {
+      "id": "CF-CON-326",
+      "label": "Elemental balance",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Chemical stability; excess wonder memory silence.",
+      "sources": [
+        "CF-ENTRY-050"
+      ],
+      "canon_ref": "canon/build/BUILD-014-elements-of-meaning.md"
+    },
+    {
+      "id": "CF-CON-327",
+      "label": "Elemental evolution",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Wonder to understanding; curiosity to wisdom.",
+      "sources": [
+        "CF-ENTRY-050"
+      ],
+      "canon_ref": "canon/build/BUILD-014-elements-of-meaning.md"
+    },
+    {
+      "id": "CF-CON-328",
+      "label": "Reader's elements",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Reader experience grief joy interacts with novel.",
+      "sources": [
+        "CF-ENTRY-050"
+      ],
+      "canon_ref": "canon/build/BUILD-014-elements-of-meaning.md"
+    },
+    {
+      "id": "CF-CON-329",
+      "label": "Invisible chemistry",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Greatness from interaction not single element.",
+      "sources": [
+        "CF-ENTRY-050"
+      ],
+      "canon_ref": "canon/build/BUILD-014-elements-of-meaning.md"
+    },
+    {
+      "id": "CF-CON-330",
+      "label": "Periodic law",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Every recurring idea belongs to one element.",
+      "sources": [
+        "CF-ENTRY-050"
+      ],
+      "canon_ref": "canon/build/BUILD-014-elements-of-meaning.md"
+    },
+    {
+      "id": "CF-CON-331",
+      "label": "Elemental test",
+      "category": "Process",
+      "status": "Frozen",
+      "definition": "Which element force interaction or sentence out.",
+      "sources": [
+        "CF-ENTRY-050"
+      ],
+      "canon_ref": "canon/build/BUILD-014-elements-of-meaning.md"
+    },
+    {
+      "id": "CF-CON-332",
+      "label": "Master formula",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Every movement as element chemistry for composers.",
+      "sources": [
+        "CF-ENTRY-050"
+      ],
+      "canon_ref": "canon/build/BUILD-014-elements-of-meaning.md"
+    },
+    {
+      "id": "CF-CON-333",
+      "label": "Design language",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Story one expression of reusable system.",
+      "sources": [
+        "CF-ENTRY-050"
+      ],
+      "canon_ref": "canon/build/BUILD-014-elements-of-meaning.md"
+    },
+    {
+      "id": "CF-CON-334",
+      "label": "Storytelling system",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "CanonForge documents system not single book.",
+      "sources": [
+        "CF-ENTRY-050"
+      ],
+      "canon_ref": "canon/build/BUILD-014-elements-of-meaning.md"
+    },
+    {
+      "id": "CF-CON-335",
+      "label": "Resonance Matrix BUILD-015",
+      "category": "Architecture",
+      "status": "Queued",
+      "definition": "Integrated score blueprint; first engineering doc.",
+      "sources": [
+        "CF-ENTRY-050"
+      ],
+      "canon_ref": "canon/build/BUILD-015-resonance-matrix.md"
     }
   ],
   "edges": [
@@ -4804,7 +4971,7 @@
     },
     {
       "from": "CF-CON-170",
-      "to": "CF-CON-164",
+      "to": "CF-CON-292",
       "type": "related"
     },
     {
@@ -5124,12 +5291,12 @@
     },
     {
       "from": "CF-CON-207",
-      "to": "CF-CON-160",
+      "to": "CF-CON-282",
       "type": "related"
     },
     {
       "from": "CF-CON-207",
-      "to": "CF-CON-023",
+      "to": "CF-CON-160",
       "type": "related"
     },
     {
@@ -5229,7 +5396,7 @@
     },
     {
       "from": "CF-CON-217",
-      "to": "CF-CON-212",
+      "to": "CF-CON-283",
       "type": "related"
     },
     {
@@ -6209,12 +6376,162 @@
     },
     {
       "from": "CF-CON-320",
-      "to": "CF-CON-134",
+      "to": "CF-CON-170",
       "type": "related"
     },
     {
       "from": "CF-CON-320",
+      "to": "CF-CON-335",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-321",
       "to": "CF-CON-170",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-321",
+      "to": "CF-CON-159",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-322",
+      "to": "CF-CON-321",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-322",
+      "to": "CF-CON-170",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-323",
+      "to": "CF-CON-321",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-323",
+      "to": "CF-CON-170",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-324",
+      "to": "CF-CON-321",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-324",
+      "to": "CF-CON-325",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-325",
+      "to": "CF-CON-324",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-325",
+      "to": "CF-CON-335",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-326",
+      "to": "CF-CON-271",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-326",
+      "to": "CF-CON-170",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-327",
+      "to": "CF-CON-305",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-327",
+      "to": "CF-CON-321",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-328",
+      "to": "CF-CON-303",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-328",
+      "to": "CF-CON-321",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-329",
+      "to": "CF-CON-323",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-329",
+      "to": "CF-CON-106",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-330",
+      "to": "CF-CON-170",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-330",
+      "to": "CF-CON-297",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-331",
+      "to": "CF-CON-308",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-331",
+      "to": "CF-CON-312",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-332",
+      "to": "CF-CON-263",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-332",
+      "to": "CF-CON-321",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-333",
+      "to": "CF-CON-170",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-333",
+      "to": "CF-CON-334",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-334",
+      "to": "CF-CON-333",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-334",
+      "to": "CF-CON-156",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-335",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-335",
+      "to": "CF-CON-325",
       "type": "related"
     }
   ]

@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 1.0.0 · 2026-07-05 · 320 concepts registered
+> Version 1.1.0 · 2026-07-05 · 335 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | CF-CON-167 | Reader's Covenant | Governance | **Frozen** | Fifteen promises before first sentence; trust binds both sides. | CF-ENTRY-036, CF-ENTRY-047 |
 | CF-CON-168 | Title genome gate | Design fork | **Frozen** | Title emerges from Genome; fifth-read transform; text open. | CF-ENTRY-036, CF-ENTRY-048 |
 | CF-CON-169 | Composer's Oath | Process | **Frozen** | Twenty-one oaths; daily ritual; session begins here. | CF-ENTRY-036, CF-ENTRY-049 |
-| CF-CON-170 | Periodic Table of Novel | Architecture | **Queued** | Elemental atoms before characters; BUILD-014 next. | CF-ENTRY-036 |
+| CF-CON-170 | Elements of Meaning | Architecture | **Frozen** | Twelve primary elements; forces; molecules; design language. | CF-ENTRY-036, CF-ENTRY-050 |
 | CF-CON-171 | Experience not sermon | Theme | **Frozen** | I judged before I understood; humility by experience not instruction. | CF-ENTRY-037 |
 | CF-CON-172 | I was out of order | Heart | **Frozen** | Deeper than timeline: reader understanding fragmented; reader changed. | CF-ENTRY-037 |
 | CF-CON-173 | Absence Order Rhythm | Architecture | **Frozen** | Three reader assumption mechanisms: absence · order · rhythm. | CF-ENTRY-037 |
@@ -210,7 +210,7 @@
 | CF-CON-204 | Canonical Test | Governance | **Frozen** | Seven questions before scene enters manuscript. | CF-ENTRY-040 |
 | CF-CON-205 | Author's Covenant | Process | **Frozen** | Invitation discovery experience simplicity resonance curiosity. | CF-ENTRY-040 |
 | CF-CON-206 | Supporting rules 004.3-15 | Governance | **Frozen** | Restraint invisibility beauty patience completeness loop wonder. | CF-ENTRY-040 |
-| CF-CON-207 | Reader Bill of Rights | Governance | **Queued** | BUILD-015 moral contract with audience; seed rights queued. | CF-ENTRY-040 |
+| CF-CON-207 | Reader Bill of Rights | Governance | **Superseded** | Seed rights; canonical in BUILD-011 Covenant. | CF-ENTRY-040 |
 | CF-CON-208 | Law Seven humanity first | Governance | **Frozen** | Humanity precedes identity; worth never depends on identity. | CF-ENTRY-040 |
 | CF-CON-209 | Invisible protagonist | Architecture | **Frozen** | Reader is architectural protagonist with full dramatic arc. | CF-ENTRY-041 |
 | CF-CON-210 | Twelve reader movements | Architecture | **Frozen** | Curiosity through resonance; full emotional journey spec. | CF-ENTRY-041 |
@@ -220,7 +220,7 @@
 | CF-CON-214 | Dual parallel arc | Architecture | **Frozen** | Protagonist arc plus reader arc; second is masterpiece. | CF-ENTRY-041 |
 | CF-CON-215 | Theory of Reading | Mission | **Frozen** | Two stories: on page and inside reader; reading is art. | CF-ENTRY-041 |
 | CF-CON-216 | Reader completes loop | Heart | **Frozen** | Complete when reader carries seeing into ordinary life. | CF-ENTRY-041 |
-| CF-CON-217 | Reader rights seed | Governance | **Queued** | 005.15 rights feed BUILD-015 Bill of Rights. | CF-ENTRY-041 |
+| CF-CON-217 | Reader rights seed | Governance | **Superseded** | 005.15 rights canonical in BUILD-011 Covenant. | CF-ENTRY-041 |
 | CF-CON-218 | BUILD-005 transformation spec | Governance | **Frozen** | How reader becomes person who can truly read book. | CF-ENTRY-041 |
 | CF-CON-219 | Six-layer emotional score | Architecture | **Frozen** | Surface subconscious breathing tempo expectation release. | CF-ENTRY-042 |
 | CF-CON-220 | Reader heartbeat sync | Architecture | **Frozen** | Synchronize then gently change internal rhythm via pacing. | CF-ENTRY-042 |
@@ -323,7 +323,22 @@
 | CF-CON-317 | Music Council | Process | **Frozen** | Rhythm silence emotional cadence. | CF-ENTRY-049 |
 | CF-CON-318 | Creative drift | Process | **Frozen** | Long project danger; oath prevents compromise. | CF-ENTRY-049 |
 | CF-CON-319 | Remarkable human experience | Mission | **Frozen** | Not remarkable novel; stop if confused. | CF-ENTRY-049 |
-| CF-CON-320 | Engineering phase | Architecture | **Queued** | Resonance Matrix Chronology Engine ledgers next. | CF-ENTRY-049 |
+| CF-CON-320 | Engineering phase | Architecture | **Frozen** | Machinery after philosophy; BUILD-014 first. | CF-ENTRY-049, CF-ENTRY-050 |
+| CF-CON-321 | Twelve primary elements | Architecture | **Frozen** | Wn Cy Tr Mm Ch Si Tm Cn Rs Tf Hm Hp. | CF-ENTRY-050 |
+| CF-CON-322 | Secondary elements | Architecture | **Frozen** | Mercy regret forgiveness joy return etc. | CF-ENTRY-050 |
+| CF-CON-323 | Elemental forces | Architecture | **Frozen** | Wonder attracts curiosity; trust amplifies discovery. | CF-ENTRY-050 |
+| CF-CON-324 | Scene molecules | Architecture | **Frozen** | Scene molecular formula e.g. Wn Ch Si Mm. | CF-ENTRY-050 |
+| CF-CON-325 | Composition table | Architecture | **Frozen** | Scene fingerprint fields for Resonance Matrix. | CF-ENTRY-050 |
+| CF-CON-326 | Elemental balance | Architecture | **Frozen** | Chemical stability; excess wonder memory silence. | CF-ENTRY-050 |
+| CF-CON-327 | Elemental evolution | Architecture | **Frozen** | Wonder to understanding; curiosity to wisdom. | CF-ENTRY-050 |
+| CF-CON-328 | Reader's elements | Architecture | **Frozen** | Reader experience grief joy interacts with novel. | CF-ENTRY-050 |
+| CF-CON-329 | Invisible chemistry | Architecture | **Frozen** | Greatness from interaction not single element. | CF-ENTRY-050 |
+| CF-CON-330 | Periodic law | Architecture | **Frozen** | Every recurring idea belongs to one element. | CF-ENTRY-050 |
+| CF-CON-331 | Elemental test | Process | **Frozen** | Which element force interaction or sentence out. | CF-ENTRY-050 |
+| CF-CON-332 | Master formula | Architecture | **Frozen** | Every movement as element chemistry for composers. | CF-ENTRY-050 |
+| CF-CON-333 | Design language | Architecture | **Frozen** | Story one expression of reusable system. | CF-ENTRY-050 |
+| CF-CON-334 | Storytelling system | Governance | **Frozen** | CanonForge documents system not single book. | CF-ENTRY-050 |
+| CF-CON-335 | Resonance Matrix BUILD-015 | Architecture | **Queued** | Integrated score blueprint; first engineering doc. | CF-ENTRY-050 |
 
 ## Related Concepts
 
@@ -496,7 +511,7 @@
 - **CF-CON-167** (Reader's Covenant, Frozen): CF-CON-054, CF-CON-207, CF-CON-281 → `canon/build/BUILD-011-readers-covenant.md`
 - **CF-CON-168** (Title genome gate, Frozen): CF-CON-292, CF-CON-306 → `canon/build/BUILD-012-the-genome.md`
 - **CF-CON-169** (Composer's Oath, Frozen): CF-CON-038, CF-CON-290 → `canon/build/BUILD-013-composers-oath.md`
-- **CF-CON-170** (Periodic Table of Novel, Queued): CF-CON-159, CF-CON-164 → `canon/build/BUILD-014-periodic-table-of-the-novel.md`
+- **CF-CON-170** (Elements of Meaning, Frozen): CF-CON-159, CF-CON-292 → `canon/build/BUILD-014-elements-of-meaning.md`
 - **CF-CON-171** (Experience not sermon, Frozen): CF-CON-157, CF-CON-142 → `canon/build/BUILD-001-core-question.md`
 - **CF-CON-172** (I was out of order, Frozen): CF-CON-137, CF-CON-140 → `canon/build/BUILD-001-core-question.md`
 - **CF-CON-173** (Absence Order Rhythm, Frozen): CF-CON-164, CF-CON-014 → `canon/build/BUILD-001-core-question.md`
@@ -533,7 +548,7 @@
 - **CF-CON-204** (Canonical Test, Frozen): CF-CON-160, CF-CON-187 → `canon/build/BUILD-004-seven-laws.md`
 - **CF-CON-205** (Author's Covenant, Frozen): CF-CON-169, CF-CON-160 → `canon/build/BUILD-004-seven-laws.md`
 - **CF-CON-206** (Supporting rules 004.3-15, Frozen): CF-CON-160 → `canon/build/BUILD-004-seven-laws.md`
-- **CF-CON-207** (Reader Bill of Rights, Queued): CF-CON-160, CF-CON-023 → `canon/build/BUILD-015-reader-bill-of-rights.md`
+- **CF-CON-207** (Reader Bill of Rights, Superseded): CF-CON-282, CF-CON-160 → `canon/build/BUILD-011-readers-covenant.md`
 - **CF-CON-208** (Law Seven humanity first, Frozen): CF-CON-145, CF-CON-190 → `canon/build/BUILD-004-seven-laws.md`
 - **CF-CON-209** (Invisible protagonist, Frozen): CF-CON-002, CF-CON-161 → `canon/build/BUILD-005-reader-arc.md`
 - **CF-CON-210** (Twelve reader movements, Frozen): CF-CON-175, CF-CON-161 → `canon/build/BUILD-005-reader-arc.md`
@@ -543,7 +558,7 @@
 - **CF-CON-214** (Dual parallel arc, Frozen): CF-CON-161, CF-CON-209 → `canon/build/BUILD-005-reader-arc.md`
 - **CF-CON-215** (Theory of Reading, Frozen): CF-CON-153, CF-CON-155 → `canon/build/BUILD-005-reader-arc.md`
 - **CF-CON-216** (Reader completes loop, Frozen): CF-CON-154, CF-CON-213 → `canon/build/BUILD-005-reader-arc.md`
-- **CF-CON-217** (Reader rights seed, Queued): CF-CON-207, CF-CON-212 → `canon/build/BUILD-005-reader-arc.md`
+- **CF-CON-217** (Reader rights seed, Superseded): CF-CON-207, CF-CON-283 → `canon/build/BUILD-011-readers-covenant.md`
 - **CF-CON-218** (BUILD-005 transformation spec, Frozen): CF-CON-161, CF-CON-157 → `canon/build/BUILD-005-reader-arc.md`
 - **CF-CON-219** (Six-layer emotional score, Frozen): CF-CON-162, CF-CON-093 → `canon/build/BUILD-006-emotional-score.md`
 - **CF-CON-220** (Reader heartbeat sync, Frozen): CF-CON-073, CF-CON-210 → `canon/build/BUILD-006-emotional-score.md`
@@ -646,4 +661,19 @@
 - **CF-CON-317** (Music Council, Frozen): CF-CON-314, CF-CON-226 → `canon/build/BUILD-013-composers-oath.md`
 - **CF-CON-318** (Creative drift, Frozen): CF-CON-169, CF-CON-028 → `canon/build/BUILD-013-composers-oath.md`
 - **CF-CON-319** (Remarkable human experience, Frozen): CF-CON-037, CF-CON-169 → `canon/build/BUILD-013-composers-oath.md`
-- **CF-CON-320** (Engineering phase, Queued): CF-CON-134, CF-CON-170 → `canon/build/BUILD-014-periodic-table-of-the-novel.md`
+- **CF-CON-320** (Engineering phase, Frozen): CF-CON-170, CF-CON-335 → `canon/build/BUILD-014-elements-of-meaning.md`
+- **CF-CON-321** (Twelve primary elements, Frozen): CF-CON-170, CF-CON-159 → `canon/build/BUILD-014-elements-of-meaning.md`
+- **CF-CON-322** (Secondary elements, Frozen): CF-CON-321, CF-CON-170 → `canon/build/BUILD-014-elements-of-meaning.md`
+- **CF-CON-323** (Elemental forces, Frozen): CF-CON-321, CF-CON-170 → `canon/build/BUILD-014-elements-of-meaning.md`
+- **CF-CON-324** (Scene molecules, Frozen): CF-CON-321, CF-CON-325 → `canon/build/BUILD-014-elements-of-meaning.md`
+- **CF-CON-325** (Composition table, Frozen): CF-CON-324, CF-CON-335 → `canon/build/BUILD-014-elements-of-meaning.md`
+- **CF-CON-326** (Elemental balance, Frozen): CF-CON-271, CF-CON-170 → `canon/build/BUILD-014-elements-of-meaning.md`
+- **CF-CON-327** (Elemental evolution, Frozen): CF-CON-305, CF-CON-321 → `canon/build/BUILD-014-elements-of-meaning.md`
+- **CF-CON-328** (Reader's elements, Frozen): CF-CON-303, CF-CON-321 → `canon/build/BUILD-014-elements-of-meaning.md`
+- **CF-CON-329** (Invisible chemistry, Frozen): CF-CON-323, CF-CON-106 → `canon/build/BUILD-014-elements-of-meaning.md`
+- **CF-CON-330** (Periodic law, Frozen): CF-CON-170, CF-CON-297 → `canon/build/BUILD-014-elements-of-meaning.md`
+- **CF-CON-331** (Elemental test, Frozen): CF-CON-308, CF-CON-312 → `canon/build/BUILD-014-elements-of-meaning.md`
+- **CF-CON-332** (Master formula, Frozen): CF-CON-263, CF-CON-321 → `canon/build/BUILD-014-elements-of-meaning.md`
+- **CF-CON-333** (Design language, Frozen): CF-CON-170, CF-CON-334 → `canon/build/BUILD-014-elements-of-meaning.md`
+- **CF-CON-334** (Storytelling system, Frozen): CF-CON-333, CF-CON-156 → `canon/build/BUILD-014-elements-of-meaning.md`
+- **CF-CON-335** (Resonance Matrix BUILD-015, Queued): CF-CON-134, CF-CON-325 → `canon/build/BUILD-015-resonance-matrix.md`

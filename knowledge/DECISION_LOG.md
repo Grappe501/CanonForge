@@ -41,13 +41,14 @@
 | 2026-07-05 | Article XVII Assumption | Reader-assigned identity · fair omission | CF-CON-145–149 |
 | 2026-07-05 | Master Build Roadmap v1.0 | CF-ENTRY-035 session pause | CF-CON-150–155 |
 | 2026-07-05 | BUILD-001–013 frozen v1.0 | Foundational canon complete | CF-CON-156–320 |
-| 2026-07-05 | BUILD-014 queued | Periodic Table of Novel next | CF-CON-170 |
-| 2026-07-05 | BUILD-013 Composer's Oath v1.0 | Foundational layer 001-013 complete | CF-CON-311–320 |
+| 2026-07-05 | BUILD-014 Elements of Meaning | Supersedes Periodic Table stub | CF-CON-170 |
+| 2026-07-05 | BUILD-014 Elements of Meaning v1.0 | Design language · storytelling system | CF-CON-321–335 |
+| 2026-07-05 | BUILD-015 Resonance Matrix queued | First engineering blueprint | CF-CON-335 |
 | 2026-07-05 | BUILD-012 The Genome v1.0 | Supersedes Title stub; real subject locked | CF-CON-292–310 |
 | 2026-07-05 | BUILD-011 Reader's Covenant v1.0 | Supersedes Invisible Contract stub | CF-CON-282–291 |
 | 2026-07-05 | BUILD-010 Physics of Reading v1.0 | Novel as instrument · Reading Matrix | CF-CON-269–281 |
 | 2026-07-05 | BUILD-004 Immutable Laws v1.0 | Seven laws · meta-laws · covenant | CF-CON-199–208 |
-| 2026-07-05 | BUILD-015 queued | Reader Bill of Rights directive | CF-CON-207 |
+| 2026-07-05 | BUILD-015 Resonance Matrix | Supersedes Bill of Rights scope | CF-CON-335 |
 | 2026-07-05 | BUILD-002 Canonical v1.0 | Discovery engineering §002.0–002.26 | CF-CON-176–189 |
 | 2026-07-05 | BUILD-001 Expanded Canon v0.1 | §001.0–001.18 · traceability matrix | CF-CON-171–175 |
 | 2026-07-05 | Title genome gate | Emerges from Genome; text open | CF-CON-168 |

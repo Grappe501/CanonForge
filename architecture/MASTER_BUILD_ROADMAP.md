@@ -178,7 +178,7 @@ PHASE 14 (author directive)     →  Prose emission gate (separate · TBD)
 
 ```txt
 COMPLETE:  Phase 0 (BUILD-001) · Phase 1 · BUILD-001–013 frozen · frameworks 3–4, 9–12, 16–19
-NEXT:      BUILD-014 Periodic Table → Phase 2 Book of Secrets
+NEXT:      BUILD-015 Resonance Matrix → Phase 2 Book of Secrets
 ```
 
 ---

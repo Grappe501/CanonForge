@@ -60,7 +60,9 @@
 | **How humans create meaning** | Real subject of Chronoforge | CF-CON-310 |
 | **Composer's Oath** | Twenty-one oaths; read before every session | CF-CON-169 |
 | **Three councils** | Heart Mind Music scene approval | CF-CON-314 |
-| **Engineering phase** | Machinery after philosophy complete | CF-CON-320 |
+| **Elements of Meaning** | Twelve primaries · forces · molecules | CF-CON-170 |
+| **Design language** | Story one expression of system | CF-CON-333 |
+| **Storytelling system** | CanonForge documents reusable system | CF-CON-334 |
 | **BUILD layer** | Versioned canonical build documents 001+ | CF-CON-156 |
 | **Experience product** | The reading journey is the product, not the artifact | CF-CON-037 |
 | **3-text-before-page-5** | Experience success scene: text three people before reaching page five on reread | CF-CON-045 |

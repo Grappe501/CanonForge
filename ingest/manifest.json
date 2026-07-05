@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "1.0.0",
-  "generated_at": "2026-07-05T21:31:22.471486+00:00",
+  "canonforge_version": "1.1.0",
+  "generated_at": "2026-07-05T21:33:13.459638+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 49,
-  "concept_count": 320,
+  "entry_count": 50,
+  "concept_count": 335,
   "build_001_version": "0.1",
   "build_002_version": "1.0",
   "build_003_version": "1.0",
@@ -25,7 +25,11 @@
   "build_012_title": "The Genome",
   "build_013_version": "1.0",
   "build_013_title": "Composer's Oath",
+  "build_014_version": "1.0",
+  "build_014_title": "Elements of Meaning",
+  "build_015_title": "Resonance Matrix",
   "foundational_layer": "BUILD-001-013 complete",
+  "engineering_layer": "BUILD-014+",
   "roadmap_version": "1.0",
   "project_version": "0.0.1",
   "build_layer": "BUILD-001-013 frozen",
@@ -853,6 +857,32 @@
         "CF-CON-320"
       ],
       "byte_size": 7541
+    },
+    {
+      "entry_id": "CF-ENTRY-050",
+      "file": "knowledge/entries/050-build-014-elements-of-meaning-v1.md",
+      "sha256": "c737c79023451c86e9a3a944175987c7255d6b3c053d8d801a646c1f73a66fda",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-170",
+        "CF-CON-321",
+        "CF-CON-322",
+        "CF-CON-323",
+        "CF-CON-324",
+        "CF-CON-325",
+        "CF-CON-326",
+        "CF-CON-327",
+        "CF-CON-328",
+        "CF-CON-329",
+        "CF-CON-330",
+        "CF-CON-331",
+        "CF-CON-332",
+        "CF-CON-333",
+        "CF-CON-334",
+        "CF-CON-335"
+      ],
+      "byte_size": 7650
     }
   ],
   "indexes": {
