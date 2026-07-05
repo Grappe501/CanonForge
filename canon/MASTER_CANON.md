@@ -1,7 +1,7 @@
-# Master Canon v0.7.0
+# Master Canon v0.8.0
 
-> **BUILD-011:** The Reader's Covenant · trust binds both sides · gift not product
-> Supersedes v0.6.0 (2026-07-05 · BUILD-011 Reader's Covenant CF-ENTRY-047)
+> **BUILD-012:** The Genome · understanding is never finished · how humans create meaning
+> Supersedes v0.7.0 (2026-07-05 · BUILD-012 The Genome CF-ENTRY-048)
 
 ---
 
@@ -42,11 +42,11 @@ Key locked insights:
 | **Four Pillars** | Strengthen ≥1 of Wonder · **Connection** · Resonance · Transformation? | BUILD-003 v1.0 |
 | Seven Laws | Immutable · complies with BUILD-004 v1.0? | BUILD-004 |
 
-**Stack:** BUILD-001 = *why* · … · BUILD-010 = *reading as instrument* · BUILD-011 = *trust*
+**Stack:** BUILD-001 = *why* · … · BUILD-011 = *trust* · BUILD-012 = *DNA*
+
+→ [build/BUILD-012-the-genome.md](build/BUILD-012-the-genome.md) · Central Genetic Code · Five Depths · How humans create meaning
 
 → [build/BUILD-011-readers-covenant.md](build/BUILD-011-readers-covenant.md) · Fifteen Promises · Reader's Covenant · Gift not product
-
-→ [build/BUILD-010-physics-of-reading.md](build/BUILD-010-physics-of-reading.md) · Five Instruments · Reading Loop · Perception First
 
 → [build/BUILD-004-seven-laws.md](build/BUILD-004-seven-laws.md)
 

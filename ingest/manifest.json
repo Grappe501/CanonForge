@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "0.8.0",
-  "generated_at": "2026-07-05T21:26:51.246599+00:00",
+  "canonforge_version": "0.9.0",
+  "generated_at": "2026-07-05T21:29:42.770317+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 47,
-  "concept_count": 291,
+  "entry_count": 48,
+  "concept_count": 310,
   "build_001_version": "0.1",
   "build_002_version": "1.0",
   "build_003_version": "1.0",
@@ -21,6 +21,8 @@
   "build_010_title": "Physics of Reading",
   "build_011_version": "1.0",
   "build_011_title": "Reader's Covenant",
+  "build_012_version": "1.0",
+  "build_012_title": "The Genome",
   "roadmap_version": "1.0",
   "project_version": "0.0.1",
   "build_layer": "BUILD-001-013 frozen",
@@ -797,6 +799,36 @@
         "CF-CON-291"
       ],
       "byte_size": 8009
+    },
+    {
+      "entry_id": "CF-ENTRY-048",
+      "file": "knowledge/entries/048-build-012-the-genome-v1.md",
+      "sha256": "46367f502b7e3844d8d586a68de62b692cac4e9f52371795ecc42b5f9d871a9a",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-168",
+        "CF-CON-292",
+        "CF-CON-293",
+        "CF-CON-294",
+        "CF-CON-295",
+        "CF-CON-296",
+        "CF-CON-297",
+        "CF-CON-298",
+        "CF-CON-299",
+        "CF-CON-300",
+        "CF-CON-301",
+        "CF-CON-302",
+        "CF-CON-303",
+        "CF-CON-304",
+        "CF-CON-305",
+        "CF-CON-306",
+        "CF-CON-307",
+        "CF-CON-308",
+        "CF-CON-309",
+        "CF-CON-310"
+      ],
+      "byte_size": 7650
     }
   ],
   "indexes": {

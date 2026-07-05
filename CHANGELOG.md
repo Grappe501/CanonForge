@@ -3,6 +3,19 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [0.9.0] — 2026-07-05
+
+### Added
+- CF-ENTRY-048: BUILD-012 The Genome Canonical v1.0
+- Concepts CF-CON-292 through CF-CON-310
+- Central genetic code · Five Depths · Fractal principle · Genome validation
+- Title genome · Title test · Hidden name · Real subject epilogue
+
+### Changed
+- **BUILD-012 renamed:** The Title → **The Genome**
+- Title emerges from Genome not reverse; CF-CON-168 updated to title genome gate
+- Master Canon v0.8.0
+
 ## [0.8.0] — 2026-07-05
 
 ### Added

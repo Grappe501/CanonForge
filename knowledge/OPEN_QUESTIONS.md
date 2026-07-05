@@ -19,9 +19,9 @@ Strong thematic fit with Chronology Lie; not yet confirmed as apex truth.
 
 ## Title
 
-**CF-CON-168 · BUILD-012 · Status: Requirement locked · text open**
+**CF-CON-168 · BUILD-012 Genome · Status: Requirement locked · text open**
 
-Title must not be fully understood until the **fifth reading**. Must describe deepest truth, not surface story. CHRONOFORGE is codename only. Selection blocked until full machine built.
+Title emerges from the Genome (§012.4–012.15), not the reverse. CHRONOFORGE is codename only. Selection blocked until full machine built · Title Test passed · fifth-read gate satisfied.
 
 ## Final image
 

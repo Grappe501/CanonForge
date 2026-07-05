@@ -301,7 +301,7 @@ The goal is not applause.
 
 The goal is **transmission**.
 
-*(Aligns: Final Test CF-CON-152 · BUILD-012)*
+*(Aligns: Final Test CF-CON-152 · BUILD-012 Genome · CF-CON-310)*
 
 ---
 
@@ -321,7 +321,7 @@ Every later build must trace back here.
 | **009** Grammar of Time | Make time felt before measured; Five Times | BUILD-009 |
 | **010** Physics of Reading | Define how reader participates |
 | **011** Reader's Covenant | Trust · fifteen promises · relationship before first sentence |
-| **012** Title | Remain unresolved until fifth-depth meaning known |
+| **012** The Genome | Living code · title emerges from DNA · real subject |
 | **013** Writer's Oath | Protect humility, story, reader partnership |
 | **014** Periodic Table | Identify elemental materials from which purpose is built |
 

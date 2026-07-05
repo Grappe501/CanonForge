@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 0.8.0 · 2026-07-05 · 291 concepts registered
+> Version 0.9.0 · 2026-07-05 · 310 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | CF-CON-165 | Grammar of Time | Architecture | **Frozen** | Five times; experienced time; supersedes Music Theory stub. | CF-ENTRY-036, CF-ENTRY-045 |
 | CF-CON-166 | Physics of Reading | Architecture | **Frozen** | Reading as living process; perception before understanding; instrument. | CF-ENTRY-036, CF-ENTRY-046 |
 | CF-CON-167 | Reader's Covenant | Governance | **Frozen** | Fifteen promises before first sentence; trust binds both sides. | CF-ENTRY-036, CF-ENTRY-047 |
-| CF-CON-168 | Title fifth-read gate | Design fork | **Frozen** | Title not understood until fifth reading; deepest truth. | CF-ENTRY-036 |
+| CF-CON-168 | Title genome gate | Design fork | **Frozen** | Title emerges from Genome; fifth-read transform; text open. | CF-ENTRY-036, CF-ENTRY-048 |
 | CF-CON-169 | Writer's Oath | Process | **Frozen** | Before session: discover truth; reader is partner not opponent. | CF-ENTRY-036 |
 | CF-CON-170 | Periodic Table of Novel | Architecture | **Queued** | Elemental atoms before characters; BUILD-014 next. | CF-ENTRY-036 |
 | CF-CON-171 | Experience not sermon | Theme | **Frozen** | I judged before I understood; humility by experience not instruction. | CF-ENTRY-037 |
@@ -295,6 +295,25 @@
 | CF-CON-289 | Reader's responsibility | Process | **Frozen** | Three asks: curiosity patience honesty only. | CF-ENTRY-047 |
 | CF-CON-290 | Author's responsibility | Governance | **Frozen** | Never deceive preach manipulate; serve story humanity. | CF-ENTRY-047 |
 | CF-CON-291 | BUILD-011 trust foundation | Governance | **Frozen** | Trust foundation beneath every remaining build. | CF-ENTRY-047 |
+| CF-CON-292 | The Genome | Architecture | **Frozen** | Living code; Constitution law Genome life. | CF-ENTRY-048 |
+| CF-CON-293 | Central genetic code | Mission | **Frozen** | Understanding is never finished; organizing truth. | CF-ENTRY-048 |
+| CF-CON-294 | Fractal principle | Architecture | **Frozen** | Sentence scene movement novel life same pattern. | CF-ENTRY-048 |
+| CF-CON-295 | Five Depths | Architecture | **Frozen** | Surface structure humanity philosophy reader. | CF-ENTRY-048 |
+| CF-CON-296 | Title genome | Design fork | **Frozen** | Title final clue; impossible requirements. | CF-ENTRY-048 |
+| CF-CON-297 | Object genome | Architecture | **Frozen** | Living symbols; five functions; readers evolve. | CF-ENTRY-048 |
+| CF-CON-298 | Language genome | Architecture | **Frozen** | Recurring words life cycle; words organisms. | CF-ENTRY-048 |
+| CF-CON-299 | Memory genome | Architecture | **Frozen** | Memories inherit; realization rewrites prior. | CF-ENTRY-048 |
+| CF-CON-300 | Rhythm genome | Architecture | **Frozen** | Rhythm inherited sentence to reader. | CF-ENTRY-048 |
+| CF-CON-301 | Resonance genome | Architecture | **Frozen** | Echo families silence bridges stars threads. | CF-ENTRY-048 |
+| CF-CON-302 | Emotional genome | Architecture | **Frozen** | Expectation disruption reflection integration transform. | CF-ENTRY-048 |
+| CF-CON-303 | Reader genome | Architecture | **Frozen** | Assumptions reproduce; reader leaves different organism. | CF-ENTRY-048 |
+| CF-CON-304 | Invisible recursion | Architecture | **Frozen** | Returns developmentally not identically. | CF-ENTRY-048 |
+| CF-CON-305 | Evolution test | Process | **Frozen** | Evolved or merely repeated; no repeat without growth. | CF-ENTRY-048 |
+| CF-CON-306 | Title test | Process | **Frozen** | Five questions title must survive. | CF-ENTRY-048 |
+| CF-CON-307 | Hidden name | Design fork | **Frozen** | Title never explained; personal discovery. | CF-ENTRY-048 |
+| CF-CON-308 | Genome validation | Process | **Frozen** | Future builds must strengthen part of Genome. | CF-ENTRY-048 |
+| CF-CON-309 | Master pattern | Architecture | **Frozen** | Music organism memory life simultaneously. | CF-ENTRY-048 |
+| CF-CON-310 | How humans create meaning | Mission | **Frozen** | Real subject; incomplete experience to meaningful life. | CF-ENTRY-048 |
 
 ## Related Concepts
 
@@ -465,7 +484,7 @@
 - **CF-CON-165** (Grammar of Time, Frozen): CF-CON-014, CF-CON-256 → `canon/build/BUILD-009-grammar-of-time.md`
 - **CF-CON-166** (Physics of Reading, Frozen): CF-CON-092, CF-CON-164 → `canon/build/BUILD-010-physics-of-reading.md`
 - **CF-CON-167** (Reader's Covenant, Frozen): CF-CON-054, CF-CON-207, CF-CON-281 → `canon/build/BUILD-011-readers-covenant.md`
-- **CF-CON-168** (Title fifth-read gate, Frozen): CF-CON-152 → `canon/build/BUILD-012-title.md`
+- **CF-CON-168** (Title genome gate, Frozen): CF-CON-292, CF-CON-306 → `canon/build/BUILD-012-the-genome.md`
 - **CF-CON-169** (Writer's Oath, Frozen): CF-CON-038, CF-CON-135 → `canon/build/BUILD-013-writers-oath.md`
 - **CF-CON-170** (Periodic Table of Novel, Queued): CF-CON-159, CF-CON-164 → `canon/build/BUILD-014-periodic-table-of-the-novel.md`
 - **CF-CON-171** (Experience not sermon, Frozen): CF-CON-157, CF-CON-142 → `canon/build/BUILD-001-core-question.md`
@@ -589,3 +608,22 @@
 - **CF-CON-289** (Reader's responsibility, Frozen): CF-CON-282, CF-CON-177 → `canon/build/BUILD-011-readers-covenant.md`
 - **CF-CON-290** (Author's responsibility, Frozen): CF-CON-208, CF-CON-169 → `canon/build/BUILD-011-readers-covenant.md`
 - **CF-CON-291** (BUILD-011 trust foundation, Frozen): CF-CON-282, CF-CON-192 → `canon/build/BUILD-011-readers-covenant.md`
+- **CF-CON-292** (The Genome, Frozen): CF-CON-156, CF-CON-293 → `canon/build/BUILD-012-the-genome.md`
+- **CF-CON-293** (Central genetic code, Frozen): CF-CON-157, CF-CON-310 → `canon/build/BUILD-012-the-genome.md`
+- **CF-CON-294** (Fractal principle, Frozen): CF-CON-292, CF-CON-201 → `canon/build/BUILD-012-the-genome.md`
+- **CF-CON-295** (Five Depths, Frozen): CF-CON-176, CF-CON-292 → `canon/build/BUILD-012-the-genome.md`
+- **CF-CON-296** (Title genome, Frozen): CF-CON-168, CF-CON-292 → `canon/build/BUILD-012-the-genome.md`
+- **CF-CON-297** (Object genome, Frozen): CF-CON-292, CF-CON-134 → `canon/build/BUILD-012-the-genome.md`
+- **CF-CON-298** (Language genome, Frozen): CF-CON-292, CF-CON-227 → `canon/build/BUILD-012-the-genome.md`
+- **CF-CON-299** (Memory genome, Frozen): CF-CON-292, CF-CON-235 → `canon/build/BUILD-012-the-genome.md`
+- **CF-CON-300** (Rhythm genome, Frozen): CF-CON-292, CF-CON-070 → `canon/build/BUILD-012-the-genome.md`
+- **CF-CON-301** (Resonance genome, Frozen): CF-CON-094, CF-CON-292 → `canon/build/BUILD-012-the-genome.md`
+- **CF-CON-302** (Emotional genome, Frozen): CF-CON-162, CF-CON-292 → `canon/build/BUILD-012-the-genome.md`
+- **CF-CON-303** (Reader genome, Frozen): CF-CON-161, CF-CON-292 → `canon/build/BUILD-012-the-genome.md`
+- **CF-CON-304** (Invisible recursion, Frozen): CF-CON-262, CF-CON-292 → `canon/build/BUILD-012-the-genome.md`
+- **CF-CON-305** (Evolution test, Frozen): CF-CON-226, CF-CON-292 → `canon/build/BUILD-012-the-genome.md`
+- **CF-CON-306** (Title test, Frozen): CF-CON-168, CF-CON-296 → `canon/build/BUILD-012-the-genome.md`
+- **CF-CON-307** (Hidden name, Frozen): CF-CON-284, CF-CON-296 → `canon/build/BUILD-012-the-genome.md`
+- **CF-CON-308** (Genome validation, Frozen): CF-CON-204, CF-CON-292 → `canon/build/BUILD-012-the-genome.md`
+- **CF-CON-309** (Master pattern, Frozen): CF-CON-292, CF-CON-106 → `canon/build/BUILD-012-the-genome.md`
+- **CF-CON-310** (How humans create meaning, Frozen): CF-CON-157, CF-CON-293 → `canon/build/BUILD-012-the-genome.md`

@@ -54,6 +54,10 @@
 | **Reading Matrix** | Passage eval dimensions · full experience | CF-CON-278 |
 | **Reader's Covenant** | Fifteen promises · trust binds both sides | CF-CON-282 |
 | **Gift not product** | Will this stay with people | CF-CON-287 |
+| **The Genome** | Living code; Constitution law Genome life | CF-CON-292 |
+| **Central genetic code** | Understanding is never finished | CF-CON-293 |
+| **Five Depths** | Surface to reader self-recognition | CF-CON-295 |
+| **How humans create meaning** | Real subject of Chronoforge | CF-CON-310 |
 | **BUILD layer** | Versioned canonical build documents 001+ | CF-CON-156 |
 | **Experience product** | The reading journey is the product, not the artifact | CF-CON-037 |
 | **3-text-before-page-5** | Experience success scene: text three people before reaching page five on reread | CF-CON-045 |

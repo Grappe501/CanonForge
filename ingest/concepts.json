@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "0.8.0",
-  "generated_at": "2026-07-05T21:26:51.259368+00:00",
+  "canonforge_version": "0.9.0",
+  "generated_at": "2026-07-05T21:29:42.783908+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -1867,14 +1867,15 @@
     },
     {
       "id": "CF-CON-168",
-      "label": "Title fifth-read gate",
+      "label": "Title genome gate",
       "category": "Design fork",
       "status": "Frozen",
-      "definition": "Title not understood until fifth reading; deepest truth.",
+      "definition": "Title emerges from Genome; fifth-read transform; text open.",
       "sources": [
-        "CF-ENTRY-036"
+        "CF-ENTRY-036",
+        "CF-ENTRY-048"
       ],
-      "canon_ref": "canon/build/BUILD-012-title.md"
+      "canon_ref": "canon/build/BUILD-012-the-genome.md"
     },
     {
       "id": "CF-CON-169",
@@ -3228,6 +3229,215 @@
         "CF-ENTRY-047"
       ],
       "canon_ref": "canon/build/BUILD-011-readers-covenant.md"
+    },
+    {
+      "id": "CF-CON-292",
+      "label": "The Genome",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Living code; Constitution law Genome life.",
+      "sources": [
+        "CF-ENTRY-048"
+      ],
+      "canon_ref": "canon/build/BUILD-012-the-genome.md"
+    },
+    {
+      "id": "CF-CON-293",
+      "label": "Central genetic code",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Understanding is never finished; organizing truth.",
+      "sources": [
+        "CF-ENTRY-048"
+      ],
+      "canon_ref": "canon/build/BUILD-012-the-genome.md"
+    },
+    {
+      "id": "CF-CON-294",
+      "label": "Fractal principle",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Sentence scene movement novel life same pattern.",
+      "sources": [
+        "CF-ENTRY-048"
+      ],
+      "canon_ref": "canon/build/BUILD-012-the-genome.md"
+    },
+    {
+      "id": "CF-CON-295",
+      "label": "Five Depths",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Surface structure humanity philosophy reader.",
+      "sources": [
+        "CF-ENTRY-048"
+      ],
+      "canon_ref": "canon/build/BUILD-012-the-genome.md"
+    },
+    {
+      "id": "CF-CON-296",
+      "label": "Title genome",
+      "category": "Design fork",
+      "status": "Frozen",
+      "definition": "Title final clue; impossible requirements.",
+      "sources": [
+        "CF-ENTRY-048"
+      ],
+      "canon_ref": "canon/build/BUILD-012-the-genome.md"
+    },
+    {
+      "id": "CF-CON-297",
+      "label": "Object genome",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Living symbols; five functions; readers evolve.",
+      "sources": [
+        "CF-ENTRY-048"
+      ],
+      "canon_ref": "canon/build/BUILD-012-the-genome.md"
+    },
+    {
+      "id": "CF-CON-298",
+      "label": "Language genome",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Recurring words life cycle; words organisms.",
+      "sources": [
+        "CF-ENTRY-048"
+      ],
+      "canon_ref": "canon/build/BUILD-012-the-genome.md"
+    },
+    {
+      "id": "CF-CON-299",
+      "label": "Memory genome",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Memories inherit; realization rewrites prior.",
+      "sources": [
+        "CF-ENTRY-048"
+      ],
+      "canon_ref": "canon/build/BUILD-012-the-genome.md"
+    },
+    {
+      "id": "CF-CON-300",
+      "label": "Rhythm genome",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Rhythm inherited sentence to reader.",
+      "sources": [
+        "CF-ENTRY-048"
+      ],
+      "canon_ref": "canon/build/BUILD-012-the-genome.md"
+    },
+    {
+      "id": "CF-CON-301",
+      "label": "Resonance genome",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Echo families silence bridges stars threads.",
+      "sources": [
+        "CF-ENTRY-048"
+      ],
+      "canon_ref": "canon/build/BUILD-012-the-genome.md"
+    },
+    {
+      "id": "CF-CON-302",
+      "label": "Emotional genome",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Expectation disruption reflection integration transform.",
+      "sources": [
+        "CF-ENTRY-048"
+      ],
+      "canon_ref": "canon/build/BUILD-012-the-genome.md"
+    },
+    {
+      "id": "CF-CON-303",
+      "label": "Reader genome",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Assumptions reproduce; reader leaves different organism.",
+      "sources": [
+        "CF-ENTRY-048"
+      ],
+      "canon_ref": "canon/build/BUILD-012-the-genome.md"
+    },
+    {
+      "id": "CF-CON-304",
+      "label": "Invisible recursion",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Returns developmentally not identically.",
+      "sources": [
+        "CF-ENTRY-048"
+      ],
+      "canon_ref": "canon/build/BUILD-012-the-genome.md"
+    },
+    {
+      "id": "CF-CON-305",
+      "label": "Evolution test",
+      "category": "Process",
+      "status": "Frozen",
+      "definition": "Evolved or merely repeated; no repeat without growth.",
+      "sources": [
+        "CF-ENTRY-048"
+      ],
+      "canon_ref": "canon/build/BUILD-012-the-genome.md"
+    },
+    {
+      "id": "CF-CON-306",
+      "label": "Title test",
+      "category": "Process",
+      "status": "Frozen",
+      "definition": "Five questions title must survive.",
+      "sources": [
+        "CF-ENTRY-048"
+      ],
+      "canon_ref": "canon/build/BUILD-012-the-genome.md"
+    },
+    {
+      "id": "CF-CON-307",
+      "label": "Hidden name",
+      "category": "Design fork",
+      "status": "Frozen",
+      "definition": "Title never explained; personal discovery.",
+      "sources": [
+        "CF-ENTRY-048"
+      ],
+      "canon_ref": "canon/build/BUILD-012-the-genome.md"
+    },
+    {
+      "id": "CF-CON-308",
+      "label": "Genome validation",
+      "category": "Process",
+      "status": "Frozen",
+      "definition": "Future builds must strengthen part of Genome.",
+      "sources": [
+        "CF-ENTRY-048"
+      ],
+      "canon_ref": "canon/build/BUILD-012-the-genome.md"
+    },
+    {
+      "id": "CF-CON-309",
+      "label": "Master pattern",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Music organism memory life simultaneously.",
+      "sources": [
+        "CF-ENTRY-048"
+      ],
+      "canon_ref": "canon/build/BUILD-012-the-genome.md"
+    },
+    {
+      "id": "CF-CON-310",
+      "label": "How humans create meaning",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Real subject; incomplete experience to meaningful life.",
+      "sources": [
+        "CF-ENTRY-048"
+      ],
+      "canon_ref": "canon/build/BUILD-012-the-genome.md"
     }
   ],
   "edges": [
@@ -4458,7 +4668,12 @@
     },
     {
       "from": "CF-CON-168",
-      "to": "CF-CON-152",
+      "to": "CF-CON-292",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-168",
+      "to": "CF-CON-306",
       "type": "related"
     },
     {
@@ -5594,6 +5809,196 @@
     {
       "from": "CF-CON-291",
       "to": "CF-CON-192",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-292",
+      "to": "CF-CON-156",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-292",
+      "to": "CF-CON-293",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-293",
+      "to": "CF-CON-157",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-293",
+      "to": "CF-CON-310",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-294",
+      "to": "CF-CON-292",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-294",
+      "to": "CF-CON-201",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-295",
+      "to": "CF-CON-176",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-295",
+      "to": "CF-CON-292",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-296",
+      "to": "CF-CON-168",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-296",
+      "to": "CF-CON-292",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-297",
+      "to": "CF-CON-292",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-297",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-298",
+      "to": "CF-CON-292",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-298",
+      "to": "CF-CON-227",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-299",
+      "to": "CF-CON-292",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-299",
+      "to": "CF-CON-235",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-300",
+      "to": "CF-CON-292",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-300",
+      "to": "CF-CON-070",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-301",
+      "to": "CF-CON-094",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-301",
+      "to": "CF-CON-292",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-302",
+      "to": "CF-CON-162",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-302",
+      "to": "CF-CON-292",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-303",
+      "to": "CF-CON-161",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-303",
+      "to": "CF-CON-292",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-304",
+      "to": "CF-CON-262",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-304",
+      "to": "CF-CON-292",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-305",
+      "to": "CF-CON-226",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-305",
+      "to": "CF-CON-292",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-306",
+      "to": "CF-CON-168",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-306",
+      "to": "CF-CON-296",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-307",
+      "to": "CF-CON-284",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-307",
+      "to": "CF-CON-296",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-308",
+      "to": "CF-CON-204",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-308",
+      "to": "CF-CON-292",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-309",
+      "to": "CF-CON-292",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-309",
+      "to": "CF-CON-106",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-310",
+      "to": "CF-CON-157",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-310",
+      "to": "CF-CON-293",
       "type": "related"
     }
   ]
