@@ -24,7 +24,7 @@
 | **Compose** | Score the book; do not merely write prose | CF-CON-069 |
 | **Rhythm Bible** | Page-level score: tempo, pulse, silence, density | CF-CON-070 |
 | **Heartbeat pulse** | Three short sentences · pause · recurring pattern | CF-CON-073 |
-| **Symphony novella** | Medium is time/composition disguised as novella | CF-CON-076 |
+| **Visual Grammar** | Typographic language — one meaning per instrument | CF-CON-080 |
 | **Experience product** | The reading journey is the product, not the artifact | CF-CON-037 |
 | **3-text-before-page-5** | Experience success scene: text three people before reaching page five on reread | CF-CON-045 |
 | **Call me when you finish** | Target recommendation type — experience sharing, not craft admiration | CF-CON-038 |

@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 0.2.5 · 2026-07-05 · 79 concepts registered
+> Version 0.2.6 · 2026-07-05 · 88 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -83,6 +83,15 @@
 | CF-CON-077 | Compose Laws | Governance | **Locked** | Six-line center doctrine: word, sentence, paragraph, page, silence, reread. | CF-ENTRY-027 |
 | CF-CON-078 | Rhythm anti-skimming | Architecture | **Locked** | Rhythm not complexity stops skimming; prediction failure slows reader. | CF-ENTRY-027 |
 | CF-CON-079 | Silence as content | Architecture | **Locked** | Unwritten parts as important as written; silence is part of music. | CF-ENTRY-027 |
+| CF-CON-080 | Visual Grammar | Architecture | **Locked** | Typographic language document; one canonical meaning per instrument. | CF-ENTRY-028 |
+| CF-CON-081 | Invisible typographic score | Architecture | **Locked** | Typography as emotional score—not decoration; never pulls reader out. | CF-ENTRY-028 |
+| CF-CON-082 | Canonical typographic meanings | Architecture | **Locked** | Roman=reality; italics=certainty; bold=collision; absence meaningful. | CF-ENTRY-028 |
+| CF-CON-083 | Typography marks reality | Architecture | **Locked** | Visual grammar marks how reality behaves—not who speaks. | CF-ENTRY-028 |
+| CF-CON-084 | Limited visual vocabulary | Architecture | **Locked** | One typeface; italics; bold; small caps; space; indent; dashes; ellipses only. | CF-ENTRY-028 |
+| CF-CON-085 | Voice via page breathing | Architecture | **Locked** | Distinct voices via paragraph rhythm—not font changes. | CF-ENTRY-028 |
+| CF-CON-086 | Typography rarity | Architecture | **Locked** | If everything accented nothing accented; cymbal crash principle. | CF-ENTRY-028 |
+| CF-CON-087 | Typographic Recognition | Architecture | **Locked** | Formatting never lies; reader assigned wrong conventional meaning. | CF-ENTRY-028 |
+| CF-CON-088 | Typographic constraints | Architecture | **Locked** | Restraint makes every visual change an event; elegance over experiment. | CF-ENTRY-028 |
 
 ## Related Concepts
 
@@ -165,3 +174,12 @@
 - **CF-CON-077** (Compose Laws, Locked): CF-CON-069 → `canon/MASTER_CANON.md`
 - **CF-CON-078** (Rhythm anti-skimming, Locked): CF-CON-070 → `architecture/RHYTHM_BIBLE.md`
 - **CF-CON-079** (Silence as content, Locked): CF-CON-071 → `architecture/RHYTHM_BIBLE.md`
+- **CF-CON-080** (Visual Grammar, Locked): CF-CON-081, CF-CON-082 → `architecture/VISUAL_GRAMMAR.md`
+- **CF-CON-081** (Invisible typographic score, Locked): CF-CON-080, CF-CON-087 → `architecture/VISUAL_GRAMMAR.md`
+- **CF-CON-082** (Canonical typographic meanings, Locked): CF-CON-080 → `architecture/VISUAL_GRAMMAR.md`
+- **CF-CON-083** (Typography marks reality, Locked): CF-CON-082, CF-CON-087 → `architecture/VISUAL_GRAMMAR.md`
+- **CF-CON-084** (Limited visual vocabulary, Locked): CF-CON-080 → `architecture/VISUAL_GRAMMAR.md`
+- **CF-CON-085** (Voice via page breathing, Locked): CF-CON-070, CF-CON-084 → `architecture/VISUAL_GRAMMAR.md`
+- **CF-CON-086** (Typography rarity, Locked): CF-CON-081 → `architecture/VISUAL_GRAMMAR.md`
+- **CF-CON-087** (Typographic Recognition, Locked): CF-CON-030, CF-CON-082 → `architecture/VISUAL_GRAMMAR.md`
+- **CF-CON-088** (Typographic constraints, Locked): CF-CON-084, CF-CON-086 → `architecture/VISUAL_GRAMMAR.md`

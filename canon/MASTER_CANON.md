@@ -1,8 +1,8 @@
-# Master Canon v0.2.5
+# Master Canon v0.2.6
 
 > Governing creative constitution for CHRONOFORGE
 > Derived from locked concepts · open forks marked explicitly
-> Supersedes v0.2.4 (2026-07-05 · CF-ENTRY-027 Compose Laws)
+> Supersedes v0.2.5 (2026-07-05 · CF-ENTRY-028 Visual Grammar)
 
 ---
 
@@ -39,6 +39,20 @@ Tell the **best adventure story we can possibly tell** — with invisible engine
 We **compose**, we do not merely write. The book is **scored** — see [architecture/RHYTHM_BIBLE.md](../architecture/RHYTHM_BIBLE.md).
 
 Compose for: breathing · pulse · subvocalization · the reader's inner voice.
+
+### Visual Grammar (CF-CON-080 · CF-CON-081)
+
+Typography is an **invisible emotional score** — not decoration. See [architecture/VISUAL_GRAMMAR.md](../architecture/VISUAL_GRAMMAR.md).
+
+| Instrument | Meaning (never changes) |
+|---|---|
+| Roman | Reality — baseline |
+| *Italics* | **Certainty** (not thoughts) |
+| **Bold** | **Collision** — overlapping timelines/interpretations |
+
+Formatting **never lies**. On Recognition reads, reader discovers they assigned conventional meaning to a second language.
+
+**Rarity rule (CF-CON-086):** If everything is accented, nothing is accented.
 
 ### Meta-mission (CF-CON-053 · locked CF-ENTRY-024)
 
@@ -281,4 +295,4 @@ See [knowledge/OPEN_QUESTIONS.md](../knowledge/OPEN_QUESTIONS.md):
 
 ---
 
-*v0.2.5 · 2026-07-05 · synthesized from CF-ENTRY-001 through CF-ENTRY-027*
+*v0.2.6 · 2026-07-05 · synthesized from CF-ENTRY-001 through CF-ENTRY-028*

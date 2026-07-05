@@ -75,6 +75,8 @@ No author biography, endorsements, or read-twice instructions in the published a
 
 White space is the only permitted structural shift cue (CF-CON-066).
 
+Typographic instruments have **one canonical meaning each** — never decorative (CF-CON-080 · Visual Grammar).
+
 Internal engineering vocabulary stays in `architecture/` and `canon/`.
 
 ---

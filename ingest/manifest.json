@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0.0",
   "canonforge_version": "0.2.0",
-  "generated_at": "2026-07-05T20:54:21.408219+00:00",
+  "generated_at": "2026-07-05T20:55:06.700042+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 27,
+  "entry_count": 28,
   "concept_count": 44,
   "entries": [
     {
@@ -357,6 +357,25 @@
         "CF-CON-079"
       ],
       "byte_size": 5316
+    },
+    {
+      "entry_id": "CF-ENTRY-028",
+      "file": "knowledge/entries/028-visual-grammar-typography-score.md",
+      "sha256": "4eccb9386bfd48343b862b472408e0cdfbcc660ffcc6fb5c16ce97bd50e20cba",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-080",
+        "CF-CON-081",
+        "CF-CON-082",
+        "CF-CON-083",
+        "CF-CON-084",
+        "CF-CON-085",
+        "CF-CON-086",
+        "CF-CON-087",
+        "CF-CON-088"
+      ],
+      "byte_size": 4101
     }
   ],
   "indexes": {

@@ -3,6 +3,13 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [0.2.6] — 2026-07-05
+
+### Added
+- CF-ENTRY-028: Visual Grammar · invisible typographic score · limited vocabulary
+- Concepts CF-CON-080 through CF-CON-088
+- `architecture/VISUAL_GRAMMAR.md` — typographic language (not style guide)
+
 ## [0.2.5] — 2026-07-05
 
 ### Added

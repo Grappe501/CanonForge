@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "canonforge_version": "0.2.0",
-  "generated_at": "2026-07-05T20:54:21.418284+00:00",
+  "generated_at": "2026-07-05T20:55:06.706447+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -884,6 +884,105 @@
         "CF-ENTRY-027"
       ],
       "canon_ref": "architecture/RHYTHM_BIBLE.md"
+    },
+    {
+      "id": "CF-CON-080",
+      "label": "Visual Grammar",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "Typographic language document; one canonical meaning per instrument.",
+      "sources": [
+        "CF-ENTRY-028"
+      ],
+      "canon_ref": "architecture/VISUAL_GRAMMAR.md"
+    },
+    {
+      "id": "CF-CON-081",
+      "label": "Invisible typographic score",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "Typography as emotional score\u2014not decoration; never pulls reader out.",
+      "sources": [
+        "CF-ENTRY-028"
+      ],
+      "canon_ref": "architecture/VISUAL_GRAMMAR.md"
+    },
+    {
+      "id": "CF-CON-082",
+      "label": "Canonical typographic meanings",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "Roman=reality; italics=certainty; bold=collision; absence meaningful.",
+      "sources": [
+        "CF-ENTRY-028"
+      ],
+      "canon_ref": "architecture/VISUAL_GRAMMAR.md"
+    },
+    {
+      "id": "CF-CON-083",
+      "label": "Typography marks reality",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "Visual grammar marks how reality behaves\u2014not who speaks.",
+      "sources": [
+        "CF-ENTRY-028"
+      ],
+      "canon_ref": "architecture/VISUAL_GRAMMAR.md"
+    },
+    {
+      "id": "CF-CON-084",
+      "label": "Limited visual vocabulary",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "One typeface; italics; bold; small caps; space; indent; dashes; ellipses only.",
+      "sources": [
+        "CF-ENTRY-028"
+      ],
+      "canon_ref": "architecture/VISUAL_GRAMMAR.md"
+    },
+    {
+      "id": "CF-CON-085",
+      "label": "Voice via page breathing",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "Distinct voices via paragraph rhythm\u2014not font changes.",
+      "sources": [
+        "CF-ENTRY-028"
+      ],
+      "canon_ref": "architecture/VISUAL_GRAMMAR.md"
+    },
+    {
+      "id": "CF-CON-086",
+      "label": "Typography rarity",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "If everything accented nothing accented; cymbal crash principle.",
+      "sources": [
+        "CF-ENTRY-028"
+      ],
+      "canon_ref": "architecture/VISUAL_GRAMMAR.md"
+    },
+    {
+      "id": "CF-CON-087",
+      "label": "Typographic Recognition",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "Formatting never lies; reader assigned wrong conventional meaning.",
+      "sources": [
+        "CF-ENTRY-028"
+      ],
+      "canon_ref": "architecture/VISUAL_GRAMMAR.md"
+    },
+    {
+      "id": "CF-CON-088",
+      "label": "Typographic constraints",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "Restraint makes every visual change an event; elegance over experiment.",
+      "sources": [
+        "CF-ENTRY-028"
+      ],
+      "canon_ref": "architecture/VISUAL_GRAMMAR.md"
     }
   ],
   "edges": [
@@ -1435,6 +1534,81 @@
     {
       "from": "CF-CON-079",
       "to": "CF-CON-071",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-080",
+      "to": "CF-CON-081",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-080",
+      "to": "CF-CON-082",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-081",
+      "to": "CF-CON-080",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-081",
+      "to": "CF-CON-087",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-082",
+      "to": "CF-CON-080",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-083",
+      "to": "CF-CON-082",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-083",
+      "to": "CF-CON-087",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-084",
+      "to": "CF-CON-080",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-085",
+      "to": "CF-CON-070",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-085",
+      "to": "CF-CON-084",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-086",
+      "to": "CF-CON-081",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-087",
+      "to": "CF-CON-030",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-087",
+      "to": "CF-CON-082",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-088",
+      "to": "CF-CON-084",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-088",
+      "to": "CF-CON-086",
       "type": "related"
     }
   ]
