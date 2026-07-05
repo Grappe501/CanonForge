@@ -3,7 +3,7 @@
 > Institutional knowledge system for **CHRONOFORGE** — the recursive adventure novel project.
 > Codename: CHRONOFORGE · Repo: `Grappe501/CanonForge` · Local truth: `H:\CanonForge`
 
-**Version:** see [VERSION](VERSION) · **CanonForge:** 0.6.5 · **BUILD-005:** v1.0 · **Concepts:** 218
+**Version:** see [VERSION](VERSION) · **CanonForge:** 0.6.6 · **BUILD-006:** v1.0 · **Concepts:** 229
 
 ---
 
@@ -90,4 +90,4 @@ H:\CanonForge\
 
 ---
 
-*Built 2026-07-05 · BUILD-005 v1.0 · Theory of Reading · 41 entries · 218 concepts*
+*Built 2026-07-05 · BUILD-006 v1.0 · composers not novelists · 42 entries · 229 concepts*

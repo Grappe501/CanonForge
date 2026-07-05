@@ -10,7 +10,7 @@
 ```txt
 BUILD-000.000   THE CONSTITUTION          → law (never broken)
 BUILD-000.001–003                     → North Star · One Question · Thematic
-BUILD-001–013                         → foundational canon (001 v0.1 · 002–005 v1.0)
+BUILD-001–013                         → foundational canon (001 v0.1 · 002–006 v1.0)
 BUILD-014–015                         → queued (Periodic Table · Bill of Rights)
 architecture/                         → expanded specs (derived · cross-ref)
 knowledge/entries/                    → verbatim source uploads
@@ -33,7 +33,7 @@ knowledge/entries/                    → verbatim source uploads
 | **003** | The Four Pillars | **1.0** | **Frozen** | 036, 039 | CF-CON-159, 190–198 | [BUILD-003](BUILD-003-four-pillars.md) |
 | **004** | Seven Immutable Laws | **1.0** | **Frozen · IMMUTABLE** | 036, 040 | CF-CON-160, 199–208 | [BUILD-004](BUILD-004-seven-laws.md) |
 | **005** | The Reader Arc | **1.0** | **Frozen** | 036, 041 | CF-CON-161, 209–218 | [BUILD-005](BUILD-005-reader-arc.md) |
-| **006** | The Emotional Score | **1.0.0** | **Frozen** | 036 | CF-CON-162 | [BUILD-006](BUILD-006-emotional-score.md) |
+| **006** | The Emotional Score | **1.0** | **Frozen** | 036, 042 | CF-CON-162, 219–229 | [BUILD-006](BUILD-006-emotional-score.md) |
 | **007** | Human Experience Model | **1.0.0** | **Frozen** | 036 | CF-CON-163 | [BUILD-007](BUILD-007-human-experience-model.md) |
 | **008** | The Assumption Engine | **1.0.0** | **Frozen** | 036 | CF-CON-164 | [BUILD-008](BUILD-008-assumption-engine.md) |
 | **009** | The Music Theory | **1.0.0** | **Frozen** | 036 | CF-CON-165 | [BUILD-009](BUILD-009-music-theory.md) |
@@ -62,7 +62,7 @@ knowledge/entries/                    → verbatim source uploads
 | BUILD | Architecture spec |
 |---|---|
 | 005 Reader Arc | FIVE_LOCKS · Discovery Pyramid Layer 4–5 |
-| 006 Emotional Score | THE_SCORE · Discovery Tempo · Density |
+| 006 Emotional Score | THE_SCORE · Conductor's Test · Theme/Variation |
 | 008 Assumption Engine | Assumption Ladder · Curiosity Engine |
 | 009 Music Theory | MOVEMENTS_NOT_CHAPTERS · RHYTHM_BIBLE |
 | 010 Physics of Reading | [architecture/PHYSICS_OF_READING.md](../../architecture/PHYSICS_OF_READING.md) |

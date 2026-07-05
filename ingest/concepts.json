@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "0.6.5",
-  "generated_at": "2026-07-05T21:14:48.957135+00:00",
+  "canonforge_version": "0.6.6",
+  "generated_at": "2026-07-05T21:16:04.845685+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -1798,9 +1798,10 @@
       "label": "Emotional Score",
       "category": "Architecture",
       "status": "Frozen",
-      "definition": "Eight movements of emotion; no victory only understanding.",
+      "definition": "Eight movements \u00b7 six layers \u00b7 orchestrate reader state not character.",
       "sources": [
-        "CF-ENTRY-036"
+        "CF-ENTRY-036",
+        "CF-ENTRY-042"
       ],
       "canon_ref": "canon/build/BUILD-006-emotional-score.md"
     },
@@ -2419,6 +2420,127 @@
         "CF-ENTRY-041"
       ],
       "canon_ref": "canon/build/BUILD-005-reader-arc.md"
+    },
+    {
+      "id": "CF-CON-219",
+      "label": "Six-layer emotional score",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Surface subconscious breathing tempo expectation release.",
+      "sources": [
+        "CF-ENTRY-042"
+      ],
+      "canon_ref": "canon/build/BUILD-006-emotional-score.md"
+    },
+    {
+      "id": "CF-CON-220",
+      "label": "Reader heartbeat sync",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Synchronize then gently change internal rhythm via pacing.",
+      "sources": [
+        "CF-ENTRY-042"
+      ],
+      "canon_ref": "canon/build/BUILD-006-emotional-score.md"
+    },
+    {
+      "id": "CF-CON-221",
+      "label": "Eight emotional movements",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Awakening through Return; felt not labeled.",
+      "sources": [
+        "CF-ENTRY-042"
+      ],
+      "canon_ref": "canon/build/BUILD-006-emotional-score.md"
+    },
+    {
+      "id": "CF-CON-222",
+      "label": "Psychological tempo",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Tempo not pace; short can be slow via expectation.",
+      "sources": [
+        "CF-ENTRY-042"
+      ],
+      "canon_ref": "canon/build/BUILD-006-emotional-score.md"
+    },
+    {
+      "id": "CF-CON-223",
+      "label": "Breathing physiology",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Compose inhale exhale; one-word paragraph inhale.",
+      "sources": [
+        "CF-ENTRY-042"
+      ],
+      "canon_ref": "canon/build/BUILD-006-emotional-score.md"
+    },
+    {
+      "id": "CF-CON-224",
+      "label": "Emotional dynamics scale",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Pianissimo through fortissimo; composed not visible.",
+      "sources": [
+        "CF-ENTRY-042"
+      ],
+      "canon_ref": "canon/build/BUILD-006-emotional-score.md"
+    },
+    {
+      "id": "CF-CON-225",
+      "label": "Invisible orchestra",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Words strings dialogue woodwinds typography solo etc.",
+      "sources": [
+        "CF-ENTRY-042"
+      ],
+      "canon_ref": "canon/build/BUILD-006-emotional-score.md"
+    },
+    {
+      "id": "CF-CON-226",
+      "label": "Conductor's Test",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Six questions; no answer passage unfinished.",
+      "sources": [
+        "CF-ENTRY-042"
+      ],
+      "canon_ref": "canon/build/BUILD-006-emotional-score.md"
+    },
+    {
+      "id": "CF-CON-227",
+      "label": "Theme and variation",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "7-12 narrative themes; nothing returns untransformed.",
+      "sources": [
+        "CF-ENTRY-042"
+      ],
+      "canon_ref": "canon/build/BUILD-006-emotional-score.md"
+    },
+    {
+      "id": "CF-CON-228",
+      "label": "BUILD-006 music of reading",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Emotional score v1.0; compose nervous system not eye.",
+      "sources": [
+        "CF-ENTRY-042"
+      ],
+      "canon_ref": "canon/build/BUILD-006-emotional-score.md"
+    },
+    {
+      "id": "CF-CON-229",
+      "label": "Nervous system composition",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Write for reader physiology not only the eye.",
+      "sources": [
+        "CF-ENTRY-042"
+      ],
+      "canon_ref": "canon/build/BUILD-006-emotional-score.md"
     }
   ],
   "edges": [
@@ -3589,7 +3711,7 @@
     },
     {
       "from": "CF-CON-162",
-      "to": "CF-CON-118",
+      "to": "CF-CON-165",
       "type": "related"
     },
     {
@@ -4100,6 +4222,106 @@
     {
       "from": "CF-CON-218",
       "to": "CF-CON-157",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-219",
+      "to": "CF-CON-162",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-219",
+      "to": "CF-CON-093",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-220",
+      "to": "CF-CON-073",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-220",
+      "to": "CF-CON-210",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-221",
+      "to": "CF-CON-162",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-221",
+      "to": "CF-CON-193",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-222",
+      "to": "CF-CON-165",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-223",
+      "to": "CF-CON-166",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-223",
+      "to": "CF-CON-219",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-224",
+      "to": "CF-CON-162",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-225",
+      "to": "CF-CON-196",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-225",
+      "to": "CF-CON-162",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-226",
+      "to": "CF-CON-204",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-226",
+      "to": "CF-CON-187",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-227",
+      "to": "CF-CON-185",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-227",
+      "to": "CF-CON-201",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-228",
+      "to": "CF-CON-162",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-228",
+      "to": "CF-CON-165",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-229",
+      "to": "CF-CON-228",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-229",
+      "to": "CF-CON-166",
       "type": "related"
     }
   ]

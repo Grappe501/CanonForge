@@ -1,16 +1,14 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "0.6.5",
-  "generated_at": "2026-07-05T21:15:05.505584+00:00",
+  "canonforge_version": "0.6.6",
+  "generated_at": "2026-07-05T21:16:04.825253+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 41,
-  "concept_count": 208,
-  "build_001_version": "0.1",
-  "build_002_version": "1.0",
-  "build_003_version": "1.0",
-  "build_004_version": "1.0",
+  "entry_count": 42,
+  "concept_count": 229,
+  "build_005_version": "1.0",
+  "build_006_version": "1.0",
   "roadmap_version": "1.0",
   "project_version": "0.0.1",
   "build_layer": "BUILD-001-013 frozen",
@@ -648,6 +646,28 @@
         "CF-CON-218"
       ],
       "byte_size": 8720
+    },
+    {
+      "entry_id": "CF-ENTRY-042",
+      "file": "knowledge/entries/042-build-006-emotional-score-canonical-v1.md",
+      "sha256": "fa6f51c5230501ae9016004204156de5edd8e5269fe6ee551efedc499653fad4",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-162",
+        "CF-CON-219",
+        "CF-CON-220",
+        "CF-CON-221",
+        "CF-CON-222",
+        "CF-CON-223",
+        "CF-CON-224",
+        "CF-CON-225",
+        "CF-CON-226",
+        "CF-CON-227",
+        "CF-CON-228",
+        "CF-CON-229"
+      ],
+      "byte_size": 8058
     }
   ],
   "indexes": {

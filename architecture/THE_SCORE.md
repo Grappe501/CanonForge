@@ -1,7 +1,7 @@
 # The Score
 
-> **The master composition document** — not chapter outline · not scene list · **Score**
-> CF-CON-093 · CF-ENTRY-029 · supersedes partial specs in Rhythm Bible framing
+> **Canonical source:** [canon/build/BUILD-006-emotional-score.md](../canon/build/BUILD-006-emotional-score.md) v1.0
+> **Page-level implementation map** · derived from BUILD-006 · CF-CON-093 · CF-ENTRY-029
 
 ---
 

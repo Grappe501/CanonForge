@@ -1,8 +1,8 @@
-# Master Canon v0.5.5
+# Master Canon v0.5.6
 
 > Implementation constitution · derived from [CONSTITUTION.md](CONSTITUTION.md)
-> **BUILD-000.000 is law** · **BUILD-004 is physics** · **BUILD-005 is transformation**
-> Supersedes v0.5.4 (2026-07-05 · BUILD-005 Reader Arc CF-ENTRY-041)
+> **BUILD-000.000 is law** · **BUILD-004 is physics** · **BUILD-005 is reader** · **BUILD-006 is music**
+> Supersedes v0.5.5 (2026-07-05 · BUILD-006 Emotional Score CF-ENTRY-042)
 
 ---
 
@@ -43,9 +43,9 @@ Key locked insights:
 | **Four Pillars** | Strengthen ≥1 of Wonder · **Connection** · Resonance · Transformation? | BUILD-003 v1.0 |
 | Seven Laws | Immutable · complies with BUILD-004 v1.0? | BUILD-004 |
 
-**Stack:** BUILD-001 = *why* · BUILD-002 = *how* · BUILD-003 = *what* · BUILD-004 = *laws* · BUILD-005 = *transformation*
+**Stack:** BUILD-001 = *why* · BUILD-002 = *how* · BUILD-003 = *what* · BUILD-004 = *laws* · BUILD-005 = *reader* · BUILD-006 = *music*
 
-→ [build/BUILD-005-reader-arc.md](build/BUILD-005-reader-arc.md) · Theory of Reading · Twelve Movements · Five Reads
+→ [build/BUILD-006-emotional-score.md](build/BUILD-006-emotional-score.md) · Eight Movements · Conductor's Test · Theme & Variation
 
 → [build/BUILD-004-seven-laws.md](build/BUILD-004-seven-laws.md)
 

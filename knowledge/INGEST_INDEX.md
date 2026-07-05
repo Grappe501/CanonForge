@@ -45,3 +45,4 @@
 | CF-ENTRY-039 | `knowledge/entries/039-build-003-four-pillars-canonical-v1.md` | 2026-07-05 | processed | CF-CON-159, CF-CON-190, CF-CON-191, CF-CON-192, CF-CON-193, CF-CON-194, CF-CON-195, CF-CON-196, CF-CON-197, CF-CON-198 |
 | CF-ENTRY-040 | `knowledge/entries/040-build-004-seven-immutable-laws-v1.md` | 2026-07-05 | processed | CF-CON-160, CF-CON-199, CF-CON-200, CF-CON-201, CF-CON-202, CF-CON-203, CF-CON-204, CF-CON-205, CF-CON-206, CF-CON-207, CF-CON-208 |
 | CF-ENTRY-041 | `knowledge/entries/041-build-005-reader-arc-canonical-v1.md` | 2026-07-05 | processed | CF-CON-161, CF-CON-209, CF-CON-210, CF-CON-211, CF-CON-212, CF-CON-213, CF-CON-214, CF-CON-215, CF-CON-216, CF-CON-217, CF-CON-218 |
+| CF-ENTRY-042 | `knowledge/entries/042-build-006-emotional-score-canonical-v1.md` | 2026-07-05 | processed | CF-CON-162, CF-CON-219, CF-CON-220, CF-CON-221, CF-CON-222, CF-CON-223, CF-CON-224, CF-CON-225, CF-CON-226, CF-CON-227, CF-CON-228, CF-CON-229 |

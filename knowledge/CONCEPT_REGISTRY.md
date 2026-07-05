@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 0.6.5 · 2026-07-05 · 218 concepts registered
+> Version 0.6.6 · 2026-07-05 · 229 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | CF-CON-159 | Four Pillars | Architecture | **Frozen** | Wonder · Connection · Resonance · Transformation. | CF-ENTRY-036, CF-ENTRY-039 |
 | CF-CON-160 | BUILD-004 Seven Immutable Laws | Governance | **Frozen** | Physics of universe: story sacred · never lie · earned discovery. | CF-ENTRY-036, CF-ENTRY-040 |
 | CF-CON-161 | Reader Arc | Architecture | **Frozen** | Dual arc: 12 movements · Five Reads · Theory of Reading. | CF-ENTRY-036, CF-ENTRY-041 |
-| CF-CON-162 | Emotional Score | Architecture | **Frozen** | Eight movements of emotion; no victory only understanding. | CF-ENTRY-036 |
+| CF-CON-162 | Emotional Score | Architecture | **Frozen** | Eight movements · six layers · orchestrate reader state not character. | CF-ENTRY-036, CF-ENTRY-042 |
 | CF-CON-163 | Human Experience Model | Theme | **Frozen** | One civilization humanity; characters represent being human. | CF-ENTRY-036 |
 | CF-CON-164 | Assumption Engine | Architecture | **Frozen** | Per page: reader assumption · natural · transform not disprove. | CF-ENTRY-036 |
 | CF-CON-165 | BUILD-009 Music Theory | Architecture | **Frozen** | Movements felt not labeled; tempo pulse density measurable. | CF-ENTRY-036 |
@@ -222,6 +222,17 @@
 | CF-CON-216 | Reader completes loop | Heart | **Frozen** | Complete when reader carries seeing into ordinary life. | CF-ENTRY-041 |
 | CF-CON-217 | Reader rights seed | Governance | **Queued** | 005.15 rights feed BUILD-015 Bill of Rights. | CF-ENTRY-041 |
 | CF-CON-218 | BUILD-005 transformation spec | Governance | **Frozen** | How reader becomes person who can truly read book. | CF-ENTRY-041 |
+| CF-CON-219 | Six-layer emotional score | Architecture | **Frozen** | Surface subconscious breathing tempo expectation release. | CF-ENTRY-042 |
+| CF-CON-220 | Reader heartbeat sync | Architecture | **Frozen** | Synchronize then gently change internal rhythm via pacing. | CF-ENTRY-042 |
+| CF-CON-221 | Eight emotional movements | Architecture | **Frozen** | Awakening through Return; felt not labeled. | CF-ENTRY-042 |
+| CF-CON-222 | Psychological tempo | Architecture | **Frozen** | Tempo not pace; short can be slow via expectation. | CF-ENTRY-042 |
+| CF-CON-223 | Breathing physiology | Architecture | **Frozen** | Compose inhale exhale; one-word paragraph inhale. | CF-ENTRY-042 |
+| CF-CON-224 | Emotional dynamics scale | Architecture | **Frozen** | Pianissimo through fortissimo; composed not visible. | CF-ENTRY-042 |
+| CF-CON-225 | Invisible orchestra | Architecture | **Frozen** | Words strings dialogue woodwinds typography solo etc. | CF-ENTRY-042 |
+| CF-CON-226 | Conductor's Test | Governance | **Frozen** | Six questions; no answer passage unfinished. | CF-ENTRY-042 |
+| CF-CON-227 | Theme and variation | Architecture | **Frozen** | 7-12 narrative themes; nothing returns untransformed. | CF-ENTRY-042 |
+| CF-CON-228 | BUILD-006 music of reading | Governance | **Frozen** | Emotional score v1.0; compose nervous system not eye. | CF-ENTRY-042 |
+| CF-CON-229 | Nervous system composition | Architecture | **Frozen** | Write for reader physiology not only the eye. | CF-ENTRY-042 |
 
 ## Related Concepts
 
@@ -386,7 +397,7 @@
 - **CF-CON-159** (Four Pillars, Frozen): CF-CON-094, CF-CON-137 → `canon/build/BUILD-003-four-pillars.md`
 - **CF-CON-160** (BUILD-004 Seven Immutable Laws, Frozen): CF-CON-136, CF-CON-023 → `canon/build/BUILD-004-seven-laws.md`
 - **CF-CON-161** (Reader Arc, Frozen): CF-CON-002, CF-CON-001 → `canon/build/BUILD-005-reader-arc.md`
-- **CF-CON-162** (Emotional Score, Frozen): CF-CON-093, CF-CON-118 → `canon/build/BUILD-006-emotional-score.md`
+- **CF-CON-162** (Emotional Score, Frozen): CF-CON-093, CF-CON-165 → `canon/build/BUILD-006-emotional-score.md`
 - **CF-CON-163** (Human Experience Model, Frozen): CF-CON-139, CF-CON-144 → `canon/build/BUILD-007-human-experience-model.md`
 - **CF-CON-164** (Assumption Engine, Frozen): CF-CON-145, CF-CON-001 → `canon/build/BUILD-008-assumption-engine.md`
 - **CF-CON-165** (BUILD-009 Music Theory, Frozen): CF-CON-070, CF-CON-059 → `canon/build/BUILD-009-music-theory.md`
@@ -443,3 +454,14 @@
 - **CF-CON-216** (Reader completes loop, Frozen): CF-CON-154, CF-CON-213 → `canon/build/BUILD-005-reader-arc.md`
 - **CF-CON-217** (Reader rights seed, Queued): CF-CON-207, CF-CON-212 → `canon/build/BUILD-005-reader-arc.md`
 - **CF-CON-218** (BUILD-005 transformation spec, Frozen): CF-CON-161, CF-CON-157 → `canon/build/BUILD-005-reader-arc.md`
+- **CF-CON-219** (Six-layer emotional score, Frozen): CF-CON-162, CF-CON-093 → `canon/build/BUILD-006-emotional-score.md`
+- **CF-CON-220** (Reader heartbeat sync, Frozen): CF-CON-073, CF-CON-210 → `canon/build/BUILD-006-emotional-score.md`
+- **CF-CON-221** (Eight emotional movements, Frozen): CF-CON-162, CF-CON-193 → `canon/build/BUILD-006-emotional-score.md`
+- **CF-CON-222** (Psychological tempo, Frozen): CF-CON-165 → `canon/build/BUILD-006-emotional-score.md`
+- **CF-CON-223** (Breathing physiology, Frozen): CF-CON-166, CF-CON-219 → `canon/build/BUILD-006-emotional-score.md`
+- **CF-CON-224** (Emotional dynamics scale, Frozen): CF-CON-162 → `canon/build/BUILD-006-emotional-score.md`
+- **CF-CON-225** (Invisible orchestra, Frozen): CF-CON-196, CF-CON-162 → `canon/build/BUILD-006-emotional-score.md`
+- **CF-CON-226** (Conductor's Test, Frozen): CF-CON-204, CF-CON-187 → `canon/build/BUILD-006-emotional-score.md`
+- **CF-CON-227** (Theme and variation, Frozen): CF-CON-185, CF-CON-201 → `canon/build/BUILD-006-emotional-score.md`
+- **CF-CON-228** (BUILD-006 music of reading, Frozen): CF-CON-162, CF-CON-165 → `canon/build/BUILD-006-emotional-score.md`
+- **CF-CON-229** (Nervous system composition, Frozen): CF-CON-228, CF-CON-166 → `canon/build/BUILD-006-emotional-score.md`

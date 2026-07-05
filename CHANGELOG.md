@@ -3,6 +3,19 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [0.6.6] — 2026-07-05
+
+### Added
+- CF-ENTRY-042: BUILD-006 Emotional Score Canonical v1.0
+- Concepts CF-CON-219 through CF-CON-229
+- Six-layer score · eight movements · Conductor's Test · Theme & Variation
+- Nervous system composition · Invisible Orchestra · psychological tempo
+
+### Changed
+- BUILD-006 expanded from stub to full compositional spec
+- architecture/THE_SCORE.md now derived from BUILD-006
+- Master Canon v0.5.6
+
 ## [0.6.5] — 2026-07-05
 
 ### Added
