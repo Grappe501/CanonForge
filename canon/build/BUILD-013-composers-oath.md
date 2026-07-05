@@ -279,7 +279,7 @@ Philosophy complete. Next: concrete **engineering systems**:
 | **Typography Ledger** | Typography physics (architecture/PHYSICS_OF_READING.md) |
 | **Five-Read Traceability Matrix** | Per-read discovery mapping (BUILD-005) |
 
-→ [BUILD-014 Elements of Meaning](BUILD-014-elements-of-meaning.md) · [BUILD-015 Resonance Matrix](BUILD-015-resonance-matrix.md) (queued)
+→ [BUILD-015 Resonance Matrix](BUILD-015-resonance-matrix.md) · [BUILD-014 Elements of Meaning](BUILD-014-elements-of-meaning.md)
 
 At that point we are no longer preparing to write. We are preparing to **compose**.
 

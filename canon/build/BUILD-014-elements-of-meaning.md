@@ -85,7 +85,7 @@ Wn × Ch × Si × Mm = Recognition
 
 Wonder × Choice × Silence × Memory → **Recognition**
 
-*(BUILD-008 · BUILD-012 Object genome · Resonance Matrix queued BUILD-015)*
+*(BUILD-008 · BUILD-012 Object genome · BUILD-015 Symbol Registry)*
 
 ---
 
@@ -103,7 +103,7 @@ Every future scene receives analysis. *(CF-CON-325)*
 | Hidden Layer | Assumption/discovery |
 | Rhythm · Tempo · Silence Weight | BUILD-006 · BUILD-010 |
 
-→ Every scene has a **fingerprint**. Feeds [BUILD-015 Resonance Matrix](BUILD-015-resonance-matrix.md) (queued).
+→ Feeds [BUILD-015 Resonance Matrix](BUILD-015-resonance-matrix.md) · Grand Matrix columns.
 
 ---
 
@@ -223,13 +223,11 @@ Once it exists, the story becomes one possible expression. Another story could u
 
 ---
 
-## BUILD-015 preview *(CF-ENTRY-050 · CF-CON-335)*
+## BUILD-015 — fulfilled (CF-ENTRY-051)
 
-Next: **Resonance Matrix** — first true engineering blueprint. Maps every scene · movement · symbol · clue · emotional beat · silence · typographic event · reread onto one integrated score.
+**The Resonance Matrix** — master blueprint · single source of truth.
 
-→ [BUILD-015-resonance-matrix.md](BUILD-015-resonance-matrix.md) (queued)
-
-Once that exists — the machine capable of composing Chronoforge.
+→ [BUILD-015-resonance-matrix.md](BUILD-015-resonance-matrix.md)
 
 ---
 
@@ -240,6 +238,7 @@ Once that exists — the machine capable of composing Chronoforge.
 | **Elements of Meaning** (BUILD-014) | Fundamental forces · twelve primaries | CF-CON-170, 321–334 |
 | **Periodic Table** (stub) | Superseded — ingredients list insufficient | CF-ENTRY-036 |
 | **Reader Bill of Rights** (BUILD-015 old scope) | Superseded by BUILD-011 Covenant | CF-CON-207 |
+| **Resonance Matrix** (BUILD-015) | Master blueprint · SSOT · operational heart | CF-CON-134, 359 |
 
 ---
 

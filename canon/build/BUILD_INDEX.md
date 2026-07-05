@@ -11,7 +11,7 @@
 BUILD-000.000   THE CONSTITUTION          → law (never broken)
 BUILD-000.001–003                     → North Star · One Question · Thematic
 BUILD-001–013                         → foundational canon **complete** (001 v0.1 · 002–013 v1.0)
-BUILD-014–015                         → engineering layer (014 v1.0 · 015 Resonance Matrix queued)
+BUILD-014–015                         → engineering layer **complete** (014–015 v1.0)
 architecture/                         → expanded specs (derived · cross-ref)
 knowledge/entries/                    → verbatim source uploads
 ```
@@ -42,7 +42,7 @@ knowledge/entries/                    → verbatim source uploads
 | **012** | The Genome | **1.0** | **Frozen** | 036, 048 | CF-CON-168, 292–310 | [BUILD-012](BUILD-012-the-genome.md) |
 | **013** | The Composer's Oath | **1.0** | **Frozen** | 036, 049 | CF-CON-169, 311–320 | [BUILD-013](BUILD-013-composers-oath.md) |
 | **014** | The Elements of Meaning | **1.0** | **Frozen** | 036, 050 | CF-CON-170, 321–334 | [BUILD-014](BUILD-014-elements-of-meaning.md) |
-| **015** | The Resonance Matrix | — | **Queued** | 050 | CF-CON-134, 335 | [BUILD-015](BUILD-015-resonance-matrix.md) |
+| **015** | The Resonance Matrix | **1.0** | **Frozen** | 032, 050, 051 | CF-CON-134, 335–359 | [BUILD-015](BUILD-015-resonance-matrix.md) |
 
 ---
 
@@ -71,7 +71,7 @@ knowledge/entries/                    → verbatim source uploads
 | 012 The Genome | Central genetic code · Five Depths · Title genome · Real subject |
 | 013 Composer's Oath | Twenty-one oaths · Daily ritual · Three councils |
 | 014 Elements of Meaning | Twelve primaries · forces · molecules · design language |
-| 015 Resonance Matrix | Integrated score blueprint · queued (050) |
+| 015 Resonance Matrix | Grand Matrix · ledgers · tests · keystone levels · constellation |
 
 ---
 

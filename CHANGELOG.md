@@ -3,6 +3,21 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [1.2.0] — 2026-07-05
+
+### Added
+- CF-ENTRY-051: BUILD-015 The Resonance Matrix Canonical v1.0
+- Concepts CF-CON-336 through CF-CON-359
+- Grand Matrix · Echo/Symbol/Silence/Typography/Rhythm/Reader/Emotion/Discovery ledgers
+- Chronology Engine · Resonance Web · Page Score · Five-Read Map
+- Harmony · Fractal · Loop · Humanity · Music tests · Rewrite Engine
+- Scene complexity levels · Keystone scenes · Living constellation vision
+
+### Changed
+- CF-CON-134 Resonance Matrix frozen as master blueprint (BUILD-015)
+- CF-CON-248 Assumption Ledger integrated into Matrix
+- Master Canon v1.1.0 · engineering layer 014–015 complete
+
 ## [1.1.0] — 2026-07-05
 
 ### Added

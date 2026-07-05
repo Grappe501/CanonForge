@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "1.1.0",
-  "generated_at": "2026-07-05T21:33:13.474893+00:00",
+  "canonforge_version": "1.2.0",
+  "generated_at": "2026-07-05T21:36:05.024368+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -1484,12 +1484,13 @@
       "id": "CF-CON-134",
       "label": "Resonance Matrix",
       "category": "Architecture",
-      "status": "Open",
-      "definition": "Crown jewel: per-page row across all dimensions.",
+      "status": "Frozen",
+      "definition": "Master blueprint; Grand Matrix; single source of truth.",
       "sources": [
-        "CF-ENTRY-032"
+        "CF-ENTRY-032",
+        "CF-ENTRY-051"
       ],
-      "canon_ref": "architecture/COMPOSERS_BLUEPRINT.md"
+      "canon_ref": "canon/build/BUILD-015-resonance-matrix.md"
     },
     {
       "id": "CF-CON-135",
@@ -2752,12 +2753,13 @@
       "id": "CF-CON-248",
       "label": "Assumption Ledger",
       "category": "Architecture",
-      "status": "Queued",
-      "definition": "Per-scene present absent fair reshape documentation.",
+      "status": "Frozen",
+      "definition": "Per-assumption trace; integrated in BUILD-015 Matrix.",
       "sources": [
-        "CF-ENTRY-044"
+        "CF-ENTRY-044",
+        "CF-ENTRY-051"
       ],
-      "canon_ref": "architecture/ASSUMPTION_LEDGER.md"
+      "canon_ref": "canon/build/BUILD-015-resonance-matrix.md"
     },
     {
       "id": "CF-CON-249",
@@ -3708,12 +3710,277 @@
     },
     {
       "id": "CF-CON-335",
-      "label": "Resonance Matrix BUILD-015",
+      "label": "Matrix operational heart",
       "category": "Architecture",
-      "status": "Queued",
-      "definition": "Integrated score blueprint; first engineering doc.",
+      "status": "Frozen",
+      "definition": "Nothing enters MS without Matrix row; SSOT.",
       "sources": [
-        "CF-ENTRY-050"
+        "CF-ENTRY-050",
+        "CF-ENTRY-051"
+      ],
+      "canon_ref": "canon/build/BUILD-015-resonance-matrix.md"
+    },
+    {
+      "id": "CF-CON-336",
+      "label": "Grand Matrix",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Scene row x system columns; complete before entry.",
+      "sources": [
+        "CF-ENTRY-051"
+      ],
+      "canon_ref": "canon/build/BUILD-015-resonance-matrix.md"
+    },
+    {
+      "id": "CF-CON-337",
+      "label": "Echo Registry",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Echo ID; meaning evolution; nothing once.",
+      "sources": [
+        "CF-ENTRY-051"
+      ],
+      "canon_ref": "canon/build/BUILD-015-resonance-matrix.md"
+    },
+    {
+      "id": "CF-CON-338",
+      "label": "Symbol Registry",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Recurring objects; no accidental symbolism.",
+      "sources": [
+        "CF-ENTRY-051"
+      ],
+      "canon_ref": "canon/build/BUILD-015-resonance-matrix.md"
+    },
+    {
+      "id": "CF-CON-339",
+      "label": "Silence Ledger",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Trackable silence network.",
+      "sources": [
+        "CF-ENTRY-051"
+      ],
+      "canon_ref": "canon/build/BUILD-015-resonance-matrix.md"
+    },
+    {
+      "id": "CF-CON-340",
+      "label": "Typography Ledger",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Every typographic deviation tracked.",
+      "sources": [
+        "CF-ENTRY-051"
+      ],
+      "canon_ref": "canon/build/BUILD-015-resonance-matrix.md"
+    },
+    {
+      "id": "CF-CON-341",
+      "label": "Rhythm Ledger",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Movement meter cadence velocity silence ratio.",
+      "sources": [
+        "CF-ENTRY-051"
+      ],
+      "canon_ref": "canon/build/BUILD-015-resonance-matrix.md"
+    },
+    {
+      "id": "CF-CON-342",
+      "label": "Reader Ledger",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Believe discover reconsider feel per scene.",
+      "sources": [
+        "CF-ENTRY-051"
+      ],
+      "canon_ref": "canon/build/BUILD-015-resonance-matrix.md"
+    },
+    {
+      "id": "CF-CON-343",
+      "label": "Emotion Ledger",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Emotional energy not plot tracking.",
+      "sources": [
+        "CF-ENTRY-051"
+      ],
+      "canon_ref": "canon/build/BUILD-015-resonance-matrix.md"
+    },
+    {
+      "id": "CF-CON-344",
+      "label": "Discovery Ledger",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Surface deep reader human five-read level.",
+      "sources": [
+        "CF-ENTRY-051"
+      ],
+      "canon_ref": "canon/build/BUILD-015-resonance-matrix.md"
+    },
+    {
+      "id": "CF-CON-345",
+      "label": "Chronology Engine",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Five sequences; most protected document.",
+      "sources": [
+        "CF-ENTRY-051"
+      ],
+      "canon_ref": "canon/build/BUILD-015-resonance-matrix.md"
+    },
+    {
+      "id": "CF-CON-346",
+      "label": "Resonance Web",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Living graph; every page a node.",
+      "sources": [
+        "CF-ENTRY-051"
+      ],
+      "canon_ref": "canon/build/BUILD-015-resonance-matrix.md"
+    },
+    {
+      "id": "CF-CON-347",
+      "label": "Page Score",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Per-page composition fields; THE_SCORE.",
+      "sources": [
+        "CF-ENTRY-051"
+      ],
+      "canon_ref": "canon/build/BUILD-015-resonance-matrix.md"
+    },
+    {
+      "id": "CF-CON-348",
+      "label": "Five-Read Map",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Scene dominant read adventure to architecture.",
+      "sources": [
+        "CF-ENTRY-051"
+      ],
+      "canon_ref": "canon/build/BUILD-015-resonance-matrix.md"
+    },
+    {
+      "id": "CF-CON-349",
+      "label": "Harmony Test",
+      "category": "Process",
+      "status": "Frozen",
+      "definition": "No system overpowers; balance harmony.",
+      "sources": [
+        "CF-ENTRY-051"
+      ],
+      "canon_ref": "canon/build/BUILD-015-resonance-matrix.md"
+    },
+    {
+      "id": "CF-CON-350",
+      "label": "Fractal Test",
+      "category": "Process",
+      "status": "Frozen",
+      "definition": "Sentence page movement novel integrity.",
+      "sources": [
+        "CF-ENTRY-051"
+      ],
+      "canon_ref": "canon/build/BUILD-015-resonance-matrix.md"
+    },
+    {
+      "id": "CF-CON-351",
+      "label": "Loop Test",
+      "category": "Process",
+      "status": "Frozen",
+      "definition": "Ending must change scene or reconsider.",
+      "sources": [
+        "CF-ENTRY-051"
+      ],
+      "canon_ref": "canon/build/BUILD-015-resonance-matrix.md"
+    },
+    {
+      "id": "CF-CON-352",
+      "label": "Humanity Test",
+      "category": "Process",
+      "status": "Frozen",
+      "definition": "Whose humanity visible; nobody reconsider.",
+      "sources": [
+        "CF-ENTRY-051"
+      ],
+      "canon_ref": "canon/build/BUILD-015-resonance-matrix.md"
+    },
+    {
+      "id": "CF-CON-353",
+      "label": "Music Test",
+      "category": "Process",
+      "status": "Frozen",
+      "definition": "Read aloud; conduct it or keep composing.",
+      "sources": [
+        "CF-ENTRY-051"
+      ],
+      "canon_ref": "canon/build/BUILD-015-resonance-matrix.md"
+    },
+    {
+      "id": "CF-CON-354",
+      "label": "Rewrite Engine",
+      "category": "Process",
+      "status": "Frozen",
+      "definition": "Measurable revision: resonance trust rhythm.",
+      "sources": [
+        "CF-ENTRY-051"
+      ],
+      "canon_ref": "canon/build/BUILD-015-resonance-matrix.md"
+    },
+    {
+      "id": "CF-CON-355",
+      "label": "Canonical Dashboard",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Instant query every bridge silence payoff.",
+      "sources": [
+        "CF-ENTRY-051"
+      ],
+      "canon_ref": "canon/build/BUILD-015-resonance-matrix.md"
+    },
+    {
+      "id": "CF-CON-356",
+      "label": "Scene complexity levels",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Foundation resonance convergence keystone.",
+      "sources": [
+        "CF-ENTRY-051"
+      ],
+      "canon_ref": "canon/build/BUILD-015-resonance-matrix.md"
+    },
+    {
+      "id": "CF-CON-357",
+      "label": "Keystone scene",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "5-10 scenes; every system; structural arches.",
+      "sources": [
+        "CF-ENTRY-051"
+      ],
+      "canon_ref": "canon/build/BUILD-015-resonance-matrix.md"
+    },
+    {
+      "id": "CF-CON-358",
+      "label": "Living constellation",
+      "category": "Architecture",
+      "status": "Candidate",
+      "definition": "Galaxy visualization of resonance web.",
+      "sources": [
+        "CF-ENTRY-051"
+      ],
+      "canon_ref": "canon/build/BUILD-015-resonance-matrix.md"
+    },
+    {
+      "id": "CF-CON-359",
+      "label": "Matrix single source of truth",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Nothing in MS without Matrix; gate all prose.",
+      "sources": [
+        "CF-ENTRY-051"
       ],
       "canon_ref": "canon/build/BUILD-015-resonance-matrix.md"
     }
@@ -4666,7 +4933,7 @@
     },
     {
       "from": "CF-CON-134",
-      "to": "CF-CON-129",
+      "to": "CF-CON-359",
       "type": "related"
     },
     {
@@ -5685,6 +5952,11 @@
       "type": "related"
     },
     {
+      "from": "CF-CON-248",
+      "to": "CF-CON-336",
+      "type": "related"
+    },
+    {
       "from": "CF-CON-249",
       "to": "CF-CON-248",
       "type": "related"
@@ -6531,7 +6803,247 @@
     },
     {
       "from": "CF-CON-335",
+      "to": "CF-CON-359",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-336",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-336",
       "to": "CF-CON-325",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-337",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-337",
+      "to": "CF-CON-304",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-338",
+      "to": "CF-CON-297",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-338",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-339",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-339",
+      "to": "CF-CON-273",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-340",
+      "to": "CF-CON-089",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-340",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-341",
+      "to": "CF-CON-300",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-341",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-342",
+      "to": "CF-CON-161",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-342",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-343",
+      "to": "CF-CON-162",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-343",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-344",
+      "to": "CF-CON-176",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-344",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-345",
+      "to": "CF-CON-014",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-345",
+      "to": "CF-CON-256",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-346",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-346",
+      "to": "CF-CON-358",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-347",
+      "to": "CF-CON-093",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-347",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-348",
+      "to": "CF-CON-154",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-348",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-349",
+      "to": "CF-CON-326",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-349",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-350",
+      "to": "CF-CON-294",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-350",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-351",
+      "to": "CF-CON-056",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-351",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-352",
+      "to": "CF-CON-315",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-352",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-353",
+      "to": "CF-CON-317",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-353",
+      "to": "CF-CON-226",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-354",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-354",
+      "to": "CF-CON-313",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-355",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-355",
+      "to": "CF-CON-359",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-356",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-356",
+      "to": "CF-CON-357",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-357",
+      "to": "CF-CON-356",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-357",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-358",
+      "to": "CF-CON-346",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-358",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-359",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-359",
+      "to": "CF-CON-335",
       "type": "related"
     }
   ]

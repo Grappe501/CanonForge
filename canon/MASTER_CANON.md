@@ -1,7 +1,7 @@
-# Master Canon v1.0.0
+# Master Canon v1.1.0
 
-> **BUILD-014:** The Elements of Meaning · design language · storytelling system
-> Supersedes v0.9.0 (2026-07-05 · BUILD-014 Elements of Meaning CF-ENTRY-050 · CanonForge 1.1.0)
+> **BUILD-015:** The Resonance Matrix · where every piece belongs · single source of truth
+> Supersedes v1.0.0 (2026-07-05 · BUILD-015 Resonance Matrix CF-ENTRY-051 · CanonForge 1.2.0)
 
 ---
 
@@ -42,11 +42,11 @@ Key locked insights:
 | **Four Pillars** | Strengthen ≥1 of Wonder · **Connection** · Resonance · Transformation? | BUILD-003 v1.0 |
 | Seven Laws | Immutable · complies with BUILD-004 v1.0? | BUILD-004 |
 
-**Stack:** BUILD-001 = *why* · … · BUILD-013 = *how we work* · BUILD-014 = *elements*
+**Stack:** BUILD-001 = *why* · … · BUILD-014 = *elements* · BUILD-015 = *where*
+
+→ [build/BUILD-015-resonance-matrix.md](build/BUILD-015-resonance-matrix.md) · Grand Matrix · Ledgers · Keystone Levels · Living Constellation
 
 → [build/BUILD-014-elements-of-meaning.md](build/BUILD-014-elements-of-meaning.md) · Twelve Primary Elements · Forces · Design Language
-
-→ [build/BUILD-013-composers-oath.md](build/BUILD-013-composers-oath.md) · Twenty-one Oaths · Three Councils · Daily Ritual
 
 → [build/BUILD-004-seven-laws.md](build/BUILD-004-seven-laws.md)
 

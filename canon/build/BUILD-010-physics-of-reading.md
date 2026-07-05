@@ -308,7 +308,7 @@ If conflict, **this BUILD wins**.
 
 **The Reader's Covenant** — unspoken **promises** honored before the first sentence. Trust binds both sides.
 
-→ [BUILD-011-readers-covenant.md](BUILD-011-readers-covenant.md) · [BUILD-015 Resonance Matrix](BUILD-015-resonance-matrix.md) queued
+→ [BUILD-011-readers-covenant.md](BUILD-011-readers-covenant.md) · [BUILD-015 Resonance Matrix](BUILD-015-resonance-matrix.md)
 
 ---
 

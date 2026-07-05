@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 1.1.0 · 2026-07-05 · 335 concepts registered
+> Version 1.2.0 · 2026-07-05 · 359 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | CF-CON-131 | Layer 9 Performance Design | Architecture | **Locked** | Post-narrative layout typography canonical edition. | CF-ENTRY-032 |
 | CF-CON-132 | Layer 10 Validation | Architecture | **Locked** | Checklist proving five-pass book works fairly. | CF-ENTRY-032 |
 | CF-CON-133 | Reader Simulator | Architecture | **Open** | Persona models A–E; simulate experiences while designing. | CF-ENTRY-032 |
-| CF-CON-134 | Resonance Matrix | Architecture | **Open** | Crown jewel: per-page row across all dimensions. | CF-ENTRY-032 |
+| CF-CON-134 | Resonance Matrix | Architecture | **Frozen** | Master blueprint; Grand Matrix; single source of truth. | CF-ENTRY-032, CF-ENTRY-051 |
 | CF-CON-135 | People over architecture | Governance | **Locked** | If architecture beats people, stop and fix. | CF-ENTRY-032 |
 | CF-CON-136 | The Constitution | Governance | **Locked** | BUILD-000.000 project law; sixteen articles; return when lost. | CF-ENTRY-033 |
 | CF-CON-137 | North Star sentence | Governance | **Locked** | The book never changes. Only the reader does. | CF-ENTRY-033 |
@@ -251,7 +251,7 @@
 | CF-CON-245 | Cognitive loop | Architecture | **Frozen** | Observation through understanding at all scales. | CF-ENTRY-044 |
 | CF-CON-246 | Five assumption levels | Architecture | **Frozen** | Visual narrative character meaning reality. | CF-ENTRY-044 |
 | CF-CON-247 | Invisible participation | Architecture | **Frozen** | Readers write invisible text; novel leaves room. | CF-ENTRY-044 |
-| CF-CON-248 | Assumption Ledger | Architecture | **Queued** | Per-scene present absent fair reshape documentation. | CF-ENTRY-044 |
+| CF-CON-248 | Assumption Ledger | Architecture | **Frozen** | Per-assumption trace; integrated in BUILD-015 Matrix. | CF-ENTRY-044, CF-ENTRY-051 |
 | CF-CON-249 | Assumption Map | Architecture | **Frozen** | Classify harmless emotional structural identity etc. | CF-ENTRY-044 |
 | CF-CON-250 | Reader's pencil | Heart | **Frozen** | Invisible mental annotations; reader wrote half story. | CF-ENTRY-044 |
 | CF-CON-251 | I added that | Heart | **Frozen** | Recognition not I missed that; self-awareness not admiration. | CF-ENTRY-044 |
@@ -338,7 +338,31 @@
 | CF-CON-332 | Master formula | Architecture | **Frozen** | Every movement as element chemistry for composers. | CF-ENTRY-050 |
 | CF-CON-333 | Design language | Architecture | **Frozen** | Story one expression of reusable system. | CF-ENTRY-050 |
 | CF-CON-334 | Storytelling system | Governance | **Frozen** | CanonForge documents system not single book. | CF-ENTRY-050 |
-| CF-CON-335 | Resonance Matrix BUILD-015 | Architecture | **Queued** | Integrated score blueprint; first engineering doc. | CF-ENTRY-050 |
+| CF-CON-335 | Matrix operational heart | Architecture | **Frozen** | Nothing enters MS without Matrix row; SSOT. | CF-ENTRY-050, CF-ENTRY-051 |
+| CF-CON-336 | Grand Matrix | Architecture | **Frozen** | Scene row x system columns; complete before entry. | CF-ENTRY-051 |
+| CF-CON-337 | Echo Registry | Architecture | **Frozen** | Echo ID; meaning evolution; nothing once. | CF-ENTRY-051 |
+| CF-CON-338 | Symbol Registry | Architecture | **Frozen** | Recurring objects; no accidental symbolism. | CF-ENTRY-051 |
+| CF-CON-339 | Silence Ledger | Architecture | **Frozen** | Trackable silence network. | CF-ENTRY-051 |
+| CF-CON-340 | Typography Ledger | Architecture | **Frozen** | Every typographic deviation tracked. | CF-ENTRY-051 |
+| CF-CON-341 | Rhythm Ledger | Architecture | **Frozen** | Movement meter cadence velocity silence ratio. | CF-ENTRY-051 |
+| CF-CON-342 | Reader Ledger | Architecture | **Frozen** | Believe discover reconsider feel per scene. | CF-ENTRY-051 |
+| CF-CON-343 | Emotion Ledger | Architecture | **Frozen** | Emotional energy not plot tracking. | CF-ENTRY-051 |
+| CF-CON-344 | Discovery Ledger | Architecture | **Frozen** | Surface deep reader human five-read level. | CF-ENTRY-051 |
+| CF-CON-345 | Chronology Engine | Architecture | **Frozen** | Five sequences; most protected document. | CF-ENTRY-051 |
+| CF-CON-346 | Resonance Web | Architecture | **Frozen** | Living graph; every page a node. | CF-ENTRY-051 |
+| CF-CON-347 | Page Score | Architecture | **Frozen** | Per-page composition fields; THE_SCORE. | CF-ENTRY-051 |
+| CF-CON-348 | Five-Read Map | Architecture | **Frozen** | Scene dominant read adventure to architecture. | CF-ENTRY-051 |
+| CF-CON-349 | Harmony Test | Process | **Frozen** | No system overpowers; balance harmony. | CF-ENTRY-051 |
+| CF-CON-350 | Fractal Test | Process | **Frozen** | Sentence page movement novel integrity. | CF-ENTRY-051 |
+| CF-CON-351 | Loop Test | Process | **Frozen** | Ending must change scene or reconsider. | CF-ENTRY-051 |
+| CF-CON-352 | Humanity Test | Process | **Frozen** | Whose humanity visible; nobody reconsider. | CF-ENTRY-051 |
+| CF-CON-353 | Music Test | Process | **Frozen** | Read aloud; conduct it or keep composing. | CF-ENTRY-051 |
+| CF-CON-354 | Rewrite Engine | Process | **Frozen** | Measurable revision: resonance trust rhythm. | CF-ENTRY-051 |
+| CF-CON-355 | Canonical Dashboard | Architecture | **Frozen** | Instant query every bridge silence payoff. | CF-ENTRY-051 |
+| CF-CON-356 | Scene complexity levels | Architecture | **Frozen** | Foundation resonance convergence keystone. | CF-ENTRY-051 |
+| CF-CON-357 | Keystone scene | Architecture | **Frozen** | 5-10 scenes; every system; structural arches. | CF-ENTRY-051 |
+| CF-CON-358 | Living constellation | Architecture | **Candidate** | Galaxy visualization of resonance web. | CF-ENTRY-051 |
+| CF-CON-359 | Matrix single source of truth | Governance | **Frozen** | Nothing in MS without Matrix; gate all prose. | CF-ENTRY-051 |
 
 ## Related Concepts
 
@@ -475,7 +499,7 @@
 - **CF-CON-131** (Layer 9 Performance Design, Locked): CF-CON-112 → `architecture/PRODUCTION_PHILOSOPHY.md`
 - **CF-CON-132** (Layer 10 Validation, Locked): CF-CON-027 → `architecture/VALIDATION_STACK.md`
 - **CF-CON-133** (Reader Simulator, Open): CF-CON-126 → `architecture/COMPOSERS_BLUEPRINT.md`
-- **CF-CON-134** (Resonance Matrix, Open): CF-CON-094, CF-CON-129 → `architecture/COMPOSERS_BLUEPRINT.md`
+- **CF-CON-134** (Resonance Matrix, Frozen): CF-CON-094, CF-CON-359 → `canon/build/BUILD-015-resonance-matrix.md`
 - **CF-CON-135** (People over architecture, Locked): CF-CON-028 → `canon/MASTER_CANON.md`
 - **CF-CON-136** (The Constitution, Locked): CF-CON-137, CF-CON-138 → `canon/CONSTITUTION.md`
 - **CF-CON-137** (North Star sentence, Locked): CF-CON-025, CF-CON-108 → `canon/CONSTITUTION.md`
@@ -589,7 +613,7 @@
 - **CF-CON-245** (Cognitive loop, Frozen): CF-CON-181, CF-CON-182 → `canon/build/BUILD-008-assumption-engine.md`
 - **CF-CON-246** (Five assumption levels, Frozen): CF-CON-173, CF-CON-164 → `canon/build/BUILD-008-assumption-engine.md`
 - **CF-CON-247** (Invisible participation, Frozen): CF-CON-106, CF-CON-164 → `canon/build/BUILD-008-assumption-engine.md`
-- **CF-CON-248** (Assumption Ledger, Queued): CF-CON-164 → `architecture/ASSUMPTION_LEDGER.md`
+- **CF-CON-248** (Assumption Ledger, Frozen): CF-CON-164, CF-CON-336 → `canon/build/BUILD-015-resonance-matrix.md`
 - **CF-CON-249** (Assumption Map, Frozen): CF-CON-248 → `canon/build/BUILD-008-assumption-engine.md`
 - **CF-CON-250** (Reader's pencil, Frozen): CF-CON-247, CF-CON-251 → `canon/build/BUILD-008-assumption-engine.md`
 - **CF-CON-251** (I added that, Frozen): CF-CON-171, CF-CON-149 → `canon/build/BUILD-008-assumption-engine.md`
@@ -676,4 +700,28 @@
 - **CF-CON-332** (Master formula, Frozen): CF-CON-263, CF-CON-321 → `canon/build/BUILD-014-elements-of-meaning.md`
 - **CF-CON-333** (Design language, Frozen): CF-CON-170, CF-CON-334 → `canon/build/BUILD-014-elements-of-meaning.md`
 - **CF-CON-334** (Storytelling system, Frozen): CF-CON-333, CF-CON-156 → `canon/build/BUILD-014-elements-of-meaning.md`
-- **CF-CON-335** (Resonance Matrix BUILD-015, Queued): CF-CON-134, CF-CON-325 → `canon/build/BUILD-015-resonance-matrix.md`
+- **CF-CON-335** (Matrix operational heart, Frozen): CF-CON-134, CF-CON-359 → `canon/build/BUILD-015-resonance-matrix.md`
+- **CF-CON-336** (Grand Matrix, Frozen): CF-CON-134, CF-CON-325 → `canon/build/BUILD-015-resonance-matrix.md`
+- **CF-CON-337** (Echo Registry, Frozen): CF-CON-134, CF-CON-304 → `canon/build/BUILD-015-resonance-matrix.md`
+- **CF-CON-338** (Symbol Registry, Frozen): CF-CON-297, CF-CON-134 → `canon/build/BUILD-015-resonance-matrix.md`
+- **CF-CON-339** (Silence Ledger, Frozen): CF-CON-134, CF-CON-273 → `canon/build/BUILD-015-resonance-matrix.md`
+- **CF-CON-340** (Typography Ledger, Frozen): CF-CON-089, CF-CON-134 → `canon/build/BUILD-015-resonance-matrix.md`
+- **CF-CON-341** (Rhythm Ledger, Frozen): CF-CON-300, CF-CON-134 → `canon/build/BUILD-015-resonance-matrix.md`
+- **CF-CON-342** (Reader Ledger, Frozen): CF-CON-161, CF-CON-134 → `canon/build/BUILD-015-resonance-matrix.md`
+- **CF-CON-343** (Emotion Ledger, Frozen): CF-CON-162, CF-CON-134 → `canon/build/BUILD-015-resonance-matrix.md`
+- **CF-CON-344** (Discovery Ledger, Frozen): CF-CON-176, CF-CON-134 → `canon/build/BUILD-015-resonance-matrix.md`
+- **CF-CON-345** (Chronology Engine, Frozen): CF-CON-014, CF-CON-256 → `canon/build/BUILD-015-resonance-matrix.md`
+- **CF-CON-346** (Resonance Web, Frozen): CF-CON-134, CF-CON-358 → `canon/build/BUILD-015-resonance-matrix.md`
+- **CF-CON-347** (Page Score, Frozen): CF-CON-093, CF-CON-134 → `canon/build/BUILD-015-resonance-matrix.md`
+- **CF-CON-348** (Five-Read Map, Frozen): CF-CON-154, CF-CON-134 → `canon/build/BUILD-015-resonance-matrix.md`
+- **CF-CON-349** (Harmony Test, Frozen): CF-CON-326, CF-CON-134 → `canon/build/BUILD-015-resonance-matrix.md`
+- **CF-CON-350** (Fractal Test, Frozen): CF-CON-294, CF-CON-134 → `canon/build/BUILD-015-resonance-matrix.md`
+- **CF-CON-351** (Loop Test, Frozen): CF-CON-056, CF-CON-134 → `canon/build/BUILD-015-resonance-matrix.md`
+- **CF-CON-352** (Humanity Test, Frozen): CF-CON-315, CF-CON-134 → `canon/build/BUILD-015-resonance-matrix.md`
+- **CF-CON-353** (Music Test, Frozen): CF-CON-317, CF-CON-226 → `canon/build/BUILD-015-resonance-matrix.md`
+- **CF-CON-354** (Rewrite Engine, Frozen): CF-CON-134, CF-CON-313 → `canon/build/BUILD-015-resonance-matrix.md`
+- **CF-CON-355** (Canonical Dashboard, Frozen): CF-CON-134, CF-CON-359 → `canon/build/BUILD-015-resonance-matrix.md`
+- **CF-CON-356** (Scene complexity levels, Frozen): CF-CON-134, CF-CON-357 → `canon/build/BUILD-015-resonance-matrix.md`
+- **CF-CON-357** (Keystone scene, Frozen): CF-CON-356, CF-CON-134 → `canon/build/BUILD-015-resonance-matrix.md`
+- **CF-CON-358** (Living constellation, Candidate): CF-CON-346, CF-CON-134 → `canon/build/BUILD-015-resonance-matrix.md`
+- **CF-CON-359** (Matrix single source of truth, Frozen): CF-CON-134, CF-CON-335 → `canon/build/BUILD-015-resonance-matrix.md`

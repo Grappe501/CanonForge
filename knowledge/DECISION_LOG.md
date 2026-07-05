@@ -42,8 +42,9 @@
 | 2026-07-05 | Master Build Roadmap v1.0 | CF-ENTRY-035 session pause | CF-CON-150–155 |
 | 2026-07-05 | BUILD-001–013 frozen v1.0 | Foundational canon complete | CF-CON-156–320 |
 | 2026-07-05 | BUILD-014 Elements of Meaning | Supersedes Periodic Table stub | CF-CON-170 |
+| 2026-07-05 | BUILD-015 Resonance Matrix v1.0 | Master control board · machine complete | CF-CON-336–359 |
 | 2026-07-05 | BUILD-014 Elements of Meaning v1.0 | Design language · storytelling system | CF-CON-321–335 |
-| 2026-07-05 | BUILD-015 Resonance Matrix queued | First engineering blueprint | CF-CON-335 |
+| 2026-07-05 | Resonance Matrix frozen | Crown jewel BUILD-015 canonical | CF-CON-134 |
 | 2026-07-05 | BUILD-012 The Genome v1.0 | Supersedes Title stub; real subject locked | CF-CON-292–310 |
 | 2026-07-05 | BUILD-011 Reader's Covenant v1.0 | Supersedes Invisible Contract stub | CF-CON-282–291 |
 | 2026-07-05 | BUILD-010 Physics of Reading v1.0 | Novel as instrument · Reading Matrix | CF-CON-269–281 |

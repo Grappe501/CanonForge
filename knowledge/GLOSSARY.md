@@ -32,7 +32,9 @@
 | **The Constitution** | BUILD-000.000 project law | CF-CON-136 |
 | **North Star** | The book never changes. Only the reader does. | CF-CON-137 |
 | **Article XVII** | Assumption — silent on irrelevant identity | CF-CON-145 |
-| **Resonance Matrix** | Crown jewel page-row map (TBD) | CF-CON-134 |
+| **Resonance Matrix** | Master blueprint · Grand Matrix · SSOT | CF-CON-134 |
+| **Keystone scene** | 5-10 structural arches · every system | CF-CON-357 |
+| **Living constellation** | Galaxy visualization of novel graph | CF-CON-358 |
 | **Prime Directive** | Does this increase discovery? | CF-CON-158 |
 | **I was out of order** | Reader not timeline is the deeper realization | CF-CON-172 |
 | **Wrong chapter anchor** | Hidden development bone · may not be printed | CF-CON-174 |
