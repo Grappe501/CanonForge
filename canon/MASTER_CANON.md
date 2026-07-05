@@ -1,7 +1,7 @@
-# Master Canon v1.3.0
+# Master Canon v1.3.1
 
-> **BUILD-016:** The Consciousness Engine · soul of the method · fundamental unit
-> Supersedes v1.2.0 (2026-07-05 · BUILD-016 CF-ENTRY-053 · CanonForge 1.4.0)
+> **BUILD-016:** The Consciousness Engine · fundamental unit · inhabit not watch
+> Supersedes v1.3.0 (2026-07-05 · BUILD-016 CF-ENTRY-054 · CanonForge 1.4.1)
 
 ---
 
@@ -44,7 +44,7 @@ Key locked insights:
 
 **Stack:** BUILD-001 = *why* · … · BUILD-015 = *where* · **016 = *consciousness***
 
-→ [build/BUILD-016-consciousness-engine.md](build/BUILD-016-consciousness-engine.md) · Five Layers · Consciousness Loop · Ecology of Awareness
+→ [build/BUILD-016-consciousness-engine.md](build/BUILD-016-consciousness-engine.md) · Ten Living Systems · Sixth Consciousness · Incomplete Principle
 
 → [build/BUILD-015.5-chronoforge-master-architecture.md](build/BUILD-015.5-chronoforge-master-architecture.md) · Build Bible · Chronoforge Method
 

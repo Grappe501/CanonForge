@@ -79,7 +79,7 @@ knowledge/entries/                    → verbatim source uploads
 | 013 Composer's Oath | Twenty-one oaths · Daily ritual · Three councils |
 | 014 Elements of Meaning | Twelve primaries · forces · molecules · design language |
 | 015 Resonance Matrix | Grand Matrix · ledgers · tests · keystone levels · constellation |
-| 016 Consciousness Engine | Five layers · loop · network · consciousness maps |
+| 016 Consciousness Engine | Ten systems · scorecard · sixth node · incomplete consciousness |
 
 ---
 

@@ -51,9 +51,9 @@ Engineer the book — not outline chapters.
 
 | BUILD | Title | Notes |
 |---|---|---|
-| **016** | Consciousness Engine | **✓ v1.0** · soul document · CF-ENTRY-053 |
-| **017** | Chronology Engine | Actual timeline · causality · secret order |
-| **018** | Fracture Map | Where chronology breaks · no randomness |
+| **016** | Consciousness Engine | **✓ v1.0** · ten systems · CF-ENTRY-054 |
+| **017** | **Reality Engine** | Architecture of reality · boundaries · CF-ENTRY-054 |
+| **018** | Fracture Map | Where · why · how chronology breaks |
 | **019** | Memory Engine | Storage · editing · false certainty |
 | **020** | Resonance Registry | Objects · phrases · gestures · dreams · threads |
 | **021** | Symbol Genome | Families · inheritance · evolution · payoffs |
