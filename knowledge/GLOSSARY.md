@@ -71,6 +71,8 @@
 | **Human race discovery** | Reader arrives at belonging; not slogan | CF-CON-582 |
 | **Tool Engine** | Artifacts express civilization; not gadget SF | CF-CON-585 |
 | **Final tool understanding** | Most powerful tool is understanding | CF-CON-599 |
+| **Journey Engine** | What every journey changes; not how travel | CF-CON-605 |
+| **Other world is consciousness** | Greatest other world not planet | CF-CON-621 |
 | **Universe larger than imagined** | Ordinary world larger after closing book | CF-CON-563 |
 | **Motif not symbol** | Returns vs carries meaning | CF-CON-450 |
 | **Language of Silence** | Composed silence · seven forms | CF-CON-457 |

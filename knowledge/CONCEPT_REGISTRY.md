@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 2.7.0 · 2026-07-05 · 604 concepts registered
+> Version 2.8.0 · 2026-07-05 · 624 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -608,6 +608,26 @@
 | CF-CON-602 | Chronoforge as tool | Mission | **Frozen** | Novel one tool in story-tool philosophy. | CF-ENTRY-067 |
 | CF-CON-603 | Understanding convergence | Mission | **Frozen** | Greatest invention mutual understanding; all builds converge. | CF-ENTRY-067 |
 | CF-CON-604 | Tools not technology | Governance | **Frozen** | Renamed Technology; gadgets date human questions remain. | CF-ENTRY-067 |
+| CF-CON-605 | Journey Engine | Architecture | **Frozen** | Transitions as transformation; movement is narrative. | CF-ENTRY-068 |
+| CF-CON-606 | No one arrives unchanged | Mission | **Frozen** | Traveler destination relationship all transform. | CF-ENTRY-068 |
+| CF-CON-607 | First law of journey | Governance | **Frozen** | Where why who becomes; no change reconsider. | CF-ENTRY-068 |
+| CF-CON-608 | Five journeys | Architecture | **Frozen** | Physical temporal relational intellectual inner. | CF-ENTRY-068 |
+| CF-CON-609 | Journey threshold | Architecture | **Frozen** | Door bridge question; divide was from becoming. | CF-ENTRY-068 |
+| CF-CON-610 | The road | Architecture | **Frozen** | Middle never empty; not waiting for destination. | CF-ENTRY-068 |
+| CF-CON-611 | Journey arrival | Architecture | **Frozen** | New relationship; both traveler and place change. | CF-ENTRY-068 |
+| CF-CON-612 | Journey return | Architecture | **Frozen** | Home remains traveler does not; cost and value. | CF-ENTRY-068 |
+| CF-CON-613 | Journeys over maps | Governance | **Frozen** | Transformation not mileage; experience remembered. | CF-ENTRY-068 |
+| CF-CON-614 | Vehicle shapes experience | Architecture | **Frozen** | Walking flying vessel; method part of story. | CF-ENTRY-068 |
+| CF-CON-615 | Journey companions | Heart | **Frozen** | Shared movement memory relationship identity. | CF-ENTRY-068 |
+| CF-CON-616 | Cost of distance | Architecture | **Frozen** | Comfort certainty assumptions left behind. | CF-ENTRY-068 |
+| CF-CON-617 | Journey horizon | Architecture | **Frozen** | Possibility not geography; wonder inexhaustible. | CF-ENTRY-068 |
+| CF-CON-618 | Reader journey | Heart | **Frozen** | First page departure; reread return home. | CF-ENTRY-068 |
+| CF-CON-619 | Journey ledger record | Architecture | **Frozen** | Eight fields per journey; Resonance Matrix. | CF-ENTRY-068 |
+| CF-CON-620 | Journey final principle | Mission | **Frozen** | Destination new way of seeing not place. | CF-ENTRY-068 |
+| CF-CON-621 | Other world is consciousness | Revelation | **Frozen** | Greatest other world not planet but consciousness. | CF-ENTRY-068 |
+| CF-CON-622 | Misunderstanding to understanding | Mission | **Frozen** | Longest journey distance between fracture and recognition. | CF-ENTRY-068 |
+| CF-CON-623 | What journey changes | Mission | **Frozen** | Central question; traveler destination relationship. | CF-ENTRY-068 |
+| CF-CON-624 | Adventure tradition redefined | Mission | **Frozen** | Honor journey into world; hidden deeper voyage. | CF-ENTRY-068 |
 
 ## Related Concepts
 
@@ -1215,3 +1235,23 @@
 - **CF-CON-602** (Chronoforge as tool, Frozen): CF-CON-594, CF-CON-361 → `canon/build/BUILD-028-tool-engine.md#0288--the-tool-of-story`
 - **CF-CON-603** (Understanding convergence, Frozen): CF-CON-599, CF-CON-549 → `canon/build/BUILD-028-tool-engine.md`
 - **CF-CON-604** (Tools not technology, Frozen): CF-CON-585, CF-CON-039 → `canon/build/BUILD-028-tool-engine.md`
+- **CF-CON-605** (Journey Engine, Frozen): CF-CON-589, CF-CON-623, CF-CON-621 → `canon/build/BUILD-029-journey-engine.md`
+- **CF-CON-606** (No one arrives unchanged, Frozen): CF-CON-605, CF-CON-607 → `canon/build/BUILD-029-journey-engine.md`
+- **CF-CON-607** (First law of journey, Frozen): CF-CON-605, CF-CON-623 → `canon/build/BUILD-029-journey-engine.md#0291--the-first-law`
+- **CF-CON-608** (Five journeys, Frozen): CF-CON-605, CF-CON-165 → `canon/build/BUILD-029-journey-engine.md#0292--the-five-journeys`
+- **CF-CON-609** (Journey threshold, Frozen): CF-CON-605, CF-CON-528 → `canon/build/BUILD-029-journey-engine.md#0293--the-threshold`
+- **CF-CON-610** (The road, Frozen): CF-CON-605, CF-CON-505 → `canon/build/BUILD-029-journey-engine.md#0294--the-road`
+- **CF-CON-611** (Journey arrival, Frozen): CF-CON-605, CF-CON-612 → `canon/build/BUILD-029-journey-engine.md#0295--the-arrival`
+- **CF-CON-612** (Journey return, Frozen): CF-CON-605, CF-CON-618 → `canon/build/BUILD-029-journey-engine.md#0296--the-return`
+- **CF-CON-613** (Journeys over maps, Frozen): CF-CON-605, CF-CON-558 → `canon/build/BUILD-029-journey-engine.md#0297--the-map`
+- **CF-CON-614** (Vehicle shapes experience, Frozen): CF-CON-605, CF-CON-588 → `canon/build/BUILD-029-journey-engine.md#0298--the-vehicle`
+- **CF-CON-615** (Journey companions, Frozen): CF-CON-605, CF-CON-578 → `canon/build/BUILD-029-journey-engine.md#0299--the-companions`
+- **CF-CON-616** (Cost of distance, Frozen): CF-CON-605, CF-CON-588 → `canon/build/BUILD-029-journey-engine.md#02910--the-cost-of-distance`
+- **CF-CON-617** (Journey horizon, Frozen): CF-CON-605, CF-CON-554 → `canon/build/BUILD-029-journey-engine.md#02911--the-horizon`
+- **CF-CON-618** (Reader journey, Frozen): CF-CON-605, CF-CON-002 → `canon/build/BUILD-029-journey-engine.md#02912--the-readers-journey`
+- **CF-CON-619** (Journey ledger record, Frozen): CF-CON-605, CF-CON-134 → `canon/build/BUILD-029-journey-engine.md#02913--the-journey-ledger`
+- **CF-CON-620** (Journey final principle, Frozen): CF-CON-605, CF-CON-562 → `canon/build/BUILD-029-journey-engine.md#02914--the-final-principle`
+- **CF-CON-621** (Other world is consciousness, Frozen): CF-CON-605, CF-CON-401 → `canon/build/BUILD-029-journey-engine.md`
+- **CF-CON-622** (Misunderstanding to understanding, Frozen): CF-CON-621, CF-CON-415 → `canon/build/BUILD-029-journey-engine.md`
+- **CF-CON-623** (What journey changes, Frozen): CF-CON-605, CF-CON-607 → `canon/build/BUILD-029-journey-engine.md#0291--the-first-law`
+- **CF-CON-624** (Adventure tradition redefined, Frozen): CF-CON-605, CF-CON-039 → `canon/build/BUILD-029-journey-engine.md`

@@ -1,7 +1,7 @@
-# Master Canon v1.5.2
+# Master Canon v1.5.3
 
-> **BUILD-028:** Tool Engine · tools not technology · final tool = understanding
-> Supersedes v1.5.1 (2026-07-05 · BUILD-028 CF-ENTRY-067 · CanonForge 2.7.0)
+> **BUILD-029:** Journey Engine · what every journey changes · other world = consciousness
+> Supersedes v1.5.2 (2026-07-05 · BUILD-029 CF-ENTRY-068 · CanonForge 2.8.0)
 
 ---
 
@@ -42,11 +42,11 @@ Key locked insights:
 | **Four Pillars** | Strengthen ≥1 of Wonder · **Connection** · Resonance · Transformation? | BUILD-003 v1.0 |
 | Seven Laws | Immutable · complies with BUILD-004 v1.0? | BUILD-004 |
 
-**Stack:** BUILD-001 = *why* · … · **027 = *ways of being human*** · **028 = *tools not gadgets***
+**Stack:** BUILD-001 = *why* · … · **028 = *tools not gadgets*** · **029 = *transformation not travel***
+
+→ [build/BUILD-029-journey-engine.md](build/BUILD-029-journey-engine.md) · Five Journeys · Hidden Destination · Reader Journey
 
 → [build/BUILD-028-tool-engine.md](build/BUILD-028-tool-engine.md) · Six Families · Tool Record · Final Tool = Understanding
-
-→ [build/BUILD-027-civilization-engine.md](build/BUILD-027-civilization-engine.md) · Founding Question · Six Foundations · Cumulative Truth
 
 → [build/BUILD-024-tempo-engine.md](build/BUILD-024-tempo-engine.md) · Five Tempos · Tempo Ledger · Performance Model
 
@@ -222,7 +222,15 @@ Truth is **cumulative not competitive** — *"What does each civilization see th
 
 Technology is **one category of tools** *(CF-CON-604)* — language · music · memory · maps · stories · time may all be tools. Every tool solves a **problem** or does not exist *(CF-CON-587)*. **No tool is neutral** *(CF-CON-588)*.
 
-The most powerful tool is **understanding** — not a machine *(CF-CON-599)*. Readers should remember **the simplest tool** that changed how they think *(CF-CON-600)*. See [build/BUILD-028-tool-engine.md](build/BUILD-028-tool-engine.md).
+The most powerful tool is **understanding** — not a machine *(CF-CON-599)*. See [build/BUILD-028-tool-engine.md](build/BUILD-028-tool-engine.md).
+
+### Journey immutable law (CF-CON-605 · BUILD-029)
+
+> **No one ever arrives unchanged.**
+
+Not *"How do people travel?"* — **"What does every journey change?"** *(CF-CON-623)*. Five journey types · threshold · return · **reader journey** *(first page = departure · reread = return home · CF-CON-618)*.
+
+Hidden destination: **the greatest other world was never another planet — it was another consciousness** *(CF-CON-621)*. Longest journey: **misunderstanding to understanding** *(CF-CON-622)*. See [build/BUILD-029-journey-engine.md](build/BUILD-029-journey-engine.md).
 
 ### Visual Grammar (CF-CON-080 · CF-CON-081)
 

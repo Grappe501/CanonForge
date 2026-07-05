@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "2.7.0",
-  "generated_at": "2026-07-05T22:19:25.621631+00:00",
+  "canonforge_version": "2.8.0",
+  "generated_at": "2026-07-05T22:22:12.844539+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 67,
-  "concept_count": 604,
+  "entry_count": 68,
+  "concept_count": 624,
   "project_version": "0.3.0",
   "phase_two": "complete",
   "build_016_version": "1.0",
@@ -33,6 +33,10 @@
   "build_026_title": "World Engine",
   "build_027_version": "1.0",
   "build_027_title": "Civilization Engine",
+  "build_028_version": "1.0",
+  "build_028_title": "Tool Engine",
+  "build_029_version": "1.0",
+  "build_029_title": "Journey Engine",
   "phase_three": "begun",
   "phase_one": "complete",
   "build_015_5_version": "0.1",
@@ -63,7 +67,7 @@
   "foundational_layer": "BUILD-001-013 complete",
   "engineering_layer": "BUILD-014-015 complete",
   "roadmap_version": "1.0",
-  "build_layer": "BUILD-001-027 frozen \u00b7 BUILD-015.5 active",
+  "build_layer": "BUILD-001-029 frozen \u00b7 BUILD-015.5 active",
   "entries": [
     {
       "entry_id": "CF-ENTRY-001",
@@ -1382,6 +1386,36 @@
         "CF-CON-604"
       ],
       "byte_size": 7656
+    },
+    {
+      "entry_id": "CF-ENTRY-068",
+      "file": "knowledge/entries/068-build-029-journey-engine-v1.md",
+      "sha256": "7f8833e7028841d9fc4a06638f01b6359bc5b2be3451048207384f5f1348bdb3",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-605",
+        "CF-CON-606",
+        "CF-CON-607",
+        "CF-CON-608",
+        "CF-CON-609",
+        "CF-CON-610",
+        "CF-CON-611",
+        "CF-CON-612",
+        "CF-CON-613",
+        "CF-CON-614",
+        "CF-CON-615",
+        "CF-CON-616",
+        "CF-CON-617",
+        "CF-CON-618",
+        "CF-CON-619",
+        "CF-CON-620",
+        "CF-CON-621",
+        "CF-CON-622",
+        "CF-CON-623",
+        "CF-CON-624"
+      ],
+      "byte_size": 7734
     }
   ],
   "indexes": {

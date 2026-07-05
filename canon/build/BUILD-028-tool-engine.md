@@ -64,7 +64,7 @@ Every tool belongs to one primary family. *(CF-CON-589)*
 | **Creation** | Craft · art · architecture · agriculture · engineering |
 | **Discovery** | Instruments · observatories · measuring devices · libraries · **questions embodied** |
 
-*(Gates BUILD-029 Transportation as Movement-family tools)*
+*(Gates BUILD-029 Journey Engine as Movement-family transformation)*
 
 ---
 
@@ -211,9 +211,9 @@ Meaning first · machines follow.
 
 ---
 
-## BUILD-029 preview *(CF-ENTRY-067)*
+## BUILD-030 preview *(CF-ENTRY-068)*
 
-→ **BUILD-029 Transportation** — Movement-family tools · cost of distance *(queued)*
+→ **BUILD-030 Cosmology** — sky above every journey *(queued)*
 
 ---
 

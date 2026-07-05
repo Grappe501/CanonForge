@@ -21,7 +21,8 @@ BUILD-025                             → Phase Two **v1.0**
 BUILD-026                             → Phase Three **v1.0**
 BUILD-027                             → Phase Three **v1.0**
 BUILD-028                             → Phase Three **v1.0**
-BUILD-029–036                         → queued
+BUILD-029                             → Phase Three **v1.0**
+BUILD-030–036                         → queued
 architecture/                         → expanded specs (derived · cross-ref)
 knowledge/entries/                    → verbatim source uploads
 ```
@@ -67,7 +68,8 @@ knowledge/entries/                    → verbatim source uploads
 | **026** | The World Engine | **1.0** | **Frozen** | 065 | CF-CON-384, 543, 545–564 | [BUILD-026](BUILD-026-world-engine.md) |
 | **027** | The Civilization Engine | **1.0** | **Frozen** | 066 | CF-CON-557, 565–584 | [BUILD-027](BUILD-027-civilization-engine.md) |
 | **028** | The Tool Engine | **1.0** | **Frozen** | 067 | CF-CON-585–604 | [BUILD-028](BUILD-028-tool-engine.md) |
-| **029–036** | Phase Three novel | — | **Queued** | — | — | [CHRONOFORGE_PHASES](../architecture/CHRONOFORGE_PHASES.md) |
+| **029** | The Journey Engine | **1.0** | **Frozen** | 068 | CF-CON-605–624 | [BUILD-029](BUILD-029-journey-engine.md) |
+| **030–036** | Phase Three novel | — | **Queued** | — | — | [CHRONOFORGE_PHASES](../architecture/CHRONOFORGE_PHASES.md) |
 
 ---
 
@@ -110,6 +112,7 @@ knowledge/entries/                    → verbatim source uploads
 | 026 World Engine | Central question · gravitational center · world as first character |
 | 027 Civilization Engine | Founding question · six foundations · human race discovery |
 | 028 Tool Engine | Six families · tool record · final tool = understanding |
+| 029 Journey Engine | Five journeys · hidden destination · reader journey |
 
 ---
 

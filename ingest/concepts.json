@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "2.7.0",
-  "generated_at": "2026-07-05T22:19:25.652447+00:00",
+  "canonforge_version": "2.8.0",
+  "generated_at": "2026-07-05T22:22:12.864950+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -6691,6 +6691,226 @@
         "CF-ENTRY-067"
       ],
       "canon_ref": "canon/build/BUILD-028-tool-engine.md"
+    },
+    {
+      "id": "CF-CON-605",
+      "label": "Journey Engine",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Transitions as transformation; movement is narrative.",
+      "sources": [
+        "CF-ENTRY-068"
+      ],
+      "canon_ref": "canon/build/BUILD-029-journey-engine.md"
+    },
+    {
+      "id": "CF-CON-606",
+      "label": "No one arrives unchanged",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Traveler destination relationship all transform.",
+      "sources": [
+        "CF-ENTRY-068"
+      ],
+      "canon_ref": "canon/build/BUILD-029-journey-engine.md"
+    },
+    {
+      "id": "CF-CON-607",
+      "label": "First law of journey",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Where why who becomes; no change reconsider.",
+      "sources": [
+        "CF-ENTRY-068"
+      ],
+      "canon_ref": "canon/build/BUILD-029-journey-engine.md#0291--the-first-law"
+    },
+    {
+      "id": "CF-CON-608",
+      "label": "Five journeys",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Physical temporal relational intellectual inner.",
+      "sources": [
+        "CF-ENTRY-068"
+      ],
+      "canon_ref": "canon/build/BUILD-029-journey-engine.md#0292--the-five-journeys"
+    },
+    {
+      "id": "CF-CON-609",
+      "label": "Journey threshold",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Door bridge question; divide was from becoming.",
+      "sources": [
+        "CF-ENTRY-068"
+      ],
+      "canon_ref": "canon/build/BUILD-029-journey-engine.md#0293--the-threshold"
+    },
+    {
+      "id": "CF-CON-610",
+      "label": "The road",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Middle never empty; not waiting for destination.",
+      "sources": [
+        "CF-ENTRY-068"
+      ],
+      "canon_ref": "canon/build/BUILD-029-journey-engine.md#0294--the-road"
+    },
+    {
+      "id": "CF-CON-611",
+      "label": "Journey arrival",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "New relationship; both traveler and place change.",
+      "sources": [
+        "CF-ENTRY-068"
+      ],
+      "canon_ref": "canon/build/BUILD-029-journey-engine.md#0295--the-arrival"
+    },
+    {
+      "id": "CF-CON-612",
+      "label": "Journey return",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Home remains traveler does not; cost and value.",
+      "sources": [
+        "CF-ENTRY-068"
+      ],
+      "canon_ref": "canon/build/BUILD-029-journey-engine.md#0296--the-return"
+    },
+    {
+      "id": "CF-CON-613",
+      "label": "Journeys over maps",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Transformation not mileage; experience remembered.",
+      "sources": [
+        "CF-ENTRY-068"
+      ],
+      "canon_ref": "canon/build/BUILD-029-journey-engine.md#0297--the-map"
+    },
+    {
+      "id": "CF-CON-614",
+      "label": "Vehicle shapes experience",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Walking flying vessel; method part of story.",
+      "sources": [
+        "CF-ENTRY-068"
+      ],
+      "canon_ref": "canon/build/BUILD-029-journey-engine.md#0298--the-vehicle"
+    },
+    {
+      "id": "CF-CON-615",
+      "label": "Journey companions",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Shared movement memory relationship identity.",
+      "sources": [
+        "CF-ENTRY-068"
+      ],
+      "canon_ref": "canon/build/BUILD-029-journey-engine.md#0299--the-companions"
+    },
+    {
+      "id": "CF-CON-616",
+      "label": "Cost of distance",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Comfort certainty assumptions left behind.",
+      "sources": [
+        "CF-ENTRY-068"
+      ],
+      "canon_ref": "canon/build/BUILD-029-journey-engine.md#02910--the-cost-of-distance"
+    },
+    {
+      "id": "CF-CON-617",
+      "label": "Journey horizon",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Possibility not geography; wonder inexhaustible.",
+      "sources": [
+        "CF-ENTRY-068"
+      ],
+      "canon_ref": "canon/build/BUILD-029-journey-engine.md#02911--the-horizon"
+    },
+    {
+      "id": "CF-CON-618",
+      "label": "Reader journey",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "First page departure; reread return home.",
+      "sources": [
+        "CF-ENTRY-068"
+      ],
+      "canon_ref": "canon/build/BUILD-029-journey-engine.md#02912--the-readers-journey"
+    },
+    {
+      "id": "CF-CON-619",
+      "label": "Journey ledger record",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Eight fields per journey; Resonance Matrix.",
+      "sources": [
+        "CF-ENTRY-068"
+      ],
+      "canon_ref": "canon/build/BUILD-029-journey-engine.md#02913--the-journey-ledger"
+    },
+    {
+      "id": "CF-CON-620",
+      "label": "Journey final principle",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Destination new way of seeing not place.",
+      "sources": [
+        "CF-ENTRY-068"
+      ],
+      "canon_ref": "canon/build/BUILD-029-journey-engine.md#02914--the-final-principle"
+    },
+    {
+      "id": "CF-CON-621",
+      "label": "Other world is consciousness",
+      "category": "Revelation",
+      "status": "Frozen",
+      "definition": "Greatest other world not planet but consciousness.",
+      "sources": [
+        "CF-ENTRY-068"
+      ],
+      "canon_ref": "canon/build/BUILD-029-journey-engine.md"
+    },
+    {
+      "id": "CF-CON-622",
+      "label": "Misunderstanding to understanding",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Longest journey distance between fracture and recognition.",
+      "sources": [
+        "CF-ENTRY-068"
+      ],
+      "canon_ref": "canon/build/BUILD-029-journey-engine.md"
+    },
+    {
+      "id": "CF-CON-623",
+      "label": "What journey changes",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Central question; traveler destination relationship.",
+      "sources": [
+        "CF-ENTRY-068"
+      ],
+      "canon_ref": "canon/build/BUILD-029-journey-engine.md#0291--the-first-law"
+    },
+    {
+      "id": "CF-CON-624",
+      "label": "Adventure tradition redefined",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Honor journey into world; hidden deeper voyage.",
+      "sources": [
+        "CF-ENTRY-068"
+      ],
+      "canon_ref": "canon/build/BUILD-029-journey-engine.md"
     }
   ],
   "edges": [
@@ -12306,6 +12526,211 @@
     },
     {
       "from": "CF-CON-604",
+      "to": "CF-CON-039",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-605",
+      "to": "CF-CON-589",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-605",
+      "to": "CF-CON-623",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-605",
+      "to": "CF-CON-621",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-606",
+      "to": "CF-CON-605",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-606",
+      "to": "CF-CON-607",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-607",
+      "to": "CF-CON-605",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-607",
+      "to": "CF-CON-623",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-608",
+      "to": "CF-CON-605",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-608",
+      "to": "CF-CON-165",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-609",
+      "to": "CF-CON-605",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-609",
+      "to": "CF-CON-528",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-610",
+      "to": "CF-CON-605",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-610",
+      "to": "CF-CON-505",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-611",
+      "to": "CF-CON-605",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-611",
+      "to": "CF-CON-612",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-612",
+      "to": "CF-CON-605",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-612",
+      "to": "CF-CON-618",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-613",
+      "to": "CF-CON-605",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-613",
+      "to": "CF-CON-558",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-614",
+      "to": "CF-CON-605",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-614",
+      "to": "CF-CON-588",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-615",
+      "to": "CF-CON-605",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-615",
+      "to": "CF-CON-578",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-616",
+      "to": "CF-CON-605",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-616",
+      "to": "CF-CON-588",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-617",
+      "to": "CF-CON-605",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-617",
+      "to": "CF-CON-554",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-618",
+      "to": "CF-CON-605",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-618",
+      "to": "CF-CON-002",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-619",
+      "to": "CF-CON-605",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-619",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-620",
+      "to": "CF-CON-605",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-620",
+      "to": "CF-CON-562",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-621",
+      "to": "CF-CON-605",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-621",
+      "to": "CF-CON-401",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-622",
+      "to": "CF-CON-621",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-622",
+      "to": "CF-CON-415",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-623",
+      "to": "CF-CON-605",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-623",
+      "to": "CF-CON-607",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-624",
+      "to": "CF-CON-605",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-624",
       "to": "CF-CON-039",
       "type": "related"
     }

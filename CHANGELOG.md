@@ -3,6 +3,16 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [2.8.0] — 2026-07-05
+
+### Added
+- CF-ENTRY-068: BUILD-029 The Journey Engine Canonical v1.0
+- Concepts CF-CON-605 through CF-CON-624
+- Five journeys · journey ledger · threshold · return · reader journey
+- **Other world is consciousness** — hidden destination of every physical journey
+- Renamed: Transportation → **Journey Engine**
+- Master Canon v1.5.3
+
 ## [2.7.0] — 2026-07-05
 
 ### Added
