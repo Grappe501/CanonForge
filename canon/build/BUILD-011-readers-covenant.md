@@ -3,7 +3,7 @@
 > **Canonical Version 1.0 · Status: FROZEN**
 > CF-CON-167 · CF-CON-282–291 · CF-ENTRY-036 · CF-ENTRY-047
 > Supersedes BUILD-011 *Invisible Contract* stub (CF-ENTRY-036)
-> **Traces to:** BUILD-004 Laws · BUILD-005 Reader Arc · BUILD-010 Physics of Reading · BUILD-015 (queued)
+> **Traces to:** BUILD-004 Laws · BUILD-005 Reader Arc · BUILD-010 Physics of Reading · BUILD-015 Resonance Matrix
 
 > **"The reader gives us attention. We give the reader trust."**
 
@@ -266,7 +266,8 @@ Trust is now the foundation beneath BUILD-012 onward.
 |---|---|---|
 | **Reader's Covenant** (BUILD-011) | Moral foundation · fifteen promises · both-side binding | CF-CON-167, 282–291 |
 | **Invisible reader contract** (Law II) | Structural assumption: linear read silently allowed | CF-CON-054 |
-| **Reader Bill of Rights** (BUILD-015) | Queued · operational rights layer; aligns with promises here | CF-CON-207 |
+| **Reader Bill of Rights** (old BUILD-015 scope) | Superseded · promises canonical here | CF-CON-207 |
+| **Resonance Matrix** (BUILD-015) | Master blueprint · operational heart | CF-CON-134 |
 
 The covenant **supersedes** the BUILD-011 *Invisible Contract* stub title. CF-CON-054 remains the structural law for fair assumption subversion.
 
