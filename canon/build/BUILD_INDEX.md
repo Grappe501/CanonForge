@@ -24,8 +24,9 @@ BUILD-028                             → Phase Three **v1.0**
 BUILD-029                             → Phase Three **v1.0**
 BUILD-030                             → Phase Three **v1.0** · Universal Architecture **complete**
 BUILD-031                             → Phase Three **v1.0** · **AUTHOR-ONLY**
-BUILD-032                             → Phase Three **v1.0** · **AUTHOR-ONLY** · first story-specific
-BUILD-033–036                         → queued · Composing phase
+BUILD-032                             → Phase II **v1.0** · **AUTHOR-ONLY**
+BUILD-033–044                         → Phase II.5 Design Language · **NEXT**
+BUILD-045+                            → Story Genome through Novel · queued
 architecture/                         → expanded specs (derived · cross-ref)
 knowledge/entries/                    → verbatim source uploads
 ```
@@ -75,7 +76,7 @@ knowledge/entries/                    → verbatim source uploads
 | **030** | The Cosmology Engine | **1.0** | **Frozen** | 069 | CF-CON-625–644 | [BUILD-030](BUILD-030-cosmology-engine.md) |
 | **031** | The Secret History | **1.0** | **Frozen · AUTHOR-ONLY** | 070 | CF-CON-645–664 | [BUILD-031](BUILD-031-secret-history.md) |
 | **032** | The Prime Event | **1.0** | **Frozen · AUTHOR-ONLY** | 071 | CF-CON-665–684 | [BUILD-032](BUILD-032-prime-event.md) |
-| **033–036** | Phase Three novel | — | **Queued** | — | — | [CHRONOFORGE_PHASES](../architecture/CHRONOFORGE_PHASES.md) |
+| **033–072** | Roadmap v2 phases | — | **Queued** | — | — | [CHRONOFORGE_ROADMAP](../architecture/CHRONOFORGE_ROADMAP.md) |
 
 ---
 

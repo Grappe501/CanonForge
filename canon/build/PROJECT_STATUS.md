@@ -11,12 +11,10 @@
 |---|---|
 | **Project Name** | CHRONOFORGE |
 | **Product** | **The Chronoforge Method** · novel = Version 1 |
-| **Project Version** | **0.3.0** *(Phase Three begun · BUILD-026+)* |
-| **Phase** | **One ✓** · **Two ✓** · **Three begun** (026 ✓) · BUILD-015.5 in progress |
-| **Story Written** | 0% |
-| **Philosophy + Schema** | **100%** (BUILD-001–015 frozen) |
-| **Engineering** | **100%** (BUILD-016–025 frozen) |
-| **Novel Substrate** | **Begun** (026–031 frozen · Instrument complete · Composing phase) |
+| **Project Version** | **0.4.0** *(Roadmap v2 · Phase II complete · 80–120 BUILD projection)* |
+| **Phase** | **One ✓** · **Two ✓** · **II.5 next** · III–VII queued |
+| **Engine room** | **✓ COMPLETE** (BUILD-016–032) |
+| **Roadmap** | **80–120 BUILDs** · see [CHRONOFORGE_ROADMAP.md](../../architecture/CHRONOFORGE_ROADMAP.md) |
 | **Build Bible** | **~15%** (BUILD-015.5 v0.1 scaffold) |
 
 ---
@@ -26,10 +24,10 @@
 | Field | Value |
 |---|---|
 | **Repo** | CanonForge (`Grappe501/CanonForge`) |
-| **Repo Version** | See [VERSION](../../VERSION) · **2.11.0** |
+| **Repo Version** | See [VERSION](../../VERSION) · **2.12.0** |
 | **Build Layer** | BUILD-001–032 frozen · **015.5 active** |
-| **Entries** | CF-ENTRY-001 through CF-ENTRY-071 |
-| **Concepts** | 684+ |
+| **Entries** | CF-ENTRY-001 through CF-ENTRY-072 |
+| **Concepts** | 696+ |
 | **Traceability** | Entry → Concept → BUILD → Architecture → Matrix |
 
 ---
@@ -38,11 +36,12 @@
 
 | Phase | Name | Status |
 |---|---|---|
-| **One** | Philosophy + engineering schema | **✓ COMPLETE** |
-| **015.5** | Build Bible (master architecture) | **In progress** |
-| **Two** | Engineering (BUILD-016–025) | **✓ COMPLETE** |
-| **Three** | Novel substrate (BUILD-026–036) | **Composing phase** (026–032 ✓ · 033–036 queued) |
-| **Four–Six** | Lives · Composition · Performance | Queued |
+| **One** | Philosophy | **✓ COMPLETE** |
+| **Two** | Engines (016–032) | **✓ COMPLETE** |
+| **II.5** | Design Language (033–044) | **NEXT** |
+| **Three** | Story Genome (045–052) | Queued |
+| **Four–Seven** | Five Reads · Score · Audits · Novel | Queued |
+| **015.5** | Build Bible | **In progress** |
 
 → [BUILD-026](BUILD-026-world-engine.md) · [BUILD-015.5](BUILD-015.5-chronoforge-master-architecture.md)
 
@@ -51,11 +50,11 @@
 ## Governance mode
 
 ```txt
-STOP:   BUILD-033 until BUILD-015.5 v1.0 (016–032 done per author uploads)
-START:  Composing phase · BUILD-033 Central Mystery · story identity
-NEVER:  manuscript/ until Phase Five gate · BUILD-031–032 never reader-facing
+STOP:   BUILD-033 until BUILD-015.5 v1.0 (016–032 excepted per author uploads)
+START:  Phase II.5 · BUILD-033 Color Language · design vocabulary
+NEVER:  manuscript/ until Phase VII (BUILD-073+) · BUILD-031–032 never reader-facing
 ```
 
 ---
 
-*Project v0.3.0 · Composing phase · BUILD-026–032 frozen · CF-ENTRY-071*
+*Project v0.4.0 · Roadmap v2 · Phase II complete · BUILD-033 Color Language next · CF-ENTRY-072*

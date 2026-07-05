@@ -264,7 +264,7 @@ Final question: **"How should conscious beings live within a universe they can n
 
 **Secret History** *(BUILD-031 · CF-CON-645 · AUTHOR-ONLY)* — hidden chronology framework. Populated events never reader-facing. See protected BUILD doc — not cited in surface canon.
 
-**Composing phase** *(CF-CON-663)*. **BUILD-032 Prime Event** *(✓ v1.0 · AUTHOR-ONLY · CF-CON-665)* — first story-specific BUILD. Next: **BUILD-033 Central Mystery**.
+**Composing phase** *(CF-CON-663)*. **Phase II engine room complete** *(BUILD-016–032 · CF-CON-686)*. **Roadmap v2:** 80–120 BUILDs · **Phase II.5 Design Language next** *(BUILD-033 Color Language · CF-CON-687)*. → [architecture/CHRONOFORGE_ROADMAP.md](../architecture/CHRONOFORGE_ROADMAP.md)
 
 ### Visual Grammar (CF-CON-080 · CF-CON-081)
 

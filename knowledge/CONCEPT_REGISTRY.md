@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 2.11.0 · 2026-07-05 · 684 concepts registered
+> Version 2.12.0 · 2026-07-05 · 696 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -688,6 +688,18 @@
 | CF-CON-682 | Echo of one event | Mission | **Frozen** | Every story is echo of one Prime Event. | CF-ENTRY-071 |
 | CF-CON-683 | Shadow convergence | Architecture | **Frozen** | Ten shadow types map all story dimensions. | CF-ENTRY-071 |
 | CF-CON-684 | Consciousness changes not event | Mission | **Frozen** | Event fixed; climax is understanding significance. | CF-ENTRY-071 |
+| CF-CON-685 | Narrative engineering discipline | Governance | **Frozen** | Complete OS for story; not novel outline. | CF-ENTRY-072 |
+| CF-CON-686 | Phase II engine room complete | Mission | **Frozen** | BUILD-016-032 operating system frozen. | CF-ENTRY-072 |
+| CF-CON-687 | Design Language phase | Architecture | **Open** | Phase II.5 atomic vocabulary BUILD-033-044. | CF-ENTRY-072 |
+| CF-CON-688 | 80-120 build scale | Governance | **Open** | Projected canonical BUILD count at completion. | CF-ENTRY-072 |
+| CF-CON-689 | Story Genome phase | Architecture | **Open** | Phase III BUILD-045-052 specific novel. | CF-ENTRY-072 |
+| CF-CON-690 | Five Reads engineering | Architecture | **Open** | Phase IV BUILD-053-057 reread capability. | CF-ENTRY-072 |
+| CF-CON-691 | Design language before characters | Governance | **Frozen** | Atomic vocabulary before protagonist. | CF-ENTRY-072 |
+| CF-CON-692 | Chronoforge roadmap v2 | Governance | **Frozen** | Seven phases plus II.5; renumber 033+. | CF-ENTRY-072 |
+| CF-CON-693 | Protagonist Engine queued | Architecture | **Open** | BUILD-045 consciousness profile not biography. | CF-ENTRY-072 |
+| CF-CON-694 | Antagonist as alternate answer | Theme | **Open** | Coherent answer to central question. | CF-ENTRY-072 |
+| CF-CON-695 | Movement Engine queued | Architecture | **Open** | BUILD-051 symphony movements not chapters. | CF-ENTRY-072 |
+| CF-CON-696 | Canonical edition audit stack | Process | **Open** | Phase VI BUILD-063-072 QA audits. | CF-ENTRY-072 |
 
 ## Related Concepts
 
@@ -1375,3 +1387,15 @@
 - **CF-CON-682** (Echo of one event, Frozen): CF-CON-665, CF-CON-674 → `canon/build/BUILD-032-prime-event.md`
 - **CF-CON-683** (Shadow convergence, Frozen): CF-CON-668, CF-CON-358 → `canon/build/BUILD-032-prime-event.md#0323--the-ten-shadows`
 - **CF-CON-684** (Consciousness changes not event, Frozen): CF-CON-676, CF-CON-364 → `canon/build/BUILD-032-prime-event.md#03211--the-final-principle`
+- **CF-CON-685** (Narrative engineering discipline, Frozen): CF-CON-122, CF-CON-688 → `architecture/CHRONOFORGE_ROADMAP.md`
+- **CF-CON-686** (Phase II engine room complete, Frozen): CF-CON-660, CF-CON-665 → `architecture/CHRONOFORGE_ROADMAP.md`
+- **CF-CON-687** (Design Language phase, Open): CF-CON-691, CF-CON-689 → `architecture/CHRONOFORGE_ROADMAP.md`
+- **CF-CON-688** (80-120 build scale, Open): CF-CON-685 → `architecture/CHRONOFORGE_ROADMAP.md`
+- **CF-CON-689** (Story Genome phase, Open): CF-CON-687, CF-CON-690 → `architecture/CHRONOFORGE_ROADMAP.md`
+- **CF-CON-690** (Five Reads engineering, Open): CF-CON-001, CF-CON-689 → `architecture/CHRONOFORGE_ROADMAP.md`
+- **CF-CON-691** (Design language before characters, Frozen): CF-CON-687, CF-CON-545 → `architecture/CHRONOFORGE_ROADMAP.md`
+- **CF-CON-692** (Chronoforge roadmap v2, Frozen): CF-CON-360, CF-CON-688 → `architecture/CHRONOFORGE_ROADMAP.md`
+- **CF-CON-693** (Protagonist Engine queued, Open): CF-CON-689, CF-CON-364 → `architecture/CHRONOFORGE_ROADMAP.md`
+- **CF-CON-694** (Antagonist as alternate answer, Open): CF-CON-003, CF-CON-693 → `architecture/CHRONOFORGE_ROADMAP.md`
+- **CF-CON-695** (Movement Engine queued, Open): CF-CON-059, CF-CON-524 → `architecture/CHRONOFORGE_ROADMAP.md`
+- **CF-CON-696** (Canonical edition audit stack, Open): CF-CON-132, CF-CON-116 → `architecture/CHRONOFORGE_ROADMAP.md`

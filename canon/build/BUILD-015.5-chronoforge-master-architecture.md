@@ -30,11 +30,11 @@ We did not build a novel. We built a **theory of storytelling** — an operating
 | Phase | Name | Status |
 |---|---|---|
 | **One** | The Philosophy + Engineering Schema | **✓ COMPLETE** (BUILD-001–015) |
-| **Two** | Engineering Documents | **✓ COMPLETE** (BUILD-016–025) |
-| **Three** | The Novel (world · mystery · ending · opening) | **Composing phase** (026–032 ✓ · BUILD-033–036 queued) |
-| **Four** | The People (lives, not characters) | Queued |
-| **Five** | Composition | Queued · prose authorized only after Phase Four |
-| **Six** | Performance | Queued · rewrite · score · typeset |
+| **Two** | Engineering Documents | **✓ COMPLETE** (BUILD-016–032 · engine room) |
+| **II.5** | Design Language | **Next** (BUILD-033–044 queued) |
+| **Three** | Story Genome | Queued (BUILD-045–052) |
+| **Four–Six** | Five Reads · Score · Canonical Edition | Queued (BUILD-053–072) |
+| **Seven** | The Novel | Queued · prose authorized BUILD-073+ |
 
 → Full phase map: [architecture/CHRONOFORGE_PHASES.md](../../architecture/CHRONOFORGE_PHASES.md)
 
@@ -128,21 +128,28 @@ We did not build a novel. We built a **theory of storytelling** — an operating
 | **024** | The Tempo Engine | **✓ v1.0** · CF-ENTRY-063 · five tempos |
 | **025** | Page Architecture | **✓ v1.0** · CF-ENTRY-064 · Print Score |
 
-### Phase Three — **Composing phase** (BUILD-026–032 ✓ · 033–036 queued)
+### Phase II — **✓ COMPLETE** (BUILD-016–032 · engine room)
 
 | BUILD | Title | Status |
 |---|---|---|
-| **026** | The World Engine | **✓ v1.0** · CF-ENTRY-065 |
-| **027** | The Civilization Engine | **✓ v1.0** · CF-ENTRY-066 |
-| **028** | The Tool Engine | **✓ v1.0** · CF-ENTRY-067 |
-| **029** | The Journey Engine | **✓ v1.0** · CF-ENTRY-068 |
-| **030** | The Cosmology Engine | **✓ v1.0** · CF-ENTRY-069 |
-| **031** | **Secret History** | **✓ v1.0** · AUTHOR-ONLY · CF-ENTRY-070 |
-| **032** | **The Prime Event** | **✓ v1.0** · AUTHOR-ONLY · CF-ENTRY-071 |
-| **033** | Central Mystery | Queued |
-| **034** | Human Story | Queued |
-| **035** | **The Ending** *(before opening)* | Queued |
-| **036** | **The Opening** *(after ending)* | Queued |
+| **016–025** | Engineering documents | **✓ v1.0** |
+| **026–032** | World through Prime Event | **✓ v1.0** · 031–032 AUTHOR-ONLY |
+
+### Phase II.5 — **NEXT** (BUILD-033–044 · Design Language)
+
+| BUILD | Title | Status |
+|---|---|---|
+| **033** | Color Language | Queued · **START** |
+| **034–044** | Shape through Naming Language | Queued |
+
+### Phase III — Story Genome (BUILD-045–052 · queued)
+
+| BUILD | Title |
+|---|---|
+| **045** | Protagonist Engine |
+| **046–052** | Companion through Ending Engine |
+
+→ Full registry: [architecture/CHRONOFORGE_ROADMAP.md](../../architecture/CHRONOFORGE_ROADMAP.md)
 
 ---
 
@@ -279,7 +286,7 @@ Next passes expand this document into the full 100–200 page Build Bible:
 4. Master data dictionary (elements · symbols · echo IDs)
 5. Execution index (which BUILD when · blocking rules)
 
-When v1.0 ships — **Composing phase** continues with **BUILD-033 Central Mystery**.
+When v1.0 ships — **Phase II.5** continues with **BUILD-033 Color Language** — design vocabulary before protagonists.
 
 ---
 

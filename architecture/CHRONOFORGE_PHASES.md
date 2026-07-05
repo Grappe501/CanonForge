@@ -1,7 +1,7 @@
 # Chronoforge Phases
 
-> **Master phase map** · CF-CON-360 · CF-ENTRY-052
-> Supersedes fragmented phase numbering in MASTER_BUILD_ROADMAP for BUILD-layer work
+> **Master phase map v2.0** · CF-CON-360 · CF-ENTRY-052 · **CF-ENTRY-072**
+> Full BUILD registry: [CHRONOFORGE_ROADMAP.md](CHRONOFORGE_ROADMAP.md)
 > Authority: [BUILD-015.5](../canon/build/BUILD-015.5-chronoforge-master-architecture.md)
 
 ---
@@ -9,19 +9,25 @@
 ## Overview
 
 ```txt
-PHASE ONE     Philosophy + engineering schema     ✓ COMPLETE
-PHASE TWO     Engineering documents               **✓ COMPLETE** (016–025)
-PHASE THREE   The novel (substrate)               **026–032 ✓** · BUILD-033–036 Composing phase
-PHASE FOUR    The people (lives)                  Per-consciousness packages
-PHASE FIVE    Composition                         Prose · one movement at a time
-PHASE SIX     Performance                         Rewrite · score · typeset
+PHASE I       Philosophy                        BUILD-001–015     ✓ COMPLETE
+PHASE II      Engines (operating system)        BUILD-016–032     ✓ COMPLETE
+PHASE II.5    Design Language                   BUILD-033–044     NEXT
+PHASE III     Story Genome                      BUILD-045–052     Queued
+PHASE IV      The Five Reads                    BUILD-053–057     Queued
+PHASE V       The Score                         BUILD-058–062     Queued
+PHASE VI      Canonical Edition                 BUILD-063–072     Queued
+PHASE VII     The Novel                         BUILD-073+        Prose gate
 ```
 
-**Prose authorization:** Phase Five only. No `manuscript/` until Phase Four complete.
+**Projection:** 80–120 canonical BUILDs *(CF-CON-688)* · narrative engineering discipline *(CF-CON-685)*
+
+**Prose authorization:** Phase VII only. No `manuscript/` until Phase VI audits complete.
+
+**Design Language gate:** Do not define protagonists before BUILD-044 *(CF-CON-691)*.
 
 ---
 
-## Phase One — The Philosophy ✓ COMPLETE
+## Phase One — Philosophy ✓ COMPLETE *(BUILD-001–015)*
 
 | BUILD | Title |
 |---|---|
@@ -45,96 +51,124 @@ PHASE SIX     Performance                         Rewrite · score · typeset
 
 ---
 
-## Phase Two — Engineering Documents
+## Phase Two — Engines ✓ COMPLETE *(BUILD-016–032)*
 
-Engineer the book — not outline chapters.
+**The complete engine room** *(CF-CON-686)*. Universal — any Chronoforge story could use these.
 
-| BUILD | Title | Notes |
+| BUILD | Title | Status |
 |---|---|---|
-| **016** | Consciousness Engine | **✓ v1.0** · ten systems · CF-ENTRY-054 |
-| **017** | **Reality Engine** | **✓ v1.0** · five layers · CF-ENTRY-055 |
-| **018** | **Fracture Engine** | **✓ v1.0** · understanding gap · CF-ENTRY-056 |
-| **019** | **Memory Engine** | **✓ v1.0** · reconstruction · CF-ENTRY-057 |
-| **020** | **Resonance Registry** | **✓ v1.0** · motif vocabulary · CF-ENTRY-058 |
-| **021** | **Symbol Genome** | **✓ v1.0** · CF-ENTRY-059/061 |
-| **022** | **Language of Silence** | **✓ v1.0** · seven forms · CF-ENTRY-060 |
-| **023** | **Typography Physics** | **✓ v1.0** · lexicon · one typeface · CF-ENTRY-062 |
-| **024** | **The Tempo Engine** | **✓ v1.0** · five tempos · performance model · CF-ENTRY-063 |
-| **025** | **Page Architecture** | **✓ v1.0** · Print Score · CF-ENTRY-064 |
-
-**Phase Two: ✓ COMPLETE** · **Phase Three: Composing phase** (026–032 ✓) · BUILD-033 queued
-
-**Gate:** BUILD-015.5 v1.0 · Matrix schema understood
-
----
-
-## Phase Three — The Novel
-
-**Architect's Phase complete** *(BUILD-025 · CF-CON-542)*. **Symphony begun** *(BUILD-026 · CF-CON-545)*.
-
-| BUILD | Title | Notes |
-|---|---|---|
-| **026** | **The World Engine** | **✓ v1.0** · central question · CF-ENTRY-065 |
-| **027** | **The Civilization Engine** | **✓ v1.0** · founding question · CF-ENTRY-066 |
-| **028** | **The Tool Engine** | **✓ v1.0** · six families · CF-ENTRY-067 |
-| **029** | **The Journey Engine** | **✓ v1.0** · five journeys · CF-ENTRY-068 |
-| **030** | **The Cosmology Engine** | **✓ v1.0** · mystery permanent · CF-ENTRY-069 |
-| **031** | **Secret History** | **✓ v1.0** · AUTHOR-ONLY · CF-ENTRY-070 |
-| **032** | **The Prime Event** | **✓ v1.0** · AUTHOR-ONLY · first story-specific · CF-ENTRY-071 |
-| **033** | Central Mystery | Queued |
-| **034** | Human Story | Queued |
-| **035** | **The Ending** | Queued |
-| **036** | **The Opening** *(after ending)* | Queued |
+| **016** | Consciousness Engine | **✓ v1.0** |
+| **017** | Reality Engine | **✓ v1.0** |
+| **018** | Fracture Engine | **✓ v1.0** |
+| **019** | Memory Engine | **✓ v1.0** |
+| **020** | Resonance Registry | **✓ v1.0** |
+| **021** | Symbol Genome | **✓ v1.0** |
+| **022** | Language of Silence | **✓ v1.0** |
+| **023** | Typography Physics | **✓ v1.0** |
+| **024** | Tempo Engine | **✓ v1.0** |
+| **025** | Page Architecture | **✓ v1.0** |
+| **026** | World Engine | **✓ v1.0** |
+| **027** | Civilization Engine | **✓ v1.0** |
+| **028** | Tool Engine | **✓ v1.0** |
+| **029** | Journey Engine | **✓ v1.0** |
+| **030** | Cosmology Engine | **✓ v1.0** |
+| **031** | Secret History | **✓ v1.0** · AUTHOR-ONLY |
+| **032** | Prime Event | **✓ v1.0** · AUTHOR-ONLY |
 
 ---
 
-## Phase Four — The People
+## Phase II.5 — Design Language *(BUILD-033–044 · NEXT)*
 
-Not characters. **Lives.**
+Atomic vocabulary before consciousnesses *(CF-CON-687 · CF-CON-691)*.
 
-Each consciousness receives:
+| BUILD | Title |
+|---|---|
+| **033** | Color Language |
+| **034** | Shape Language |
+| **035** | Number Language |
+| **036** | Spatial Language |
+| **037** | Gesture Language |
+| **038** | Weather Language |
+| **039** | Light and Shadow Language |
+| **040** | Sound Language |
+| **041** | Texture Language |
+| **042** | Food and Shared Meals Language |
+| **043** | Dream Language |
+| **044** | Naming Language |
 
-- Complete biography · chronology · emotional map
-- Rhythm · silence profile · assumption profile
-- Memory profile · resonance graph · hidden life
-
-→ Feeds BUILD-016 Consciousness Engine · Matrix rows
+→ **BUILD-033 Color Language** queued · STOP gate until BUILD-015.5 v1.0
 
 ---
 
-## Phase Five — Composition
+## Phase Three — Story Genome *(BUILD-045–052)*
 
-Write. One movement at a time.
+**This novel** — consciousness profiles · relationships · scenes · movements · ending *(CF-CON-689)*.
 
-- Matrix row complete before scene draft
-- Three Councils · Daily Ritual · Elemental Test
-- SSOT: BUILD-015 Resonance Matrix
+| BUILD | Title |
+|---|---|
+| **045** | Protagonist Engine |
+| **046** | Companion Engine |
+| **047** | Antagonist Engine |
+| **048** | Relationship Engine |
+| **049** | Dialogue Engine |
+| **050** | Scene Engine |
+| **051** | Movement Engine |
+| **052** | Ending Engine |
 
 ---
 
-## Phase Six — Performance
+## Phase Four — The Five Reads *(BUILD-053–057)*
 
-Rewrite · compose · score · typeset · canonical edition.
+Engineer reread capability at each stage *(CF-CON-690)*.
 
-- Rewrite Engine (BUILD-015 §015.20)
-- Completion Test (BUILD-013 §013.23)
-- Performance Edition · Validation · The Loop
+| BUILD | Title |
+|---|---|
+| **053–057** | First through Fifth Read Experience |
+
+---
+
+## Phase Five — The Score *(BUILD-058–062)*
+
+Full musical orchestration layer.
+
+| BUILD | Title |
+|---|---|
+| **058–062** | Dynamic Range through Full Conductor's Score |
+
+---
+
+## Phase Six — Canonical Edition *(BUILD-063–072)*
+
+Audit stack · release standard.
+
+| BUILD | Title |
+|---|---|
+| **063–072** | Printing Spec through Canonical Release Standard |
+
+---
+
+## Phase Seven — The Novel *(BUILD-073+)*
+
+Write. One movement at a time. Book of Secrets compile gate.
+
+---
+
+## Legacy mapping
+
+| v1 phase name | v2 home |
+|---|---|
+| Phase Two Engineering (016–025) | Phase II Engines |
+| Phase Three Novel substrate (026–032) | Phase II Engines *(reclassified)* |
+| Phase Four People | Phase III Story Genome (045+) |
+| Phase Five Composition | Phase VII Novel |
+| Phase Six Performance | Phase V Score + Phase VI Audits |
 
 ---
 
 ## Relationship to MASTER_BUILD_ROADMAP
 
-The original 0–20 phase map ([MASTER_BUILD_ROADMAP.md](MASTER_BUILD_ROADMAP.md)) remains valid for **Composer's Blueprint** layer work. This document is the **BUILD-layer** phase authority for CanonForge ingest and BUILD-016+ sequencing.
-
-| CHRONOFORGE_PHASES | MASTER_BUILD_ROADMAP |
-|---|---|
-| Phase One (BUILD-001–015) | Phases 0–4 frameworks + Phase 15 spec |
-| Phase Two (BUILD-016–025) | Phases 7–15 population |
-| Phase Three (BUILD-026–36) | Phases 5–6 + Story Engine |
-| Phase Four | Phase 7 Character → Consciousness |
-| Phase Five | Phase 20 prose (authorized) |
-| Phase Six | Phases 18–19 Performance · Validation |
+The Composer's Blueprint 0–20 map ([MASTER_BUILD_ROADMAP.md](MASTER_BUILD_ROADMAP.md)) remains valid for layer work. **This document + CHRONOFORGE_ROADMAP.md** are BUILD-layer authority for BUILD-016+ sequencing.
 
 ---
 
-*CHRONOFORGE_PHASES v1.0 · CF-ENTRY-052 · Phase One complete*
+*CHRONOFORGE_PHASES v2.0 · CF-ENTRY-072 · Phase II complete · Design Language next*

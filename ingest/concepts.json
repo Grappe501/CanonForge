@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "2.11.0",
-  "generated_at": "2026-07-05T22:31:15.663469+00:00",
+  "canonforge_version": "2.12.0",
+  "generated_at": "2026-07-05T22:33:49.406936+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -7571,6 +7571,138 @@
         "CF-ENTRY-071"
       ],
       "canon_ref": "canon/build/BUILD-032-prime-event.md#03211--the-final-principle"
+    },
+    {
+      "id": "CF-CON-685",
+      "label": "Narrative engineering discipline",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Complete OS for story; not novel outline.",
+      "sources": [
+        "CF-ENTRY-072"
+      ],
+      "canon_ref": "architecture/CHRONOFORGE_ROADMAP.md"
+    },
+    {
+      "id": "CF-CON-686",
+      "label": "Phase II engine room complete",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "BUILD-016-032 operating system frozen.",
+      "sources": [
+        "CF-ENTRY-072"
+      ],
+      "canon_ref": "architecture/CHRONOFORGE_ROADMAP.md"
+    },
+    {
+      "id": "CF-CON-687",
+      "label": "Design Language phase",
+      "category": "Architecture",
+      "status": "Open",
+      "definition": "Phase II.5 atomic vocabulary BUILD-033-044.",
+      "sources": [
+        "CF-ENTRY-072"
+      ],
+      "canon_ref": "architecture/CHRONOFORGE_ROADMAP.md"
+    },
+    {
+      "id": "CF-CON-688",
+      "label": "80-120 build scale",
+      "category": "Governance",
+      "status": "Open",
+      "definition": "Projected canonical BUILD count at completion.",
+      "sources": [
+        "CF-ENTRY-072"
+      ],
+      "canon_ref": "architecture/CHRONOFORGE_ROADMAP.md"
+    },
+    {
+      "id": "CF-CON-689",
+      "label": "Story Genome phase",
+      "category": "Architecture",
+      "status": "Open",
+      "definition": "Phase III BUILD-045-052 specific novel.",
+      "sources": [
+        "CF-ENTRY-072"
+      ],
+      "canon_ref": "architecture/CHRONOFORGE_ROADMAP.md"
+    },
+    {
+      "id": "CF-CON-690",
+      "label": "Five Reads engineering",
+      "category": "Architecture",
+      "status": "Open",
+      "definition": "Phase IV BUILD-053-057 reread capability.",
+      "sources": [
+        "CF-ENTRY-072"
+      ],
+      "canon_ref": "architecture/CHRONOFORGE_ROADMAP.md"
+    },
+    {
+      "id": "CF-CON-691",
+      "label": "Design language before characters",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Atomic vocabulary before protagonist.",
+      "sources": [
+        "CF-ENTRY-072"
+      ],
+      "canon_ref": "architecture/CHRONOFORGE_ROADMAP.md"
+    },
+    {
+      "id": "CF-CON-692",
+      "label": "Chronoforge roadmap v2",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Seven phases plus II.5; renumber 033+.",
+      "sources": [
+        "CF-ENTRY-072"
+      ],
+      "canon_ref": "architecture/CHRONOFORGE_ROADMAP.md"
+    },
+    {
+      "id": "CF-CON-693",
+      "label": "Protagonist Engine queued",
+      "category": "Architecture",
+      "status": "Open",
+      "definition": "BUILD-045 consciousness profile not biography.",
+      "sources": [
+        "CF-ENTRY-072"
+      ],
+      "canon_ref": "architecture/CHRONOFORGE_ROADMAP.md"
+    },
+    {
+      "id": "CF-CON-694",
+      "label": "Antagonist as alternate answer",
+      "category": "Theme",
+      "status": "Open",
+      "definition": "Coherent answer to central question.",
+      "sources": [
+        "CF-ENTRY-072"
+      ],
+      "canon_ref": "architecture/CHRONOFORGE_ROADMAP.md"
+    },
+    {
+      "id": "CF-CON-695",
+      "label": "Movement Engine queued",
+      "category": "Architecture",
+      "status": "Open",
+      "definition": "BUILD-051 symphony movements not chapters.",
+      "sources": [
+        "CF-ENTRY-072"
+      ],
+      "canon_ref": "architecture/CHRONOFORGE_ROADMAP.md"
+    },
+    {
+      "id": "CF-CON-696",
+      "label": "Canonical edition audit stack",
+      "category": "Process",
+      "status": "Open",
+      "definition": "Phase VI BUILD-063-072 QA audits.",
+      "sources": [
+        "CF-ENTRY-072"
+      ],
+      "canon_ref": "architecture/CHRONOFORGE_ROADMAP.md"
     }
   ],
   "edges": [
@@ -14012,6 +14144,121 @@
     {
       "from": "CF-CON-684",
       "to": "CF-CON-364",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-685",
+      "to": "CF-CON-122",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-685",
+      "to": "CF-CON-688",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-686",
+      "to": "CF-CON-660",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-686",
+      "to": "CF-CON-665",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-687",
+      "to": "CF-CON-691",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-687",
+      "to": "CF-CON-689",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-688",
+      "to": "CF-CON-685",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-689",
+      "to": "CF-CON-687",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-689",
+      "to": "CF-CON-690",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-690",
+      "to": "CF-CON-001",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-690",
+      "to": "CF-CON-689",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-691",
+      "to": "CF-CON-687",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-691",
+      "to": "CF-CON-545",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-692",
+      "to": "CF-CON-360",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-692",
+      "to": "CF-CON-688",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-693",
+      "to": "CF-CON-689",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-693",
+      "to": "CF-CON-364",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-694",
+      "to": "CF-CON-003",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-694",
+      "to": "CF-CON-693",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-695",
+      "to": "CF-CON-059",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-695",
+      "to": "CF-CON-524",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-696",
+      "to": "CF-CON-132",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-696",
+      "to": "CF-CON-116",
       "type": "related"
     }
   ]

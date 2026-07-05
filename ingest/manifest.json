@@ -1,13 +1,17 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "2.11.0",
-  "generated_at": "2026-07-05T22:31:15.643093+00:00",
+  "canonforge_version": "2.12.0",
+  "generated_at": "2026-07-05T22:33:49.385013+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 71,
-  "concept_count": 684,
-  "project_version": "0.3.0",
+  "entry_count": 72,
+  "concept_count": 696,
+  "project_version": "0.4.0",
+  "roadmap_version": "1.0",
+  "roadmap_build_projection": "80-120",
+  "phase_ii_complete": true,
+  "phase_ii_5_next": "BUILD-033 Color Language",
   "phase_two": "complete",
   "build_016_version": "1.0",
   "build_016_title": "Consciousness Engine",
@@ -78,7 +82,6 @@
   "build_015_title": "Resonance Matrix",
   "foundational_layer": "BUILD-001-013 complete",
   "engineering_layer": "BUILD-014-015 complete",
-  "roadmap_version": "1.0",
   "build_layer": "BUILD-001-032 frozen \u00b7 BUILD-015.5 active",
   "entries": [
     {
@@ -1518,6 +1521,28 @@
         "CF-CON-684"
       ],
       "byte_size": 7729
+    },
+    {
+      "entry_id": "CF-ENTRY-072",
+      "file": "knowledge/entries/072-chronoforge-roadmap-v2-phase-restructure.md",
+      "sha256": "595a08acfeee491e02c13c722d14c8f3992c0ae1f9c9ac599042c0914bcaae55",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-685",
+        "CF-CON-686",
+        "CF-CON-687",
+        "CF-CON-688",
+        "CF-CON-689",
+        "CF-CON-690",
+        "CF-CON-691",
+        "CF-CON-692",
+        "CF-CON-693",
+        "CF-CON-694",
+        "CF-CON-695",
+        "CF-CON-696"
+      ],
+      "byte_size": 5619
     }
   ],
   "indexes": {

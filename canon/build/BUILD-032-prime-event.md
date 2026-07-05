@@ -9,7 +9,7 @@
 
 > **First story-specific BUILD.** Not mechanics · not philosophy — **the secret** that has been true since before page one. Renamed from queued **Rules of Time** *(BUILD-009 already defines experienced time)*.
 
-**Composing phase** *(BUILD-032+)*. Next: **BUILD-033 Central Mystery** *(queued)*.
+**Composing phase** *(BUILD-032+)*. Next: **BUILD-033 Color Language** *(Phase II.5 · Roadmap v2)*.
 
 ---
 
@@ -178,12 +178,11 @@ The central revelation becomes something they **genuinely create within their ow
 |---|---|
 | Universal framework (001–031) | **Complete** |
 | **This story's Prime Event** | **Framework frozen · event not yet populated** |
-| BUILD-033 Central Mystery | Queued |
-| BUILD-034 Human Story | Queued |
-| BUILD-035 The Ending | Queued |
-| BUILD-036 The Opening | Queued |
+| BUILD-033–044 Design Language | Queued · **NEXT** |
+| BUILD-045 Protagonist Engine | Queued |
+| BUILD-046–052 Story Genome | Queued |
 
-→ **BUILD-033 Central Mystery** *(queued)*
+→ **BUILD-033 Color Language** *(Phase II.5 · queued)* · [CHRONOFORGE_ROADMAP.md](../../architecture/CHRONOFORGE_ROADMAP.md)
 
 ---
 

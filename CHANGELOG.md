@@ -3,6 +3,18 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [2.12.0] — 2026-07-05
+
+### Added
+- CF-ENTRY-072: Chronoforge Roadmap v2 — phase restructure
+- Concepts CF-CON-685 through CF-CON-696
+- [architecture/CHRONOFORGE_ROADMAP.md](architecture/CHRONOFORGE_ROADMAP.md) — authoritative BUILD-033+ registry
+- **Phase II.5 Design Language** (BUILD-033–044) inserted before Story Genome
+- **80–120 BUILD projection** · narrative engineering discipline
+- **Design language before characters** gate (CF-CON-691)
+- Story Genome renumbered BUILD-045–052 · prose gate BUILD-073+
+- CHRONOFORGE_PHASES v2.0 · Project v0.4.0
+
 ## [2.11.0] — 2026-07-05
 
 ### Added

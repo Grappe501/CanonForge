@@ -42,6 +42,9 @@
 | 2026-07-05 | Master Build Roadmap v1.0 | CF-ENTRY-035 session pause | CF-CON-150–155 |
 | 2026-07-05 | BUILD-001–013 frozen v1.0 | Foundational canon complete | CF-CON-156–320 |
 | 2026-07-05 | BUILD-014 Elements of Meaning | Supersedes Periodic Table stub | CF-CON-170 |
+| 2026-07-05 | Chronoforge Roadmap v2 | Phase II.5 Design Language before Story Genome | CF-CON-692 |
+| 2026-07-05 | 80-120 BUILD scale | Narrative engineering discipline projection | CF-CON-688 |
+| 2026-07-05 | Design language before characters | BUILD-033-044 before protagonist | CF-CON-691 |
 | 2026-07-05 | BUILD-032 Prime Event v1.0 | Ten shadows · first story-specific · renamed from Rules of Time | CF-CON-665–684 |
 | 2026-07-05 | Rules of Time renamed Prime Event | BUILD-009 covers time; BUILD-032 is this story secret | CF-CON-677 |
 | 2026-07-05 | BUILD-031 Secret History v1.0 | Three histories · history ledger · instrument complete | CF-CON-645–664 |

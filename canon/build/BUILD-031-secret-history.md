@@ -9,7 +9,7 @@
 
 > **Hidden truth before hidden clues.** Every mystery traces back here. This document is **never published** — the private history from which the entire novel grows.
 
-**Instrument complete** *(BUILD-001–031)*. **BUILD-032 Prime Event** *(✓ v1.0 · AUTHOR-ONLY)*. Next: **BUILD-033 Central Mystery**.
+**Instrument complete** *(BUILD-001–031)*. **BUILD-032 Prime Event** *(✓ v1.0 · AUTHOR-ONLY)*. Next: **BUILD-033 Color Language** *(Phase II.5 Design Language)*.
 
 ---
 
@@ -198,20 +198,21 @@ Next builds create **unique story identity**:
 |---|---|
 | True origin event · hidden chronology | **032** Prime Event *(populate)* |
 | Rules governing time in this story | **009** Grammar of Time *(universal · already frozen)* |
-| Central governing mystery | **033** Central Mystery |
+| Central governing mystery | **045+** Story Genome *(was 033 Central Mystery)* |
+| Design vocabulary | **033–044** Phase II.5 *(before protagonists · CF-CON-691)* |
 | Actual consciousnesses | **034** Human Story |
 | Unseen convergence | **035** The Ending |
 | Where the story begins | **036** The Opening |
 
 *(Gates: Book of Secrets · OPEN_QUESTIONS story substrate · Phase Four lives)*
 
-→ **BUILD-032 Prime Event** *(✓ v1.0 · AUTHOR-ONLY)* · **BUILD-033 Central Mystery** *(queued)*
+→ **BUILD-032 Prime Event** *(✓ v1.0 · AUTHOR-ONLY)* · **BUILD-033 Color Language** *(Phase II.5 · queued)*
 
 ---
 
-## BUILD-033 preview *(CF-ENTRY-071)*
+## BUILD-033 preview *(CF-ENTRY-072 · Roadmap v2)*
 
-→ **BUILD-033 Central Mystery** — governing gap all others orbit *(Composing phase · queued)*
+→ **BUILD-033 Color Language** — first atomic design vocabulary *(Phase II.5 · before protagonists)*
 
 ---
 
