@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 2.14.0 · 2026-07-05 · 736 concepts registered
+> Version 2.15.0 · 2026-07-05 · 756 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -697,7 +697,7 @@
 | CF-CON-691 | Design language before characters | Governance | **Frozen** | Atomic vocabulary before protagonist. | CF-ENTRY-072 |
 | CF-CON-692 | Chronoforge roadmap v2 | Governance | **Frozen** | Seven phases plus II.5; renumber 033+. | CF-ENTRY-072 |
 | CF-CON-693 | Protagonist Engine superseded | Architecture | **Deprecated** | Replaced by BUILD-033 First Consciousness. | CF-ENTRY-072, CF-ENTRY-073 |
-| CF-CON-694 | Antagonist as alternate answer | Theme | **Open** | Coherent answer to central question. | CF-ENTRY-072 |
+| CF-CON-694 | Antagonist as alternate answer | Theme | **Deprecated** | Superseded by Opposing Consciousness BUILD-035. | CF-ENTRY-072, CF-ENTRY-075 |
 | CF-CON-695 | Movement Engine queued | Architecture | **Open** | BUILD-051 symphony movements not chapters. | CF-ENTRY-072 |
 | CF-CON-696 | Canonical edition audit stack | Process | **Open** | Phase VI BUILD-063-072 QA audits. | CF-ENTRY-072 |
 | CF-CON-697 | First Consciousness | Architecture | **Frozen** | Primary lens; architecture of awareness not profile. | CF-ENTRY-073 |
@@ -740,6 +740,26 @@
 | CF-CON-734 | Which consciousness understood differently | Heart | **Frozen** | Deeper than favorite character question. | CF-ENTRY-074 |
 | CF-CON-735 | Empathy through reread | Mission | **Frozen** | Revise understanding of people not events. | CF-ENTRY-074 |
 | CF-CON-736 | Many lives intersecting | Mission | **Frozen** | Not one life with supporting characters. | CF-ENTRY-074 |
+| CF-CON-737 | Opposing Consciousness | Architecture | **Frozen** | Primary resistance; incompleteness not cruelty. | CF-ENTRY-075 |
+| CF-CON-738 | Opposing first law | Governance | **Frozen** | Never sees self as villain; choices make sense. | CF-ENTRY-075 |
+| CF-CON-739 | Foundational belief | Architecture | **Frozen** | Lived conviction; two answers to central question. | CF-ENTRY-075 |
+| CF-CON-740 | Partial truth opposition | Architecture | **Frozen** | Right about something; moral gravity not caricature. | CF-ENTRY-075 |
+| CF-CON-741 | Opposing blind spot | Architecture | **Frozen** | Human limitation generates conflict. | CF-ENTRY-075 |
+| CF-CON-742 | Opposing mirror | Architecture | **Frozen** | First and opposing mirror; symmetric answers. | CF-ENTRY-075 |
+| CF-CON-743 | Cost of certainty | Theme | **Frozen** | Certainty blinds; compassion not ridicule. | CF-ENTRY-075 |
+| CF-CON-744 | Humanization rule | Governance | **Frozen** | Joy loss beauty; not defined by conflict. | CF-ENTRY-075 |
+| CF-CON-745 | Moment of understanding | Heart | **Frozen** | Reader understands opposing more than protagonist. | CF-ENTRY-075 |
+| CF-CON-746 | Possibility of change | Architecture | **Frozen** | Capacity for change preserves humanity. | CF-ENTRY-075 |
+| CF-CON-747 | True adversary incompleteness | Theme | **Frozen** | Illusion perspective complete; not another person. | CF-ENTRY-075 |
+| CF-CON-748 | Opposition ledger record | Architecture | **Frozen** | Ten fields per opposing consciousness. | CF-ENTRY-075 |
+| CF-CON-749 | Opposing final principle | Mission | **Frozen** | Understand why they became; accountability remains. | CF-ENTRY-075 |
+| CF-CON-750 | Antagonist Engine superseded | Architecture | **Deprecated** | Replaced by Opposing Consciousness BUILD-035. | CF-ENTRY-072, CF-ENTRY-075 |
+| CF-CON-751 | Opposition not cruelty | Governance | **Frozen** | Resistance to different understanding not evil. | CF-ENTRY-075 |
+| CF-CON-752 | Collision of understandings | Mission | **Frozen** | Opposition as incomplete views not good evil. | CF-ENTRY-075 |
+| CF-CON-753 | No single villain | Theme | **Frozen** | People cultures memories colliding not one villain. | CF-ENTRY-075 |
+| CF-CON-754 | Partial truth whole truth question | Heart | **Frozen** | Where in my life mistaken partial for whole. | CF-ENTRY-075 |
+| CF-CON-755 | Lifelong invitation conflict | Mission | **Frozen** | Central conflict continues beyond last chapter. | CF-ENTRY-075 |
+| CF-CON-756 | Antagonist Certainty embodied | Theme | **Frozen** | BUILD-003 Certainty at opposing consciousness scale. | CF-ENTRY-075 |
 
 ## Related Concepts
 
@@ -1436,7 +1456,7 @@
 - **CF-CON-691** (Design language before characters, Frozen): CF-CON-687, CF-CON-545 → `architecture/CHRONOFORGE_ROADMAP.md`
 - **CF-CON-692** (Chronoforge roadmap v2, Frozen): CF-CON-360, CF-CON-688 → `architecture/CHRONOFORGE_ROADMAP.md`
 - **CF-CON-693** (Protagonist Engine superseded, Deprecated): CF-CON-697, CF-CON-713 → `canon/build/BUILD-033-first-consciousness.md`
-- **CF-CON-694** (Antagonist as alternate answer, Open): CF-CON-003, CF-CON-697 → `architecture/CHRONOFORGE_ROADMAP.md`
+- **CF-CON-694** (Antagonist as alternate answer, Deprecated): CF-CON-737, CF-CON-750 → `canon/build/BUILD-035-opposing-consciousness.md`
 - **CF-CON-695** (Movement Engine queued, Open): CF-CON-059, CF-CON-524 → `architecture/CHRONOFORGE_ROADMAP.md`
 - **CF-CON-696** (Canonical edition audit stack, Open): CF-CON-132, CF-CON-116 → `architecture/CHRONOFORGE_ROADMAP.md`
 - **CF-CON-697** (First Consciousness, Frozen): CF-CON-364, CF-CON-713, CF-CON-716 → `canon/build/BUILD-033-first-consciousness.md`
@@ -1479,3 +1499,23 @@
 - **CF-CON-734** (Which consciousness understood differently, Frozen): CF-CON-735, CF-CON-176 → `canon/build/BUILD-034-constellation-of-consciousnesses.md`
 - **CF-CON-735** (Empathy through reread, Frozen): CF-CON-734, CF-CON-007 → `canon/build/BUILD-034-constellation-of-consciousnesses.md`
 - **CF-CON-736** (Many lives intersecting, Frozen): CF-CON-717, CF-CON-545 → `canon/build/BUILD-034-constellation-of-consciousnesses.md#0340--purpose`
+- **CF-CON-737** (Opposing Consciousness, Frozen): CF-CON-697, CF-CON-003, CF-CON-752 → `canon/build/BUILD-035-opposing-consciousness.md`
+- **CF-CON-738** (Opposing first law, Frozen): CF-CON-737, CF-CON-735 → `canon/build/BUILD-035-opposing-consciousness.md#0351--the-first-law`
+- **CF-CON-739** (Foundational belief, Frozen): CF-CON-737, CF-CON-699 → `canon/build/BUILD-035-opposing-consciousness.md#0352--the-foundational-belief`
+- **CF-CON-740** (Partial truth opposition, Frozen): CF-CON-737, CF-CON-650 → `canon/build/BUILD-035-opposing-consciousness.md#0353--the-partial-truth`
+- **CF-CON-741** (Opposing blind spot, Frozen): CF-CON-737, CF-CON-700 → `canon/build/BUILD-035-opposing-consciousness.md#0354--the-blind-spot`
+- **CF-CON-742** (Opposing mirror, Frozen): CF-CON-737, CF-CON-697 → `canon/build/BUILD-035-opposing-consciousness.md#0355--the-mirror`
+- **CF-CON-743** (Cost of certainty, Frozen): CF-CON-737, CF-CON-003 → `canon/build/BUILD-035-opposing-consciousness.md#0356--the-cost-of-certainty`
+- **CF-CON-744** (Humanization rule, Frozen): CF-CON-737, CF-CON-145 → `canon/build/BUILD-035-opposing-consciousness.md#0357--the-humanization-rule`
+- **CF-CON-745** (Moment of understanding, Frozen): CF-CON-737, CF-CON-002 → `canon/build/BUILD-035-opposing-consciousness.md#0358--the-moment-of-understanding`
+- **CF-CON-746** (Possibility of change, Frozen): CF-CON-737, CF-CON-710 → `canon/build/BUILD-035-opposing-consciousness.md#0359--the-possibility-of-change`
+- **CF-CON-747** (True adversary incompleteness, Frozen): CF-CON-737, CF-CON-003 → `canon/build/BUILD-035-opposing-consciousness.md#03510--the-true-adversary`
+- **CF-CON-748** (Opposition ledger record, Frozen): CF-CON-737, CF-CON-729 → `canon/build/BUILD-035-opposing-consciousness.md#03511--the-opposition-ledger`
+- **CF-CON-749** (Opposing final principle, Frozen): CF-CON-737, CF-CON-659 → `canon/build/BUILD-035-opposing-consciousness.md#03512--the-final-principle`
+- **CF-CON-750** (Antagonist Engine superseded, Deprecated): CF-CON-737, CF-CON-694 → `canon/build/BUILD-035-opposing-consciousness.md`
+- **CF-CON-751** (Opposition not cruelty, Frozen): CF-CON-737, CF-CON-401 → `canon/build/BUILD-035-opposing-consciousness.md#0350--purpose`
+- **CF-CON-752** (Collision of understandings, Frozen): CF-CON-737, CF-CON-647 → `canon/build/BUILD-035-opposing-consciousness.md`
+- **CF-CON-753** (No single villain, Frozen): CF-CON-752, CF-CON-003 → `canon/build/BUILD-035-opposing-consciousness.md`
+- **CF-CON-754** (Partial truth whole truth question, Frozen): CF-CON-753, CF-CON-171 → `canon/build/BUILD-035-opposing-consciousness.md`
+- **CF-CON-755** (Lifelong invitation conflict, Frozen): CF-CON-754, CF-CON-176 → `canon/build/BUILD-035-opposing-consciousness.md`
+- **CF-CON-756** (Antagonist Certainty embodied, Frozen): CF-CON-737, CF-CON-003 → `canon/build/BUILD-035-opposing-consciousness.md#03510--the-true-adversary`

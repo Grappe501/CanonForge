@@ -32,7 +32,7 @@ We did not build a novel. We built a **theory of storytelling** — an operating
 | **One** | The Philosophy + Engineering Schema | **✓ COMPLETE** (BUILD-001–015) |
 | **Two** | Engineering Documents | **✓ COMPLETE** (BUILD-016–032 · engine room) |
 | **II.5** | Design Language | **Deferred** |
-| **Three** | Story Genome | **Active** (033–034 ✓ · BUILD-035+ queued) |
+| **Three** | Story Genome | **Active** (033–035 ✓ · BUILD-036+ queued) |
 | **Four–Six** | Five Reads · Score · Canonical Edition | Queued (BUILD-053–072) |
 | **Seven** | The Novel | Queued · prose authorized BUILD-073+ |
 
@@ -135,13 +135,14 @@ We did not build a novel. We built a **theory of storytelling** — an operating
 | **016–025** | Engineering documents | **✓ v1.0** |
 | **026–032** | World through Prime Event | **✓ v1.0** · 031–032 AUTHOR-ONLY |
 
-### Phase III — Story Genome (BUILD-033–034 ✓ · 035+ queued)
+### Phase III — Story Genome (BUILD-033–035 ✓ · 036+ queued)
 
 | BUILD | Title | Status |
 |---|---|---|
 | **033** | The First Consciousness | **✓ v1.0** · CF-ENTRY-073 |
 | **034** | Constellation of Consciousnesses | **✓ v1.0** · CF-ENTRY-074 |
-| **035** | Antagonist Engine | Queued · **NEXT** |
+| **035** | **The Opposing Consciousness** | **✓ v1.0** · CF-ENTRY-075 |
+| **036** | Relationship Engine | Queued · **NEXT** |
 
 | BUILD | Title |
 |---|---|
@@ -275,7 +276,7 @@ Build Bible v1.0 requires:
 
 ## 015.5.11 — What happens next
 
-**Do not proceed to BUILD-035** until BUILD-015.5 reaches v1.0 *(BUILD-016–034 excepted per author uploads)*.
+**Do not proceed to BUILD-036** until BUILD-015.5 reaches v1.0 *(BUILD-016–035 excepted per author uploads)*.
 
 Next passes expand this document into the full 100–200 page Build Bible:
 
@@ -285,7 +286,7 @@ Next passes expand this document into the full 100–200 page Build Bible:
 4. Master data dictionary (elements · symbols · echo IDs)
 5. Execution index (which BUILD when · blocking rules)
 
-When v1.0 ships — **Story Genome** continues with **BUILD-035 Antagonist Engine**.
+When v1.0 ships — **Story Genome** continues with **BUILD-036 Relationship Engine**.
 
 ---
 

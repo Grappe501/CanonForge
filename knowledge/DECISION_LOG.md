@@ -42,6 +42,8 @@
 | 2026-07-05 | Master Build Roadmap v1.0 | CF-ENTRY-035 session pause | CF-CON-150–155 |
 | 2026-07-05 | BUILD-001–013 frozen v1.0 | Foundational canon complete | CF-CON-156–320 |
 | 2026-07-05 | BUILD-014 Elements of Meaning | Supersedes Periodic Table stub | CF-CON-170 |
+| 2026-07-05 | BUILD-035 Opposing Consciousness v1.0 | Incompleteness not villainy · no single villain | CF-CON-737–756 |
+| 2026-07-05 | Antagonist Engine superseded | Opposing Consciousness replaces antagonist | CF-CON-750 |
 | 2026-07-05 | BUILD-034 Constellation v1.0 | Five functions · illuminate not complete | CF-CON-717–736 |
 | 2026-07-05 | Companion Engine superseded | Constellation replaces companion metaphor | CF-CON-732 |
 | 2026-07-05 | BUILD-033 First Consciousness v1.0 | Revealed not created · experience not labels | CF-CON-697–716 |

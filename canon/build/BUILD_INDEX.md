@@ -25,8 +25,8 @@ BUILD-029                             → Phase Three **v1.0**
 BUILD-030                             → Phase Three **v1.0** · Universal Architecture **complete**
 BUILD-031                             → Phase Three **v1.0** · **AUTHOR-ONLY**
 BUILD-032                             → Phase II **v1.0** · **AUTHOR-ONLY**
-BUILD-034                             → Phase III **v1.0**
-BUILD-035+                            → Story Genome cont. · queued
+BUILD-035                             → Phase III **v1.0**
+BUILD-036+                            → Story Genome cont. · queued
 architecture/                         → expanded specs (derived · cross-ref)
 knowledge/entries/                    → verbatim source uploads
 ```
@@ -78,7 +78,8 @@ knowledge/entries/                    → verbatim source uploads
 | **032** | The Prime Event | **1.0** | **Frozen · AUTHOR-ONLY** | 071 | CF-CON-665–684 | [BUILD-032](BUILD-032-prime-event.md) |
 | **033** | The First Consciousness | **1.0** | **Frozen** | 073 | CF-CON-697–716 | [BUILD-033](BUILD-033-first-consciousness.md) |
 | **034** | Constellation of Consciousnesses | **1.0** | **Frozen** | 074 | CF-CON-717–736 | [BUILD-034](BUILD-034-constellation-of-consciousnesses.md) |
-| **035–072** | Roadmap v2 phases | — | **Queued** | — | — | [CHRONOFORGE_ROADMAP](../architecture/CHRONOFORGE_ROADMAP.md) |
+| **035** | The Opposing Consciousness | **1.0** | **Frozen** | 075 | CF-CON-737–756 | [BUILD-035](BUILD-035-opposing-consciousness.md) |
+| **036–072** | Roadmap v2 phases | — | **Queued** | — | — | [CHRONOFORGE_ROADMAP](../architecture/CHRONOFORGE_ROADMAP.md) |
 
 ---
 
@@ -126,7 +127,7 @@ knowledge/entries/                    → verbatim source uploads
 | 031 Secret History | Three histories · history ledger · **AUTHOR-ONLY** · instrument complete |
 | 032 Prime Event | Ten shadows · **AUTHOR-ONLY** · first story-specific |
 | 033 First Consciousness | Consciousness revealed · experience not labels |
-| 034 Constellation | Independent minds · illuminate not complete · empathy reread |
+| 035 Opposing Consciousness | Incompleteness not villainy · partial truth · no single villain |
 
 ---
 

@@ -1,7 +1,7 @@
-# Master Canon v1.5.8
+# Master Canon v1.5.9
 
-> **BUILD-034:** Constellation of Consciousnesses · illuminate one another · empathy reread
-> Supersedes v1.5.7 (2026-07-05 · BUILD-034 CF-ENTRY-074 · CanonForge 2.14.0)
+> **BUILD-035:** Opposing Consciousness · incompleteness not villainy · no single villain
+> Supersedes v1.5.8 (2026-07-05 · BUILD-035 CF-ENTRY-075 · CanonForge 2.15.0)
 
 ---
 
@@ -42,11 +42,11 @@ Key locked insights:
 | **Four Pillars** | Strengthen ≥1 of Wonder · **Connection** · Resonance · Transformation? | BUILD-003 v1.0 |
 | Seven Laws | Immutable · complies with BUILD-004 v1.0? | BUILD-004 |
 
-**Stack:** BUILD-001 = *why* · … · **033 = *first consciousness lens*** · **034 = *constellation not companions***
+**Stack:** BUILD-001 = *why* · … · **034 = *constellation*** · **035 = *opposition as incompleteness***
 
-→ [build/BUILD-034-constellation-of-consciousnesses.md](build/BUILD-034-constellation-of-consciousnesses.md) · Five Functions · Constellation Ledger · Empathy Reread
+→ [build/BUILD-035-opposing-consciousness.md](build/BUILD-035-opposing-consciousness.md) · Partial Truth · True Adversary · No Single Villain
 
-→ [build/BUILD-033-first-consciousness.md](build/BUILD-033-first-consciousness.md) · Consciousness Profile · Reader Mirror
+→ [build/BUILD-034-constellation-of-consciousnesses.md](build/BUILD-034-constellation-of-consciousnesses.md) · Five Functions · Constellation Ledger
 
 → [build/BUILD-030-cosmology-engine.md](build/BUILD-030-cosmology-engine.md) · Cosmic Ledger · Mystery Permanent · Universal Architecture Complete
 
@@ -264,6 +264,12 @@ Possibility under consideration: **never shown directly** — reader **assembles
 
 > **Many lives briefly intersecting** *(CF-CON-736)* — not supporting characters. First star we notice, not main star *(CF-CON-733)*. Deeper question: **which consciousness do I understand differently now?** *(CF-CON-734 · CF-CON-735 empathy reread)*.
 
+### Opposing Consciousness immutable law (CF-CON-737 · BUILD-035)
+
+> **The deepest conflicts are born when sincere people mistake partial truth for the whole truth.**
+
+> **No single villain** *(CF-CON-753)* — collisions of incomplete understandings. True adversary: illusion that **one's perspective is complete** *(CF-CON-747 · CF-CON-003 Antagonist Certainty)*. Reader asked: *"Where in my own life have I mistaken partial truth for whole?"* *(CF-CON-754 · CF-CON-755)*.
+
 ### Cosmology immutable law (CF-CON-625 · BUILD-030)
 
 > **The universe is not a machine to be solved. It is a reality to be explored.**
@@ -276,7 +282,7 @@ Final question: **"How should conscious beings live within a universe they can n
 
 **Secret History** *(BUILD-031 · CF-CON-645 · AUTHOR-ONLY)* — hidden chronology framework. Populated events never reader-facing. See protected BUILD doc — not cited in surface canon.
 
-**Story Genome active** *(BUILD-033–034 · CF-CON-697 · CF-CON-717)*. Next: **BUILD-035 Antagonist Engine**. → [architecture/CHRONOFORGE_ROADMAP.md](../architecture/CHRONOFORGE_ROADMAP.md)
+**Story Genome active** *(BUILD-033–035 · CF-CON-697 · CF-CON-717 · CF-CON-737)*. Next: **BUILD-036 Relationship Engine**.
 
 ### Visual Grammar (CF-CON-080 · CF-CON-081)
 

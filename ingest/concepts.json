@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "canonforge_version": "2.14.0",
-  "generated_at": "2026-07-05T22:41:37.750945+00:00",
+  "generated_at": "2026-07-05T22:45:27.646104+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -7680,12 +7680,13 @@
       "id": "CF-CON-694",
       "label": "Antagonist as alternate answer",
       "category": "Theme",
-      "status": "Open",
-      "definition": "Coherent answer to central question.",
+      "status": "Deprecated",
+      "definition": "Superseded by Opposing Consciousness BUILD-035.",
       "sources": [
-        "CF-ENTRY-072"
+        "CF-ENTRY-072",
+        "CF-ENTRY-075"
       ],
-      "canon_ref": "architecture/CHRONOFORGE_ROADMAP.md"
+      "canon_ref": "canon/build/BUILD-035-opposing-consciousness.md"
     },
     {
       "id": "CF-CON-695",
@@ -8149,6 +8150,227 @@
         "CF-ENTRY-074"
       ],
       "canon_ref": "canon/build/BUILD-034-constellation-of-consciousnesses.md#0340--purpose"
+    },
+    {
+      "id": "CF-CON-737",
+      "label": "Opposing Consciousness",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Primary resistance; incompleteness not cruelty.",
+      "sources": [
+        "CF-ENTRY-075"
+      ],
+      "canon_ref": "canon/build/BUILD-035-opposing-consciousness.md"
+    },
+    {
+      "id": "CF-CON-738",
+      "label": "Opposing first law",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Never sees self as villain; choices make sense.",
+      "sources": [
+        "CF-ENTRY-075"
+      ],
+      "canon_ref": "canon/build/BUILD-035-opposing-consciousness.md#0351--the-first-law"
+    },
+    {
+      "id": "CF-CON-739",
+      "label": "Foundational belief",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Lived conviction; two answers to central question.",
+      "sources": [
+        "CF-ENTRY-075"
+      ],
+      "canon_ref": "canon/build/BUILD-035-opposing-consciousness.md#0352--the-foundational-belief"
+    },
+    {
+      "id": "CF-CON-740",
+      "label": "Partial truth opposition",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Right about something; moral gravity not caricature.",
+      "sources": [
+        "CF-ENTRY-075"
+      ],
+      "canon_ref": "canon/build/BUILD-035-opposing-consciousness.md#0353--the-partial-truth"
+    },
+    {
+      "id": "CF-CON-741",
+      "label": "Opposing blind spot",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Human limitation generates conflict.",
+      "sources": [
+        "CF-ENTRY-075"
+      ],
+      "canon_ref": "canon/build/BUILD-035-opposing-consciousness.md#0354--the-blind-spot"
+    },
+    {
+      "id": "CF-CON-742",
+      "label": "Opposing mirror",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "First and opposing mirror; symmetric answers.",
+      "sources": [
+        "CF-ENTRY-075"
+      ],
+      "canon_ref": "canon/build/BUILD-035-opposing-consciousness.md#0355--the-mirror"
+    },
+    {
+      "id": "CF-CON-743",
+      "label": "Cost of certainty",
+      "category": "Theme",
+      "status": "Frozen",
+      "definition": "Certainty blinds; compassion not ridicule.",
+      "sources": [
+        "CF-ENTRY-075"
+      ],
+      "canon_ref": "canon/build/BUILD-035-opposing-consciousness.md#0356--the-cost-of-certainty"
+    },
+    {
+      "id": "CF-CON-744",
+      "label": "Humanization rule",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Joy loss beauty; not defined by conflict.",
+      "sources": [
+        "CF-ENTRY-075"
+      ],
+      "canon_ref": "canon/build/BUILD-035-opposing-consciousness.md#0357--the-humanization-rule"
+    },
+    {
+      "id": "CF-CON-745",
+      "label": "Moment of understanding",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Reader understands opposing more than protagonist.",
+      "sources": [
+        "CF-ENTRY-075"
+      ],
+      "canon_ref": "canon/build/BUILD-035-opposing-consciousness.md#0358--the-moment-of-understanding"
+    },
+    {
+      "id": "CF-CON-746",
+      "label": "Possibility of change",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Capacity for change preserves humanity.",
+      "sources": [
+        "CF-ENTRY-075"
+      ],
+      "canon_ref": "canon/build/BUILD-035-opposing-consciousness.md#0359--the-possibility-of-change"
+    },
+    {
+      "id": "CF-CON-747",
+      "label": "True adversary incompleteness",
+      "category": "Theme",
+      "status": "Frozen",
+      "definition": "Illusion perspective complete; not another person.",
+      "sources": [
+        "CF-ENTRY-075"
+      ],
+      "canon_ref": "canon/build/BUILD-035-opposing-consciousness.md#03510--the-true-adversary"
+    },
+    {
+      "id": "CF-CON-748",
+      "label": "Opposition ledger record",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Ten fields per opposing consciousness.",
+      "sources": [
+        "CF-ENTRY-075"
+      ],
+      "canon_ref": "canon/build/BUILD-035-opposing-consciousness.md#03511--the-opposition-ledger"
+    },
+    {
+      "id": "CF-CON-749",
+      "label": "Opposing final principle",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Understand why they became; accountability remains.",
+      "sources": [
+        "CF-ENTRY-075"
+      ],
+      "canon_ref": "canon/build/BUILD-035-opposing-consciousness.md#03512--the-final-principle"
+    },
+    {
+      "id": "CF-CON-750",
+      "label": "Antagonist Engine superseded",
+      "category": "Architecture",
+      "status": "Deprecated",
+      "definition": "Replaced by Opposing Consciousness BUILD-035.",
+      "sources": [
+        "CF-ENTRY-072",
+        "CF-ENTRY-075"
+      ],
+      "canon_ref": "canon/build/BUILD-035-opposing-consciousness.md"
+    },
+    {
+      "id": "CF-CON-751",
+      "label": "Opposition not cruelty",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Resistance to different understanding not evil.",
+      "sources": [
+        "CF-ENTRY-075"
+      ],
+      "canon_ref": "canon/build/BUILD-035-opposing-consciousness.md#0350--purpose"
+    },
+    {
+      "id": "CF-CON-752",
+      "label": "Collision of understandings",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Opposition as incomplete views not good evil.",
+      "sources": [
+        "CF-ENTRY-075"
+      ],
+      "canon_ref": "canon/build/BUILD-035-opposing-consciousness.md"
+    },
+    {
+      "id": "CF-CON-753",
+      "label": "No single villain",
+      "category": "Theme",
+      "status": "Frozen",
+      "definition": "People cultures memories colliding not one villain.",
+      "sources": [
+        "CF-ENTRY-075"
+      ],
+      "canon_ref": "canon/build/BUILD-035-opposing-consciousness.md"
+    },
+    {
+      "id": "CF-CON-754",
+      "label": "Partial truth whole truth question",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Where in my life mistaken partial for whole.",
+      "sources": [
+        "CF-ENTRY-075"
+      ],
+      "canon_ref": "canon/build/BUILD-035-opposing-consciousness.md"
+    },
+    {
+      "id": "CF-CON-755",
+      "label": "Lifelong invitation conflict",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Central conflict continues beyond last chapter.",
+      "sources": [
+        "CF-ENTRY-075"
+      ],
+      "canon_ref": "canon/build/BUILD-035-opposing-consciousness.md"
+    },
+    {
+      "id": "CF-CON-756",
+      "label": "Antagonist Certainty embodied",
+      "category": "Theme",
+      "status": "Frozen",
+      "definition": "BUILD-003 Certainty at opposing consciousness scale.",
+      "sources": [
+        "CF-ENTRY-075"
+      ],
+      "canon_ref": "canon/build/BUILD-035-opposing-consciousness.md#03510--the-true-adversary"
     }
   ],
   "edges": [
@@ -14679,12 +14901,12 @@
     },
     {
       "from": "CF-CON-694",
-      "to": "CF-CON-003",
+      "to": "CF-CON-737",
       "type": "related"
     },
     {
       "from": "CF-CON-694",
-      "to": "CF-CON-697",
+      "to": "CF-CON-750",
       "type": "related"
     },
     {
@@ -15115,6 +15337,211 @@
     {
       "from": "CF-CON-736",
       "to": "CF-CON-545",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-737",
+      "to": "CF-CON-697",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-737",
+      "to": "CF-CON-003",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-737",
+      "to": "CF-CON-752",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-738",
+      "to": "CF-CON-737",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-738",
+      "to": "CF-CON-735",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-739",
+      "to": "CF-CON-737",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-739",
+      "to": "CF-CON-699",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-740",
+      "to": "CF-CON-737",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-740",
+      "to": "CF-CON-650",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-741",
+      "to": "CF-CON-737",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-741",
+      "to": "CF-CON-700",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-742",
+      "to": "CF-CON-737",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-742",
+      "to": "CF-CON-697",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-743",
+      "to": "CF-CON-737",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-743",
+      "to": "CF-CON-003",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-744",
+      "to": "CF-CON-737",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-744",
+      "to": "CF-CON-145",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-745",
+      "to": "CF-CON-737",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-745",
+      "to": "CF-CON-002",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-746",
+      "to": "CF-CON-737",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-746",
+      "to": "CF-CON-710",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-747",
+      "to": "CF-CON-737",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-747",
+      "to": "CF-CON-003",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-748",
+      "to": "CF-CON-737",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-748",
+      "to": "CF-CON-729",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-749",
+      "to": "CF-CON-737",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-749",
+      "to": "CF-CON-659",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-750",
+      "to": "CF-CON-737",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-750",
+      "to": "CF-CON-694",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-751",
+      "to": "CF-CON-737",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-751",
+      "to": "CF-CON-401",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-752",
+      "to": "CF-CON-737",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-752",
+      "to": "CF-CON-647",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-753",
+      "to": "CF-CON-752",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-753",
+      "to": "CF-CON-003",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-754",
+      "to": "CF-CON-753",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-754",
+      "to": "CF-CON-171",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-755",
+      "to": "CF-CON-754",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-755",
+      "to": "CF-CON-176",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-756",
+      "to": "CF-CON-737",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-756",
+      "to": "CF-CON-003",
       "type": "related"
     }
   ]

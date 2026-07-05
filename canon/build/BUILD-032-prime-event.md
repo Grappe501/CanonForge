@@ -9,7 +9,7 @@
 
 > **First story-specific BUILD.** Not mechanics · not philosophy — **the secret** that has been true since before page one. Renamed from queued **Rules of Time** *(BUILD-009 already defines experienced time)*.
 
-**Composing phase** *(BUILD-032+)*. **BUILD-033–034** *(✓ v1.0)*. Next: **BUILD-035 Antagonist Engine**.
+**Composing phase** *(BUILD-032+)*. **BUILD-033–035** *(✓ v1.0)*. Next: **BUILD-036 Relationship Engine**.
 
 ---
 
@@ -179,9 +179,10 @@ The central revelation becomes something they **genuinely create within their ow
 | Universal framework (001–031) | **Complete** |
 | **This story's Prime Event** | **Framework frozen · event not yet populated** |
 | BUILD-034 Constellation | **✓ v1.0** |
-| BUILD-035 Antagonist Engine | Queued · **NEXT** |
+| BUILD-035 Opposing Consciousness | **✓ v1.0** |
+| BUILD-036 Relationship Engine | Queued · **NEXT** |
 
-→ **BUILD-035 Antagonist Engine** *(queued)*
+→ **BUILD-036 Relationship Engine** *(queued)*
 
 ---
 

@@ -74,14 +74,14 @@ Architecture must now give birth to the actual story. **BUILD-026 World Engine v
 
 Gravitational center: **How do separate consciousnesses discover that they belong to the same reality?** *(CF-CON-549)*
 
-Concrete questions for Story Genome (BUILD-035+):
+Concrete questions for Story Genome (BUILD-036+):
 
-- **BUILD-035 Antagonist Engine** — coherent alternate answer to central question *(CF-CON-694)*
-- **Populate Constellation ledger** — major consciousness profiles *(CF-CON-729)*
-- **Design Language phase** — deferred *(Color through Naming · CF-CON-687)*
-- **Which consciousness understood differently** — empathy reread target *(CF-CON-734)*
+- **BUILD-036 Relationship Engine** — every evolution · fracture · repair *(queued)*
+- **Populate Opposition ledger** — foundational belief · partial truth · blind spot *(CF-CON-748)*
+- **Where partial truth mistaken for whole** — reader lifelong question *(CF-CON-754)*
+- **Design Language phase** — deferred *(CF-CON-687)*
 
-BUILD-034 establishes **constellation architecture** — no consciousness exists to complete another.
+BUILD-035 establishes **opposition as collision of incomplete understandings** — true adversary is illusion of complete perspective *(CF-CON-747)*.
 
 ## Hidden mathematics {#hidden-math}
 

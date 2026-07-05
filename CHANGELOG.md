@@ -3,6 +3,17 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [2.15.0] — 2026-07-05
+
+### Added
+- CF-ENTRY-075: BUILD-035 The Opposing Consciousness Canonical v1.0
+- Concepts CF-CON-737 through CF-CON-756
+- Partial truth · blind spot · opposition ledger · true adversary is incompleteness
+- **No single villain** · collision of incomplete understandings
+- **Partial truth for whole truth** — reader lifelong question (CF-CON-754–755)
+- Antagonist Engine superseded (CF-CON-750); aligns Antagonist Certainty (CF-CON-003)
+- Master Canon v1.5.9
+
 ## [2.14.0] — 2026-07-05
 
 ### Added

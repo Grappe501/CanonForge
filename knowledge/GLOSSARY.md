@@ -88,7 +88,9 @@
 | **Identity through experience** | Not labels; notice remember hope | CF-CON-714 |
 | **Constellation of Consciousnesses** | Independent minds illuminate one another | CF-CON-717 |
 | **Empathy through reread** | Revise understanding of people | CF-CON-735 |
-| **Which consciousness understood differently** | Deeper than favorite character | CF-CON-734 |
+| **Opposing Consciousness** | Incompleteness not villainy | CF-CON-737 |
+| **No single villain** | Collisions of partial understanding | CF-CON-753 |
+| **Partial truth whole truth question** | Reader's lifelong invitation | CF-CON-754 |
 | **Universe larger than imagined** | Ordinary world larger after closing book | CF-CON-563 |
 | **Motif not symbol** | Returns vs carries meaning | CF-CON-450 |
 | **Language of Silence** | Composed silence · seven forms | CF-CON-457 |
