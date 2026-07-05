@@ -3,6 +3,13 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [0.2.1] — 2026-07-05
+
+### Added
+- CF-ENTRY-023: experience product reaffirmation upload (cross-ref CF-ENTRY-019)
+- Concepts CF-CON-045 (experience success scene), CF-CON-046 (conversation architecture), CF-CON-047 (earned not demanded reread)
+- Master Canon: admire-reader principle, experience success scene, conversation mission locked
+
 ## [0.2.0] — 2026-07-05
 
 ### Added

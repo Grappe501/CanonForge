@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 0.2.0 · 2026-07-05 · 44 concepts registered
+> Version 0.2.1 · 2026-07-05 · 47 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -40,14 +40,17 @@
 | CF-CON-034 | Meaning in interpreter | Theme | **Locked** | Meaning-making not puzzle-solving; invitation ending. | CF-ENTRY-017 |
 | CF-CON-035 | Opening as continuation | Heart | **Locked** | Opening reads as continuation of reader's prior life. | CF-ENTRY-018 |
 | CF-CON-036 | First/last sentence dyad | Heart | **Locked** | Opening and closing sentences form a locked pair. | CF-ENTRY-018 |
-| CF-CON-037 | Experience is product | Commerce | **Locked** | The reading experience—not the book object—is the product. | CF-ENTRY-019 |
-| CF-CON-038 | Give it away / admire reader | Commerce | **Locked** | Generosity model; admire reader not author. | CF-ENTRY-019 |
+| CF-CON-037 | Experience is product | Commerce | **Locked** | The reading experience—not the book object—is the product. | CF-ENTRY-019, CF-ENTRY-023 |
+| CF-CON-038 | Give it away / admire reader | Commerce | **Locked** | Generosity model; novel invites reader to admire their own discovery. | CF-ENTRY-019, CF-ENTRY-023 |
 | CF-CON-039 | Originality firewall | Genre | **Locked** | Borrow techniques; never plots, characters, planets, dialogue. | CF-ENTRY-006 |
 | CF-CON-040 | CHRONOFORGE codename | Governance | **Locked** | Creative codename; GitHub repo is CanonForge. | CF-ENTRY-001 |
 | CF-CON-041 | GitHub governance | Process | **Locked** | Private repo; one commit per step; H:/ local truth. | CF-ENTRY-002 |
 | CF-CON-042 | Knowledge OS | Process | **Locked** | Institutional ingest layer before Phase 14 prose. | CF-ENTRY-020, CF-ENTRY-021, CF-ENTRY-022 |
 | CF-CON-043 | LOST breadcrumbs (finite) | Technique | **Locked** | Finite fair clues; meaning shifts with context. | CF-ENTRY-006 |
 | CF-CON-044 | Movements not chapters | Architecture | **Locked** | Musical structure: cadence and cognitive rhythm over conventional chapters. | CF-ENTRY-006 |
+| CF-CON-045 | Experience success scene | Commerce | **Locked** | Finish → silence → reopen → text 3 people before page five. | CF-ENTRY-019, CF-ENTRY-023 |
+| CF-CON-046 | Conversation architecture | Commerce | **Locked** | Build for reader-to-reader discovery dialogues; shared human experience. | CF-ENTRY-019, CF-ENTRY-023 |
+| CF-CON-047 | Earned not demanded reread | Commerce | **Locked** | Second read must be earned, never demanded; no layer hints. | CF-ENTRY-019, CF-ENTRY-023 |
 
 ## Related Concepts
 
@@ -87,7 +90,7 @@
 - **CF-CON-034** (Meaning in interpreter, Locked): CF-CON-003 → `canon/MASTER_CANON.md`
 - **CF-CON-035** (Opening as continuation, Locked): CF-CON-002 → `canon/MASTER_CANON.md`
 - **CF-CON-036** (First/last sentence dyad, Locked): CF-CON-002 → `canon/MASTER_CANON.md`
-- **CF-CON-037** (Experience is product, Locked): CF-CON-038 → `canon/MASTER_CANON.md`
+- **CF-CON-037** (Experience is product, Locked): CF-CON-038, CF-CON-045 → `canon/MASTER_CANON.md`
 - **CF-CON-038** (Give it away / admire reader, Locked): CF-CON-037 → `canon/MASTER_CANON.md`
 - **CF-CON-039** (Originality firewall, Locked): CF-CON-011 → `knowledge/INFLUENCE_MATRIX.md`
 - **CF-CON-040** (CHRONOFORGE codename, Locked): CF-CON-021 → `canon/MASTER_CANON.md`
@@ -95,3 +98,6 @@
 - **CF-CON-042** (Knowledge OS, Locked): CF-CON-019 → `README.md`
 - **CF-CON-043** (LOST breadcrumbs (finite), Locked): CF-CON-039 → `knowledge/INFLUENCE_MATRIX.md`
 - **CF-CON-044** (Movements not chapters, Locked): CF-CON-012 → `architecture/MOVEMENTS_NOT_CHAPTERS.md`
+- **CF-CON-045** (Experience success scene, Locked): CF-CON-037, CF-CON-029 → `architecture/VALIDATION_STACK.md`
+- **CF-CON-046** (Conversation architecture, Locked): CF-CON-037 → `canon/MASTER_CANON.md`
+- **CF-CON-047** (Earned not demanded reread, Locked): CF-CON-029, CF-CON-030 → `canon/RULE_BOOK.md`

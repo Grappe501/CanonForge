@@ -45,6 +45,8 @@ Ordered gates before any prose reaches `manuscript/`:
 
 Never reader-facing: "layers," "locks," "puzzle," "game," "clues," "hidden," "meta."
 
+Never hint that readers are "supposed" to reread. Earned reread only (CF-CON-047).
+
 Internal engineering vocabulary stays in `architecture/` and `canon/`.
 
 ---
@@ -68,10 +70,10 @@ Internal engineering vocabulary stays in `architecture/` and `canon/`.
 
 ## Ending Rules
 
-1. Invitation ending — reader completes meaning
+1. Invitation ending — reader completes meaning; answers *"Why did I think that happened?"* not *"What happened?"*
 2. Final image must pass Sixth Sense audit (same facts, new meaning)
 3. First/last sentence dyad locked before prose
 
 ---
 
-*Derived from CF-CON-023 · CF-ENTRY-010 · CF-ENTRY-014*
+*Derived from CF-CON-023 · CF-CON-047 · CF-ENTRY-010 · CF-ENTRY-014 · CF-ENTRY-023*

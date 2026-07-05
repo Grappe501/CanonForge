@@ -23,7 +23,8 @@
 | Hook rate | End forces page-one flip | CF-CON-027 |
 | Discussion | Theory/timeline/clue conversations | CF-CON-027 |
 | Fair-play audit | Zero factual lies across 5 Recognitions | CF-CON-023 |
-| Adventure strip | Read 1 works with all systems removed | CF-CON-028 |
+| Experience success scene | Text 3 people before page 5 on reopen | CF-CON-045 |
+| Earned reread | Second pass discovered, never prompted by author | CF-CON-047 |
 
 ---
 
@@ -64,6 +65,29 @@ Before any movement prose:
 
 ---
 
+## Experience success scene (CF-CON-045)
+
+```txt
+Finish last page → silence (2 min) → reopen → text 3 people before page 5
+```
+
+Not reviews. Not awards. Not sales. **Need someone else to experience it.**
+
+## Conversation architecture (CF-CON-046)
+
+Target reader exchanges: *"What compass?"* · *"You thought Chapter 11 happened first?"*
+Readers help each other uncover — not author lecturing.
+
+## Earned reread gate (CF-CON-047)
+
+| Outcome | Verdict |
+|---|---|
+| Book earns second reading | Success |
+| Book demands second reading | Failure |
+| Author hints at layers/reread | Violation |
+
+---
+
 ## Commerce alignment
 
 - **3-text-before-page-5** — emotional hook early (from entry 019 context)
@@ -72,4 +96,4 @@ Before any movement prose:
 
 ---
 
-*CF-CON-026 · CF-CON-027 · CF-CON-028 · CF-CON-029 · CF-ENTRY-012 · CF-ENTRY-013 · CF-ENTRY-019*
+*CF-CON-026 · CF-CON-027 · CF-CON-028 · CF-CON-029 · CF-CON-045 · CF-CON-046 · CF-CON-047 · CF-ENTRY-012 · CF-ENTRY-013 · CF-ENTRY-019 · CF-ENTRY-023*

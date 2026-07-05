@@ -17,7 +17,10 @@
 | 2026-07-05 | Story wins over cleverness | Artistic north star | CF-CON-028 |
 | 2026-07-05 | Experience is the product | Commerce + creative alignment | CF-CON-037 |
 | 2026-07-05 | Private GitHub governance | H:/ local · minute-level tracking | CF-CON-041 |
-| 2026-07-05 | Knowledge OS before prose | Institutional memory layer | CF-CON-042 |
+| 2026-07-05 | Experience success scene locked | CF-ENTRY-023 reaffirmation | CF-CON-045 |
+| 2026-07-05 | Admire reader not author in Master Canon | Author-facing principle | CF-CON-038 |
+| 2026-07-05 | Conversation architecture | Build for shared discovery | CF-CON-046 |
+| 2026-07-05 | Earned not demanded reread | No layer hints to readers | CF-CON-047 |
 | 2026-07-05 | Originality firewall | Genre pillars as physics not copy | CF-CON-039 |
 
 ## Open Forks (see OPEN_QUESTIONS.md)

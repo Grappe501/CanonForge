@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0.0",
   "canonforge_version": "0.2.0",
-  "generated_at": "2026-07-05T20:43:20.410447+00:00",
+  "generated_at": "2026-07-05T20:47:05.970676+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 22,
+  "entry_count": 23,
   "concept_count": 44,
   "entries": [
     {
@@ -268,6 +268,21 @@
         "CF-CON-044"
       ],
       "byte_size": 7859
+    },
+    {
+      "entry_id": "CF-ENTRY-023",
+      "file": "knowledge/entries/023-experience-product-reaffirmation.md",
+      "sha256": "6eb1c6860dd6c974b285abc55201555e45b66ef9246abef24837281cd573e76f",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-037",
+        "CF-CON-038",
+        "CF-CON-045",
+        "CF-CON-046",
+        "CF-CON-047"
+      ],
+      "byte_size": 3556
     }
   ],
   "indexes": {

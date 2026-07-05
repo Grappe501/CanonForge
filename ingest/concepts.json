@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "canonforge_version": "0.2.0",
-  "generated_at": "2026-07-05T20:43:20.425759+00:00",
+  "generated_at": "2026-07-05T20:47:05.975178+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -410,7 +410,8 @@
       "status": "Locked",
       "definition": "The reading experience\u2014not the book object\u2014is the product.",
       "sources": [
-        "CF-ENTRY-019"
+        "CF-ENTRY-019",
+        "CF-ENTRY-023"
       ],
       "canon_ref": "canon/MASTER_CANON.md"
     },
@@ -419,9 +420,10 @@
       "label": "Give it away / admire reader",
       "category": "Commerce",
       "status": "Locked",
-      "definition": "Generosity model; admire reader not author.",
+      "definition": "Generosity model; novel invites reader to admire their own discovery.",
       "sources": [
-        "CF-ENTRY-019"
+        "CF-ENTRY-019",
+        "CF-ENTRY-023"
       ],
       "canon_ref": "canon/MASTER_CANON.md"
     },
@@ -492,6 +494,42 @@
         "CF-ENTRY-006"
       ],
       "canon_ref": "architecture/MOVEMENTS_NOT_CHAPTERS.md"
+    },
+    {
+      "id": "CF-CON-045",
+      "label": "Experience success scene",
+      "category": "Commerce",
+      "status": "Locked",
+      "definition": "Finish \u2192 silence \u2192 reopen \u2192 text 3 people before page five.",
+      "sources": [
+        "CF-ENTRY-019",
+        "CF-ENTRY-023"
+      ],
+      "canon_ref": "architecture/VALIDATION_STACK.md"
+    },
+    {
+      "id": "CF-CON-046",
+      "label": "Conversation architecture",
+      "category": "Commerce",
+      "status": "Locked",
+      "definition": "Build for reader-to-reader discovery dialogues; shared human experience.",
+      "sources": [
+        "CF-ENTRY-019",
+        "CF-ENTRY-023"
+      ],
+      "canon_ref": "canon/MASTER_CANON.md"
+    },
+    {
+      "id": "CF-CON-047",
+      "label": "Earned not demanded reread",
+      "category": "Commerce",
+      "status": "Locked",
+      "definition": "Second read must be earned, never demanded; no layer hints.",
+      "sources": [
+        "CF-ENTRY-019",
+        "CF-ENTRY-023"
+      ],
+      "canon_ref": "canon/RULE_BOOK.md"
     }
   ],
   "edges": [
@@ -721,6 +759,11 @@
       "type": "related"
     },
     {
+      "from": "CF-CON-037",
+      "to": "CF-CON-045",
+      "type": "related"
+    },
+    {
       "from": "CF-CON-038",
       "to": "CF-CON-037",
       "type": "related"
@@ -748,6 +791,31 @@
     {
       "from": "CF-CON-044",
       "to": "CF-CON-012",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-045",
+      "to": "CF-CON-037",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-045",
+      "to": "CF-CON-029",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-046",
+      "to": "CF-CON-037",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-047",
+      "to": "CF-CON-029",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-047",
+      "to": "CF-CON-030",
       "type": "related"
     }
   ]

@@ -1,8 +1,8 @@
-# Master Canon v0.2
+# Master Canon v0.2.1
 
 > Governing creative constitution for CHRONOFORGE
 > Derived from locked concepts · open forks marked explicitly
-> Supersedes v0.1 (registered CF-ENTRY-010)
+> Supersedes v0.2 (2026-07-05 · CF-ENTRY-023 reaffirmation)
 
 ---
 
@@ -100,9 +100,51 @@ The antagonist is **Certainty** — not a person.
 ## Commerce & Experience
 
 - **Experience is the product** — not the book object
-- **7/10 organic reread** without prompting = internal success metric
-- **Give it away** generosity model
+- **Give it away** generosity model — success is not sales, reviews, or awards
+- **"Call me when you finish"** — the recommendation we optimize for, not "you should read this"
 - Primary risk: **puzzle first, novel second** — always story wins
+
+### Experience success scene (CF-CON-045)
+
+```txt
+Reader finishes last page
+  → sits silently two minutes
+  → reopens the book
+  → before page five, texts three people
+  → not because they understood everything
+  → because they need someone else to experience it
+```
+
+### Admire reader, not author (CF-CON-038 · locked CF-ENTRY-023)
+
+> **The novel should never ask the reader to admire the author.**
+>
+> **It should invite the reader to admire their own capacity to discover.**
+
+If readers finish thinking *"The author is a genius,"* they recommend you.
+If they finish thinking *"I can't believe what I just realized,"* they recommend the **experience**.
+
+### Conversation mission (CF-CON-046)
+
+Build for exchanges like *"What did you think the compass meant?" / "What compass?"* — readers helping each other uncover the story, not consuming it alone.
+
+### Shared human experience
+
+Mission is not the smartest novel, biggest twist, or most complicated timeline. Mission is a **shared human experience** — strangers with something meaningful to talk about because they took the same journey.
+
+### Earned reread (CF-CON-047)
+
+- If the book **earns** a second reading → success
+- If it **demands** one → failure
+- Never tell readers there are five layers; never hint they are "supposed" to reread
+
+### Ending question
+
+The ending answers **"Why did I think that happened?"** — not *"What happened?"* One is about the reader; one is about the story.
+
+### Internal metric
+
+**7/10 organic reread** without prompting (CF-CON-029) aligns with earned-reread doctrine.
 
 ---
 
@@ -126,4 +168,4 @@ See [knowledge/OPEN_QUESTIONS.md](../knowledge/OPEN_QUESTIONS.md):
 
 ---
 
-*v0.2 · 2026-07-05 · synthesized from CF-ENTRY-001 through CF-ENTRY-022*
+*v0.2.1 · 2026-07-05 · synthesized from CF-ENTRY-001 through CF-ENTRY-023*

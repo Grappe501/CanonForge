@@ -26,3 +26,4 @@
 | CF-ENTRY-020 | `knowledge/entries/020-h-drive-save-request.md` | 2026-07-05 | processed | CF-CON-042 |
 | CF-ENTRY-021 | `knowledge/entries/021-knowledge-ingest-request.md` | 2026-07-05 | processed | CF-CON-043 |
 | CF-ENTRY-022 | `knowledge/entries/022-knowledge-os-system-design.md` | 2026-07-05 | processed | CF-CON-044 |
+| CF-ENTRY-023 | `knowledge/entries/023-experience-product-reaffirmation.md` | 2026-07-05 | processed | CF-CON-037, CF-CON-038, CF-CON-045, CF-CON-046, CF-CON-047 |
