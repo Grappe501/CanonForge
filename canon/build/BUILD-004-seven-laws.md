@@ -335,7 +335,7 @@ Every future build must **comply**. Violation = not Chronoforge.
 
 Author directive (CF-ENTRY-040): Chronoforge should have a **Bill of Rights for the reader** — moral contract between work and audience.
 
-→ Queued: [BUILD-015-reader-bill-of-rights.md](BUILD-015-reader-bill-of-rights.md)
+→ Superseded by [BUILD-011 Reader's Covenant](BUILD-011-readers-covenant.md) · [BUILD-015 Resonance Matrix](BUILD-015-resonance-matrix.md) queued
 
 ---
 

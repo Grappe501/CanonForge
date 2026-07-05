@@ -212,7 +212,7 @@ Every reader deserves:
 - Silence that means something · a reason to return
 - **Never** confusion for its own sake · **never** manipulation for applause
 
-*(Seed for [BUILD-015](BUILD-015-reader-bill-of-rights.md) · CF-CON-207)*
+*(Canonical in [BUILD-011](BUILD-011-readers-covenant.md) · CF-CON-283)*
 
 ---
 
