@@ -8,7 +8,7 @@
 
 > Explains **just enough** — leaves the universe **permanently larger** than reader understanding. **Mystery is not a temporary defect. It is a permanent feature.**
 
-**Universal Architecture Phase complete** *(BUILD-026–030)*. **BUILD-031 Secret History** *(✓ v1.0 · AUTHOR-ONLY)*. Next: **BUILD-032 Rules of Time**.
+**Universal Architecture Phase complete** *(BUILD-026–030)*. **BUILD-031 Secret History** *(✓ v1.0 · AUTHOR-ONLY)*. **BUILD-032 Prime Event** *(✓ v1.0 · AUTHOR-ONLY)*. Next: **BUILD-033 Central Mystery**.
 
 ---
 
@@ -187,9 +187,9 @@ Combined with Phase One–Two: how readers think · consciousness · memory · t
 
 ---
 
-## BUILD-032 preview *(CF-ENTRY-070)*
+## BUILD-033 preview *(CF-ENTRY-071)*
 
-→ **BUILD-032 Rules of Time** — time laws governing this specific story *(Composing phase · queued)*
+→ **BUILD-033 Central Mystery** — governing gap all others orbit *(Composing phase · queued)*
 
 ---
 

@@ -9,7 +9,9 @@
 
 **BUILD-031 Secret History** *(CF-ENTRY-070 · CF-CON-645)* defines the hidden chronology engine — AUTHOR-ONLY · never reader-facing.
 
-Populated event records from the History Ledger will live in this apex layer when written. See [build/BUILD-031-secret-history.md](../build/BUILD-031-secret-history.md).
+**BUILD-032 The Prime Event** *(CF-ENTRY-071 · CF-CON-665)* defines this story's hidden center of gravity — AUTHOR-ONLY · renamed from queued Rules of Time.
+
+Populated event records from the History Ledger and Prime Event Ledger will live in this apex layer when written. See [build/BUILD-031-secret-history.md](../build/BUILD-031-secret-history.md) · [build/BUILD-032-prime-event.md](../build/BUILD-032-prime-event.md).
 
 ---
 

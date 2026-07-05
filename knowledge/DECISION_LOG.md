@@ -42,6 +42,8 @@
 | 2026-07-05 | Master Build Roadmap v1.0 | CF-ENTRY-035 session pause | CF-CON-150–155 |
 | 2026-07-05 | BUILD-001–013 frozen v1.0 | Foundational canon complete | CF-CON-156–320 |
 | 2026-07-05 | BUILD-014 Elements of Meaning | Supersedes Periodic Table stub | CF-CON-170 |
+| 2026-07-05 | BUILD-032 Prime Event v1.0 | Ten shadows · first story-specific · renamed from Rules of Time | CF-CON-665–684 |
+| 2026-07-05 | Rules of Time renamed Prime Event | BUILD-009 covers time; BUILD-032 is this story secret | CF-CON-677 |
 | 2026-07-05 | BUILD-031 Secret History v1.0 | Three histories · history ledger · instrument complete | CF-CON-645–664 |
 | 2026-07-05 | Composing phase begins | What happened; story identity BUILD-032+ | CF-CON-663 |
 | 2026-07-05 | BUILD-030 Cosmology Engine v1.0 | Cosmic ledger · mystery permanent · Universal Architecture | CF-CON-625–644 |

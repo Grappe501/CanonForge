@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "2.10.0",
-  "generated_at": "2026-07-05T22:28:20.307961+00:00",
+  "canonforge_version": "2.11.0",
+  "generated_at": "2026-07-05T22:31:15.663469+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -7351,6 +7351,226 @@
         "CF-ENTRY-070"
       ],
       "canon_ref": "canon/build/BUILD-031-secret-history.md#03114--the-final-principle"
+    },
+    {
+      "id": "CF-CON-665",
+      "label": "Prime Event",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Single moment; hidden center of gravity of novella.",
+      "sources": [
+        "CF-ENTRY-071"
+      ],
+      "canon_ref": "canon/build/BUILD-032-prime-event.md"
+    },
+    {
+      "id": "CF-CON-666",
+      "label": "Prime Event first law",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Ordinary enough to overlook; recognition not surprise.",
+      "sources": [
+        "CF-ENTRY-071"
+      ],
+      "canon_ref": "canon/build/BUILD-032-prime-event.md#0321--the-first-law"
+    },
+    {
+      "id": "CF-CON-667",
+      "label": "Invisible center",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Consequences not explanations; orbiting unseen center.",
+      "sources": [
+        "CF-ENTRY-071"
+      ],
+      "canon_ref": "canon/build/BUILD-032-prime-event.md#0322--the-invisible-center"
+    },
+    {
+      "id": "CF-CON-668",
+      "label": "Ten shadows",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Historical personal emotional to reader shadow.",
+      "sources": [
+        "CF-ENTRY-071"
+      ],
+      "canon_ref": "canon/build/BUILD-032-prime-event.md#0323--the-ten-shadows"
+    },
+    {
+      "id": "CF-CON-669",
+      "label": "Rule of inevitability",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Nothing else could have happened; quietly made possible.",
+      "sources": [
+        "CF-ENTRY-071"
+      ],
+      "canon_ref": "canon/build/BUILD-032-prime-event.md#0324--the-rule-of-inevitability"
+    },
+    {
+      "id": "CF-CON-670",
+      "label": "Prime Event ledger",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Most detailed record; ten fields; nothing else matches.",
+      "sources": [
+        "CF-ENTRY-071"
+      ],
+      "canon_ref": "canon/build/BUILD-032-prime-event.md#0325--the-prime-event-ledger"
+    },
+    {
+      "id": "CF-CON-671",
+      "label": "Butterfly principle",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Small acts accumulate into vast histories.",
+      "sources": [
+        "CF-ENTRY-071"
+      ],
+      "canon_ref": "canon/build/BUILD-032-prime-event.md#0326--the-butterfly-principle"
+    },
+    {
+      "id": "CF-CON-672",
+      "label": "Lost moment",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Event fixed; meaning evolves; may be forgotten.",
+      "sources": [
+        "CF-ENTRY-071"
+      ],
+      "canon_ref": "canon/build/BUILD-032-prime-event.md#0327--the-lost-moment"
+    },
+    {
+      "id": "CF-CON-673",
+      "label": "Reader Prime Event discovery",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "When did everything begin; not page one.",
+      "sources": [
+        "CF-ENTRY-071"
+      ],
+      "canon_ref": "canon/build/BUILD-032-prime-event.md#0328--the-readers-discovery"
+    },
+    {
+      "id": "CF-CON-674",
+      "label": "Architecture of echoes",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "All resonance converges; none disconnected.",
+      "sources": [
+        "CF-ENTRY-071"
+      ],
+      "canon_ref": "canon/build/BUILD-032-prime-event.md#0329--the-architecture-of-echoes"
+    },
+    {
+      "id": "CF-CON-675",
+      "label": "Prime Event moral center",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Illuminates human question not merely plot.",
+      "sources": [
+        "CF-ENTRY-071"
+      ],
+      "canon_ref": "canon/build/BUILD-032-prime-event.md#03210--the-moral-center"
+    },
+    {
+      "id": "CF-CON-676",
+      "label": "Prime Event final principle",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Origin not climax; consciousness changes not event.",
+      "sources": [
+        "CF-ENTRY-071"
+      ],
+      "canon_ref": "canon/build/BUILD-032-prime-event.md#03211--the-final-principle"
+    },
+    {
+      "id": "CF-CON-677",
+      "label": "First story-specific BUILD",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Framework to this story; not universal mechanics.",
+      "sources": [
+        "CF-ENTRY-071"
+      ],
+      "canon_ref": "canon/build/BUILD-032-prime-event.md"
+    },
+    {
+      "id": "CF-CON-678",
+      "label": "Never shown directly",
+      "category": "Governance",
+      "status": "Candidate",
+      "definition": "Possibility: no flashback dream exposition of event.",
+      "sources": [
+        "CF-ENTRY-071"
+      ],
+      "canon_ref": "canon/build/BUILD-032-prime-event.md"
+    },
+    {
+      "id": "CF-CON-679",
+      "label": "Reader assembles truth",
+      "category": "Revelation",
+      "status": "Candidate",
+      "definition": "Central revelation created in reader mind fairly.",
+      "sources": [
+        "CF-ENTRY-071"
+      ],
+      "canon_ref": "canon/build/BUILD-032-prime-event.md"
+    },
+    {
+      "id": "CF-CON-680",
+      "label": "Hidden center of gravity",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Most consequential moment; all threads trace back.",
+      "sources": [
+        "CF-ENTRY-071"
+      ],
+      "canon_ref": "canon/build/BUILD-032-prime-event.md#0320--purpose"
+    },
+    {
+      "id": "CF-CON-681",
+      "label": "Recognition replaces surprise",
+      "category": "Technique",
+      "status": "Frozen",
+      "definition": "Incidental event governs; fair-play recontextualization.",
+      "sources": [
+        "CF-ENTRY-071"
+      ],
+      "canon_ref": "canon/build/BUILD-032-prime-event.md#0321--the-first-law"
+    },
+    {
+      "id": "CF-CON-682",
+      "label": "Echo of one event",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Every story is echo of one Prime Event.",
+      "sources": [
+        "CF-ENTRY-071"
+      ],
+      "canon_ref": "canon/build/BUILD-032-prime-event.md"
+    },
+    {
+      "id": "CF-CON-683",
+      "label": "Shadow convergence",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Ten shadow types map all story dimensions.",
+      "sources": [
+        "CF-ENTRY-071"
+      ],
+      "canon_ref": "canon/build/BUILD-032-prime-event.md#0323--the-ten-shadows"
+    },
+    {
+      "id": "CF-CON-684",
+      "label": "Consciousness changes not event",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Event fixed; climax is understanding significance.",
+      "sources": [
+        "CF-ENTRY-071"
+      ],
+      "canon_ref": "canon/build/BUILD-032-prime-event.md#03211--the-final-principle"
     }
   ],
   "edges": [
@@ -13431,6 +13651,11 @@
     },
     {
       "from": "CF-CON-649",
+      "to": "CF-CON-665",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-649",
       "to": "CF-CON-358",
       "type": "related"
     },
@@ -13582,6 +13807,211 @@
     {
       "from": "CF-CON-664",
       "to": "CF-CON-023",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-665",
+      "to": "CF-CON-649",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-665",
+      "to": "CF-CON-645",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-665",
+      "to": "CF-CON-680",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-666",
+      "to": "CF-CON-665",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-666",
+      "to": "CF-CON-681",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-667",
+      "to": "CF-CON-665",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-667",
+      "to": "CF-CON-680",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-668",
+      "to": "CF-CON-665",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-668",
+      "to": "CF-CON-683",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-669",
+      "to": "CF-CON-665",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-669",
+      "to": "CF-CON-664",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-670",
+      "to": "CF-CON-665",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-670",
+      "to": "CF-CON-657",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-671",
+      "to": "CF-CON-665",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-671",
+      "to": "CF-CON-654",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-672",
+      "to": "CF-CON-665",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-672",
+      "to": "CF-CON-647",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-673",
+      "to": "CF-CON-665",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-673",
+      "to": "CF-CON-658",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-674",
+      "to": "CF-CON-665",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-674",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-675",
+      "to": "CF-CON-665",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-675",
+      "to": "CF-CON-171",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-676",
+      "to": "CF-CON-665",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-676",
+      "to": "CF-CON-684",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-677",
+      "to": "CF-CON-665",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-677",
+      "to": "CF-CON-663",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-678",
+      "to": "CF-CON-665",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-678",
+      "to": "CF-CON-679",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-679",
+      "to": "CF-CON-678",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-679",
+      "to": "CF-CON-002",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-680",
+      "to": "CF-CON-665",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-680",
+      "to": "CF-CON-546",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-681",
+      "to": "CF-CON-666",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-681",
+      "to": "CF-CON-031",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-682",
+      "to": "CF-CON-665",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-682",
+      "to": "CF-CON-674",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-683",
+      "to": "CF-CON-668",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-683",
+      "to": "CF-CON-358",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-684",
+      "to": "CF-CON-676",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-684",
+      "to": "CF-CON-364",
       "type": "related"
     }
   ]

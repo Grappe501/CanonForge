@@ -3,6 +3,17 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [2.11.0] — 2026-07-05
+
+### Added
+- CF-ENTRY-071: BUILD-032 The Prime Event Canonical v1.0 *(AUTHOR-ONLY)*
+- Concepts CF-CON-665 through CF-CON-684
+- Ten shadows · Prime Event ledger · rule of inevitability · architecture of echoes
+- **First story-specific BUILD** · hidden center of gravity
+- **Renamed:** queued Rules of Time → **Prime Event** *(BUILD-009 covers experienced time)*
+- Possibility: **never shown directly** · reader assembles truth *(CF-CON-678 · CF-CON-679)*
+- Master Canon v1.5.6
+
 ## [2.10.0] — 2026-07-05
 
 ### Added

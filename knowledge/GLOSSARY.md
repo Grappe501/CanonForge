@@ -79,6 +79,9 @@
 | **Three histories** | Objective · cultural · personal | CF-CON-647 |
 | **Hidden truth before clues** | Anchor not trick | CF-CON-662 |
 | **Composing phase** | What happened not how system works | CF-CON-663 |
+| **Prime Event** | Hidden center of gravity of this novella | CF-CON-665 |
+| **Ten shadows** | Historical to reader shadow types | CF-CON-668 |
+| **Reader assembles truth** | Possibility: never shown directly | CF-CON-679 |
 | **Universe larger than imagined** | Ordinary world larger after closing book | CF-CON-563 |
 | **Motif not symbol** | Returns vs carries meaning | CF-CON-450 |
 | **Language of Silence** | Composed silence · seven forms | CF-CON-457 |

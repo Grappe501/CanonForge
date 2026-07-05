@@ -31,7 +31,7 @@ We did not build a novel. We built a **theory of storytelling** — an operating
 |---|---|---|
 | **One** | The Philosophy + Engineering Schema | **✓ COMPLETE** (BUILD-001–015) |
 | **Two** | Engineering Documents | **✓ COMPLETE** (BUILD-016–025) |
-| **Three** | The Novel (world · mystery · ending · opening) | **Composing phase** (026–031 ✓ · BUILD-032–036 queued) |
+| **Three** | The Novel (world · mystery · ending · opening) | **Composing phase** (026–032 ✓ · BUILD-033–036 queued) |
 | **Four** | The People (lives, not characters) | Queued |
 | **Five** | Composition | Queued · prose authorized only after Phase Four |
 | **Six** | Performance | Queued · rewrite · score · typeset |
@@ -128,7 +128,7 @@ We did not build a novel. We built a **theory of storytelling** — an operating
 | **024** | The Tempo Engine | **✓ v1.0** · CF-ENTRY-063 · five tempos |
 | **025** | Page Architecture | **✓ v1.0** · CF-ENTRY-064 · Print Score |
 
-### Phase Three — **Composing phase** (BUILD-026–031 ✓ · 032–036 queued)
+### Phase Three — **Composing phase** (BUILD-026–032 ✓ · 033–036 queued)
 
 | BUILD | Title | Status |
 |---|---|---|
@@ -138,8 +138,7 @@ We did not build a novel. We built a **theory of storytelling** — an operating
 | **029** | The Journey Engine | **✓ v1.0** · CF-ENTRY-068 |
 | **030** | The Cosmology Engine | **✓ v1.0** · CF-ENTRY-069 |
 | **031** | **Secret History** | **✓ v1.0** · AUTHOR-ONLY · CF-ENTRY-070 |
-| **032** | Rules of Time | Queued |
-| **032** | Rules of Time | Queued |
+| **032** | **The Prime Event** | **✓ v1.0** · AUTHOR-ONLY · CF-ENTRY-071 |
 | **033** | Central Mystery | Queued |
 | **034** | Human Story | Queued |
 | **035** | **The Ending** *(before opening)* | Queued |
@@ -270,7 +269,7 @@ Build Bible v1.0 requires:
 
 ## 015.5.11 — What happens next
 
-**Do not proceed to BUILD-032** until BUILD-015.5 reaches v1.0 *(BUILD-016–031 excepted per author uploads)*.
+**Do not proceed to BUILD-033** until BUILD-015.5 reaches v1.0 *(BUILD-016–032 excepted per author uploads)*.
 
 Next passes expand this document into the full 100–200 page Build Bible:
 
@@ -280,7 +279,7 @@ Next passes expand this document into the full 100–200 page Build Bible:
 4. Master data dictionary (elements · symbols · echo IDs)
 5. Execution index (which BUILD when · blocking rules)
 
-When v1.0 ships — **Composing phase** continues with **BUILD-032 Rules of Time** — story-specific time laws.
+When v1.0 ships — **Composing phase** continues with **BUILD-033 Central Mystery**.
 
 ---
 

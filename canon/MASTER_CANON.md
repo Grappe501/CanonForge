@@ -1,7 +1,7 @@
-# Master Canon v1.5.5
+# Master Canon v1.5.6
 
-> **BUILD-031:** Secret History · hidden truth before clues · instrument complete
-> Supersedes v1.5.4 (2026-07-05 · BUILD-031 CF-ENTRY-070 · CanonForge 2.10.0)
+> **BUILD-032:** Prime Event · first story-specific BUILD · echo of one event
+> Supersedes v1.5.5 (2026-07-05 · BUILD-032 CF-ENTRY-071 · CanonForge 2.11.0)
 
 ---
 
@@ -42,7 +42,9 @@ Key locked insights:
 | **Four Pillars** | Strengthen ≥1 of Wonder · **Connection** · Resonance · Transformation? | BUILD-003 v1.0 |
 | Seven Laws | Immutable · complies with BUILD-004 v1.0? | BUILD-004 |
 
-**Stack:** BUILD-001 = *why* · … · **030 = *cosmos larger than mind*** · **031 = *hidden chronology anchor***
+**Stack:** BUILD-001 = *why* · … · **031 = *hidden chronology anchor*** · **032 = *this story's Prime Event***
+
+→ [build/BUILD-032-prime-event.md](build/BUILD-032-prime-event.md) · Ten Shadows · Prime Event Ledger · **AUTHOR-ONLY**
 
 → [build/BUILD-031-secret-history.md](build/BUILD-031-secret-history.md) · Three Histories · History Ledger · **AUTHOR-ONLY**
 
@@ -242,6 +244,14 @@ Hidden destination: **the greatest other world was never another planet — it w
 
 Never published · never referenced directly in reader-facing prose *(CF-CON-661)*.
 
+### Prime Event immutable law (CF-CON-665 · BUILD-032 · AUTHOR-ONLY)
+
+> **Every story is the echo of one event.**
+
+> Ordinary enough to be **overlooked** *(CF-CON-666)*. **Recognition replaces surprise** *(CF-CON-681)*. Origin **not climax** — the event never changes; only consciousness does *(CF-CON-676 · CF-CON-684)*.
+
+Possibility under consideration: **never shown directly** — reader **assembles** truth from echoes *(CF-CON-678 · CF-CON-679 · Candidate)*.
+
 ### Cosmology immutable law (CF-CON-625 · BUILD-030)
 
 > **The universe is not a machine to be solved. It is a reality to be explored.**
@@ -254,7 +264,7 @@ Final question: **"How should conscious beings live within a universe they can n
 
 **Secret History** *(BUILD-031 · CF-CON-645 · AUTHOR-ONLY)* — hidden chronology framework. Populated events never reader-facing. See protected BUILD doc — not cited in surface canon.
 
-**Composing phase begins** *(CF-CON-663)*. Next: **BUILD-032 Rules of Time** — story-specific time laws.
+**Composing phase** *(CF-CON-663)*. **BUILD-032 Prime Event** *(✓ v1.0 · AUTHOR-ONLY · CF-CON-665)* — first story-specific BUILD. Next: **BUILD-033 Central Mystery**.
 
 ### Visual Grammar (CF-CON-080 · CF-CON-081)
 

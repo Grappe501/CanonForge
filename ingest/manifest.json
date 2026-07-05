@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "2.10.0",
-  "generated_at": "2026-07-05T22:28:20.279844+00:00",
+  "canonforge_version": "2.11.0",
+  "generated_at": "2026-07-05T22:31:15.643093+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 70,
-  "concept_count": 664,
+  "entry_count": 71,
+  "concept_count": 684,
   "project_version": "0.3.0",
   "phase_two": "complete",
   "build_016_version": "1.0",
@@ -42,6 +42,11 @@
   "build_031_version": "1.0",
   "build_031_title": "Secret History",
   "build_031_protection": "author-only",
+  "build_032_version": "1.0",
+  "build_032_title": "Prime Event",
+  "build_032_protection": "author-only",
+  "build_032_renamed_from": "Rules of Time",
+  "first_story_specific_build": true,
   "instrument_complete": true,
   "composing_phase": "begun",
   "phase_three": "begun",
@@ -74,7 +79,7 @@
   "foundational_layer": "BUILD-001-013 complete",
   "engineering_layer": "BUILD-014-015 complete",
   "roadmap_version": "1.0",
-  "build_layer": "BUILD-001-031 frozen \u00b7 BUILD-015.5 active",
+  "build_layer": "BUILD-001-032 frozen \u00b7 BUILD-015.5 active",
   "entries": [
     {
       "entry_id": "CF-ENTRY-001",
@@ -1483,6 +1488,36 @@
         "CF-CON-664"
       ],
       "byte_size": 8199
+    },
+    {
+      "entry_id": "CF-ENTRY-071",
+      "file": "knowledge/entries/071-build-032-prime-event-v1.md",
+      "sha256": "97a0bbb271e05657c850e3b0265298f94e737f2adeadea2c7269bb5e6ff8369e",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-665",
+        "CF-CON-666",
+        "CF-CON-667",
+        "CF-CON-668",
+        "CF-CON-669",
+        "CF-CON-670",
+        "CF-CON-671",
+        "CF-CON-672",
+        "CF-CON-673",
+        "CF-CON-674",
+        "CF-CON-675",
+        "CF-CON-676",
+        "CF-CON-677",
+        "CF-CON-678",
+        "CF-CON-679",
+        "CF-CON-680",
+        "CF-CON-681",
+        "CF-CON-682",
+        "CF-CON-683",
+        "CF-CON-684"
+      ],
+      "byte_size": 7729
     }
   ],
   "indexes": {

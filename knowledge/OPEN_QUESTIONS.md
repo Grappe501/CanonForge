@@ -74,14 +74,14 @@ Architecture must now give birth to the actual story. **BUILD-026 World Engine v
 
 Gravitational center: **How do separate consciousnesses discover that they belong to the same reality?** *(CF-CON-549)*
 
-Concrete questions for Phase Three (BUILD-032+):
+Concrete questions for Phase Three (BUILD-033+):
 
-- **BUILD-032 Rules of Time** — time laws governing this specific story
+- **BUILD-033 Central Mystery** — governing gap all others orbit
+- **Populate Prime Event ledger** — actual event record *(CF-CON-670 · AUTHOR-ONLY)*
 - Who are the **consciousnesses** that inhabit this world?
-- What is the **central fracture** — the governing gap all others orbit?
-- What is the **foundational event** — populate Secret History archive *(CF-CON-649)*
+- **Never shown directly** — can the Prime Event be assembled fairly without depiction? *(CF-CON-678 · Candidate)*
 
-BUILD-031 establishes the **hidden chronology framework**. Populated event records remain **author-only** in the protected archive — never reader-facing.
+BUILD-032 establishes **this story's Prime Event framework**. Populated ledger remains **author-only** — never reader-facing.
 
 ## Hidden mathematics {#hidden-math}
 

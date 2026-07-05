@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 2.10.0 · 2026-07-05 · 664 concepts registered
+> Version 2.11.0 · 2026-07-05 · 684 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -668,6 +668,26 @@
 | CF-CON-662 | Hidden truth before clues | Governance | **Frozen** | Mystery requires creator anchor not trick. | CF-ENTRY-070 |
 | CF-CON-663 | Composing phase begins | Mission | **Frozen** | What happened not how system works. | CF-ENTRY-070 |
 | CF-CON-664 | Coherence not concealment | Mission | **Frozen** | Internally consistent reality; not hiding info. | CF-ENTRY-070 |
+| CF-CON-665 | Prime Event | Governance | **Frozen** | Single moment; hidden center of gravity of novella. | CF-ENTRY-071 |
+| CF-CON-666 | Prime Event first law | Governance | **Frozen** | Ordinary enough to overlook; recognition not surprise. | CF-ENTRY-071 |
+| CF-CON-667 | Invisible center | Architecture | **Frozen** | Consequences not explanations; orbiting unseen center. | CF-ENTRY-071 |
+| CF-CON-668 | Ten shadows | Architecture | **Frozen** | Historical personal emotional to reader shadow. | CF-ENTRY-071 |
+| CF-CON-669 | Rule of inevitability | Governance | **Frozen** | Nothing else could have happened; quietly made possible. | CF-ENTRY-071 |
+| CF-CON-670 | Prime Event ledger | Architecture | **Frozen** | Most detailed record; ten fields; nothing else matches. | CF-ENTRY-071 |
+| CF-CON-671 | Butterfly principle | Architecture | **Frozen** | Small acts accumulate into vast histories. | CF-ENTRY-071 |
+| CF-CON-672 | Lost moment | Architecture | **Frozen** | Event fixed; meaning evolves; may be forgotten. | CF-ENTRY-071 |
+| CF-CON-673 | Reader Prime Event discovery | Heart | **Frozen** | When did everything begin; not page one. | CF-ENTRY-071 |
+| CF-CON-674 | Architecture of echoes | Architecture | **Frozen** | All resonance converges; none disconnected. | CF-ENTRY-071 |
+| CF-CON-675 | Prime Event moral center | Mission | **Frozen** | Illuminates human question not merely plot. | CF-ENTRY-071 |
+| CF-CON-676 | Prime Event final principle | Mission | **Frozen** | Origin not climax; consciousness changes not event. | CF-ENTRY-071 |
+| CF-CON-677 | First story-specific BUILD | Mission | **Frozen** | Framework to this story; not universal mechanics. | CF-ENTRY-071 |
+| CF-CON-678 | Never shown directly | Governance | **Candidate** | Possibility: no flashback dream exposition of event. | CF-ENTRY-071 |
+| CF-CON-679 | Reader assembles truth | Revelation | **Candidate** | Central revelation created in reader mind fairly. | CF-ENTRY-071 |
+| CF-CON-680 | Hidden center of gravity | Architecture | **Frozen** | Most consequential moment; all threads trace back. | CF-ENTRY-071 |
+| CF-CON-681 | Recognition replaces surprise | Technique | **Frozen** | Incidental event governs; fair-play recontextualization. | CF-ENTRY-071 |
+| CF-CON-682 | Echo of one event | Mission | **Frozen** | Every story is echo of one Prime Event. | CF-ENTRY-071 |
+| CF-CON-683 | Shadow convergence | Architecture | **Frozen** | Ten shadow types map all story dimensions. | CF-ENTRY-071 |
+| CF-CON-684 | Consciousness changes not event | Mission | **Frozen** | Event fixed; climax is understanding significance. | CF-ENTRY-071 |
 
 ## Related Concepts
 
@@ -1319,7 +1339,7 @@
 - **CF-CON-646** (One true chronology, Frozen): CF-CON-645, CF-CON-014 → `canon/build/BUILD-031-secret-history.md#0311--the-first-law`
 - **CF-CON-647** (Three histories, Frozen): CF-CON-645, CF-CON-416 → `canon/build/BUILD-031-secret-history.md#0312--the-three-histories`
 - **CF-CON-648** (Age before the story, Frozen): CF-CON-645, CF-CON-552 → `canon/build/BUILD-031-secret-history.md#0313--the-age-before-the-story`
-- **CF-CON-649** (Foundational event, Frozen): CF-CON-645, CF-CON-358 → `canon/build/BUILD-031-secret-history.md#0314--the-foundational-event`
+- **CF-CON-649** (Foundational event, Frozen): CF-CON-645, CF-CON-665, CF-CON-358 → `canon/build/BUILD-031-secret-history.md#0314--the-foundational-event`
 - **CF-CON-650** (Great misunderstanding, Frozen): CF-CON-645, CF-CON-401 → `canon/build/BUILD-031-secret-history.md#0315--the-great-misunderstanding`
 - **CF-CON-651** (Hidden threads, Frozen): CF-CON-645, CF-CON-431 → `canon/build/BUILD-031-secret-history.md#0316--the-hidden-threads`
 - **CF-CON-652** (Living consequences, Frozen): CF-CON-645, CF-CON-545 → `canon/build/BUILD-031-secret-history.md#0317--the-living-consequences`
@@ -1335,3 +1355,23 @@
 - **CF-CON-662** (Hidden truth before clues, Frozen): CF-CON-645, CF-CON-176 → `canon/build/BUILD-031-secret-history.md`
 - **CF-CON-663** (Composing phase begins, Frozen): CF-CON-660, CF-CON-542 → `canon/build/BUILD-031-secret-history.md`
 - **CF-CON-664** (Coherence not concealment, Frozen): CF-CON-659, CF-CON-023 → `canon/build/BUILD-031-secret-history.md#03114--the-final-principle`
+- **CF-CON-665** (Prime Event, Frozen): CF-CON-649, CF-CON-645, CF-CON-680 → `canon/build/BUILD-032-prime-event.md`
+- **CF-CON-666** (Prime Event first law, Frozen): CF-CON-665, CF-CON-681 → `canon/build/BUILD-032-prime-event.md#0321--the-first-law`
+- **CF-CON-667** (Invisible center, Frozen): CF-CON-665, CF-CON-680 → `canon/build/BUILD-032-prime-event.md#0322--the-invisible-center`
+- **CF-CON-668** (Ten shadows, Frozen): CF-CON-665, CF-CON-683 → `canon/build/BUILD-032-prime-event.md#0323--the-ten-shadows`
+- **CF-CON-669** (Rule of inevitability, Frozen): CF-CON-665, CF-CON-664 → `canon/build/BUILD-032-prime-event.md#0324--the-rule-of-inevitability`
+- **CF-CON-670** (Prime Event ledger, Frozen): CF-CON-665, CF-CON-657 → `canon/build/BUILD-032-prime-event.md#0325--the-prime-event-ledger`
+- **CF-CON-671** (Butterfly principle, Frozen): CF-CON-665, CF-CON-654 → `canon/build/BUILD-032-prime-event.md#0326--the-butterfly-principle`
+- **CF-CON-672** (Lost moment, Frozen): CF-CON-665, CF-CON-647 → `canon/build/BUILD-032-prime-event.md#0327--the-lost-moment`
+- **CF-CON-673** (Reader Prime Event discovery, Frozen): CF-CON-665, CF-CON-658 → `canon/build/BUILD-032-prime-event.md#0328--the-readers-discovery`
+- **CF-CON-674** (Architecture of echoes, Frozen): CF-CON-665, CF-CON-134 → `canon/build/BUILD-032-prime-event.md#0329--the-architecture-of-echoes`
+- **CF-CON-675** (Prime Event moral center, Frozen): CF-CON-665, CF-CON-171 → `canon/build/BUILD-032-prime-event.md#03210--the-moral-center`
+- **CF-CON-676** (Prime Event final principle, Frozen): CF-CON-665, CF-CON-684 → `canon/build/BUILD-032-prime-event.md#03211--the-final-principle`
+- **CF-CON-677** (First story-specific BUILD, Frozen): CF-CON-665, CF-CON-663 → `canon/build/BUILD-032-prime-event.md`
+- **CF-CON-678** (Never shown directly, Candidate): CF-CON-665, CF-CON-679 → `canon/build/BUILD-032-prime-event.md`
+- **CF-CON-679** (Reader assembles truth, Candidate): CF-CON-678, CF-CON-002 → `canon/build/BUILD-032-prime-event.md`
+- **CF-CON-680** (Hidden center of gravity, Frozen): CF-CON-665, CF-CON-546 → `canon/build/BUILD-032-prime-event.md#0320--purpose`
+- **CF-CON-681** (Recognition replaces surprise, Frozen): CF-CON-666, CF-CON-031 → `canon/build/BUILD-032-prime-event.md#0321--the-first-law`
+- **CF-CON-682** (Echo of one event, Frozen): CF-CON-665, CF-CON-674 → `canon/build/BUILD-032-prime-event.md`
+- **CF-CON-683** (Shadow convergence, Frozen): CF-CON-668, CF-CON-358 → `canon/build/BUILD-032-prime-event.md#0323--the-ten-shadows`
+- **CF-CON-684** (Consciousness changes not event, Frozen): CF-CON-676, CF-CON-364 → `canon/build/BUILD-032-prime-event.md#03211--the-final-principle`

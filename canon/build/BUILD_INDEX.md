@@ -24,7 +24,8 @@ BUILD-028                             → Phase Three **v1.0**
 BUILD-029                             → Phase Three **v1.0**
 BUILD-030                             → Phase Three **v1.0** · Universal Architecture **complete**
 BUILD-031                             → Phase Three **v1.0** · **AUTHOR-ONLY**
-BUILD-032–036                         → queued · Composing phase
+BUILD-032                             → Phase Three **v1.0** · **AUTHOR-ONLY** · first story-specific
+BUILD-033–036                         → queued · Composing phase
 architecture/                         → expanded specs (derived · cross-ref)
 knowledge/entries/                    → verbatim source uploads
 ```
@@ -73,7 +74,8 @@ knowledge/entries/                    → verbatim source uploads
 | **029** | The Journey Engine | **1.0** | **Frozen** | 068 | CF-CON-605–624 | [BUILD-029](BUILD-029-journey-engine.md) |
 | **030** | The Cosmology Engine | **1.0** | **Frozen** | 069 | CF-CON-625–644 | [BUILD-030](BUILD-030-cosmology-engine.md) |
 | **031** | The Secret History | **1.0** | **Frozen · AUTHOR-ONLY** | 070 | CF-CON-645–664 | [BUILD-031](BUILD-031-secret-history.md) |
-| **032–036** | Phase Three novel | — | **Queued** | — | — | [CHRONOFORGE_PHASES](../architecture/CHRONOFORGE_PHASES.md) |
+| **032** | The Prime Event | **1.0** | **Frozen · AUTHOR-ONLY** | 071 | CF-CON-665–684 | [BUILD-032](BUILD-032-prime-event.md) |
+| **033–036** | Phase Three novel | — | **Queued** | — | — | [CHRONOFORGE_PHASES](../architecture/CHRONOFORGE_PHASES.md) |
 
 ---
 
@@ -119,6 +121,7 @@ knowledge/entries/                    → verbatim source uploads
 | 029 Journey Engine | Five journeys · hidden destination · reader journey |
 | 030 Cosmology Engine | Cosmic ledger · mystery permanent · Universal Architecture complete |
 | 031 Secret History | Three histories · history ledger · **AUTHOR-ONLY** · instrument complete |
+| 032 Prime Event | Ten shadows · Prime Event ledger · first story-specific · **AUTHOR-ONLY** |
 
 ---
 
