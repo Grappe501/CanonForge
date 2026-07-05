@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "0.6.2",
-  "generated_at": "2026-07-05T21:10:44.701205+00:00",
+  "canonforge_version": "0.6.3",
+  "generated_at": "2026-07-05T21:11:58.066488+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -1762,9 +1762,10 @@
       "label": "Four Pillars",
       "category": "Architecture",
       "status": "Frozen",
-      "definition": "Wonder \u00b7 Humanity \u00b7 Resonance \u00b7 Transformation.",
+      "definition": "Wonder \u00b7 Connection \u00b7 Resonance \u00b7 Transformation.",
       "sources": [
-        "CF-ENTRY-036"
+        "CF-ENTRY-036",
+        "CF-ENTRY-039"
       ],
       "canon_ref": "canon/build/BUILD-003-four-pillars.md"
     },
@@ -2097,6 +2098,105 @@
         "CF-ENTRY-038"
       ],
       "canon_ref": "canon/build/BUILD-002-prime-directive.md"
+    },
+    {
+      "id": "CF-CON-190",
+      "label": "Connection pillar",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Pillar Two replaces Humanity label; everything touches something.",
+      "sources": [
+        "CF-ENTRY-039"
+      ],
+      "canon_ref": "canon/build/BUILD-003-four-pillars.md"
+    },
+    {
+      "id": "CF-CON-191",
+      "label": "Wonder not mystery",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Wonder expands certainty to possibility; mystery hides.",
+      "sources": [
+        "CF-ENTRY-039"
+      ],
+      "canon_ref": "canon/build/BUILD-003-four-pillars.md"
+    },
+    {
+      "id": "CF-CON-192",
+      "label": "Four Pillars Matrix",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Per-scene scores: wonder connection resonance transformation.",
+      "sources": [
+        "CF-ENTRY-039"
+      ],
+      "canon_ref": "canon/build/BUILD-003-four-pillars.md"
+    },
+    {
+      "id": "CF-CON-193",
+      "label": "Pillar Hierarchy",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Movement 1 wonder through 5 all four simultaneously.",
+      "sources": [
+        "CF-ENTRY-039"
+      ],
+      "canon_ref": "canon/build/BUILD-003-four-pillars.md"
+    },
+    {
+      "id": "CF-CON-194",
+      "label": "Transformation Spiral",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Wonder through empathy back to wonder only higher.",
+      "sources": [
+        "CF-ENTRY-039"
+      ],
+      "canon_ref": "canon/build/BUILD-003-four-pillars.md"
+    },
+    {
+      "id": "CF-CON-195",
+      "label": "Negative Pillars",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Rejected: confusion lecture coincidence reader humiliation etc.",
+      "sources": [
+        "CF-ENTRY-039"
+      ],
+      "canon_ref": "canon/build/BUILD-003-four-pillars.md"
+    },
+    {
+      "id": "CF-CON-196",
+      "label": "Symphony composition model",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Wonder melody connection harmony resonance overtones.",
+      "sources": [
+        "CF-ENTRY-039"
+      ],
+      "canon_ref": "canon/build/BUILD-003-four-pillars.md"
+    },
+    {
+      "id": "CF-CON-197",
+      "label": "Four symphony movements",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Pillars as movements: ears heart mind soul.",
+      "sources": [
+        "CF-ENTRY-039"
+      ],
+      "canon_ref": "canon/build/BUILD-003-four-pillars.md"
+    },
+    {
+      "id": "CF-CON-198",
+      "label": "BUILD-003 structural skeleton",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Architecture layer canonical v1.0; what every part strengthens.",
+      "sources": [
+        "CF-ENTRY-039"
+      ],
+      "canon_ref": "canon/build/BUILD-003-four-pillars.md"
     }
   ],
   "edges": [
@@ -3502,6 +3602,91 @@
     },
     {
       "from": "CF-CON-189",
+      "to": "CF-CON-157",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-190",
+      "to": "CF-CON-139",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-190",
+      "to": "CF-CON-159",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-191",
+      "to": "CF-CON-159",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-191",
+      "to": "CF-CON-178",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-192",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-192",
+      "to": "CF-CON-159",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-193",
+      "to": "CF-CON-162",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-193",
+      "to": "CF-CON-159",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-194",
+      "to": "CF-CON-175",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-194",
+      "to": "CF-CON-158",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-195",
+      "to": "CF-CON-159",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-196",
+      "to": "CF-CON-165",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-196",
+      "to": "CF-CON-159",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-197",
+      "to": "CF-CON-196",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-197",
+      "to": "CF-CON-165",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-198",
+      "to": "CF-CON-159",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-198",
       "to": "CF-CON-157",
       "type": "related"
     }

@@ -36,7 +36,7 @@ No character exists to represent:
 
 **Being human.**
 
-*(Aligns: Article XVI Humanity · Article XVII Assumption · BUILD-003 Pillar Two · CF-CON-144)*
+*(Aligns: Article XVI · Article XVII · BUILD-003 Pillar Two Connection · CF-CON-144 · CF-CON-190)*
 
 ---
 

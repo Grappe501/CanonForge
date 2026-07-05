@@ -1,14 +1,15 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "0.6.2",
-  "generated_at": "2026-07-05T21:10:44.699198+00:00",
+  "canonforge_version": "0.6.3",
+  "generated_at": "2026-07-05T21:11:58.055249+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 38,
-  "concept_count": 189,
+  "entry_count": 39,
+  "concept_count": 198,
   "build_001_version": "0.1",
   "build_002_version": "1.0",
+  "build_003_version": "1.0",
   "roadmap_version": "1.0",
   "project_version": "0.0.1",
   "build_layer": "BUILD-001-013 frozen",
@@ -584,6 +585,26 @@
         "CF-CON-189"
       ],
       "byte_size": 7816
+    },
+    {
+      "entry_id": "CF-ENTRY-039",
+      "file": "knowledge/entries/039-build-003-four-pillars-canonical-v1.md",
+      "sha256": "c74ad7a6bf624bacc43a06c6d82490808da12db9355089c397f9ad66eec63f12",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-159",
+        "CF-CON-190",
+        "CF-CON-191",
+        "CF-CON-192",
+        "CF-CON-193",
+        "CF-CON-194",
+        "CF-CON-195",
+        "CF-CON-196",
+        "CF-CON-197",
+        "CF-CON-198"
+      ],
+      "byte_size": 7231
     }
   ],
   "indexes": {

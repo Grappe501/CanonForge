@@ -40,7 +40,9 @@
 | **Rule of Curiosity** | 1 answered · 2 active · 1 hidden question | CF-CON-177 |
 | **Assumption Ladder** | Readers build; novel examines | CF-CON-182 |
 | **Prime Question** | What is reader discovering? Nothing → delete | CF-CON-187 |
-| **Four Pillars** | Wonder · Humanity · Resonance · Transformation | CF-CON-159 |
+| **Four Pillars** | Wonder · Connection · Resonance · Transformation | CF-CON-159 |
+| **Connection pillar** | Pillar Two; supersedes Humanity label | CF-CON-190 |
+| **Four Pillars Matrix** | Per-scene pillar scores | CF-CON-192 |
 | **Reader Arc** | Five-stage reader journey parallel to protagonist | CF-CON-161 |
 | **Assumption Engine** | Per-page assumption · natural · transform | CF-CON-164 |
 | **BUILD layer** | Versioned canonical build documents 001+ | CF-CON-156 |

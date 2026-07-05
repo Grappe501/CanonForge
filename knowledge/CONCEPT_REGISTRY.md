@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 0.6.2 · 2026-07-05 · 189 concepts registered
+> Version 0.6.3 · 2026-07-05 · 198 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | CF-CON-156 | Canonical build discipline | Governance | **Locked** | Stop brainstorming; version numbers; traceability like software. | CF-ENTRY-036 |
 | CF-CON-157 | BUILD-001 Core Question | Mission | **Frozen** | Root command v0.1: experience humility questioning assumptions. | CF-ENTRY-036, CF-ENTRY-037 |
 | CF-CON-158 | BUILD-002 Prime Directive | Governance | **Frozen** | Every page: discovery without decreasing clarity; engineering rule. | CF-ENTRY-036, CF-ENTRY-038 |
-| CF-CON-159 | Four Pillars | Architecture | **Frozen** | Wonder · Humanity · Resonance · Transformation. | CF-ENTRY-036 |
+| CF-CON-159 | Four Pillars | Architecture | **Frozen** | Wonder · Connection · Resonance · Transformation. | CF-ENTRY-036, CF-ENTRY-039 |
 | CF-CON-160 | BUILD-004 Seven Laws | Governance | **Frozen** | Immutable distill of Constitution; story wins; never lie. | CF-ENTRY-036 |
 | CF-CON-161 | Reader Arc | Architecture | **Frozen** | Five stages: confidence to reflection outside the book. | CF-ENTRY-036 |
 | CF-CON-162 | Emotional Score | Architecture | **Frozen** | Eight movements of emotion; no victory only understanding. | CF-ENTRY-036 |
@@ -193,6 +193,15 @@
 | CF-CON-187 | Prime Question per page | Governance | **Frozen** | What is reader discovering? Nothing → delete page. | CF-ENTRY-038 |
 | CF-CON-188 | Curiosity replaces certainty | Heart | **Frozen** | Rewards patience not cleverness; true engine of reader change. | CF-ENTRY-038 |
 | CF-CON-189 | BUILD-002 engineering spec | Governance | **Frozen** | Discovery mechanism canonical v1.0; how reader changes. | CF-ENTRY-038 |
+| CF-CON-190 | Connection pillar | Architecture | **Frozen** | Pillar Two replaces Humanity label; everything touches something. | CF-ENTRY-039 |
+| CF-CON-191 | Wonder not mystery | Architecture | **Frozen** | Wonder expands certainty to possibility; mystery hides. | CF-ENTRY-039 |
+| CF-CON-192 | Four Pillars Matrix | Architecture | **Frozen** | Per-scene scores: wonder connection resonance transformation. | CF-ENTRY-039 |
+| CF-CON-193 | Pillar Hierarchy | Architecture | **Frozen** | Movement 1 wonder through 5 all four simultaneously. | CF-ENTRY-039 |
+| CF-CON-194 | Transformation Spiral | Architecture | **Frozen** | Wonder through empathy back to wonder only higher. | CF-ENTRY-039 |
+| CF-CON-195 | Negative Pillars | Governance | **Frozen** | Rejected: confusion lecture coincidence reader humiliation etc. | CF-ENTRY-039 |
+| CF-CON-196 | Symphony composition model | Architecture | **Frozen** | Wonder melody connection harmony resonance overtones. | CF-ENTRY-039 |
+| CF-CON-197 | Four symphony movements | Architecture | **Frozen** | Pillars as movements: ears heart mind soul. | CF-ENTRY-039 |
+| CF-CON-198 | BUILD-003 structural skeleton | Governance | **Frozen** | Architecture layer canonical v1.0; what every part strengthens. | CF-ENTRY-039 |
 
 ## Related Concepts
 
@@ -385,3 +394,12 @@
 - **CF-CON-187** (Prime Question per page, Frozen): CF-CON-158 → `canon/build/BUILD-002-prime-directive.md`
 - **CF-CON-188** (Curiosity replaces certainty, Frozen): CF-CON-003, CF-CON-157 → `canon/build/BUILD-002-prime-directive.md`
 - **CF-CON-189** (BUILD-002 engineering spec, Frozen): CF-CON-158, CF-CON-157 → `canon/build/BUILD-002-prime-directive.md`
+- **CF-CON-190** (Connection pillar, Frozen): CF-CON-139, CF-CON-159 → `canon/build/BUILD-003-four-pillars.md`
+- **CF-CON-191** (Wonder not mystery, Frozen): CF-CON-159, CF-CON-178 → `canon/build/BUILD-003-four-pillars.md`
+- **CF-CON-192** (Four Pillars Matrix, Frozen): CF-CON-134, CF-CON-159 → `canon/build/BUILD-003-four-pillars.md`
+- **CF-CON-193** (Pillar Hierarchy, Frozen): CF-CON-162, CF-CON-159 → `canon/build/BUILD-003-four-pillars.md`
+- **CF-CON-194** (Transformation Spiral, Frozen): CF-CON-175, CF-CON-158 → `canon/build/BUILD-003-four-pillars.md`
+- **CF-CON-195** (Negative Pillars, Frozen): CF-CON-159 → `canon/build/BUILD-003-four-pillars.md`
+- **CF-CON-196** (Symphony composition model, Frozen): CF-CON-165, CF-CON-159 → `canon/build/BUILD-003-four-pillars.md`
+- **CF-CON-197** (Four symphony movements, Frozen): CF-CON-196, CF-CON-165 → `canon/build/BUILD-003-four-pillars.md`
+- **CF-CON-198** (BUILD-003 structural skeleton, Frozen): CF-CON-159, CF-CON-157 → `canon/build/BUILD-003-four-pillars.md`

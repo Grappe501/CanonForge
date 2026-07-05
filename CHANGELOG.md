@@ -3,6 +3,18 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [0.6.3] — 2026-07-05
+
+### Added
+- CF-ENTRY-039: BUILD-003 Four Pillars Canonical v1.0
+- Concepts CF-CON-190 through CF-CON-198
+- Four Pillars Matrix · Pillar Hierarchy · Transformation Spiral · Symphony model
+
+### Changed
+- **Pillar Two renamed:** Humanity → **Connection** (includes humanity · CF-CON-190)
+- BUILD-007 · BUILD-001 traceability cross-refs updated
+- Master Canon v0.5.3
+
 ## [0.6.2] — 2026-07-05
 
 ### Added

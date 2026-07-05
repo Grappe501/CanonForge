@@ -47,6 +47,8 @@ Key locked insights:
 
 → [build/BUILD-002-prime-directive.md](build/BUILD-002-prime-directive.md) · Discovery Pyramid · Prime Question per page
 
+→ [build/BUILD-002-prime-directive.md](build/BUILD-002-prime-directive.md) · Discovery Pyramid · Prime Question per page
+
 → Full registry: [build/BUILD_INDEX.md](build/BUILD_INDEX.md)
 
 Tell the **best adventure story we can possibly tell** — tested against Constitution, BUILD layer, and filters above.

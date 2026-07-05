@@ -312,7 +312,7 @@ Every later build must trace back here.
 | BUILD | Must |
 |---|---|
 | **002** Prime Directive | Define discovery as operating method of core question |
-| **003** Four Pillars | Express wonder, humanity, resonance, transformation as structural supports |
+| **003** Four Pillars | Express wonder, connection, resonance, transformation as structural supports |
 | **004** Seven Laws | Turn core question into enforceable creative rules |
 | **005** Reader Arc | Map how the reader changes |
 | **006** Emotional Score | Make transformation felt through rhythm |
