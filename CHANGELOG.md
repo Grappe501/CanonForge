@@ -3,6 +3,21 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [0.6.9] — 2026-07-05
+
+### Added
+- CF-ENTRY-045: BUILD-009 Grammar of Time Canonical v1.0
+- Concepts CF-CON-256 through CF-CON-268
+- Five Times · Time Weave · Temporal Spiral · Grand Clock
+
+### Changed
+- **BUILD-009 renamed:** Music Theory → **Grammar of Time** (architecture pivot)
+- Movement/orchestration metrics remain in BUILD-006 · RHYTHM_BIBLE
+- Master Canon v0.5.9
+
+### Removed
+- `BUILD-009-music-theory.md` (superseded)
+
 ## [0.6.8] — 2026-07-05
 
 ### Added

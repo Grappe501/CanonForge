@@ -31,9 +31,11 @@ Closing visual/symbolic image not locked. Must pass Sixth Sense fair-play audit.
 
 Phase 1 one-page truth-sentence not yet written. Gates all downstream work.
 
-## Phase 14
+## Future remembers {#future-remembers}
 
-Implementation directives not yet received. No prose layer until Phase 14 arrives.
+**CF-CON-264 · Status: Candidate · BUILD-009 §009.17**
+
+Events understood before experienced — through meaning, not prophecy. Reader grasps significance before chronological cause. Design TBD.
 
 ## Authorship posture {#authorship}
 

@@ -1,7 +1,7 @@
-# Master Canon v0.5.8
+# Master Canon v0.5.9
 
-> **BUILD-008 is the invention** — pattern completion · cognition · collaboration of reading
-> Supersedes v0.5.7 (2026-07-05 · BUILD-008 Assumption Engine CF-ENTRY-044)
+> **BUILD-009:** Grammar of Time · experienced time not clock · supersedes Music Theory
+> Supersedes v0.5.8 (2026-07-05 · BUILD-009 Grammar of Time CF-ENTRY-045)
 
 ---
 
@@ -42,9 +42,9 @@ Key locked insights:
 | **Four Pillars** | Strengthen ≥1 of Wonder · **Connection** · Resonance · Transformation? | BUILD-003 v1.0 |
 | Seven Laws | Immutable · complies with BUILD-004 v1.0? | BUILD-004 |
 
-**Stack:** BUILD-001 = *why* · … · BUILD-008 = *cognition* · **the invention**
+**Stack:** BUILD-001 = *why* · … · BUILD-008 = *cognition* · BUILD-009 = *experienced time*
 
-→ [build/BUILD-008-assumption-engine.md](build/BUILD-008-assumption-engine.md) · Pattern Completion · Reader's Pencil · I Added That
+→ [build/BUILD-009-grammar-of-time.md](build/BUILD-009-grammar-of-time.md) · Five Times · Time Weave · Temporal Spiral
 
 → [build/BUILD-004-seven-laws.md](build/BUILD-004-seven-laws.md)
 

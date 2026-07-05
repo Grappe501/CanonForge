@@ -3,7 +3,7 @@
 > **Canonical Version 1.0 · Status: FROZEN**
 > CF-CON-162 · CF-CON-219–229 · CF-ENTRY-036 · CF-ENTRY-042
 > Supersedes BUILD-006 v1.0.0 stub (CF-ENTRY-036)
-> **Traces to:** BUILD-005 · BUILD-009 · percussionist beat insight (CF-ENTRY-042)
+> **Traces to:** BUILD-005 · BUILD-009 Grammar of Time · percussionist beat insight (CF-ENTRY-042)
 
 > **"Emotion is not written. Emotion is orchestrated."**
 

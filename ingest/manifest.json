@@ -1,20 +1,15 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "0.6.8",
-  "generated_at": "2026-07-05T21:19:12.577294+00:00",
+  "canonforge_version": "0.6.9",
+  "generated_at": "2026-07-05T21:20:41.556260+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 44,
-  "concept_count": 255,
-  "build_001_version": "0.1",
-  "build_002_version": "1.0",
-  "build_003_version": "1.0",
-  "build_004_version": "1.0",
-  "build_005_version": "1.0",
-  "build_006_version": "1.0",
-  "build_007_version": "1.0",
+  "entry_count": 45,
+  "concept_count": 268,
   "build_008_version": "1.0",
+  "build_009_version": "1.0",
+  "build_009_title": "Grammar of Time",
   "roadmap_version": "1.0",
   "project_version": "0.0.1",
   "build_layer": "BUILD-001-013 frozen",
@@ -722,6 +717,30 @@
         "CF-CON-255"
       ],
       "byte_size": 7747
+    },
+    {
+      "entry_id": "CF-ENTRY-045",
+      "file": "knowledge/entries/045-build-009-grammar-of-time-v1.md",
+      "sha256": "22176b9b4331d751bf7e354d45702a7e93912fabb7c32710afdf7651fede1589",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-165",
+        "CF-CON-256",
+        "CF-CON-257",
+        "CF-CON-258",
+        "CF-CON-259",
+        "CF-CON-260",
+        "CF-CON-261",
+        "CF-CON-262",
+        "CF-CON-263",
+        "CF-CON-264",
+        "CF-CON-265",
+        "CF-CON-266",
+        "CF-CON-267",
+        "CF-CON-268"
+      ],
+      "byte_size": 7281
     }
   ],
   "indexes": {

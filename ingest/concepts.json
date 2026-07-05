@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "0.6.8",
-  "generated_at": "2026-07-05T21:18:39.146166+00:00",
+  "canonforge_version": "0.6.9",
+  "generated_at": "2026-07-05T21:20:41.577004+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -1831,14 +1831,15 @@
     },
     {
       "id": "CF-CON-165",
-      "label": "BUILD-009 Music Theory",
+      "label": "Grammar of Time",
       "category": "Architecture",
       "status": "Frozen",
-      "definition": "Movements felt not labeled; tempo pulse density measurable.",
+      "definition": "Five times; experienced time; supersedes Music Theory stub.",
       "sources": [
-        "CF-ENTRY-036"
+        "CF-ENTRY-036",
+        "CF-ENTRY-045"
       ],
-      "canon_ref": "canon/build/BUILD-009-music-theory.md"
+      "canon_ref": "canon/build/BUILD-009-grammar-of-time.md"
     },
     {
       "id": "CF-CON-166",
@@ -2829,6 +2830,149 @@
         "CF-ENTRY-044"
       ],
       "canon_ref": "canon/build/BUILD-008-assumption-engine.md"
+    },
+    {
+      "id": "CF-CON-256",
+      "label": "Five Times",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Clock narrative memory emotional discovery reading time.",
+      "sources": [
+        "CF-ENTRY-045"
+      ],
+      "canon_ref": "canon/build/BUILD-009-grammar-of-time.md"
+    },
+    {
+      "id": "CF-CON-257",
+      "label": "Time weave",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Five threads cross; reader follows one then sees five.",
+      "sources": [
+        "CF-ENTRY-045"
+      ],
+      "canon_ref": "canon/build/BUILD-009-grammar-of-time.md"
+    },
+    {
+      "id": "CF-CON-258",
+      "label": "Pulse of time",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Time felt not calculated; heartbeat not clock.",
+      "sources": [
+        "CF-ENTRY-045"
+      ],
+      "canon_ref": "canon/build/BUILD-009-grammar-of-time.md"
+    },
+    {
+      "id": "CF-CON-259",
+      "label": "Elasticity principle",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Time stretches contracts by human experience not random.",
+      "sources": [
+        "CF-ENTRY-045"
+      ],
+      "canon_ref": "canon/build/BUILD-009-grammar-of-time.md"
+    },
+    {
+      "id": "CF-CON-260",
+      "label": "Moment of stillness",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Consciousness suspension; time appears to stop.",
+      "sources": [
+        "CF-ENTRY-045"
+      ],
+      "canon_ref": "canon/build/BUILD-009-grammar-of-time.md"
+    },
+    {
+      "id": "CF-CON-261",
+      "label": "Temporal resonance",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Moments return experientially with new understanding.",
+      "sources": [
+        "CF-ENTRY-045"
+      ],
+      "canon_ref": "canon/build/BUILD-009-grammar-of-time.md"
+    },
+    {
+      "id": "CF-CON-262",
+      "label": "Temporal spiral",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Not circular; return higher; page unchanged reader not.",
+      "sources": [
+        "CF-ENTRY-045"
+      ],
+      "canon_ref": "canon/build/BUILD-009-grammar-of-time.md"
+    },
+    {
+      "id": "CF-CON-263",
+      "label": "Temporal score",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Per-movement chronology memory discovery velocity fields.",
+      "sources": [
+        "CF-ENTRY-045"
+      ],
+      "canon_ref": "canon/build/BUILD-009-grammar-of-time.md"
+    },
+    {
+      "id": "CF-CON-264",
+      "label": "Future remembers",
+      "category": "Architecture",
+      "status": "Candidate",
+      "definition": "Understand significance before chronological cause.",
+      "sources": [
+        "CF-ENTRY-045"
+      ],
+      "canon_ref": "canon/build/BUILD-009-grammar-of-time.md"
+    },
+    {
+      "id": "CF-CON-265",
+      "label": "Grand clock",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Many clocks; Book of Secrets alone aligns them.",
+      "sources": [
+        "CF-ENTRY-045"
+      ],
+      "canon_ref": "canon/build/BUILD-009-grammar-of-time.md"
+    },
+    {
+      "id": "CF-CON-266",
+      "label": "Reader experience question",
+      "category": "Process",
+      "status": "Frozen",
+      "definition": "What is reader experiencing not what happens next.",
+      "sources": [
+        "CF-ENTRY-045"
+      ],
+      "canon_ref": "canon/build/BUILD-009-grammar-of-time.md"
+    },
+    {
+      "id": "CF-CON-267",
+      "label": "BUILD-009 Grammar of Time",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Time as experience; supersedes Music Theory title.",
+      "sources": [
+        "CF-ENTRY-045"
+      ],
+      "canon_ref": "canon/build/BUILD-009-grammar-of-time.md"
+    },
+    {
+      "id": "CF-CON-268",
+      "label": "Understanding as calendar",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "What understanding am I occupying not what year.",
+      "sources": [
+        "CF-ENTRY-045"
+      ],
+      "canon_ref": "canon/build/BUILD-009-grammar-of-time.md"
     }
   ],
   "edges": [
@@ -4024,12 +4168,12 @@
     },
     {
       "from": "CF-CON-165",
-      "to": "CF-CON-070",
+      "to": "CF-CON-014",
       "type": "related"
     },
     {
       "from": "CF-CON-165",
-      "to": "CF-CON-059",
+      "to": "CF-CON-256",
       "type": "related"
     },
     {
@@ -4850,6 +4994,121 @@
     {
       "from": "CF-CON-255",
       "to": "CF-CON-157",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-256",
+      "to": "CF-CON-165",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-256",
+      "to": "CF-CON-014",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-257",
+      "to": "CF-CON-256",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-257",
+      "to": "CF-CON-014",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-258",
+      "to": "CF-CON-165",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-258",
+      "to": "CF-CON-220",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-259",
+      "to": "CF-CON-258",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-260",
+      "to": "CF-CON-162",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-261",
+      "to": "CF-CON-227",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-261",
+      "to": "CF-CON-201",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-262",
+      "to": "CF-CON-154",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-262",
+      "to": "CF-CON-194",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-263",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-263",
+      "to": "CF-CON-256",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-264",
+      "to": "CF-CON-256",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-265",
+      "to": "CF-CON-022",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-265",
+      "to": "CF-CON-256",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-266",
+      "to": "CF-CON-158",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-266",
+      "to": "CF-CON-187",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-267",
+      "to": "CF-CON-165",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-267",
+      "to": "CF-CON-006",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-268",
+      "to": "CF-CON-211",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-268",
+      "to": "CF-CON-256",
       "type": "related"
     }
   ]

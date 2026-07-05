@@ -318,7 +318,7 @@ Every later build must trace back here.
 | **006** Emotional Score | Make transformation felt through rhythm |
 | **007** Human Experience Model | Protect humanity principle |
 | **008** Assumption Engine | Operationalize reader self-discovery |
-| **009** Music Theory | Make rhythm serve transformation |
+| **009** Grammar of Time | Make time felt before measured; Five Times | BUILD-009 |
 | **010** Physics of Reading | Define how reader participates |
 | **011** Invisible Contract | Define assumptions we allow readers to make |
 | **012** Title | Remain unresolved until fifth-depth meaning known |

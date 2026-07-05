@@ -36,7 +36,7 @@ knowledge/entries/                    → verbatim source uploads
 | **006** | The Emotional Score | **1.0** | **Frozen** | 036, 042 | CF-CON-162, 219–229 | [BUILD-006](BUILD-006-emotional-score.md) |
 | **007** | Human Experience Model | **1.0** | **Frozen** | 036, 043 | CF-CON-163, 230–242 | [BUILD-007](BUILD-007-human-experience-model.md) |
 | **008** | The Assumption Engine | **1.0** | **Frozen** | 036, 044 | CF-CON-164, 243–255 | [BUILD-008](BUILD-008-assumption-engine.md) |
-| **009** | The Music Theory | **1.0.0** | **Frozen** | 036 | CF-CON-165 | [BUILD-009](BUILD-009-music-theory.md) |
+| **009** | The Grammar of Time | **1.0** | **Frozen** | 036, 045 | CF-CON-165, 256–268 | [BUILD-009](BUILD-009-grammar-of-time.md) |
 | **010** | Physics of Reading | **1.0.0** | **Frozen** | 036 | CF-CON-166 | [BUILD-010](BUILD-010-physics-of-reading.md) |
 | **011** | The Invisible Contract | **1.0.0** | **Frozen** | 036 | CF-CON-167 | [BUILD-011](BUILD-011-invisible-contract.md) |
 | **012** | The Title | **1.0.0** | **Frozen** | 036 | CF-CON-168 | [BUILD-012](BUILD-012-title.md) |
@@ -65,7 +65,7 @@ knowledge/entries/                    → verbatim source uploads
 | 006 Emotional Score | THE_SCORE · Conductor's Test · Theme/Variation |
 | 007 Human Experience | Consciousness unit · Invisible Biography · Book of Secrets |
 | 008 Assumption Engine | ASSUMPTION_LEDGER · Five Levels · Assumption Catalog |
-| 009 Music Theory | MOVEMENTS_NOT_CHAPTERS · RHYTHM_BIBLE |
+| 009 Grammar of Time | Five Times · Time Weave · Temporal Score · HIDDEN_ENGINE |
 | 010 Physics of Reading | [architecture/PHYSICS_OF_READING.md](../../architecture/PHYSICS_OF_READING.md) |
 | 011 Invisible Contract | HIDDEN_ENGINE · No Beginning law |
 

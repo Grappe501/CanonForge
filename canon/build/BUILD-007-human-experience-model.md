@@ -211,7 +211,7 @@ Interrupt · pause · wait · rush · notice details · notice people · avoid s
 
 Rhythms as important as dialogue.
 
-*(Aligns: BUILD-006 · BUILD-009)*
+*(Aligns: BUILD-006 · BUILD-009 Grammar of Time)*
 
 ---
 

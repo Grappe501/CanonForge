@@ -49,7 +49,8 @@
 | **Human equation** | Four simultaneous realities | CF-CON-231 |
 | **Reader Arc** | Five-stage reader journey parallel to protagonist | CF-CON-161 |
 | **Assumption Engine** | Pattern completion · I added that | CF-CON-164 |
-| **Reader's pencil** | Invisible mental annotations | CF-CON-250 |
+| **Grammar of Time** | Five Times · experienced time not clock | CF-CON-165 |
+| **Five Times** | Clock narrative memory emotional discovery | CF-CON-256 |
 | **BUILD layer** | Versioned canonical build documents 001+ | CF-CON-156 |
 | **Experience product** | The reading journey is the product, not the artifact | CF-CON-037 |
 | **3-text-before-page-5** | Experience success scene: text three people before reaching page five on reread | CF-CON-045 |

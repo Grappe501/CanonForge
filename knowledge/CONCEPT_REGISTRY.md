@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 0.6.8 · 2026-07-05 · 255 concepts registered
+> Version 0.6.9 · 2026-07-05 · 268 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | CF-CON-162 | Emotional Score | Architecture | **Frozen** | Eight movements · six layers · orchestrate reader state not character. | CF-ENTRY-036, CF-ENTRY-042 |
 | CF-CON-163 | Human Experience Model | Theme | **Frozen** | Human beings not characters; consciousness as design unit. | CF-ENTRY-036, CF-ENTRY-043 |
 | CF-CON-164 | Assumption Engine | Architecture | **Frozen** | Pattern completion; incomplete truths; cognition model v1.0. | CF-ENTRY-036, CF-ENTRY-044 |
-| CF-CON-165 | BUILD-009 Music Theory | Architecture | **Frozen** | Movements felt not labeled; tempo pulse density measurable. | CF-ENTRY-036 |
+| CF-CON-165 | Grammar of Time | Architecture | **Frozen** | Five times; experienced time; supersedes Music Theory stub. | CF-ENTRY-036, CF-ENTRY-045 |
 | CF-CON-166 | BUILD-010 Physics of Reading | Architecture | **Frozen** | Compose for eyes voice breathing prediction emotion memory. | CF-ENTRY-036 |
 | CF-CON-167 | BUILD-011 Invisible Contract | Architecture | **Frozen** | Allow unstated reader assumptions; fair subversion. | CF-ENTRY-036 |
 | CF-CON-168 | Title fifth-read gate | Design fork | **Frozen** | Title not understood until fifth reading; deepest truth. | CF-ENTRY-036 |
@@ -259,6 +259,19 @@
 | CF-CON-253 | Confidence curve | Architecture | **Frozen** | Confidence rises before falls; earns then reshapes. | CF-ENTRY-044 |
 | CF-CON-254 | Assumption Catalog | Architecture | **Queued** | Development map every intended assumption transform. | CF-ENTRY-044 |
 | CF-CON-255 | BUILD-008 cognition engine | Governance | **Frozen** | Human cognition model; heart of Chronoforge. | CF-ENTRY-044 |
+| CF-CON-256 | Five Times | Architecture | **Frozen** | Clock narrative memory emotional discovery reading time. | CF-ENTRY-045 |
+| CF-CON-257 | Time weave | Architecture | **Frozen** | Five threads cross; reader follows one then sees five. | CF-ENTRY-045 |
+| CF-CON-258 | Pulse of time | Architecture | **Frozen** | Time felt not calculated; heartbeat not clock. | CF-ENTRY-045 |
+| CF-CON-259 | Elasticity principle | Architecture | **Frozen** | Time stretches contracts by human experience not random. | CF-ENTRY-045 |
+| CF-CON-260 | Moment of stillness | Architecture | **Frozen** | Consciousness suspension; time appears to stop. | CF-ENTRY-045 |
+| CF-CON-261 | Temporal resonance | Architecture | **Frozen** | Moments return experientially with new understanding. | CF-ENTRY-045 |
+| CF-CON-262 | Temporal spiral | Architecture | **Frozen** | Not circular; return higher; page unchanged reader not. | CF-ENTRY-045 |
+| CF-CON-263 | Temporal score | Architecture | **Frozen** | Per-movement chronology memory discovery velocity fields. | CF-ENTRY-045 |
+| CF-CON-264 | Future remembers | Architecture | **Candidate** | Understand significance before chronological cause. | CF-ENTRY-045 |
+| CF-CON-265 | Grand clock | Architecture | **Frozen** | Many clocks; Book of Secrets alone aligns them. | CF-ENTRY-045 |
+| CF-CON-266 | Reader experience question | Process | **Frozen** | What is reader experiencing not what happens next. | CF-ENTRY-045 |
+| CF-CON-267 | BUILD-009 Grammar of Time | Governance | **Frozen** | Time as experience; supersedes Music Theory title. | CF-ENTRY-045 |
+| CF-CON-268 | Understanding as calendar | Architecture | **Frozen** | What understanding am I occupying not what year. | CF-ENTRY-045 |
 
 ## Related Concepts
 
@@ -426,7 +439,7 @@
 - **CF-CON-162** (Emotional Score, Frozen): CF-CON-093, CF-CON-165 → `canon/build/BUILD-006-emotional-score.md`
 - **CF-CON-163** (Human Experience Model, Frozen): CF-CON-139, CF-CON-190 → `canon/build/BUILD-007-human-experience-model.md`
 - **CF-CON-164** (Assumption Engine, Frozen): CF-CON-145, CF-CON-243 → `canon/build/BUILD-008-assumption-engine.md`
-- **CF-CON-165** (BUILD-009 Music Theory, Frozen): CF-CON-070, CF-CON-059 → `canon/build/BUILD-009-music-theory.md`
+- **CF-CON-165** (Grammar of Time, Frozen): CF-CON-014, CF-CON-256 → `canon/build/BUILD-009-grammar-of-time.md`
 - **CF-CON-166** (BUILD-010 Physics of Reading, Frozen): CF-CON-092, CF-CON-106 → `canon/build/BUILD-010-physics-of-reading.md`
 - **CF-CON-167** (BUILD-011 Invisible Contract, Frozen): CF-CON-054, CF-CON-057 → `canon/build/BUILD-011-invisible-contract.md`
 - **CF-CON-168** (Title fifth-read gate, Frozen): CF-CON-152 → `canon/build/BUILD-012-title.md`
@@ -517,3 +530,16 @@
 - **CF-CON-253** (Confidence curve, Frozen): CF-CON-210, CF-CON-221 → `canon/build/BUILD-008-assumption-engine.md`
 - **CF-CON-254** (Assumption Catalog, Queued): CF-CON-248, CF-CON-022 → `canon/build/BUILD-008-assumption-engine.md`
 - **CF-CON-255** (BUILD-008 cognition engine, Frozen): CF-CON-164, CF-CON-157 → `canon/build/BUILD-008-assumption-engine.md`
+- **CF-CON-256** (Five Times, Frozen): CF-CON-165, CF-CON-014 → `canon/build/BUILD-009-grammar-of-time.md`
+- **CF-CON-257** (Time weave, Frozen): CF-CON-256, CF-CON-014 → `canon/build/BUILD-009-grammar-of-time.md`
+- **CF-CON-258** (Pulse of time, Frozen): CF-CON-165, CF-CON-220 → `canon/build/BUILD-009-grammar-of-time.md`
+- **CF-CON-259** (Elasticity principle, Frozen): CF-CON-258 → `canon/build/BUILD-009-grammar-of-time.md`
+- **CF-CON-260** (Moment of stillness, Frozen): CF-CON-162 → `canon/build/BUILD-009-grammar-of-time.md`
+- **CF-CON-261** (Temporal resonance, Frozen): CF-CON-227, CF-CON-201 → `canon/build/BUILD-009-grammar-of-time.md`
+- **CF-CON-262** (Temporal spiral, Frozen): CF-CON-154, CF-CON-194 → `canon/build/BUILD-009-grammar-of-time.md`
+- **CF-CON-263** (Temporal score, Frozen): CF-CON-134, CF-CON-256 → `canon/build/BUILD-009-grammar-of-time.md`
+- **CF-CON-264** (Future remembers, Candidate): CF-CON-256 → `canon/build/BUILD-009-grammar-of-time.md`
+- **CF-CON-265** (Grand clock, Frozen): CF-CON-022, CF-CON-256 → `canon/build/BUILD-009-grammar-of-time.md`
+- **CF-CON-266** (Reader experience question, Frozen): CF-CON-158, CF-CON-187 → `canon/build/BUILD-009-grammar-of-time.md`
+- **CF-CON-267** (BUILD-009 Grammar of Time, Frozen): CF-CON-165, CF-CON-006 → `canon/build/BUILD-009-grammar-of-time.md`
+- **CF-CON-268** (Understanding as calendar, Frozen): CF-CON-211, CF-CON-256 → `canon/build/BUILD-009-grammar-of-time.md`

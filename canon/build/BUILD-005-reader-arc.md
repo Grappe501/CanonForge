@@ -138,7 +138,7 @@ Chronoforge synchronizes with internal rhythm — then **gently changes** it thr
 
 Reader slows · breathes differently · notices differently · remembers differently.
 
-*(BUILD-009 · BUILD-010 · RHYTHM_BIBLE)*
+*(BUILD-009 Grammar of Time · BUILD-010 · RHYTHM_BIBLE)*
 
 ---
 
