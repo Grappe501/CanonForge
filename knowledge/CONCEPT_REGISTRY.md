@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 2.3.0 · 2026-07-05 · 524 concepts registered
+> Version 2.4.0 · 2026-07-05 · 544 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -350,7 +350,7 @@
 | CF-CON-344 | Discovery Ledger | Architecture | **Frozen** | Surface deep reader human five-read level. | CF-ENTRY-051 |
 | CF-CON-345 | Chronology Engine | Architecture | **Frozen** | Five sequences; most protected document. | CF-ENTRY-051 |
 | CF-CON-346 | Resonance Web | Architecture | **Frozen** | Living graph; every page a node. | CF-ENTRY-051 |
-| CF-CON-347 | Page Score | Architecture | **Frozen** | Per-page composition fields; THE_SCORE. | CF-ENTRY-051 |
+| CF-CON-347 | Page Score | Architecture | **Frozen** | Per-page composition fields; BUILD-025 Print Score. | CF-ENTRY-051, CF-ENTRY-064 |
 | CF-CON-348 | Five-Read Map | Architecture | **Frozen** | Scene dominant read adventure to architecture. | CF-ENTRY-051 |
 | CF-CON-349 | Harmony Test | Process | **Frozen** | No system overpowers; balance harmony. | CF-ENTRY-051 |
 | CF-CON-350 | Fractal Test | Process | **Frozen** | Sentence page movement novel integrity. | CF-ENTRY-051 |
@@ -528,6 +528,26 @@
 | CF-CON-522 | Final tempo | Mission | **Frozen** | Settle not race; resonance after book closed. | CF-ENTRY-063 |
 | CF-CON-523 | Definitive edition is performance | Mission | **Frozen** | Score plus reader; music exists in performance. | CF-ENTRY-063 |
 | CF-CON-524 | Invisible conductor | Architecture | **Frozen** | Tempo never consciously noticed; always felt. | CF-ENTRY-063 |
+| CF-CON-525 | Page Architecture | Architecture | **Frozen** | Canonical printed form; page as unit of experience. | CF-ENTRY-064 |
+| CF-CON-526 | Story first page second | Governance | **Frozen** | Narrative truth precedes visual elegance always. | CF-ENTRY-064 |
+| CF-CON-527 | Page as breath | Architecture | **Frozen** | Inhale opening exhale turn; physiological page. | CF-ENTRY-064 |
+| CF-CON-528 | Page turn narrative event | Architecture | **Frozen** | Reveal delay interrupt echo suspend release. | CF-ENTRY-064 |
+| CF-CON-529 | Visual density map | Architecture | **Frozen** | Dense to silent; sequence creates visual rhythm. | CF-ENTRY-064 |
+| CF-CON-530 | Canonical grid | Architecture | **Frozen** | Trim margins leading after manuscript stable. | CF-ENTRY-064 |
+| CF-CON-531 | Architecture of white space | Architecture | **Frozen** | Silence visible; rare meaningful pauses only. | CF-ENTRY-064 |
+| CF-CON-532 | One-word page | Governance | **Frozen** | Perhaps once never; necessity not spectacle. | CF-ENTRY-064 |
+| CF-CON-533 | Opening page architecture | Architecture | **Frozen** | Teaches how to read; trust invisibly. | CF-ENTRY-064 |
+| CF-CON-534 | Final page architecture | Architecture | **Frozen** | Room for silence; hands experience to reader. | CF-ENTRY-064 |
+| CF-CON-535 | The spread | Architecture | **Frozen** | Facing pages one composition balance or asymmetry. | CF-ENTRY-064 |
+| CF-CON-536 | Eye path | Architecture | **Frozen** | Eyes travel before mind; weight without notice. | CF-ENTRY-064 |
+| CF-CON-537 | Print score record | Architecture | **Frozen** | Eight fields per page; integrates all ledgers. | CF-ENTRY-064 |
+| CF-CON-538 | Material book | Architecture | **Frozen** | Paper texture weight; hands part of instrument. | CF-ENTRY-064 |
+| CF-CON-539 | Digital edition adaptation | Governance | **Frozen** | Faithful not replacement; print definitive score. | CF-ENTRY-064 |
+| CF-CON-540 | Rule of page invisibility | Governance | **Frozen** | Feel effects without noticing; else decoration. | CF-ENTRY-064 |
+| CF-CON-541 | Final architecture test | Governance | **Frozen** | Five questions before canonical edition approved. | CF-ENTRY-064 |
+| CF-CON-542 | Architect Phase complete | Mission | **Frozen** | BUILD-001-025 how; Phase Three the novel. | CF-ENTRY-064 |
+| CF-CON-543 | World-only-in-Chronoforge | Mission | **Frozen** | BUILD-026 gate; story-true world question. | CF-ENTRY-064 |
+| CF-CON-544 | Architecture becomes art | Mission | **Frozen** | Instrument designed; symphony begins BUILD-026. | CF-ENTRY-064 |
 
 ## Related Concepts
 
@@ -877,7 +897,7 @@
 - **CF-CON-344** (Discovery Ledger, Frozen): CF-CON-176, CF-CON-134 → `canon/build/BUILD-015-resonance-matrix.md`
 - **CF-CON-345** (Chronology Engine, Frozen): CF-CON-014, CF-CON-256 → `canon/build/BUILD-015-resonance-matrix.md`
 - **CF-CON-346** (Resonance Web, Frozen): CF-CON-134, CF-CON-358 → `canon/build/BUILD-015-resonance-matrix.md`
-- **CF-CON-347** (Page Score, Frozen): CF-CON-093, CF-CON-134 → `canon/build/BUILD-015-resonance-matrix.md`
+- **CF-CON-347** (Page Score, Frozen): CF-CON-093, CF-CON-134, CF-CON-537 → `canon/build/BUILD-025-page-architecture.md#02512--the-print-score`
 - **CF-CON-348** (Five-Read Map, Frozen): CF-CON-154, CF-CON-134 → `canon/build/BUILD-015-resonance-matrix.md`
 - **CF-CON-349** (Harmony Test, Frozen): CF-CON-326, CF-CON-134 → `canon/build/BUILD-015-resonance-matrix.md`
 - **CF-CON-350** (Fractal Test, Frozen): CF-CON-294, CF-CON-134 → `canon/build/BUILD-015-resonance-matrix.md`
@@ -1055,3 +1075,23 @@
 - **CF-CON-522** (Final tempo, Frozen): CF-CON-505, CF-CON-471 → `canon/build/BUILD-024-tempo-engine.md#02417--the-final-tempo`
 - **CF-CON-523** (Definitive edition is performance, Frozen): CF-CON-505, CF-CON-106 → `canon/build/BUILD-024-tempo-engine.md`
 - **CF-CON-524** (Invisible conductor, Frozen): CF-CON-505, CF-CON-074 → `canon/build/BUILD-024-tempo-engine.md#0240--purpose`
+- **CF-CON-525** (Page Architecture, Frozen): CF-CON-067, CF-CON-347, CF-CON-542 → `canon/build/BUILD-025-page-architecture.md`
+- **CF-CON-526** (Story first page second, Frozen): CF-CON-525, CF-CON-111 → `canon/build/BUILD-025-page-architecture.md#0251--the-first-principle`
+- **CF-CON-527** (Page as breath, Frozen): CF-CON-525, CF-CON-074 → `canon/build/BUILD-025-page-architecture.md#0252--the-page-as-a-breath`
+- **CF-CON-528** (Page turn narrative event, Frozen): CF-CON-525, CF-CON-114 → `canon/build/BUILD-025-page-architecture.md#0253--the-page-turn`
+- **CF-CON-529** (Visual density map, Frozen): CF-CON-525, CF-CON-101 → `canon/build/BUILD-025-page-architecture.md#0254--the-visual-density-map`
+- **CF-CON-530** (Canonical grid, Frozen): CF-CON-525, CF-CON-504 → `canon/build/BUILD-025-page-architecture.md#0255--the-canonical-grid`
+- **CF-CON-531** (Architecture of white space, Frozen): CF-CON-525, CF-CON-457 → `canon/build/BUILD-025-page-architecture.md#0256--the-architecture-of-white-space`
+- **CF-CON-532** (One-word page, Frozen): CF-CON-525, CF-CON-491 → `canon/build/BUILD-025-page-architecture.md#0257--the-one-word-page`
+- **CF-CON-533** (Opening page architecture, Frozen): CF-CON-525, CF-CON-490 → `canon/build/BUILD-025-page-architecture.md#0258--the-opening-page`
+- **CF-CON-534** (Final page architecture, Frozen): CF-CON-525, CF-CON-471 → `canon/build/BUILD-025-page-architecture.md#0259--the-final-page`
+- **CF-CON-535** (The spread, Frozen): CF-CON-525, CF-CON-496 → `canon/build/BUILD-025-page-architecture.md#02510--the-spread`
+- **CF-CON-536** (Eye path, Frozen): CF-CON-525, CF-CON-166 → `canon/build/BUILD-025-page-architecture.md#02511--the-eye-path`
+- **CF-CON-537** (Print score record, Frozen): CF-CON-525, CF-CON-347 → `canon/build/BUILD-025-page-architecture.md#02512--the-print-score`
+- **CF-CON-538** (Material book, Frozen): CF-CON-525, CF-CON-067 → `canon/build/BUILD-025-page-architecture.md#02513--the-material-book`
+- **CF-CON-539** (Digital edition adaptation, Frozen): CF-CON-525, CF-CON-523 → `canon/build/BUILD-025-page-architecture.md#02514--the-digital-edition`
+- **CF-CON-540** (Rule of page invisibility, Frozen): CF-CON-525, CF-CON-524 → `canon/build/BUILD-025-page-architecture.md#02515--the-rule-of-invisibility`
+- **CF-CON-541** (Final architecture test, Frozen): CF-CON-525, CF-CON-501 → `canon/build/BUILD-025-page-architecture.md#02516--the-final-architecture-test`
+- **CF-CON-542** (Architect Phase complete, Frozen): CF-CON-525, CF-CON-360 → `canon/build/BUILD-025-page-architecture.md`
+- **CF-CON-543** (World-only-in-Chronoforge, Frozen): CF-CON-384, CF-CON-399 → `canon/build/BUILD-025-page-architecture.md`
+- **CF-CON-544** (Architecture becomes art, Frozen): CF-CON-542, CF-CON-543 → `canon/build/BUILD-025-page-architecture.md`

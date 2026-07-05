@@ -114,7 +114,7 @@ The **page itself** is part of the composition. *(CF-CON-496)*
 
 Margins · line length · paragraph shape · vertical space — **narrative instruments**, not production details.
 
-*(BUILD-025 Page Architecture queued · CF-CON-114 Page turn)*
+*(BUILD-025 Page Architecture · CF-CON-114 Page turn)*
 
 ---
 
@@ -252,9 +252,9 @@ Silence is the **audible** rest. Typography is the **visible** physics.
 
 ---
 
-## BUILD-025 preview *(CF-ENTRY-063)*
+## BUILD-026 preview *(CF-ENTRY-064)*
 
-→ **BUILD-025 Page Architecture** — page turns · density · one-word pages *(queued)*
+→ **BUILD-026 World** — *What world could only exist inside Chronoforge?* *(Phase Three · queued)*
 
 ---
 

@@ -60,6 +60,10 @@
 | **Heartbeat test** | Read aloud naturally; awkward breath = unfinished | CF-CON-513 |
 | **Percussion layer** | Phrase · image · silence as rhythmic anchors | CF-CON-514 |
 | **Definitive edition is performance** | Music exists when score meets living reader | CF-CON-523 |
+| **Page Architecture** | Canonical printed form; page as unit of experience | CF-CON-525 |
+| **Story first page second** | Narrative truth before visual elegance | CF-CON-526 |
+| **Print Score** | Per-page profile integrating all ledgers | CF-CON-537 |
+| **Architect Phase complete** | BUILD-001–025 how; Phase Three the novel | CF-CON-542 |
 | **Motif not symbol** | Returns vs carries meaning | CF-CON-450 |
 | **Language of Silence** | Composed silence · seven forms | CF-CON-457 |
 | **Fifth read hears silence** | Words to architecture to silence | CF-CON-472 |

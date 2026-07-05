@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "2.3.0",
-  "generated_at": "2026-07-05T22:06:43.116988+00:00",
+  "canonforge_version": "2.4.0",
+  "generated_at": "2026-07-05T22:10:19.487513+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -3851,11 +3851,12 @@
       "label": "Page Score",
       "category": "Architecture",
       "status": "Frozen",
-      "definition": "Per-page composition fields; THE_SCORE.",
+      "definition": "Per-page composition fields; BUILD-025 Print Score.",
       "sources": [
-        "CF-ENTRY-051"
+        "CF-ENTRY-051",
+        "CF-ENTRY-064"
       ],
-      "canon_ref": "canon/build/BUILD-015-resonance-matrix.md"
+      "canon_ref": "canon/build/BUILD-025-page-architecture.md#02512--the-print-score"
     },
     {
       "id": "CF-CON-348",
@@ -5808,6 +5809,226 @@
         "CF-ENTRY-063"
       ],
       "canon_ref": "canon/build/BUILD-024-tempo-engine.md#0240--purpose"
+    },
+    {
+      "id": "CF-CON-525",
+      "label": "Page Architecture",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Canonical printed form; page as unit of experience.",
+      "sources": [
+        "CF-ENTRY-064"
+      ],
+      "canon_ref": "canon/build/BUILD-025-page-architecture.md"
+    },
+    {
+      "id": "CF-CON-526",
+      "label": "Story first page second",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Narrative truth precedes visual elegance always.",
+      "sources": [
+        "CF-ENTRY-064"
+      ],
+      "canon_ref": "canon/build/BUILD-025-page-architecture.md#0251--the-first-principle"
+    },
+    {
+      "id": "CF-CON-527",
+      "label": "Page as breath",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Inhale opening exhale turn; physiological page.",
+      "sources": [
+        "CF-ENTRY-064"
+      ],
+      "canon_ref": "canon/build/BUILD-025-page-architecture.md#0252--the-page-as-a-breath"
+    },
+    {
+      "id": "CF-CON-528",
+      "label": "Page turn narrative event",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Reveal delay interrupt echo suspend release.",
+      "sources": [
+        "CF-ENTRY-064"
+      ],
+      "canon_ref": "canon/build/BUILD-025-page-architecture.md#0253--the-page-turn"
+    },
+    {
+      "id": "CF-CON-529",
+      "label": "Visual density map",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Dense to silent; sequence creates visual rhythm.",
+      "sources": [
+        "CF-ENTRY-064"
+      ],
+      "canon_ref": "canon/build/BUILD-025-page-architecture.md#0254--the-visual-density-map"
+    },
+    {
+      "id": "CF-CON-530",
+      "label": "Canonical grid",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Trim margins leading after manuscript stable.",
+      "sources": [
+        "CF-ENTRY-064"
+      ],
+      "canon_ref": "canon/build/BUILD-025-page-architecture.md#0255--the-canonical-grid"
+    },
+    {
+      "id": "CF-CON-531",
+      "label": "Architecture of white space",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Silence visible; rare meaningful pauses only.",
+      "sources": [
+        "CF-ENTRY-064"
+      ],
+      "canon_ref": "canon/build/BUILD-025-page-architecture.md#0256--the-architecture-of-white-space"
+    },
+    {
+      "id": "CF-CON-532",
+      "label": "One-word page",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Perhaps once never; necessity not spectacle.",
+      "sources": [
+        "CF-ENTRY-064"
+      ],
+      "canon_ref": "canon/build/BUILD-025-page-architecture.md#0257--the-one-word-page"
+    },
+    {
+      "id": "CF-CON-533",
+      "label": "Opening page architecture",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Teaches how to read; trust invisibly.",
+      "sources": [
+        "CF-ENTRY-064"
+      ],
+      "canon_ref": "canon/build/BUILD-025-page-architecture.md#0258--the-opening-page"
+    },
+    {
+      "id": "CF-CON-534",
+      "label": "Final page architecture",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Room for silence; hands experience to reader.",
+      "sources": [
+        "CF-ENTRY-064"
+      ],
+      "canon_ref": "canon/build/BUILD-025-page-architecture.md#0259--the-final-page"
+    },
+    {
+      "id": "CF-CON-535",
+      "label": "The spread",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Facing pages one composition balance or asymmetry.",
+      "sources": [
+        "CF-ENTRY-064"
+      ],
+      "canon_ref": "canon/build/BUILD-025-page-architecture.md#02510--the-spread"
+    },
+    {
+      "id": "CF-CON-536",
+      "label": "Eye path",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Eyes travel before mind; weight without notice.",
+      "sources": [
+        "CF-ENTRY-064"
+      ],
+      "canon_ref": "canon/build/BUILD-025-page-architecture.md#02511--the-eye-path"
+    },
+    {
+      "id": "CF-CON-537",
+      "label": "Print score record",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Eight fields per page; integrates all ledgers.",
+      "sources": [
+        "CF-ENTRY-064"
+      ],
+      "canon_ref": "canon/build/BUILD-025-page-architecture.md#02512--the-print-score"
+    },
+    {
+      "id": "CF-CON-538",
+      "label": "Material book",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Paper texture weight; hands part of instrument.",
+      "sources": [
+        "CF-ENTRY-064"
+      ],
+      "canon_ref": "canon/build/BUILD-025-page-architecture.md#02513--the-material-book"
+    },
+    {
+      "id": "CF-CON-539",
+      "label": "Digital edition adaptation",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Faithful not replacement; print definitive score.",
+      "sources": [
+        "CF-ENTRY-064"
+      ],
+      "canon_ref": "canon/build/BUILD-025-page-architecture.md#02514--the-digital-edition"
+    },
+    {
+      "id": "CF-CON-540",
+      "label": "Rule of page invisibility",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Feel effects without noticing; else decoration.",
+      "sources": [
+        "CF-ENTRY-064"
+      ],
+      "canon_ref": "canon/build/BUILD-025-page-architecture.md#02515--the-rule-of-invisibility"
+    },
+    {
+      "id": "CF-CON-541",
+      "label": "Final architecture test",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Five questions before canonical edition approved.",
+      "sources": [
+        "CF-ENTRY-064"
+      ],
+      "canon_ref": "canon/build/BUILD-025-page-architecture.md#02516--the-final-architecture-test"
+    },
+    {
+      "id": "CF-CON-542",
+      "label": "Architect Phase complete",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "BUILD-001-025 how; Phase Three the novel.",
+      "sources": [
+        "CF-ENTRY-064"
+      ],
+      "canon_ref": "canon/build/BUILD-025-page-architecture.md"
+    },
+    {
+      "id": "CF-CON-543",
+      "label": "World-only-in-Chronoforge",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "BUILD-026 gate; story-true world question.",
+      "sources": [
+        "CF-ENTRY-064"
+      ],
+      "canon_ref": "canon/build/BUILD-025-page-architecture.md"
+    },
+    {
+      "id": "CF-CON-544",
+      "label": "Architecture becomes art",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Instrument designed; symphony begins BUILD-026.",
+      "sources": [
+        "CF-ENTRY-064"
+      ],
+      "canon_ref": "canon/build/BUILD-025-page-architecture.md"
     }
   ],
   "edges": [
@@ -8767,6 +8988,11 @@
       "type": "related"
     },
     {
+      "from": "CF-CON-347",
+      "to": "CF-CON-537",
+      "type": "related"
+    },
+    {
       "from": "CF-CON-348",
       "to": "CF-CON-154",
       "type": "related"
@@ -10589,6 +10815,211 @@
     {
       "from": "CF-CON-524",
       "to": "CF-CON-074",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-525",
+      "to": "CF-CON-067",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-525",
+      "to": "CF-CON-347",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-525",
+      "to": "CF-CON-542",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-526",
+      "to": "CF-CON-525",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-526",
+      "to": "CF-CON-111",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-527",
+      "to": "CF-CON-525",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-527",
+      "to": "CF-CON-074",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-528",
+      "to": "CF-CON-525",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-528",
+      "to": "CF-CON-114",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-529",
+      "to": "CF-CON-525",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-529",
+      "to": "CF-CON-101",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-530",
+      "to": "CF-CON-525",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-530",
+      "to": "CF-CON-504",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-531",
+      "to": "CF-CON-525",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-531",
+      "to": "CF-CON-457",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-532",
+      "to": "CF-CON-525",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-532",
+      "to": "CF-CON-491",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-533",
+      "to": "CF-CON-525",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-533",
+      "to": "CF-CON-490",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-534",
+      "to": "CF-CON-525",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-534",
+      "to": "CF-CON-471",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-535",
+      "to": "CF-CON-525",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-535",
+      "to": "CF-CON-496",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-536",
+      "to": "CF-CON-525",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-536",
+      "to": "CF-CON-166",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-537",
+      "to": "CF-CON-525",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-537",
+      "to": "CF-CON-347",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-538",
+      "to": "CF-CON-525",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-538",
+      "to": "CF-CON-067",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-539",
+      "to": "CF-CON-525",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-539",
+      "to": "CF-CON-523",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-540",
+      "to": "CF-CON-525",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-540",
+      "to": "CF-CON-524",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-541",
+      "to": "CF-CON-525",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-541",
+      "to": "CF-CON-501",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-542",
+      "to": "CF-CON-525",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-542",
+      "to": "CF-CON-360",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-543",
+      "to": "CF-CON-384",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-543",
+      "to": "CF-CON-399",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-544",
+      "to": "CF-CON-542",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-544",
+      "to": "CF-CON-543",
       "type": "related"
     }
   ]

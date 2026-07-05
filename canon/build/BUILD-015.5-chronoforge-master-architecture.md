@@ -30,8 +30,8 @@ We did not build a novel. We built a **theory of storytelling** — an operating
 | Phase | Name | Status |
 |---|---|---|
 | **One** | The Philosophy + Engineering Schema | **✓ COMPLETE** (BUILD-001–015) |
-| **Two** | Engineering Documents | Queued (BUILD-016–025) |
-| **Three** | The Novel (world · mystery · ending · opening) | Queued (BUILD-026–036) |
+| **Two** | Engineering Documents | **✓ COMPLETE** (BUILD-016–025) |
+| **Three** | The Novel (world · mystery · ending · opening) | **Queued** (BUILD-026–036) |
 | **Four** | The People (lives, not characters) | Queued |
 | **Five** | Composition | Queued · prose authorized only after Phase Four |
 | **Six** | Performance | Queued · rewrite · score · typeset |
@@ -113,7 +113,7 @@ We did not build a novel. We built a **theory of storytelling** — an operating
 
 → Index: [BUILD_INDEX.md](BUILD_INDEX.md)
 
-### Phase Two — queued (BUILD-016–025)
+### Phase Two — **✓ COMPLETE** (BUILD-016–025)
 
 | BUILD | Title | Role |
 |---|---|---|
@@ -126,8 +126,7 @@ We did not build a novel. We built a **theory of storytelling** — an operating
 | **022** | The Language of Silence | **✓ v1.0** · CF-ENTRY-060 |
 | **023** | Typography Physics | **✓ v1.0** · CF-ENTRY-062 · <12 events |
 | **024** | The Tempo Engine | **✓ v1.0** · CF-ENTRY-063 · five tempos |
-| **025** | Page Architecture | Post-write · page turns · density |
-| **025** | Page Architecture | Post-write canonical page design |
+| **025** | Page Architecture | **✓ v1.0** · CF-ENTRY-064 · Print Score |
 
 ### Phase Three — queued (BUILD-026–036)
 
@@ -160,7 +159,7 @@ BUILD-015 defines **what** gets tracked. Phase Two BUILDs **populate** each ledg
 | Discovery Ledger | BUILD-015 §015.10 | BUILD-002 |
 | Chronology Engine | BUILD-015 §015.11 | BUILD-017 Reality Engine · BUILD-018 Fracture Engine |
 | Resonance Web | BUILD-015 §015.12 | BUILD-020 · BUILD-021 |
-| Page Score | BUILD-015 §015.13 | BUILD-024 · BUILD-025 |
+| Page Score | BUILD-015 §015.13 | BUILD-025 · [THE_SCORE.md](../../architecture/THE_SCORE.md) |
 | Five-Read Map | BUILD-015 §015.14 | BUILD-005 · FIVE_LOCKS |
 
 ---
@@ -219,7 +218,7 @@ Author upload  →  CF-ENTRY-NNN  (verbatim)
 
 - [ ] Phase One complete ✓
 - [ ] BUILD-015.5 v1.0 complete
-- [ ] Phase Two engines populated (BUILD-016–025)
+- [x] Phase Two engines populated (BUILD-016–025)
 - [ ] Phase Three novel substrate (BUILD-026–036)
 - [ ] Phase Four lives complete
 - [ ] Matrix rows for target movement complete
@@ -265,7 +264,7 @@ Build Bible v1.0 requires:
 
 ## 015.5.11 — What happens next
 
-**Do not proceed to BUILD-025** until BUILD-015.5 reaches v1.0 *(BUILD-016–024 excepted per author uploads)*.
+**Do not proceed to BUILD-026** until BUILD-015.5 reaches v1.0 *(BUILD-016–025 excepted per author uploads)*.
 
 Next passes expand this document into the full 100–200 page Build Bible:
 
@@ -275,7 +274,7 @@ Next passes expand this document into the full 100–200 page Build Bible:
 4. Master data dictionary (elements · symbols · echo IDs)
 5. Execution index (which BUILD when · blocking rules)
 
-When v1.0 ships — Phase Two continues with **BUILD-025 Page Architecture**.
+When v1.0 ships — Phase Three begins with **BUILD-026 World**.
 
 ---
 

@@ -263,9 +263,9 @@ The sheet music is essential. The music only truly exists in **performance**.
 
 ---
 
-## BUILD-025 preview *(CF-ENTRY-063)*
+## BUILD-026 preview *(CF-ENTRY-064)*
 
-→ **BUILD-025 Page Architecture** — page turns · density · one-word pages *(queued)*
+→ **BUILD-026 World** — *What world could only exist inside Chronoforge?* *(Phase Three · queued)*
 
 ---
 

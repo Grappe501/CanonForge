@@ -1,7 +1,7 @@
-# Master Canon v1.4.3
+# Master Canon v1.4.4
 
-> **BUILD-024:** The Tempo Engine · invisible heartbeat · performance is definitive edition
-> Supersedes v1.4.2 (2026-07-05 · BUILD-024 CF-ENTRY-063 · CanonForge 2.3.0)
+> **BUILD-025:** Page Architecture · story first · Print Score · Architect's Phase complete
+> Supersedes v1.4.3 (2026-07-05 · BUILD-025 CF-ENTRY-064 · CanonForge 2.4.0)
 
 ---
 
@@ -42,7 +42,9 @@ Key locked insights:
 | **Four Pillars** | Strengthen ≥1 of Wonder · **Connection** · Resonance · Transformation? | BUILD-003 v1.0 |
 | Seven Laws | Immutable · complies with BUILD-004 v1.0? | BUILD-004 |
 
-**Stack:** BUILD-001 = *why* · … · **023 = *visual physics*** · **024 = *living heartbeat***
+**Stack:** BUILD-001 = *why* · … · **024 = *living heartbeat*** · **025 = *page instrument***
+
+→ [build/BUILD-025-page-architecture.md](build/BUILD-025-page-architecture.md) · Print Score · Story First · Phase Two Complete
 
 → [build/BUILD-024-tempo-engine.md](build/BUILD-024-tempo-engine.md) · Five Tempos · Tempo Ledger · Performance Model
 
@@ -181,6 +183,16 @@ Rare typography = **evidence**, not emphasis (six bold words in 100 pages). See 
 The **definitive edition** is not the printed book — it exists only when the fixed score and a **living reader** come together *(CF-CON-523)*. See [build/BUILD-024-tempo-engine.md](build/BUILD-024-tempo-engine.md).
 
 Renamed from roadmap **Rhythm Score** → **Tempo Engine**. Tempo governs everything else.
+
+### Page immutable law (CF-CON-525 · BUILD-025)
+
+> **A page is not a container for words. It is a unit of experience.**
+
+> **Story first · page second.** Page architecture applies **after** the manuscript is complete — never during composition. The **Print Score** integrates tempo · silence · typography · density · turn type per page *(CF-CON-537)*.
+
+Printed edition = definitive performance score · digital = faithful adaptation *(CF-CON-539)*. See [build/BUILD-025-page-architecture.md](build/BUILD-025-page-architecture.md).
+
+**Phase Two complete** *(CF-CON-542)*. Phase Three begins: **What world could only exist inside Chronoforge?** *(CF-CON-543)*
 
 ### Visual Grammar (CF-CON-080 · CF-CON-081)
 

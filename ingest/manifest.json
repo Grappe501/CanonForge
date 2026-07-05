@@ -1,14 +1,14 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "2.3.0",
-  "generated_at": "2026-07-05T22:06:43.096228+00:00",
+  "canonforge_version": "2.4.0",
+  "generated_at": "2026-07-05T22:10:19.463621+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 63,
-  "concept_count": 524,
-  "project_version": "0.2.0",
-  "phase_two": "begun",
+  "entry_count": 64,
+  "concept_count": 544,
+  "project_version": "0.3.0",
+  "phase_two": "complete",
   "build_016_version": "1.0",
   "build_016_title": "Consciousness Engine",
   "build_017_version": "1.0",
@@ -27,6 +27,8 @@
   "build_023_title": "Typography Physics",
   "build_024_version": "1.0",
   "build_024_title": "Tempo Engine",
+  "build_025_version": "1.0",
+  "build_025_title": "Page Architecture",
   "phase_one": "complete",
   "build_015_5_version": "0.1",
   "build_015_5_title": "Chronoforge Master Architecture",
@@ -56,7 +58,7 @@
   "foundational_layer": "BUILD-001-013 complete",
   "engineering_layer": "BUILD-014-015 complete",
   "roadmap_version": "1.0",
-  "build_layer": "BUILD-001-015 frozen \u00b7 BUILD-015.5 active",
+  "build_layer": "BUILD-001-025 frozen \u00b7 BUILD-015.5 active",
   "entries": [
     {
       "entry_id": "CF-ENTRY-001",
@@ -1252,6 +1254,37 @@
         "CF-CON-524"
       ],
       "byte_size": 7751
+    },
+    {
+      "entry_id": "CF-ENTRY-064",
+      "file": "knowledge/entries/064-build-025-page-architecture-v1.md",
+      "sha256": "c1499bd725c6d0ee37e8adff75ada989a3d65f45f5afb5cb47d2c59b5f2b0dd2",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-347",
+        "CF-CON-525",
+        "CF-CON-526",
+        "CF-CON-527",
+        "CF-CON-528",
+        "CF-CON-529",
+        "CF-CON-530",
+        "CF-CON-531",
+        "CF-CON-532",
+        "CF-CON-533",
+        "CF-CON-534",
+        "CF-CON-535",
+        "CF-CON-536",
+        "CF-CON-537",
+        "CF-CON-538",
+        "CF-CON-539",
+        "CF-CON-540",
+        "CF-CON-541",
+        "CF-CON-542",
+        "CF-CON-543",
+        "CF-CON-544"
+      ],
+      "byte_size": 7592
     }
   ],
   "indexes": {

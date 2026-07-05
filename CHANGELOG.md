@@ -3,6 +3,17 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [2.4.0] — 2026-07-05
+
+### Added
+- CF-ENTRY-064: BUILD-025 Page Architecture Canonical v1.0
+- Concepts CF-CON-525 through CF-CON-544
+- Print Score · visual density map · one-word page · final architecture test
+- **Architect's Phase complete** — BUILD-001–025 define how; Phase Three begins
+- **BUILD-026 gate:** What world could only exist inside Chronoforge?
+- CF-CON-347 expanded · Page Score → Print Score (BUILD-025 §025.12)
+- Master Canon v1.4.4 · **Phase Two complete**
+
 ## [2.3.0] — 2026-07-05
 
 ### Added

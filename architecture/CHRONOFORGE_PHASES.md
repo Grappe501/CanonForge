@@ -10,8 +10,8 @@
 
 ```txt
 PHASE ONE     Philosophy + engineering schema     ✓ COMPLETE
-PHASE TWO     Engineering documents               **016–023 ✓** · 024–025 queued
-PHASE THREE   The novel (substrate)               BUILD-026–036
+PHASE TWO     Engineering documents               **✓ COMPLETE** (016–025)
+PHASE THREE   The novel (substrate)               BUILD-026–036 **queued**
 PHASE FOUR    The people (lives)                  Per-consciousness packages
 PHASE FIVE    Composition                         Prose · one movement at a time
 PHASE SIX     Performance                         Rewrite · score · typeset
@@ -60,7 +60,9 @@ Engineer the book — not outline chapters.
 | **022** | **Language of Silence** | **✓ v1.0** · seven forms · CF-ENTRY-060 |
 | **023** | **Typography Physics** | **✓ v1.0** · lexicon · one typeface · CF-ENTRY-062 |
 | **024** | **The Tempo Engine** | **✓ v1.0** · five tempos · performance model · CF-ENTRY-063 |
-| **025** | Page Architecture | Post-write · page turns · density · one-word pages |
+| **025** | **Page Architecture** | **✓ v1.0** · Print Score · CF-ENTRY-064 |
+
+**Phase Two: ✓ COMPLETE** · Gate to Phase Three: BUILD-015.5 v1.0 · BUILD-026 World queued
 
 **Gate:** BUILD-015.5 v1.0 · Matrix schema understood
 
@@ -68,7 +70,11 @@ Engineer the book — not outline chapters.
 
 ## Phase Three — The Novel
 
-Only now. Not before.
+**Architect's Phase complete** *(BUILD-025 · CF-CON-542)*. Only now. Not before.
+
+First creative question *(BUILD-026 gate · CF-CON-543)*:
+
+> **What world could only exist inside Chronoforge?**
 
 | BUILD | Scope |
 |---|---|
