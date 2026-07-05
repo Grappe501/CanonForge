@@ -3,6 +3,15 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [1.7.0] — 2026-07-05
+
+### Added
+- CF-ENTRY-057: BUILD-019 The Memory Engine Canonical v1.0
+- Concepts CF-CON-416 through CF-CON-430
+- Memory cycle · five states · memory weight · reader's memory · remember differently
+- **True medium:** fixed text + evolving reader memory (one text, not five)
+- Master Canon v1.3.4
+
 ## [1.6.0] — 2026-07-05
 
 ### Added

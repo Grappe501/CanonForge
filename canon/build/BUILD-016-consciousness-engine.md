@@ -96,7 +96,7 @@ Growth through revision. Never humiliation. *(CF-CON-369 · BUILD-001 humility �
 
 Every major event leaves different traces — sound · faces · weather · words
 
-Readers gradually realize **memory itself is individualized**. *(CF-CON-370 · BUILD-019 Memory Engine queued)*
+Readers gradually realize **memory itself is individualized**. *(CF-CON-370 · BUILD-019 Memory Engine §019.4)*
 
 ---
 
@@ -232,7 +232,7 @@ Now that we know **what** experiences the novel and **where** — the architectu
 
 → **BUILD-018 Fracture Engine** — gap between reality and understanding · **v1.0 frozen**
 
-→ **BUILD-019 Memory Engine** *(queued)*
+→ **BUILD-019 Memory Engine** — living memory · reconstruction · **v1.0 frozen**
 
 *(Supersedes "Chronology Engine" as BUILD-017 title · chronology remains subsystem in BUILD-015 §015.11)*
 

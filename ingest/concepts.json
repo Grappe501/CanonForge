@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "1.6.0",
-  "generated_at": "2026-07-05T21:47:21.721078+00:00",
+  "canonforge_version": "1.7.0",
+  "generated_at": "2026-07-05T21:48:38.073761+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -4605,6 +4605,171 @@
         "CF-ENTRY-056"
       ],
       "canon_ref": "canon/build/BUILD-018-fracture-engine.md"
+    },
+    {
+      "id": "CF-CON-416",
+      "label": "Memory Engine",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Living memory; experience to meaning to identity.",
+      "sources": [
+        "CF-ENTRY-057"
+      ],
+      "canon_ref": "canon/build/BUILD-019-memory-engine.md"
+    },
+    {
+      "id": "CF-CON-417",
+      "label": "Memory as reconstruction",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Not recording; rebuild from who we are now.",
+      "sources": [
+        "CF-ENTRY-057"
+      ],
+      "canon_ref": "canon/build/BUILD-019-memory-engine.md#0191--the-first-principle"
+    },
+    {
+      "id": "CF-CON-418",
+      "label": "Memory cycle",
+      "category": "Process",
+      "status": "Frozen",
+      "definition": "Experience emotion memory meaning identity future memory.",
+      "sources": [
+        "CF-ENTRY-057"
+      ],
+      "canon_ref": "canon/build/BUILD-019-memory-engine.md#0192--the-memory-cycle"
+    },
+    {
+      "id": "CF-CON-419",
+      "label": "Five memory states",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Lived felt remembered reinterpreted integrated.",
+      "sources": [
+        "CF-ENTRY-057"
+      ],
+      "canon_ref": "canon/build/BUILD-019-memory-engine.md#0193--the-five-memory-states"
+    },
+    {
+      "id": "CF-CON-420",
+      "label": "Memory map record",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Ledger row per memory; read level 1-5.",
+      "sources": [
+        "CF-ENTRY-057"
+      ],
+      "canon_ref": "canon/build/BUILD-019-memory-engine.md#0194--the-memory-map"
+    },
+    {
+      "id": "CF-CON-421",
+      "label": "Memory weight",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Weight not occurrence; changes over time.",
+      "sources": [
+        "CF-ENTRY-057"
+      ],
+      "canon_ref": "canon/build/BUILD-019-memory-engine.md#0195--the-memory-weight"
+    },
+    {
+      "id": "CF-CON-422",
+      "label": "Memory triggers",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Association awakens memory without announcement.",
+      "sources": [
+        "CF-ENTRY-057"
+      ],
+      "canon_ref": "canon/build/BUILD-019-memory-engine.md#0196--the-memory-triggers"
+    },
+    {
+      "id": "CF-CON-423",
+      "label": "False certainty of memory",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Confidence not accuracy; widen not ridicule.",
+      "sources": [
+        "CF-ENTRY-057"
+      ],
+      "canon_ref": "canon/build/BUILD-019-memory-engine.md#0197--the-false-certainty-of-memory"
+    },
+    {
+      "id": "CF-CON-424",
+      "label": "Shared memory",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Both true neither whole; relationship not victory.",
+      "sources": [
+        "CF-ENTRY-057"
+      ],
+      "canon_ref": "canon/build/BUILD-019-memory-engine.md#0198--the-shared-memory"
+    },
+    {
+      "id": "CF-CON-425",
+      "label": "Silent memory",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Unspoken currents; silence as evidence.",
+      "sources": [
+        "CF-ENTRY-057"
+      ],
+      "canon_ref": "canon/build/BUILD-019-memory-engine.md#0199--the-silent-memory"
+    },
+    {
+      "id": "CF-CON-426",
+      "label": "Readers memory",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Reader memory of text; hidden engine of loop.",
+      "sources": [
+        "CF-ENTRY-057"
+      ],
+      "canon_ref": "canon/build/BUILD-019-memory-engine.md#01910--the-readers-memory"
+    },
+    {
+      "id": "CF-CON-427",
+      "label": "Memory constellation",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Memories linked; Matrix tracks clusters.",
+      "sources": [
+        "CF-ENTRY-057"
+      ],
+      "canon_ref": "canon/build/BUILD-019-memory-engine.md#01911--the-memory-constellation"
+    },
+    {
+      "id": "CF-CON-428",
+      "label": "Memory test",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Five questions; memory must be alive.",
+      "sources": [
+        "CF-ENTRY-057"
+      ],
+      "canon_ref": "canon/build/BUILD-019-memory-engine.md#01912--the-memory-test"
+    },
+    {
+      "id": "CF-CON-429",
+      "label": "Remember differently",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Deepest transformation; not remember more.",
+      "sources": [
+        "CF-ENTRY-057"
+      ],
+      "canon_ref": "canon/build/BUILD-019-memory-engine.md#01913--the-final-memory-principle"
+    },
+    {
+      "id": "CF-CON-430",
+      "label": "True medium text plus memory",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "One text; reader memory evolves; compose for relationship.",
+      "sources": [
+        "CF-ENTRY-057"
+      ],
+      "canon_ref": "canon/build/BUILD-019-memory-engine.md"
     }
   ],
   "edges": [
@@ -8236,6 +8401,171 @@
     {
       "from": "CF-CON-415",
       "to": "CF-CON-034",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-416",
+      "to": "CF-CON-392",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-416",
+      "to": "CF-CON-426",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-416",
+      "to": "CF-CON-430",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-417",
+      "to": "CF-CON-416",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-417",
+      "to": "CF-CON-392",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-418",
+      "to": "CF-CON-416",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-418",
+      "to": "CF-CON-364",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-419",
+      "to": "CF-CON-416",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-419",
+      "to": "CF-CON-386",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-420",
+      "to": "CF-CON-416",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-420",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-421",
+      "to": "CF-CON-416",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-421",
+      "to": "CF-CON-102",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-422",
+      "to": "CF-CON-416",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-422",
+      "to": "CF-CON-094",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-423",
+      "to": "CF-CON-416",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-423",
+      "to": "CF-CON-371",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-424",
+      "to": "CF-CON-416",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-424",
+      "to": "CF-CON-404",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-425",
+      "to": "CF-CON-416",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-425",
+      "to": "CF-CON-282",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-426",
+      "to": "CF-CON-416",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-426",
+      "to": "CF-CON-106",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-426",
+      "to": "CF-CON-430",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-427",
+      "to": "CF-CON-416",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-427",
+      "to": "CF-CON-358",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-428",
+      "to": "CF-CON-416",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-428",
+      "to": "CF-CON-412",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-429",
+      "to": "CF-CON-416",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-429",
+      "to": "CF-CON-053",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-430",
+      "to": "CF-CON-416",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-430",
+      "to": "CF-CON-108",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-430",
+      "to": "CF-CON-025",
       "type": "related"
     }
   ]

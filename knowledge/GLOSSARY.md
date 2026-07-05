@@ -47,6 +47,8 @@
 | **Fracture Engine** | Gap between reality and understanding | CF-CON-401 |
 | **Recognition not puzzle** | Present pieces; moments not riddles | CF-CON-415 |
 | **Central fracture** | Governing fracture all others orbit | CF-CON-413 |
+| **Memory Engine** | Living memory · reconstruction not storage | CF-CON-416 |
+| **True medium** | Fixed text + evolving reader memory | CF-CON-430 |
 | **Prime Directive** | Does this increase discovery? | CF-CON-158 |
 | **I was out of order** | Reader not timeline is the deeper realization | CF-CON-172 |
 | **Wrong chapter anchor** | Hidden development bone · may not be printed | CF-CON-174 |

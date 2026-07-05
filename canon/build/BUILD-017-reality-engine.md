@@ -254,11 +254,11 @@ BUILD-017 defines **reality laws** within which chronology operates — not a re
 
 ---
 
-## BUILD-019 preview *(CF-ENTRY-056)*
+## BUILD-020 preview *(CF-ENTRY-057)*
 
-The Fracture Engine names **how** understanding fragments and integrates. The next engines populate **records** — memory storage · resonance registry · concrete fracture instances.
+The Memory Engine names **how** memory lives and evolves. The Resonance Registry registers **what** triggers and links — objects · phrases · gestures · dreams · threads.
 
-→ **BUILD-019 Memory Engine** *(queued)*
+→ **BUILD-020 Resonance Registry** *(queued)*
 
 ---
 

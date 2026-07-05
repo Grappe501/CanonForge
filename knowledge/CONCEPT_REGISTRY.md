@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 1.6.0 · 2026-07-05 · 415 concepts registered
+> Version 1.7.0 · 2026-07-05 · 430 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -419,6 +419,21 @@
 | CF-CON-413 | Central fracture | Architecture | **Frozen** | One governing fracture; all others orbit. | CF-ENTRY-056 |
 | CF-CON-414 | Integration moment | Heart | **Frozen** | See more not fooled; essential emotional distinction. | CF-ENTRY-056 |
 | CF-CON-415 | Recognition not puzzle | Mission | **Frozen** | Present pieces not missing; moments not riddles. | CF-ENTRY-056 |
+| CF-CON-416 | Memory Engine | Architecture | **Frozen** | Living memory; experience to meaning to identity. | CF-ENTRY-057 |
+| CF-CON-417 | Memory as reconstruction | Mission | **Frozen** | Not recording; rebuild from who we are now. | CF-ENTRY-057 |
+| CF-CON-418 | Memory cycle | Process | **Frozen** | Experience emotion memory meaning identity future memory. | CF-ENTRY-057 |
+| CF-CON-419 | Five memory states | Architecture | **Frozen** | Lived felt remembered reinterpreted integrated. | CF-ENTRY-057 |
+| CF-CON-420 | Memory map record | Architecture | **Frozen** | Ledger row per memory; read level 1-5. | CF-ENTRY-057 |
+| CF-CON-421 | Memory weight | Architecture | **Frozen** | Weight not occurrence; changes over time. | CF-ENTRY-057 |
+| CF-CON-422 | Memory triggers | Architecture | **Frozen** | Association awakens memory without announcement. | CF-ENTRY-057 |
+| CF-CON-423 | False certainty of memory | Heart | **Frozen** | Confidence not accuracy; widen not ridicule. | CF-ENTRY-057 |
+| CF-CON-424 | Shared memory | Heart | **Frozen** | Both true neither whole; relationship not victory. | CF-ENTRY-057 |
+| CF-CON-425 | Silent memory | Architecture | **Frozen** | Unspoken currents; silence as evidence. | CF-ENTRY-057 |
+| CF-CON-426 | Readers memory | Heart | **Frozen** | Reader memory of text; hidden engine of loop. | CF-ENTRY-057 |
+| CF-CON-427 | Memory constellation | Architecture | **Frozen** | Memories linked; Matrix tracks clusters. | CF-ENTRY-057 |
+| CF-CON-428 | Memory test | Governance | **Frozen** | Five questions; memory must be alive. | CF-ENTRY-057 |
+| CF-CON-429 | Remember differently | Mission | **Frozen** | Deepest transformation; not remember more. | CF-ENTRY-057 |
+| CF-CON-430 | True medium text plus memory | Mission | **Frozen** | One text; reader memory evolves; compose for relationship. | CF-ENTRY-057 |
 
 ## Related Concepts
 
@@ -837,3 +852,18 @@
 - **CF-CON-413** (Central fracture, Frozen): CF-CON-401, CF-CON-134 → `canon/build/BUILD-018-fracture-engine.md#01811--the-central-fracture`
 - **CF-CON-414** (Integration moment, Frozen): CF-CON-401, CF-CON-100 → `canon/build/BUILD-018-fracture-engine.md#01812--the-integration-moment`
 - **CF-CON-415** (Recognition not puzzle, Frozen): CF-CON-401, CF-CON-034 → `canon/build/BUILD-018-fracture-engine.md`
+- **CF-CON-416** (Memory Engine, Frozen): CF-CON-392, CF-CON-426, CF-CON-430 → `canon/build/BUILD-019-memory-engine.md`
+- **CF-CON-417** (Memory as reconstruction, Frozen): CF-CON-416, CF-CON-392 → `canon/build/BUILD-019-memory-engine.md#0191--the-first-principle`
+- **CF-CON-418** (Memory cycle, Frozen): CF-CON-416, CF-CON-364 → `canon/build/BUILD-019-memory-engine.md#0192--the-memory-cycle`
+- **CF-CON-419** (Five memory states, Frozen): CF-CON-416, CF-CON-386 → `canon/build/BUILD-019-memory-engine.md#0193--the-five-memory-states`
+- **CF-CON-420** (Memory map record, Frozen): CF-CON-416, CF-CON-134 → `canon/build/BUILD-019-memory-engine.md#0194--the-memory-map`
+- **CF-CON-421** (Memory weight, Frozen): CF-CON-416, CF-CON-102 → `canon/build/BUILD-019-memory-engine.md#0195--the-memory-weight`
+- **CF-CON-422** (Memory triggers, Frozen): CF-CON-416, CF-CON-094 → `canon/build/BUILD-019-memory-engine.md#0196--the-memory-triggers`
+- **CF-CON-423** (False certainty of memory, Frozen): CF-CON-416, CF-CON-371 → `canon/build/BUILD-019-memory-engine.md#0197--the-false-certainty-of-memory`
+- **CF-CON-424** (Shared memory, Frozen): CF-CON-416, CF-CON-404 → `canon/build/BUILD-019-memory-engine.md#0198--the-shared-memory`
+- **CF-CON-425** (Silent memory, Frozen): CF-CON-416, CF-CON-282 → `canon/build/BUILD-019-memory-engine.md#0199--the-silent-memory`
+- **CF-CON-426** (Readers memory, Frozen): CF-CON-416, CF-CON-106, CF-CON-430 → `canon/build/BUILD-019-memory-engine.md#01910--the-readers-memory`
+- **CF-CON-427** (Memory constellation, Frozen): CF-CON-416, CF-CON-358 → `canon/build/BUILD-019-memory-engine.md#01911--the-memory-constellation`
+- **CF-CON-428** (Memory test, Frozen): CF-CON-416, CF-CON-412 → `canon/build/BUILD-019-memory-engine.md#01912--the-memory-test`
+- **CF-CON-429** (Remember differently, Frozen): CF-CON-416, CF-CON-053 → `canon/build/BUILD-019-memory-engine.md#01913--the-final-memory-principle`
+- **CF-CON-430** (True medium text plus memory, Frozen): CF-CON-416, CF-CON-108, CF-CON-025 → `canon/build/BUILD-019-memory-engine.md`
