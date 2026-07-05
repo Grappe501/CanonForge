@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "0.9.0",
-  "generated_at": "2026-07-05T21:29:42.770317+00:00",
+  "canonforge_version": "1.0.0",
+  "generated_at": "2026-07-05T21:31:22.471486+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 48,
-  "concept_count": 310,
+  "entry_count": 49,
+  "concept_count": 320,
   "build_001_version": "0.1",
   "build_002_version": "1.0",
   "build_003_version": "1.0",
@@ -23,6 +23,9 @@
   "build_011_title": "Reader's Covenant",
   "build_012_version": "1.0",
   "build_012_title": "The Genome",
+  "build_013_version": "1.0",
+  "build_013_title": "Composer's Oath",
+  "foundational_layer": "BUILD-001-013 complete",
   "roadmap_version": "1.0",
   "project_version": "0.0.1",
   "build_layer": "BUILD-001-013 frozen",
@@ -829,6 +832,27 @@
         "CF-CON-310"
       ],
       "byte_size": 7650
+    },
+    {
+      "entry_id": "CF-ENTRY-049",
+      "file": "knowledge/entries/049-build-013-composers-oath-v1.md",
+      "sha256": "b530f69033a252aae2a91b05fb2d5bf13abac77d75a9d5bc0de0b32cde65afe1",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-169",
+        "CF-CON-311",
+        "CF-CON-312",
+        "CF-CON-313",
+        "CF-CON-314",
+        "CF-CON-315",
+        "CF-CON-316",
+        "CF-CON-317",
+        "CF-CON-318",
+        "CF-CON-319",
+        "CF-CON-320"
+      ],
+      "byte_size": 7541
     }
   ],
   "indexes": {

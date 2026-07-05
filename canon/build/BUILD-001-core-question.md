@@ -322,7 +322,7 @@ Every later build must trace back here.
 | **010** Physics of Reading | Define how reader participates |
 | **011** Reader's Covenant | Trust · fifteen promises · relationship before first sentence |
 | **012** The Genome | Living code · title emerges from DNA · real subject |
-| **013** Writer's Oath | Protect humility, story, reader partnership |
+| **013** Composer's Oath | Creator discipline · three councils · session ritual |
 | **014** Periodic Table | Identify elemental materials from which purpose is built |
 
 ---

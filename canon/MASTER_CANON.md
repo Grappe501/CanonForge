@@ -1,7 +1,7 @@
-# Master Canon v0.8.0
+# Master Canon v0.9.0
 
-> **BUILD-012:** The Genome · understanding is never finished · how humans create meaning
-> Supersedes v0.7.0 (2026-07-05 · BUILD-012 The Genome CF-ENTRY-048)
+> **BUILD-013:** The Composer's Oath · how we work · foundational layer complete
+> Supersedes v0.8.0 (2026-07-05 · BUILD-013 Composer's Oath CF-ENTRY-049 · CanonForge 1.0.0)
 
 ---
 
@@ -42,11 +42,11 @@ Key locked insights:
 | **Four Pillars** | Strengthen ≥1 of Wonder · **Connection** · Resonance · Transformation? | BUILD-003 v1.0 |
 | Seven Laws | Immutable · complies with BUILD-004 v1.0? | BUILD-004 |
 
-**Stack:** BUILD-001 = *why* · … · BUILD-011 = *trust* · BUILD-012 = *DNA*
+**Stack:** BUILD-001 = *why* · … · BUILD-012 = *DNA* · BUILD-013 = *how we work*
+
+→ [build/BUILD-013-composers-oath.md](build/BUILD-013-composers-oath.md) · Twenty-one Oaths · Three Councils · Daily Ritual
 
 → [build/BUILD-012-the-genome.md](build/BUILD-012-the-genome.md) · Central Genetic Code · Five Depths · How humans create meaning
-
-→ [build/BUILD-011-readers-covenant.md](build/BUILD-011-readers-covenant.md) · Fifteen Promises · Reader's Covenant · Gift not product
 
 → [build/BUILD-004-seven-laws.md](build/BUILD-004-seven-laws.md)
 

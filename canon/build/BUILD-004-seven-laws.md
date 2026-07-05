@@ -314,7 +314,7 @@ The creator of Chronoforge agrees: *(CF-CON-205)*
 - Never seek admiration — seek **resonance**
 - Never prove intelligence — **awaken curiosity**
 
-*(Aligns: BUILD-013 Writer's Oath)*
+*(Aligns: BUILD-013 Composer's Oath)*
 
 ---
 

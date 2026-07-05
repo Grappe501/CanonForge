@@ -40,8 +40,9 @@
 | 2026-07-05 | Thematic foundation | Fractured perception · Article XVI Humanity | CF-CON-139–144 |
 | 2026-07-05 | Article XVII Assumption | Reader-assigned identity · fair omission | CF-CON-145–149 |
 | 2026-07-05 | Master Build Roadmap v1.0 | CF-ENTRY-035 session pause | CF-CON-150–155 |
-| 2026-07-05 | BUILD-001–013 frozen v1.0.0 | Canonical build discipline | CF-CON-156–169 |
+| 2026-07-05 | BUILD-001–013 frozen v1.0 | Foundational canon complete | CF-CON-156–320 |
 | 2026-07-05 | BUILD-014 queued | Periodic Table of Novel next | CF-CON-170 |
+| 2026-07-05 | BUILD-013 Composer's Oath v1.0 | Foundational layer 001-013 complete | CF-CON-311–320 |
 | 2026-07-05 | BUILD-012 The Genome v1.0 | Supersedes Title stub; real subject locked | CF-CON-292–310 |
 | 2026-07-05 | BUILD-011 Reader's Covenant v1.0 | Supersedes Invisible Contract stub | CF-CON-282–291 |
 | 2026-07-05 | BUILD-010 Physics of Reading v1.0 | Novel as instrument · Reading Matrix | CF-CON-269–281 |

@@ -193,7 +193,7 @@ Never deceive · Never preach · Never manipulate · Never waste · Never exploi
 
 Always respect · Always trust · Always serve the story · Always serve humanity
 
-*(CF-CON-290 · BUILD-013 Writer's Oath · BUILD-004 Author's Covenant)*
+*(CF-CON-290 · BUILD-013 Composer's Oath · BUILD-004 Author's Covenant)*
 
 ---
 

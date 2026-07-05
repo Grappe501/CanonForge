@@ -10,7 +10,7 @@
 ```txt
 BUILD-000.000   THE CONSTITUTION          → law (never broken)
 BUILD-000.001–003                     → North Star · One Question · Thematic
-BUILD-001–013                         → foundational canon (001 v0.1 · 002–012 v1.0)
+BUILD-001–013                         → foundational canon **complete** (001 v0.1 · 002–013 v1.0)
 BUILD-014–015                         → queued (Periodic Table · Bill of Rights)
 architecture/                         → expanded specs (derived · cross-ref)
 knowledge/entries/                    → verbatim source uploads
@@ -40,7 +40,7 @@ knowledge/entries/                    → verbatim source uploads
 | **010** | Physics of Reading | **1.0** | **Frozen** | 036, 046 | CF-CON-166, 269–281 | [BUILD-010](BUILD-010-physics-of-reading.md) |
 | **011** | The Reader's Covenant | **1.0** | **Frozen** | 036, 047 | CF-CON-167, 282–291 | [BUILD-011](BUILD-011-readers-covenant.md) |
 | **012** | The Genome | **1.0** | **Frozen** | 036, 048 | CF-CON-168, 292–310 | [BUILD-012](BUILD-012-the-genome.md) |
-| **013** | The Writer's Oath | **1.0.0** | **Frozen** | 036 | CF-CON-169 | [BUILD-013](BUILD-013-writers-oath.md) |
+| **013** | The Composer's Oath | **1.0** | **Frozen** | 036, 049 | CF-CON-169, 311–320 | [BUILD-013](BUILD-013-composers-oath.md) |
 | **014** | Periodic Table of the Novel | — | **Queued** | — | CF-CON-170 | [BUILD-014](BUILD-014-periodic-table-of-the-novel.md) |
 | **015** | Reader Bill of Rights | — | **Queued** | 040 | CF-CON-207 | [BUILD-015](BUILD-015-reader-bill-of-rights.md) |
 
@@ -69,6 +69,7 @@ knowledge/entries/                    → verbatim source uploads
 | 010 Physics of Reading | Typography layer · Reading Matrix · Five Instruments |
 | 011 Reader's Covenant | Fifteen Promises · Covenant of Silence · Gift epilogue |
 | 012 The Genome | Central genetic code · Five Depths · Title genome · Real subject |
+| 013 Composer's Oath | Twenty-one oaths · Daily ritual · Three councils |
 
 ---
 

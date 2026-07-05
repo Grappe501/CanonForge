@@ -3,6 +3,20 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [1.0.0] — 2026-07-05
+
+### Added
+- CF-ENTRY-049: BUILD-013 The Composer's Oath Canonical v1.0
+- Concepts CF-CON-311 through CF-CON-320
+- Twenty-one Oaths · Daily Ritual · Completion Test · Three Councils
+- Engineering phase queued (Resonance Matrix · Chronology Engine · ledgers)
+
+### Changed
+- **BUILD-013 renamed:** Writer's Oath → **The Composer's Oath**
+- **Foundational BUILD layer 001–013 complete** (all v1.0 except BUILD-001 v0.1)
+- CanonForge **1.0.0** — philosophy complete; machinery phase next
+- Master Canon v0.9.0
+
 ## [0.9.0] — 2026-07-05
 
 ### Added

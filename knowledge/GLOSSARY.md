@@ -58,6 +58,9 @@
 | **Central genetic code** | Understanding is never finished | CF-CON-293 |
 | **Five Depths** | Surface to reader self-recognition | CF-CON-295 |
 | **How humans create meaning** | Real subject of Chronoforge | CF-CON-310 |
+| **Composer's Oath** | Twenty-one oaths; read before every session | CF-CON-169 |
+| **Three councils** | Heart Mind Music scene approval | CF-CON-314 |
+| **Engineering phase** | Machinery after philosophy complete | CF-CON-320 |
 | **BUILD layer** | Versioned canonical build documents 001+ | CF-CON-156 |
 | **Experience product** | The reading journey is the product, not the artifact | CF-CON-037 |
 | **3-text-before-page-5** | Experience success scene: text three people before reaching page five on reread | CF-CON-045 |

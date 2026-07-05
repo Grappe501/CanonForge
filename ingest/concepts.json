@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "0.9.0",
-  "generated_at": "2026-07-05T21:29:42.783908+00:00",
+  "canonforge_version": "1.0.0",
+  "generated_at": "2026-07-05T21:31:22.490303+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -1879,14 +1879,15 @@
     },
     {
       "id": "CF-CON-169",
-      "label": "Writer's Oath",
+      "label": "Composer's Oath",
       "category": "Process",
       "status": "Frozen",
-      "definition": "Before session: discover truth; reader is partner not opponent.",
+      "definition": "Twenty-one oaths; daily ritual; session begins here.",
       "sources": [
-        "CF-ENTRY-036"
+        "CF-ENTRY-036",
+        "CF-ENTRY-049"
       ],
-      "canon_ref": "canon/build/BUILD-013-writers-oath.md"
+      "canon_ref": "canon/build/BUILD-013-composers-oath.md"
     },
     {
       "id": "CF-CON-170",
@@ -3438,6 +3439,116 @@
         "CF-ENTRY-048"
       ],
       "canon_ref": "canon/build/BUILD-012-the-genome.md"
+    },
+    {
+      "id": "CF-CON-311",
+      "label": "Attachment not justification",
+      "category": "Process",
+      "status": "Frozen",
+      "definition": "Sentence suspect if only enjoyed; story need remains.",
+      "sources": [
+        "CF-ENTRY-049"
+      ],
+      "canon_ref": "canon/build/BUILD-013-composers-oath.md"
+    },
+    {
+      "id": "CF-CON-312",
+      "label": "Daily ritual",
+      "category": "Process",
+      "status": "Frozen",
+      "definition": "Six change questions before every session.",
+      "sources": [
+        "CF-ENTRY-049"
+      ],
+      "canon_ref": "canon/build/BUILD-013-composers-oath.md"
+    },
+    {
+      "id": "CF-CON-313",
+      "label": "Completion test",
+      "category": "Process",
+      "status": "Frozen",
+      "definition": "Score story inseparable; nothing impress-only.",
+      "sources": [
+        "CF-ENTRY-049"
+      ],
+      "canon_ref": "canon/build/BUILD-013-composers-oath.md"
+    },
+    {
+      "id": "CF-CON-314",
+      "label": "Three councils",
+      "category": "Process",
+      "status": "Frozen",
+      "definition": "Heart Mind Music approve every scene.",
+      "sources": [
+        "CF-ENTRY-049"
+      ],
+      "canon_ref": "canon/build/BUILD-013-composers-oath.md"
+    },
+    {
+      "id": "CF-CON-315",
+      "label": "Heart Council",
+      "category": "Process",
+      "status": "Frozen",
+      "definition": "Deepen care for another human being.",
+      "sources": [
+        "CF-ENTRY-049"
+      ],
+      "canon_ref": "canon/build/BUILD-013-composers-oath.md"
+    },
+    {
+      "id": "CF-CON-316",
+      "label": "Mind Council",
+      "category": "Process",
+      "status": "Frozen",
+      "definition": "Reward curiosity and discovery.",
+      "sources": [
+        "CF-ENTRY-049"
+      ],
+      "canon_ref": "canon/build/BUILD-013-composers-oath.md"
+    },
+    {
+      "id": "CF-CON-317",
+      "label": "Music Council",
+      "category": "Process",
+      "status": "Frozen",
+      "definition": "Rhythm silence emotional cadence.",
+      "sources": [
+        "CF-ENTRY-049"
+      ],
+      "canon_ref": "canon/build/BUILD-013-composers-oath.md"
+    },
+    {
+      "id": "CF-CON-318",
+      "label": "Creative drift",
+      "category": "Process",
+      "status": "Frozen",
+      "definition": "Long project danger; oath prevents compromise.",
+      "sources": [
+        "CF-ENTRY-049"
+      ],
+      "canon_ref": "canon/build/BUILD-013-composers-oath.md"
+    },
+    {
+      "id": "CF-CON-319",
+      "label": "Remarkable human experience",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Not remarkable novel; stop if confused.",
+      "sources": [
+        "CF-ENTRY-049"
+      ],
+      "canon_ref": "canon/build/BUILD-013-composers-oath.md"
+    },
+    {
+      "id": "CF-CON-320",
+      "label": "Engineering phase",
+      "category": "Architecture",
+      "status": "Queued",
+      "definition": "Resonance Matrix Chronology Engine ledgers next.",
+      "sources": [
+        "CF-ENTRY-049"
+      ],
+      "canon_ref": "canon/build/BUILD-014-periodic-table-of-the-novel.md"
     }
   ],
   "edges": [
@@ -4683,7 +4794,7 @@
     },
     {
       "from": "CF-CON-169",
-      "to": "CF-CON-135",
+      "to": "CF-CON-290",
       "type": "related"
     },
     {
@@ -5999,6 +6110,111 @@
     {
       "from": "CF-CON-310",
       "to": "CF-CON-293",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-311",
+      "to": "CF-CON-169",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-311",
+      "to": "CF-CON-204",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-312",
+      "to": "CF-CON-169",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-312",
+      "to": "CF-CON-187",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-313",
+      "to": "CF-CON-169",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-313",
+      "to": "CF-CON-112",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-314",
+      "to": "CF-CON-315",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-314",
+      "to": "CF-CON-316",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-314",
+      "to": "CF-CON-317",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-315",
+      "to": "CF-CON-314",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-315",
+      "to": "CF-CON-163",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-316",
+      "to": "CF-CON-314",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-316",
+      "to": "CF-CON-158",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-317",
+      "to": "CF-CON-314",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-317",
+      "to": "CF-CON-226",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-318",
+      "to": "CF-CON-169",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-318",
+      "to": "CF-CON-028",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-319",
+      "to": "CF-CON-037",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-319",
+      "to": "CF-CON-169",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-320",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-320",
+      "to": "CF-CON-170",
       "type": "related"
     }
   ]

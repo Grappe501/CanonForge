@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 0.9.0 · 2026-07-05 · 310 concepts registered
+> Version 1.0.0 · 2026-07-05 · 320 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@
 | CF-CON-166 | Physics of Reading | Architecture | **Frozen** | Reading as living process; perception before understanding; instrument. | CF-ENTRY-036, CF-ENTRY-046 |
 | CF-CON-167 | Reader's Covenant | Governance | **Frozen** | Fifteen promises before first sentence; trust binds both sides. | CF-ENTRY-036, CF-ENTRY-047 |
 | CF-CON-168 | Title genome gate | Design fork | **Frozen** | Title emerges from Genome; fifth-read transform; text open. | CF-ENTRY-036, CF-ENTRY-048 |
-| CF-CON-169 | Writer's Oath | Process | **Frozen** | Before session: discover truth; reader is partner not opponent. | CF-ENTRY-036 |
+| CF-CON-169 | Composer's Oath | Process | **Frozen** | Twenty-one oaths; daily ritual; session begins here. | CF-ENTRY-036, CF-ENTRY-049 |
 | CF-CON-170 | Periodic Table of Novel | Architecture | **Queued** | Elemental atoms before characters; BUILD-014 next. | CF-ENTRY-036 |
 | CF-CON-171 | Experience not sermon | Theme | **Frozen** | I judged before I understood; humility by experience not instruction. | CF-ENTRY-037 |
 | CF-CON-172 | I was out of order | Heart | **Frozen** | Deeper than timeline: reader understanding fragmented; reader changed. | CF-ENTRY-037 |
@@ -314,6 +314,16 @@
 | CF-CON-308 | Genome validation | Process | **Frozen** | Future builds must strengthen part of Genome. | CF-ENTRY-048 |
 | CF-CON-309 | Master pattern | Architecture | **Frozen** | Music organism memory life simultaneously. | CF-ENTRY-048 |
 | CF-CON-310 | How humans create meaning | Mission | **Frozen** | Real subject; incomplete experience to meaningful life. | CF-ENTRY-048 |
+| CF-CON-311 | Attachment not justification | Process | **Frozen** | Sentence suspect if only enjoyed; story need remains. | CF-ENTRY-049 |
+| CF-CON-312 | Daily ritual | Process | **Frozen** | Six change questions before every session. | CF-ENTRY-049 |
+| CF-CON-313 | Completion test | Process | **Frozen** | Score story inseparable; nothing impress-only. | CF-ENTRY-049 |
+| CF-CON-314 | Three councils | Process | **Frozen** | Heart Mind Music approve every scene. | CF-ENTRY-049 |
+| CF-CON-315 | Heart Council | Process | **Frozen** | Deepen care for another human being. | CF-ENTRY-049 |
+| CF-CON-316 | Mind Council | Process | **Frozen** | Reward curiosity and discovery. | CF-ENTRY-049 |
+| CF-CON-317 | Music Council | Process | **Frozen** | Rhythm silence emotional cadence. | CF-ENTRY-049 |
+| CF-CON-318 | Creative drift | Process | **Frozen** | Long project danger; oath prevents compromise. | CF-ENTRY-049 |
+| CF-CON-319 | Remarkable human experience | Mission | **Frozen** | Not remarkable novel; stop if confused. | CF-ENTRY-049 |
+| CF-CON-320 | Engineering phase | Architecture | **Queued** | Resonance Matrix Chronology Engine ledgers next. | CF-ENTRY-049 |
 
 ## Related Concepts
 
@@ -485,7 +495,7 @@
 - **CF-CON-166** (Physics of Reading, Frozen): CF-CON-092, CF-CON-164 → `canon/build/BUILD-010-physics-of-reading.md`
 - **CF-CON-167** (Reader's Covenant, Frozen): CF-CON-054, CF-CON-207, CF-CON-281 → `canon/build/BUILD-011-readers-covenant.md`
 - **CF-CON-168** (Title genome gate, Frozen): CF-CON-292, CF-CON-306 → `canon/build/BUILD-012-the-genome.md`
-- **CF-CON-169** (Writer's Oath, Frozen): CF-CON-038, CF-CON-135 → `canon/build/BUILD-013-writers-oath.md`
+- **CF-CON-169** (Composer's Oath, Frozen): CF-CON-038, CF-CON-290 → `canon/build/BUILD-013-composers-oath.md`
 - **CF-CON-170** (Periodic Table of Novel, Queued): CF-CON-159, CF-CON-164 → `canon/build/BUILD-014-periodic-table-of-the-novel.md`
 - **CF-CON-171** (Experience not sermon, Frozen): CF-CON-157, CF-CON-142 → `canon/build/BUILD-001-core-question.md`
 - **CF-CON-172** (I was out of order, Frozen): CF-CON-137, CF-CON-140 → `canon/build/BUILD-001-core-question.md`
@@ -627,3 +637,13 @@
 - **CF-CON-308** (Genome validation, Frozen): CF-CON-204, CF-CON-292 → `canon/build/BUILD-012-the-genome.md`
 - **CF-CON-309** (Master pattern, Frozen): CF-CON-292, CF-CON-106 → `canon/build/BUILD-012-the-genome.md`
 - **CF-CON-310** (How humans create meaning, Frozen): CF-CON-157, CF-CON-293 → `canon/build/BUILD-012-the-genome.md`
+- **CF-CON-311** (Attachment not justification, Frozen): CF-CON-169, CF-CON-204 → `canon/build/BUILD-013-composers-oath.md`
+- **CF-CON-312** (Daily ritual, Frozen): CF-CON-169, CF-CON-187 → `canon/build/BUILD-013-composers-oath.md`
+- **CF-CON-313** (Completion test, Frozen): CF-CON-169, CF-CON-112 → `canon/build/BUILD-013-composers-oath.md`
+- **CF-CON-314** (Three councils, Frozen): CF-CON-315, CF-CON-316, CF-CON-317 → `canon/build/BUILD-013-composers-oath.md`
+- **CF-CON-315** (Heart Council, Frozen): CF-CON-314, CF-CON-163 → `canon/build/BUILD-013-composers-oath.md`
+- **CF-CON-316** (Mind Council, Frozen): CF-CON-314, CF-CON-158 → `canon/build/BUILD-013-composers-oath.md`
+- **CF-CON-317** (Music Council, Frozen): CF-CON-314, CF-CON-226 → `canon/build/BUILD-013-composers-oath.md`
+- **CF-CON-318** (Creative drift, Frozen): CF-CON-169, CF-CON-028 → `canon/build/BUILD-013-composers-oath.md`
+- **CF-CON-319** (Remarkable human experience, Frozen): CF-CON-037, CF-CON-169 → `canon/build/BUILD-013-composers-oath.md`
+- **CF-CON-320** (Engineering phase, Queued): CF-CON-134, CF-CON-170 → `canon/build/BUILD-014-periodic-table-of-the-novel.md`

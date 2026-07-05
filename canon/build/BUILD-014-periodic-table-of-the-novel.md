@@ -37,12 +37,30 @@ Once the table exists, every sentence and page becomes a **molecule** built from
 
 ---
 
+## Engineering phase *(CF-ENTRY-049 · CF-CON-320)*
+
+Philosophy complete (BUILD-001–013). Next: concrete systems:
+
+| System | Role |
+|---|---|
+| **Resonance Matrix** | Page-row resonance map (CF-CON-134) |
+| **Chronology Engine** | Chronology Lie · time anchors · Five Times |
+| **Character Consciousness Engine** | Consciousness unit (CF-CON-240) |
+| **Symbol Registry** | Object genome (BUILD-012 §012.5) |
+| **Silence Ledger** | Composed silence inventory |
+| **Typography Ledger** | Typography physics |
+| **Five-Read Traceability Matrix** | Per-read discovery mapping |
+
+→ See [BUILD-013 §013.25](BUILD-013-composers-oath.md)
+
+---
+
 ## Status
 
 ```txt
-BUILD-014:  QUEUED — next session
+BUILD-014:  QUEUED — engineering phase begins
 VERSION:    TBD on completion
-DEPENDS:    BUILD-001–013 complete ✓
+DEPENDS:    BUILD-001–013 complete ✓ (CF-ENTRY-049)
 BLOCKS:     Character Engine · Scene composition · Prose authorization
 ```
 
