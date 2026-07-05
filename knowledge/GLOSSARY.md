@@ -75,6 +75,10 @@
 | **Other world is consciousness** | Greatest other world not planet | CF-CON-621 |
 | **Cosmology Engine** | Universe larger than understanding | CF-CON-625 |
 | **Secret History gate** | BUILD-031 actual chronology protected | CF-CON-641 |
+| **Secret History** | Hidden chronology before page one | CF-CON-645 |
+| **Three histories** | Objective · cultural · personal | CF-CON-647 |
+| **Hidden truth before clues** | Anchor not trick | CF-CON-662 |
+| **Composing phase** | What happened not how system works | CF-CON-663 |
 | **Universe larger than imagined** | Ordinary world larger after closing book | CF-CON-563 |
 | **Motif not symbol** | Returns vs carries meaning | CF-CON-450 |
 | **Language of Silence** | Composed silence · seven forms | CF-CON-457 |

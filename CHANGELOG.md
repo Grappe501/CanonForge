@@ -3,6 +3,16 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [2.10.0] — 2026-07-05
+
+### Added
+- CF-ENTRY-070: BUILD-031 The Secret History Canonical v1.0 *(AUTHOR-ONLY)*
+- Concepts CF-CON-645 through CF-CON-664
+- Three histories · history ledger · rule of fairness · reader secret history
+- **Hidden truth before hidden clues** · never published anchor
+- **Instrument complete** · Composing phase begins (BUILD-032+)
+- Master Canon v1.5.5
+
 ## [2.9.0] — 2026-07-05
 
 ### Added

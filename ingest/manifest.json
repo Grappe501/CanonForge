@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "2.9.0",
-  "generated_at": "2026-07-05T22:25:15.107348+00:00",
+  "canonforge_version": "2.10.0",
+  "generated_at": "2026-07-05T22:28:20.279844+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 69,
-  "concept_count": 644,
+  "entry_count": 70,
+  "concept_count": 664,
   "project_version": "0.3.0",
   "phase_two": "complete",
   "build_016_version": "1.0",
@@ -39,7 +39,11 @@
   "build_029_title": "Journey Engine",
   "build_030_version": "1.0",
   "build_030_title": "Cosmology Engine",
-  "universal_architecture": "complete",
+  "build_031_version": "1.0",
+  "build_031_title": "Secret History",
+  "build_031_protection": "author-only",
+  "instrument_complete": true,
+  "composing_phase": "begun",
   "phase_three": "begun",
   "phase_one": "complete",
   "build_015_5_version": "0.1",
@@ -70,7 +74,7 @@
   "foundational_layer": "BUILD-001-013 complete",
   "engineering_layer": "BUILD-014-015 complete",
   "roadmap_version": "1.0",
-  "build_layer": "BUILD-001-030 frozen \u00b7 BUILD-015.5 active",
+  "build_layer": "BUILD-001-031 frozen \u00b7 BUILD-015.5 active",
   "entries": [
     {
       "entry_id": "CF-ENTRY-001",
@@ -1449,6 +1453,36 @@
         "CF-CON-644"
       ],
       "byte_size": 7568
+    },
+    {
+      "entry_id": "CF-ENTRY-070",
+      "file": "knowledge/entries/070-build-031-secret-history-v1.md",
+      "sha256": "9708053fb79756c9d4adedfa81fb91a229afc50415999438dafa15b2795f5edc",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-645",
+        "CF-CON-646",
+        "CF-CON-647",
+        "CF-CON-648",
+        "CF-CON-649",
+        "CF-CON-650",
+        "CF-CON-651",
+        "CF-CON-652",
+        "CF-CON-653",
+        "CF-CON-654",
+        "CF-CON-655",
+        "CF-CON-656",
+        "CF-CON-657",
+        "CF-CON-658",
+        "CF-CON-659",
+        "CF-CON-660",
+        "CF-CON-661",
+        "CF-CON-662",
+        "CF-CON-663",
+        "CF-CON-664"
+      ],
+      "byte_size": 8199
     }
   ],
   "indexes": {

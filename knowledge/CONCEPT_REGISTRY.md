@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 2.9.0 · 2026-07-05 · 644 concepts registered
+> Version 2.10.0 · 2026-07-05 · 664 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -648,6 +648,26 @@
 | CF-CON-642 | Mystery permanent feature | Governance | **Frozen** | Not temporary defect; universe larger than mind. | CF-ENTRY-069 |
 | CF-CON-643 | Wonder triad | Architecture | **Frozen** | Knowledge mystery trust required for wonder. | CF-ENTRY-069 |
 | CF-CON-644 | Fractal integrity existence | Architecture | **Frozen** | Nested scales reflect patterns of others. | CF-ENTRY-069 |
+| CF-CON-645 | Secret History | Governance | **Frozen** | Complete chronology before page one; anchor of mysteries. | CF-ENTRY-070 |
+| CF-CON-646 | One true chronology | Governance | **Frozen** | Reality does not differ; source of truth. | CF-ENTRY-070 |
+| CF-CON-647 | Three histories | Architecture | **Frozen** | Objective cultural personal; novel explores tension. | CF-ENTRY-070 |
+| CF-CON-648 | Age before the story | Architecture | **Frozen** | World already lived; unseen centuries beneath. | CF-ENTRY-070 |
+| CF-CON-649 | Foundational event | Architecture | **Frozen** | One decisive event; all resonance points back. | CF-ENTRY-070 |
+| CF-CON-650 | Great misunderstanding | Architecture | **Frozen** | Interpretation not facts vanish; understanding scarce. | CF-ENTRY-070 |
+| CF-CON-651 | Hidden threads | Architecture | **Frozen** | Political personal symbolic; encountered before origin. | CF-ENTRY-070 |
+| CF-CON-652 | Living consequences | Architecture | **Frozen** | History shapes present architecture language fear. | CF-ENTRY-070 |
+| CF-CON-653 | Secret History archive | Architecture | **Frozen** | Complete event records; nothing important undocumented. | CF-ENTRY-070 |
+| CF-CON-654 | Lost history | Architecture | **Frozen** | Ordinary unrecognized; extraordinary in retrospect. | CF-ENTRY-070 |
+| CF-CON-655 | Keepers of history | Architecture | **Frozen** | Books songs ritual architecture; medium shapes memory. | CF-ENTRY-070 |
+| CF-CON-656 | Rule of historical fairness | Governance | **Frozen** | Revelations discoverable earlier; novel never cheats. | CF-ENTRY-070 |
+| CF-CON-657 | History ledger record | Architecture | **Frozen** | Nine fields per event; fracture and symbol links. | CF-ENTRY-070 |
+| CF-CON-658 | Reader secret history | Heart | **Frozen** | Rereads as historical reconstruction; silent oh. | CF-ENTRY-070 |
+| CF-CON-659 | Secret History final principle | Mission | **Frozen** | Coherence not concealment; inevitable revelation. | CF-ENTRY-070 |
+| CF-CON-660 | Instrument complete | Mission | **Frozen** | BUILD-001-031 machine designed; composing begins. | CF-ENTRY-070 |
+| CF-CON-661 | Never published anchor | Governance | **Frozen** | Author-only; never referenced directly in prose. | CF-ENTRY-070 |
+| CF-CON-662 | Hidden truth before clues | Governance | **Frozen** | Mystery requires creator anchor not trick. | CF-ENTRY-070 |
+| CF-CON-663 | Composing phase begins | Mission | **Frozen** | What happened not how system works. | CF-ENTRY-070 |
+| CF-CON-664 | Coherence not concealment | Mission | **Frozen** | Internally consistent reality; not hiding info. | CF-ENTRY-070 |
 
 ## Related Concepts
 
@@ -1295,3 +1315,23 @@
 - **CF-CON-642** (Mystery permanent feature, Frozen): CF-CON-625, CF-CON-627 → `canon/build/BUILD-030-cosmology-engine.md`
 - **CF-CON-643** (Wonder triad, Frozen): CF-CON-632, CF-CON-159 → `canon/build/BUILD-030-cosmology-engine.md#0306--the-architecture-of-wonder`
 - **CF-CON-644** (Fractal integrity existence, Frozen): CF-CON-628, CF-CON-484 → `canon/build/BUILD-030-cosmology-engine.md#0302--the-scale-of-existence`
+- **CF-CON-645** (Secret History, Frozen): CF-CON-641, CF-CON-022, CF-CON-662 → `canon/build/BUILD-031-secret-history.md`
+- **CF-CON-646** (One true chronology, Frozen): CF-CON-645, CF-CON-014 → `canon/build/BUILD-031-secret-history.md#0311--the-first-law`
+- **CF-CON-647** (Three histories, Frozen): CF-CON-645, CF-CON-416 → `canon/build/BUILD-031-secret-history.md#0312--the-three-histories`
+- **CF-CON-648** (Age before the story, Frozen): CF-CON-645, CF-CON-552 → `canon/build/BUILD-031-secret-history.md#0313--the-age-before-the-story`
+- **CF-CON-649** (Foundational event, Frozen): CF-CON-645, CF-CON-358 → `canon/build/BUILD-031-secret-history.md#0314--the-foundational-event`
+- **CF-CON-650** (Great misunderstanding, Frozen): CF-CON-645, CF-CON-401 → `canon/build/BUILD-031-secret-history.md#0315--the-great-misunderstanding`
+- **CF-CON-651** (Hidden threads, Frozen): CF-CON-645, CF-CON-431 → `canon/build/BUILD-031-secret-history.md#0316--the-hidden-threads`
+- **CF-CON-652** (Living consequences, Frozen): CF-CON-645, CF-CON-545 → `canon/build/BUILD-031-secret-history.md#0317--the-living-consequences`
+- **CF-CON-653** (Secret History archive, Frozen): CF-CON-645, CF-CON-134 → `canon/build/BUILD-031-secret-history.md#0318--the-archive`
+- **CF-CON-654** (Lost history, Frozen): CF-CON-645, CF-CON-428 → `canon/build/BUILD-031-secret-history.md#0319--the-lost-history`
+- **CF-CON-655** (Keepers of history, Frozen): CF-CON-645, CF-CON-581 → `canon/build/BUILD-031-secret-history.md#03110--the-keepers`
+- **CF-CON-656** (Rule of historical fairness, Frozen): CF-CON-645, CF-CON-023 → `canon/build/BUILD-031-secret-history.md#03111--the-rule-of-fairness`
+- **CF-CON-657** (History ledger record, Frozen): CF-CON-645, CF-CON-134 → `canon/build/BUILD-031-secret-history.md#03112--the-history-ledger`
+- **CF-CON-658** (Reader secret history, Frozen): CF-CON-645, CF-CON-002 → `canon/build/BUILD-031-secret-history.md#03113--the-readers-secret-history`
+- **CF-CON-659** (Secret History final principle, Frozen): CF-CON-645, CF-CON-664 → `canon/build/BUILD-031-secret-history.md#03114--the-final-principle`
+- **CF-CON-660** (Instrument complete, Frozen): CF-CON-645, CF-CON-663 → `canon/build/BUILD-031-secret-history.md`
+- **CF-CON-661** (Never published anchor, Frozen): CF-CON-645, CF-CON-022 → `canon/build/BUILD-031-secret-history.md`
+- **CF-CON-662** (Hidden truth before clues, Frozen): CF-CON-645, CF-CON-176 → `canon/build/BUILD-031-secret-history.md`
+- **CF-CON-663** (Composing phase begins, Frozen): CF-CON-660, CF-CON-542 → `canon/build/BUILD-031-secret-history.md`
+- **CF-CON-664** (Coherence not concealment, Frozen): CF-CON-659, CF-CON-023 → `canon/build/BUILD-031-secret-history.md#03114--the-final-principle`

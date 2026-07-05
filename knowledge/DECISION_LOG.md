@@ -42,6 +42,8 @@
 | 2026-07-05 | Master Build Roadmap v1.0 | CF-ENTRY-035 session pause | CF-CON-150–155 |
 | 2026-07-05 | BUILD-001–013 frozen v1.0 | Foundational canon complete | CF-CON-156–320 |
 | 2026-07-05 | BUILD-014 Elements of Meaning | Supersedes Periodic Table stub | CF-CON-170 |
+| 2026-07-05 | BUILD-031 Secret History v1.0 | Three histories · history ledger · instrument complete | CF-CON-645–664 |
+| 2026-07-05 | Composing phase begins | What happened; story identity BUILD-032+ | CF-CON-663 |
 | 2026-07-05 | BUILD-030 Cosmology Engine v1.0 | Cosmic ledger · mystery permanent · Universal Architecture | CF-CON-625–644 |
 | 2026-07-05 | Universal Architecture Phase complete | BUILD-026–030 frozen; BUILD-031 Secret History queued | CF-CON-640 |
 | 2026-07-05 | BUILD-029 Journey Engine v1.0 | Five journeys · hidden destination · reader journey | CF-CON-605–624 |

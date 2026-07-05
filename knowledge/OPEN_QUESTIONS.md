@@ -74,14 +74,14 @@ Architecture must now give birth to the actual story. **BUILD-026 World Engine v
 
 Gravitational center: **How do separate consciousnesses discover that they belong to the same reality?** *(CF-CON-549)*
 
-Concrete questions for Phase Three (BUILD-031+):
+Concrete questions for Phase Three (BUILD-032+):
 
-- **BUILD-031 Secret History** — actual sequence before page one *(most protected · CF-CON-641)*
+- **BUILD-032 Rules of Time** — time laws governing this specific story
 - Who are the **consciousnesses** that inhabit this world?
 - What is the **central fracture** — the governing gap all others orbit?
-- Why does the story **begin where it begins** — not at the chronological beginning?
+- What is the **foundational event** — populate Secret History archive *(CF-CON-649)*
 
-BUILD-017 defines reality laws. BUILD-018 defines the gap between reality and understanding. BUILD-030 completes Universal Architecture. Concrete chronology lives in **BUILD-031 Secret History** — not yet in Master Canon.
+BUILD-031 establishes the **hidden chronology framework**. Populated event records remain **author-only** in the protected archive — never reader-facing.
 
 ## Hidden mathematics {#hidden-math}
 

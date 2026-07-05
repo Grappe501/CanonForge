@@ -16,7 +16,7 @@
 | **Story Written** | 0% |
 | **Philosophy + Schema** | **100%** (BUILD-001–015 frozen) |
 | **Engineering** | **100%** (BUILD-016–025 frozen) |
-| **Novel Substrate** | **Begun** (026–030 frozen · Universal Architecture ✓) |
+| **Novel Substrate** | **Begun** (026–031 frozen · Instrument complete · Composing phase) |
 | **Build Bible** | **~15%** (BUILD-015.5 v0.1 scaffold) |
 
 ---
@@ -26,10 +26,10 @@
 | Field | Value |
 |---|---|
 | **Repo** | CanonForge (`Grappe501/CanonForge`) |
-| **Repo Version** | See [VERSION](../../VERSION) · **2.9.0** |
-| **Build Layer** | BUILD-001–030 frozen · **015.5 active** |
-| **Entries** | CF-ENTRY-001 through CF-ENTRY-069 |
-| **Concepts** | 644+ |
+| **Repo Version** | See [VERSION](../../VERSION) · **2.10.0** |
+| **Build Layer** | BUILD-001–031 frozen · **015.5 active** |
+| **Entries** | CF-ENTRY-001 through CF-ENTRY-070 |
+| **Concepts** | 664+ |
 | **Traceability** | Entry → Concept → BUILD → Architecture → Matrix |
 
 ---
@@ -41,7 +41,7 @@
 | **One** | Philosophy + engineering schema | **✓ COMPLETE** |
 | **015.5** | Build Bible (master architecture) | **In progress** |
 | **Two** | Engineering (BUILD-016–025) | **✓ COMPLETE** |
-| **Three** | Novel substrate (BUILD-026–036) | **Begun** (026–030 ✓ · Universal Architecture complete) |
+| **Three** | Novel substrate (BUILD-026–036) | **Begun** (026–031 ✓ · Composing phase · 032–036 queued) |
 | **Four–Six** | Lives · Composition · Performance | Queued |
 
 → [BUILD-026](BUILD-026-world-engine.md) · [BUILD-015.5](BUILD-015.5-chronoforge-master-architecture.md)
@@ -51,11 +51,11 @@
 ## Governance mode
 
 ```txt
-STOP:   BUILD-031 until BUILD-015.5 v1.0 (016–030 done per author uploads)
-START:  Phase Three · BUILD-031 Secret History · Build Bible expansion
-NEVER:  manuscript/ until Phase Five gate
+STOP:   BUILD-032 until BUILD-015.5 v1.0 (016–031 done per author uploads)
+START:  Composing phase · BUILD-032 Rules of Time · story identity
+NEVER:  manuscript/ until Phase Five gate · BUILD-031 never reader-facing
 ```
 
 ---
 
-*Project v0.3.0 · Phase Three · BUILD-026–030 frozen · Universal Architecture complete · CF-ENTRY-069*
+*Project v0.3.0 · Phase Three · BUILD-026–031 frozen · Composing phase · CF-ENTRY-070*

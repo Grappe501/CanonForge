@@ -23,7 +23,8 @@ BUILD-027                             → Phase Three **v1.0**
 BUILD-028                             → Phase Three **v1.0**
 BUILD-029                             → Phase Three **v1.0**
 BUILD-030                             → Phase Three **v1.0** · Universal Architecture **complete**
-BUILD-031–036                         → queued
+BUILD-031                             → Phase Three **v1.0** · **AUTHOR-ONLY**
+BUILD-032–036                         → queued · Composing phase
 architecture/                         → expanded specs (derived · cross-ref)
 knowledge/entries/                    → verbatim source uploads
 ```
@@ -71,7 +72,8 @@ knowledge/entries/                    → verbatim source uploads
 | **028** | The Tool Engine | **1.0** | **Frozen** | 067 | CF-CON-585–604 | [BUILD-028](BUILD-028-tool-engine.md) |
 | **029** | The Journey Engine | **1.0** | **Frozen** | 068 | CF-CON-605–624 | [BUILD-029](BUILD-029-journey-engine.md) |
 | **030** | The Cosmology Engine | **1.0** | **Frozen** | 069 | CF-CON-625–644 | [BUILD-030](BUILD-030-cosmology-engine.md) |
-| **031–036** | Phase Three novel | — | **Queued** | — | — | [CHRONOFORGE_PHASES](../architecture/CHRONOFORGE_PHASES.md) |
+| **031** | The Secret History | **1.0** | **Frozen · AUTHOR-ONLY** | 070 | CF-CON-645–664 | [BUILD-031](BUILD-031-secret-history.md) |
+| **032–036** | Phase Three novel | — | **Queued** | — | — | [CHRONOFORGE_PHASES](../architecture/CHRONOFORGE_PHASES.md) |
 
 ---
 
@@ -116,6 +118,7 @@ knowledge/entries/                    → verbatim source uploads
 | 028 Tool Engine | Six families · tool record · final tool = understanding |
 | 029 Journey Engine | Five journeys · hidden destination · reader journey |
 | 030 Cosmology Engine | Cosmic ledger · mystery permanent · Universal Architecture complete |
+| 031 Secret History | Three histories · history ledger · **AUTHOR-ONLY** · instrument complete |
 
 ---
 

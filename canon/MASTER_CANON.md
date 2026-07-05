@@ -1,7 +1,7 @@
-# Master Canon v1.5.4
+# Master Canon v1.5.5
 
-> **BUILD-030:** Cosmology Engine · mystery permanent · Universal Architecture complete
-> Supersedes v1.5.3 (2026-07-05 · BUILD-030 CF-ENTRY-069 · CanonForge 2.9.0)
+> **BUILD-031:** Secret History · hidden truth before clues · instrument complete
+> Supersedes v1.5.4 (2026-07-05 · BUILD-031 CF-ENTRY-070 · CanonForge 2.10.0)
 
 ---
 
@@ -42,7 +42,9 @@ Key locked insights:
 | **Four Pillars** | Strengthen ≥1 of Wonder · **Connection** · Resonance · Transformation? | BUILD-003 v1.0 |
 | Seven Laws | Immutable · complies with BUILD-004 v1.0? | BUILD-004 |
 
-**Stack:** BUILD-001 = *why* · … · **029 = *transformation not travel*** · **030 = *cosmos larger than mind***
+**Stack:** BUILD-001 = *why* · … · **030 = *cosmos larger than mind*** · **031 = *hidden chronology anchor***
+
+→ [build/BUILD-031-secret-history.md](build/BUILD-031-secret-history.md) · Three Histories · History Ledger · **AUTHOR-ONLY**
 
 → [build/BUILD-030-cosmology-engine.md](build/BUILD-030-cosmology-engine.md) · Cosmic Ledger · Mystery Permanent · Universal Architecture Complete
 
@@ -232,6 +234,14 @@ Not *"How do people travel?"* — **"What does every journey change?"** *(CF-CON
 
 Hidden destination: **the greatest other world was never another planet — it was another consciousness** *(CF-CON-621)*. See [build/BUILD-029-journey-engine.md](build/BUILD-029-journey-engine.md).
 
+### Secret History immutable law (CF-CON-645 · BUILD-031 · AUTHOR-ONLY)
+
+> **The story begins long before the first sentence.**
+
+> **Hidden truth before hidden clues** *(CF-CON-662)*. One true chronology *(CF-CON-646)*. Three histories — objective · cultural · personal *(CF-CON-647)*. Purpose is **coherence not concealment** *(CF-CON-659 · CF-CON-664)*.
+
+Never published · never referenced directly in reader-facing prose *(CF-CON-661)*.
+
 ### Cosmology immutable law (CF-CON-625 · BUILD-030)
 
 > **The universe is not a machine to be solved. It is a reality to be explored.**
@@ -240,7 +250,11 @@ Hidden destination: **the greatest other world was never another planet — it w
 
 Final question: **"How should conscious beings live within a universe they can never fully understand?"** *(CF-CON-639)*
 
-**Universal Architecture Phase complete** *(BUILD-026–030 · CF-CON-640)*. Next: **BUILD-031 Secret History** — actual chronology · most protected document *(CF-CON-641)*. See [build/BUILD-030-cosmology-engine.md](build/BUILD-030-cosmology-engine.md).
+**Universal Architecture Phase complete** *(BUILD-026–030 · CF-CON-640)*. **Instrument complete** *(BUILD-001–031 · CF-CON-660)*.
+
+**Secret History** *(BUILD-031 · CF-CON-645 · AUTHOR-ONLY)* — hidden chronology framework. Populated events never reader-facing. See protected BUILD doc — not cited in surface canon.
+
+**Composing phase begins** *(CF-CON-663)*. Next: **BUILD-032 Rules of Time** — story-specific time laws.
 
 ### Visual Grammar (CF-CON-080 · CF-CON-081)
 

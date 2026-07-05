@@ -5,6 +5,14 @@
 
 ---
 
+## Governing framework
+
+**BUILD-031 Secret History** *(CF-ENTRY-070 · CF-CON-645)* defines the hidden chronology engine — AUTHOR-ONLY · never reader-facing.
+
+Populated event records from the History Ledger will live in this apex layer when written. See [build/BUILD-031-secret-history.md](../build/BUILD-031-secret-history.md).
+
+---
+
 ## Status
 
 **Structure TBD · Contents NOT populated.**

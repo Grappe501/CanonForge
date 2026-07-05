@@ -8,7 +8,7 @@
 
 > Explains **just enough** — leaves the universe **permanently larger** than reader understanding. **Mystery is not a temporary defect. It is a permanent feature.**
 
-**Universal Architecture Phase complete** *(BUILD-026–030)*. Next: **BUILD-031 Secret History** *(most protected document)*.
+**Universal Architecture Phase complete** *(BUILD-026–030)*. **BUILD-031 Secret History** *(✓ v1.0 · AUTHOR-ONLY)*. Next: **BUILD-032 Rules of Time**.
 
 ---
 
@@ -187,23 +187,9 @@ Combined with Phase One–Two: how readers think · consciousness · memory · t
 
 ---
 
-## BUILD-031 gate — Secret History *(CF-CON-641)*
+## BUILD-032 preview *(CF-ENTRY-070)*
 
-**What actually happened** — deliberately postponed until now.
-
-BUILD-031 = **The Secret History** — most protected document in the project:
-
-| History | Status |
-|---|---|
-| Characters believe | Not canonical backbone |
-| Civilizations teach | Not canonical backbone |
-| **Actual sequence before page one** | **BUILD-031** |
-
-Once written → everything **crystallizes**: fractures · symbols · rereads · revelations.
-
-*(Gates: BUILD-018 Fracture · BUILD-014 Chronology Lie · OPEN_QUESTIONS story substrate · Book of Secrets)*
-
-→ **BUILD-031 Secret History** *(queued · protected)*
+→ **BUILD-032 Rules of Time** — time laws governing this specific story *(Composing phase · queued)*
 
 ---
 

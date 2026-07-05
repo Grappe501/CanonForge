@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "2.9.0",
-  "generated_at": "2026-07-05T22:25:15.134545+00:00",
+  "canonforge_version": "2.10.0",
+  "generated_at": "2026-07-05T22:28:20.307961+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -7131,6 +7131,226 @@
         "CF-ENTRY-069"
       ],
       "canon_ref": "canon/build/BUILD-030-cosmology-engine.md#0302--the-scale-of-existence"
+    },
+    {
+      "id": "CF-CON-645",
+      "label": "Secret History",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Complete chronology before page one; anchor of mysteries.",
+      "sources": [
+        "CF-ENTRY-070"
+      ],
+      "canon_ref": "canon/build/BUILD-031-secret-history.md"
+    },
+    {
+      "id": "CF-CON-646",
+      "label": "One true chronology",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Reality does not differ; source of truth.",
+      "sources": [
+        "CF-ENTRY-070"
+      ],
+      "canon_ref": "canon/build/BUILD-031-secret-history.md#0311--the-first-law"
+    },
+    {
+      "id": "CF-CON-647",
+      "label": "Three histories",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Objective cultural personal; novel explores tension.",
+      "sources": [
+        "CF-ENTRY-070"
+      ],
+      "canon_ref": "canon/build/BUILD-031-secret-history.md#0312--the-three-histories"
+    },
+    {
+      "id": "CF-CON-648",
+      "label": "Age before the story",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "World already lived; unseen centuries beneath.",
+      "sources": [
+        "CF-ENTRY-070"
+      ],
+      "canon_ref": "canon/build/BUILD-031-secret-history.md#0313--the-age-before-the-story"
+    },
+    {
+      "id": "CF-CON-649",
+      "label": "Foundational event",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "One decisive event; all resonance points back.",
+      "sources": [
+        "CF-ENTRY-070"
+      ],
+      "canon_ref": "canon/build/BUILD-031-secret-history.md#0314--the-foundational-event"
+    },
+    {
+      "id": "CF-CON-650",
+      "label": "Great misunderstanding",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Interpretation not facts vanish; understanding scarce.",
+      "sources": [
+        "CF-ENTRY-070"
+      ],
+      "canon_ref": "canon/build/BUILD-031-secret-history.md#0315--the-great-misunderstanding"
+    },
+    {
+      "id": "CF-CON-651",
+      "label": "Hidden threads",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Political personal symbolic; encountered before origin.",
+      "sources": [
+        "CF-ENTRY-070"
+      ],
+      "canon_ref": "canon/build/BUILD-031-secret-history.md#0316--the-hidden-threads"
+    },
+    {
+      "id": "CF-CON-652",
+      "label": "Living consequences",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "History shapes present architecture language fear.",
+      "sources": [
+        "CF-ENTRY-070"
+      ],
+      "canon_ref": "canon/build/BUILD-031-secret-history.md#0317--the-living-consequences"
+    },
+    {
+      "id": "CF-CON-653",
+      "label": "Secret History archive",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Complete event records; nothing important undocumented.",
+      "sources": [
+        "CF-ENTRY-070"
+      ],
+      "canon_ref": "canon/build/BUILD-031-secret-history.md#0318--the-archive"
+    },
+    {
+      "id": "CF-CON-654",
+      "label": "Lost history",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Ordinary unrecognized; extraordinary in retrospect.",
+      "sources": [
+        "CF-ENTRY-070"
+      ],
+      "canon_ref": "canon/build/BUILD-031-secret-history.md#0319--the-lost-history"
+    },
+    {
+      "id": "CF-CON-655",
+      "label": "Keepers of history",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Books songs ritual architecture; medium shapes memory.",
+      "sources": [
+        "CF-ENTRY-070"
+      ],
+      "canon_ref": "canon/build/BUILD-031-secret-history.md#03110--the-keepers"
+    },
+    {
+      "id": "CF-CON-656",
+      "label": "Rule of historical fairness",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Revelations discoverable earlier; novel never cheats.",
+      "sources": [
+        "CF-ENTRY-070"
+      ],
+      "canon_ref": "canon/build/BUILD-031-secret-history.md#03111--the-rule-of-fairness"
+    },
+    {
+      "id": "CF-CON-657",
+      "label": "History ledger record",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Nine fields per event; fracture and symbol links.",
+      "sources": [
+        "CF-ENTRY-070"
+      ],
+      "canon_ref": "canon/build/BUILD-031-secret-history.md#03112--the-history-ledger"
+    },
+    {
+      "id": "CF-CON-658",
+      "label": "Reader secret history",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Rereads as historical reconstruction; silent oh.",
+      "sources": [
+        "CF-ENTRY-070"
+      ],
+      "canon_ref": "canon/build/BUILD-031-secret-history.md#03113--the-readers-secret-history"
+    },
+    {
+      "id": "CF-CON-659",
+      "label": "Secret History final principle",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Coherence not concealment; inevitable revelation.",
+      "sources": [
+        "CF-ENTRY-070"
+      ],
+      "canon_ref": "canon/build/BUILD-031-secret-history.md#03114--the-final-principle"
+    },
+    {
+      "id": "CF-CON-660",
+      "label": "Instrument complete",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "BUILD-001-031 machine designed; composing begins.",
+      "sources": [
+        "CF-ENTRY-070"
+      ],
+      "canon_ref": "canon/build/BUILD-031-secret-history.md"
+    },
+    {
+      "id": "CF-CON-661",
+      "label": "Never published anchor",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Author-only; never referenced directly in prose.",
+      "sources": [
+        "CF-ENTRY-070"
+      ],
+      "canon_ref": "canon/build/BUILD-031-secret-history.md"
+    },
+    {
+      "id": "CF-CON-662",
+      "label": "Hidden truth before clues",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Mystery requires creator anchor not trick.",
+      "sources": [
+        "CF-ENTRY-070"
+      ],
+      "canon_ref": "canon/build/BUILD-031-secret-history.md"
+    },
+    {
+      "id": "CF-CON-663",
+      "label": "Composing phase begins",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "What happened not how system works.",
+      "sources": [
+        "CF-ENTRY-070"
+      ],
+      "canon_ref": "canon/build/BUILD-031-secret-history.md"
+    },
+    {
+      "id": "CF-CON-664",
+      "label": "Coherence not concealment",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Internally consistent reality; not hiding info.",
+      "sources": [
+        "CF-ENTRY-070"
+      ],
+      "canon_ref": "canon/build/BUILD-031-secret-history.md#03114--the-final-principle"
     }
   ],
   "edges": [
@@ -13157,6 +13377,211 @@
     {
       "from": "CF-CON-644",
       "to": "CF-CON-484",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-645",
+      "to": "CF-CON-641",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-645",
+      "to": "CF-CON-022",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-645",
+      "to": "CF-CON-662",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-646",
+      "to": "CF-CON-645",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-646",
+      "to": "CF-CON-014",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-647",
+      "to": "CF-CON-645",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-647",
+      "to": "CF-CON-416",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-648",
+      "to": "CF-CON-645",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-648",
+      "to": "CF-CON-552",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-649",
+      "to": "CF-CON-645",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-649",
+      "to": "CF-CON-358",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-650",
+      "to": "CF-CON-645",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-650",
+      "to": "CF-CON-401",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-651",
+      "to": "CF-CON-645",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-651",
+      "to": "CF-CON-431",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-652",
+      "to": "CF-CON-645",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-652",
+      "to": "CF-CON-545",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-653",
+      "to": "CF-CON-645",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-653",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-654",
+      "to": "CF-CON-645",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-654",
+      "to": "CF-CON-428",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-655",
+      "to": "CF-CON-645",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-655",
+      "to": "CF-CON-581",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-656",
+      "to": "CF-CON-645",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-656",
+      "to": "CF-CON-023",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-657",
+      "to": "CF-CON-645",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-657",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-658",
+      "to": "CF-CON-645",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-658",
+      "to": "CF-CON-002",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-659",
+      "to": "CF-CON-645",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-659",
+      "to": "CF-CON-664",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-660",
+      "to": "CF-CON-645",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-660",
+      "to": "CF-CON-663",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-661",
+      "to": "CF-CON-645",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-661",
+      "to": "CF-CON-022",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-662",
+      "to": "CF-CON-645",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-662",
+      "to": "CF-CON-176",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-663",
+      "to": "CF-CON-660",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-663",
+      "to": "CF-CON-542",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-664",
+      "to": "CF-CON-659",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-664",
+      "to": "CF-CON-023",
       "type": "related"
     }
   ]
