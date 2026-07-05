@@ -3,6 +3,13 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [0.2.4] — 2026-07-05
+
+### Added
+- CF-ENTRY-026: eliminate chapters · invisible movements · artifact design · river-not-stairs
+- Concepts CF-CON-059 through CF-CON-068; CF-CON-044 expanded and locked
+- Architecture: MOVEMENTS_NOT_CHAPTERS.md major expansion
+
 ## [0.2.3] — 2026-07-05
 
 ### Added

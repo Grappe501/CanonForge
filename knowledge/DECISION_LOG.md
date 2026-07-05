@@ -25,7 +25,9 @@
 | 2026-07-05 | No Beginning immutable law | CF-ENTRY-025 structural principle | CF-CON-057 |
 | 2026-07-05 | Invisible reader contract | Silent assumption subversion | CF-CON-054 |
 | 2026-07-05 | Continuous opening/closing dyad | Form and theme unified | CF-CON-055, CF-CON-056 |
-| 2026-07-05 | Copyright invisible to reader | Legal vs reading experience split | CF-CON-058 |
+| 2026-07-05 | Eliminate chapters | CF-ENTRY-026 artifact doctrine | CF-CON-059 |
+| 2026-07-05 | Artifact not novel | Physical form reinforces experience | CF-CON-067 |
+| 2026-07-05 | Form supports experience | Read 1 adventure anchor protected | CF-CON-068 |
 | 2026-07-05 | Originality firewall | Genre pillars as physics not copy | CF-CON-039 |
 
 ## Open Forks (see OPEN_QUESTIONS.md)
@@ -38,4 +40,4 @@
 | 2026-07-05 | Final image | Open |
 | 2026-07-05 | Final page text | Open |
 | 2026-07-05 | Title page minimalism | Candidate |
-| 2026-07-05 | Authorship mechanism (pseudonym vs anonymity) | Open |
+| 2026-07-05 | No page numbers | Open |

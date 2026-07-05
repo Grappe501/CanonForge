@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 0.2.3 · 2026-07-05 · 58 concepts registered
+> Version 0.2.4 · 2026-07-05 · 68 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | CF-CON-041 | GitHub governance | Process | **Locked** | Private repo; one commit per step; H:/ local truth. | CF-ENTRY-002 |
 | CF-CON-042 | Knowledge OS | Process | **Locked** | Institutional ingest layer before Phase 14 prose. | CF-ENTRY-020, CF-ENTRY-021, CF-ENTRY-022 |
 | CF-CON-043 | LOST breadcrumbs (finite) | Technique | **Locked** | Finite fair clues; meaning shifts with context. | CF-ENTRY-006 |
-| CF-CON-044 | Movements not chapters | Architecture | **Locked** | Musical structure: cadence and cognitive rhythm over conventional chapters. | CF-ENTRY-006 |
+| CF-CON-044 | Movements not chapters | Architecture | **Locked** | Eliminate chapters entirely; invisible movements with emotional frequency; river not stairs. | CF-ENTRY-006, CF-ENTRY-026 |
 | CF-CON-045 | Experience success scene | Commerce | **Locked** | Finish → silence → reopen → text 3 people before page five. | CF-ENTRY-019, CF-ENTRY-023 |
 | CF-CON-046 | Conversation architecture | Commerce | **Locked** | Build for reader-to-reader discovery dialogues; shared human experience. | CF-ENTRY-019, CF-ENTRY-023 |
 | CF-CON-047 | Earned not demanded reread | Commerce | **Locked** | Second read must be earned, never demanded; no layer hints. | CF-ENTRY-019, CF-ENTRY-023 |
@@ -62,6 +62,16 @@
 | CF-CON-056 | Continuous not circular | Architecture | **Locked** | Final thought completes on page one; novel is continuous, not merely circular. | CF-ENTRY-025 |
 | CF-CON-057 | No beginning law | Governance | **Locked** | The book has no beginning; the reader chooses where to enter the loop. | CF-ENTRY-025 |
 | CF-CON-058 | Copyright invisible to reader | Commerce | **Locked** | Legal copyright exists in metadata; not part of reading experience. | CF-ENTRY-025 |
+| CF-CON-059 | No chapters | Architecture | **Locked** | Chapters tell reader where they are; remove this orientation tool entirely. | CF-ENTRY-026 |
+| CF-CON-060 | Understanding not progress | Architecture | **Locked** | Reader measures understanding, not percentage-through-story. | CF-ENTRY-026 |
+| CF-CON-061 | Memory transitions | Architecture | **Locked** | Scene shifts via sentence continuity; feels like remembering. | CF-ENTRY-026 |
+| CF-CON-062 | River not stairs | Architecture | **Locked** | Continuous flow—current not stop-start; novel as river. | CF-ENTRY-026 |
+| CF-CON-063 | Invisible movements | Architecture | **Locked** | Emotional-frequency shifts felt, never labeled. | CF-ENTRY-026 |
+| CF-CON-064 | Cadence acceleration | Architecture | **Locked** | Each movement subtly faster: sentence, paragraph, dialogue, description density. | CF-ENTRY-026 |
+| CF-CON-065 | No page numbers | Design fork | **Open** | Remove page numbers; Möbius-strip artifact; publication feasibility TBD. | CF-ENTRY-026 |
+| CF-CON-066 | White space as punctuation | Architecture | **Locked** | White space is only shift cue—silence, breath, reflection. | CF-ENTRY-026 |
+| CF-CON-067 | Artifact not novel | Mission | **Locked** | Design printed artifact; every physical aspect reinforces experience. | CF-ENTRY-026 |
+| CF-CON-068 | Form supports experience | Architecture | **Locked** | Form quietly supports; never overwhelms; Read 1 must remain inviting adventure. | CF-ENTRY-026 |
 
 ## Related Concepts
 
@@ -108,7 +118,7 @@
 - **CF-CON-041** (GitHub governance, Locked): — → `README.md`
 - **CF-CON-042** (Knowledge OS, Locked): CF-CON-019 → `README.md`
 - **CF-CON-043** (LOST breadcrumbs (finite), Locked): CF-CON-039 → `knowledge/INFLUENCE_MATRIX.md`
-- **CF-CON-044** (Movements not chapters, Locked): CF-CON-012 → `architecture/MOVEMENTS_NOT_CHAPTERS.md`
+- **CF-CON-044** (Movements not chapters, Locked): CF-CON-059, CF-CON-063 → `architecture/MOVEMENTS_NOT_CHAPTERS.md`
 - **CF-CON-045** (Experience success scene, Locked): CF-CON-037, CF-CON-029 → `architecture/VALIDATION_STACK.md`
 - **CF-CON-046** (Conversation architecture, Locked): CF-CON-037 → `canon/MASTER_CANON.md`
 - **CF-CON-047** (Earned not demanded reread, Locked): CF-CON-029, CF-CON-030 → `canon/RULE_BOOK.md`
@@ -123,3 +133,13 @@
 - **CF-CON-056** (Continuous not circular, Locked): CF-CON-036, CF-CON-055 → `canon/MASTER_CANON.md`
 - **CF-CON-057** (No beginning law, Locked): CF-CON-054, CF-CON-056 → `canon/RULE_BOOK.md`
 - **CF-CON-058** (Copyright invisible to reader, Locked): CF-CON-048, CF-CON-050 → `knowledge/OPEN_QUESTIONS.md`
+- **CF-CON-059** (No chapters, Locked): CF-CON-044, CF-CON-060 → `architecture/MOVEMENTS_NOT_CHAPTERS.md`
+- **CF-CON-060** (Understanding not progress, Locked): CF-CON-059 → `architecture/MOVEMENTS_NOT_CHAPTERS.md`
+- **CF-CON-061** (Memory transitions, Locked): CF-CON-062, CF-CON-066 → `architecture/MOVEMENTS_NOT_CHAPTERS.md`
+- **CF-CON-062** (River not stairs, Locked): CF-CON-061 → `architecture/MOVEMENTS_NOT_CHAPTERS.md`
+- **CF-CON-063** (Invisible movements, Locked): CF-CON-044, CF-CON-064 → `architecture/MOVEMENTS_NOT_CHAPTERS.md`
+- **CF-CON-064** (Cadence acceleration, Locked): CF-CON-063 → `architecture/MOVEMENTS_NOT_CHAPTERS.md`
+- **CF-CON-065** (No page numbers, Open): CF-CON-057, CF-CON-067 → `knowledge/OPEN_QUESTIONS.md`
+- **CF-CON-066** (White space as punctuation, Locked): CF-CON-061 → `architecture/MOVEMENTS_NOT_CHAPTERS.md`
+- **CF-CON-067** (Artifact not novel, Locked): CF-CON-048, CF-CON-059 → `canon/MASTER_CANON.md`
+- **CF-CON-068** (Form supports experience, Locked): CF-CON-028, CF-CON-067 → `architecture/VALIDATION_STACK.md`

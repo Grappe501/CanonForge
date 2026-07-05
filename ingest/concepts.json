@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "canonforge_version": "0.2.0",
-  "generated_at": "2026-07-05T20:51:59.294669+00:00",
+  "generated_at": "2026-07-05T20:53:16.079726+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -490,9 +490,10 @@
       "label": "Movements not chapters",
       "category": "Architecture",
       "status": "Locked",
-      "definition": "Musical structure: cadence and cognitive rhythm over conventional chapters.",
+      "definition": "Eliminate chapters entirely; invisible movements with emotional frequency; river not stairs.",
       "sources": [
-        "CF-ENTRY-006"
+        "CF-ENTRY-006",
+        "CF-ENTRY-026"
       ],
       "canon_ref": "architecture/MOVEMENTS_NOT_CHAPTERS.md"
     },
@@ -652,6 +653,116 @@
         "CF-ENTRY-025"
       ],
       "canon_ref": "knowledge/OPEN_QUESTIONS.md"
+    },
+    {
+      "id": "CF-CON-059",
+      "label": "No chapters",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "Chapters tell reader where they are; remove this orientation tool entirely.",
+      "sources": [
+        "CF-ENTRY-026"
+      ],
+      "canon_ref": "architecture/MOVEMENTS_NOT_CHAPTERS.md"
+    },
+    {
+      "id": "CF-CON-060",
+      "label": "Understanding not progress",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "Reader measures understanding, not percentage-through-story.",
+      "sources": [
+        "CF-ENTRY-026"
+      ],
+      "canon_ref": "architecture/MOVEMENTS_NOT_CHAPTERS.md"
+    },
+    {
+      "id": "CF-CON-061",
+      "label": "Memory transitions",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "Scene shifts via sentence continuity; feels like remembering.",
+      "sources": [
+        "CF-ENTRY-026"
+      ],
+      "canon_ref": "architecture/MOVEMENTS_NOT_CHAPTERS.md"
+    },
+    {
+      "id": "CF-CON-062",
+      "label": "River not stairs",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "Continuous flow\u2014current not stop-start; novel as river.",
+      "sources": [
+        "CF-ENTRY-026"
+      ],
+      "canon_ref": "architecture/MOVEMENTS_NOT_CHAPTERS.md"
+    },
+    {
+      "id": "CF-CON-063",
+      "label": "Invisible movements",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "Emotional-frequency shifts felt, never labeled.",
+      "sources": [
+        "CF-ENTRY-026"
+      ],
+      "canon_ref": "architecture/MOVEMENTS_NOT_CHAPTERS.md"
+    },
+    {
+      "id": "CF-CON-064",
+      "label": "Cadence acceleration",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "Each movement subtly faster: sentence, paragraph, dialogue, description density.",
+      "sources": [
+        "CF-ENTRY-026"
+      ],
+      "canon_ref": "architecture/MOVEMENTS_NOT_CHAPTERS.md"
+    },
+    {
+      "id": "CF-CON-065",
+      "label": "No page numbers",
+      "category": "Design fork",
+      "status": "Open",
+      "definition": "Remove page numbers; M\u00f6bius-strip artifact; publication feasibility TBD.",
+      "sources": [
+        "CF-ENTRY-026"
+      ],
+      "canon_ref": "knowledge/OPEN_QUESTIONS.md"
+    },
+    {
+      "id": "CF-CON-066",
+      "label": "White space as punctuation",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "White space is only shift cue\u2014silence, breath, reflection.",
+      "sources": [
+        "CF-ENTRY-026"
+      ],
+      "canon_ref": "architecture/MOVEMENTS_NOT_CHAPTERS.md"
+    },
+    {
+      "id": "CF-CON-067",
+      "label": "Artifact not novel",
+      "category": "Mission",
+      "status": "Locked",
+      "definition": "Design printed artifact; every physical aspect reinforces experience.",
+      "sources": [
+        "CF-ENTRY-026"
+      ],
+      "canon_ref": "canon/MASTER_CANON.md"
+    },
+    {
+      "id": "CF-CON-068",
+      "label": "Form supports experience",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "Form quietly supports; never overwhelms; Read 1 must remain inviting adventure.",
+      "sources": [
+        "CF-ENTRY-026"
+      ],
+      "canon_ref": "architecture/VALIDATION_STACK.md"
     }
   ],
   "edges": [
@@ -917,7 +1028,12 @@
     },
     {
       "from": "CF-CON-044",
-      "to": "CF-CON-012",
+      "to": "CF-CON-059",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-044",
+      "to": "CF-CON-063",
       "type": "related"
     },
     {
@@ -1043,6 +1159,86 @@
     {
       "from": "CF-CON-058",
       "to": "CF-CON-050",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-059",
+      "to": "CF-CON-044",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-059",
+      "to": "CF-CON-060",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-060",
+      "to": "CF-CON-059",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-061",
+      "to": "CF-CON-062",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-061",
+      "to": "CF-CON-066",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-062",
+      "to": "CF-CON-061",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-063",
+      "to": "CF-CON-044",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-063",
+      "to": "CF-CON-064",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-064",
+      "to": "CF-CON-063",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-065",
+      "to": "CF-CON-057",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-065",
+      "to": "CF-CON-067",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-066",
+      "to": "CF-CON-061",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-067",
+      "to": "CF-CON-048",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-067",
+      "to": "CF-CON-059",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-068",
+      "to": "CF-CON-028",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-068",
+      "to": "CF-CON-067",
       "type": "related"
     }
   ]

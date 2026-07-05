@@ -24,7 +24,8 @@
 | Discussion | Theory/timeline/clue conversations | CF-CON-027 |
 | Fair-play audit | Zero factual lies across 5 Recognitions | CF-CON-023 |
 | Experience success scene | Text 3 people before page 5 on reopen | CF-CON-045 |
-| Earned reread | Second pass discovered, never prompted by author | CF-CON-047 |
+| Artifact balance | Read 1 inviting adventure; form never overwhelms | CF-CON-068 |
+| No chapter crutch | Reader measures understanding not progress | CF-CON-060 |
 
 ---
 
@@ -60,7 +61,8 @@ Before any movement prose:
 ⛔ Meta vocabulary in prose
 ⛔ Infinite mystery sprawl (LOST failure mode)
 ⛔ Typographic gimmick dependency (House of Leaves failure mode)
-⛔ Smuggling open forks as fact
+⛔ Chapter numbers or section titles in published artifact
+⛔ Form overwhelms Read 1 adventure surface
 ```
 
 ---

@@ -71,6 +71,10 @@ Never hint that readers are "supposed" to reread. Earned reread only (CF-CON-047
 
 No author biography, endorsements, or read-twice instructions in the published artifact (CF-CON-048).
 
+**No chapters.** No section titles. No labeled movements (CF-CON-059 · CF-CON-063).
+
+White space is the only permitted structural shift cue (CF-CON-066).
+
 Internal engineering vocabulary stays in `architecture/` and `canon/`.
 
 ---

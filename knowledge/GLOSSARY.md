@@ -19,7 +19,9 @@
 | **Visibility vs importance** | Surface read obscures structural significance | CF-CON-024 |
 | **Originality firewall** | Techniques yes; plots/characters/worlds no | CF-CON-039 |
 | **Watchmaker phases** | Nine-phase pre-writing pipeline | CF-CON-017 |
-| **Movements** | Musical structural units replacing conventional chapters | CF-CON-044 |
+| **River not stairs** | Continuous flow; no stop-start chapter rhythm | CF-CON-062 |
+| **White space punctuation** | Only permitted structural shift cue | CF-CON-066 |
+| **Artifact** | Printed object designed as experience container | CF-CON-067 |
 | **Experience product** | The reading journey is the product, not the artifact | CF-CON-037 |
 | **3-text-before-page-5** | Experience success scene: text three people before reaching page five on reread | CF-CON-045 |
 | **Call me when you finish** | Target recommendation type — experience sharing, not craft admiration | CF-CON-038 |

@@ -60,6 +60,14 @@ Placeholder examples from CF-ENTRY-025 — not locked prose:
 
 Final sentence grammatically incomplete; thought completes on page one. Novel is **continuous**, not circular.
 
+## No page numbers {#page-numbers}
+
+**CF-CON-065 · Status: Open**
+
+Remove page numbers entirely? Möbius-strip ideal: nothing marks page one, ending, or progress.
+
+Publication and ebook feasibility TBD. Copyright/legal metadata may still require invisible numbering in production files.
+
 ## Copyright page {#copyright}
 
 **CF-CON-058 · Locked distinction**

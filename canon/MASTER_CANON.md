@@ -1,8 +1,8 @@
-# Master Canon v0.2.3
+# Master Canon v0.2.4
 
 > Governing creative constitution for CHRONOFORGE
 > Derived from locked concepts · open forks marked explicitly
-> Supersedes v0.2.2 (2026-07-05 · CF-ENTRY-025 No Beginning law)
+> Supersedes v0.2.3 (2026-07-05 · CF-ENTRY-026 artifact / no chapters)
 
 ---
 
@@ -12,8 +12,8 @@
 |---|---|
 | **Codename** | CHRONOFORGE |
 | **Repo** | CanonForge (`Grappe501/CanonForge`) |
-| **Form target** | ~100–120 pages |
-| **Architecture** | Recursive novel · Five Locks · Chronology Lie |
+| **Form** | ~100–120 pages · **no chapters** · invisible movements |
+| **Architecture** | Recursive novel · Five Locks · Chronology Lie · artifact design |
 
 ---
 
@@ -215,6 +215,28 @@ Presentation: black cover · one title · no By-line · no praise · story begin
 
 ---
 
+## Artifact Design (CF-CON-067 · CF-CON-068)
+
+We are designing an **artifact** — not merely a novel. Every physical aspect reinforces experience:
+
+| Element | Posture |
+|---|---|
+| Chapters | **Eliminated** — they tell reader where they are (CF-CON-059) |
+| Movements | **Invisible** — emotional frequency shifts, never labeled |
+| Flow | **River not stairs** — continuous, like memory (CF-CON-062) |
+| Transitions | Sentence-to-sentence; feels like remembering (CF-CON-061) |
+| White space | **Only** structural cue — punctuation, breath (CF-CON-066) |
+| Cadence | Accelerates subtly across movements (CF-CON-064) |
+| Progress | Reader measures **understanding**, not percentage (CF-CON-060) |
+
+**Balance (CF-CON-068):** Form quietly supports; never overwhelms. Read 1 = inviting adventure, not puzzle.
+
+Open fork: **no page numbers** (CF-CON-065 · Möbius-strip ideal vs publication reality).
+
+See [architecture/MOVEMENTS_NOT_CHAPTERS.md](../architecture/MOVEMENTS_NOT_CHAPTERS.md).
+
+---
+
 ## Originality Firewall
 
 Borrow **techniques** from influences. Never copy plots, characters, planets, dialogue, tech, or mythology.
@@ -236,7 +258,8 @@ See [knowledge/OPEN_QUESTIONS.md](../knowledge/OPEN_QUESTIONS.md):
 - Final page text ("Begin again." vs silence — CF-CON-051)
 - Title page presentation (CF-CON-050)
 - Authorship mechanism (pseudonym vs anonymity — publication path)
+- No page numbers (CF-CON-065)
 
 ---
 
-*v0.2.3 · 2026-07-05 · synthesized from CF-ENTRY-001 through CF-ENTRY-025*
+*v0.2.4 · 2026-07-05 · synthesized from CF-ENTRY-001 through CF-ENTRY-026*

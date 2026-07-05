@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0.0",
   "canonforge_version": "0.2.0",
-  "generated_at": "2026-07-05T20:51:59.294669+00:00",
+  "generated_at": "2026-07-05T20:53:16.073446+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 25,
+  "entry_count": 26,
   "concept_count": 44,
   "entries": [
     {
@@ -315,6 +315,27 @@
         "CF-CON-036"
       ],
       "byte_size": 3309
+    },
+    {
+      "entry_id": "CF-ENTRY-026",
+      "file": "knowledge/entries/026-eliminate-chapters-artifact-movements.md",
+      "sha256": "0453d2c7651554b11232d349c4e96e83f572d345dd11721bcc1bd2154fcb1378",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-044",
+        "CF-CON-059",
+        "CF-CON-060",
+        "CF-CON-061",
+        "CF-CON-062",
+        "CF-CON-063",
+        "CF-CON-064",
+        "CF-CON-065",
+        "CF-CON-066",
+        "CF-CON-067",
+        "CF-CON-068"
+      ],
+      "byte_size": 3837
     }
   ],
   "indexes": {
