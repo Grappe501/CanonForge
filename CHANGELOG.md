@@ -3,6 +3,18 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [0.6.2] — 2026-07-05
+
+### Added
+- CF-ENTRY-038: BUILD-002 Prime Directive Canonical v1.0 (§002.0–002.26)
+- Concepts CF-CON-176 through CF-CON-189
+- Discovery Pyramid · Rule of Curiosity · Assumption Ladder · Prime Question per page
+
+### Changed
+- BUILD-002 expanded from stub to engineering spec
+- Filter stack: discovery + clarity merged in BUILD-002 §002.1
+- Master Canon v0.5.2
+
 ## [0.6.1] — 2026-07-05
 
 ### Added

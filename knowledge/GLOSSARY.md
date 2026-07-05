@@ -36,7 +36,10 @@
 | **Prime Directive** | Does this increase discovery? | CF-CON-158 |
 | **I was out of order** | Reader not timeline is the deeper realization | CF-CON-172 |
 | **Wrong chapter anchor** | Hidden development bone · may not be printed | CF-CON-174 |
-| **Absence Order Rhythm** | Three assumption mechanisms | CF-CON-173 |
+| **Discovery Pyramid** | Five-layer discovery model | CF-CON-176 |
+| **Rule of Curiosity** | 1 answered · 2 active · 1 hidden question | CF-CON-177 |
+| **Assumption Ladder** | Readers build; novel examines | CF-CON-182 |
+| **Prime Question** | What is reader discovering? Nothing → delete | CF-CON-187 |
 | **Four Pillars** | Wonder · Humanity · Resonance · Transformation | CF-CON-159 |
 | **Reader Arc** | Five-stage reader journey parallel to protagonist | CF-CON-161 |
 | **Assumption Engine** | Per-page assumption · natural · transform | CF-CON-164 |

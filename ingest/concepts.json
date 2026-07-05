@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "0.6.1",
-  "generated_at": "2026-07-05T21:09:38.407770+00:00",
+  "canonforge_version": "0.6.2",
+  "generated_at": "2026-07-05T21:10:44.701205+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -1750,9 +1750,10 @@
       "label": "BUILD-002 Prime Directive",
       "category": "Governance",
       "status": "Frozen",
-      "definition": "Does this increase discovery? Mystery ends; discovery continues.",
+      "definition": "Every page: discovery without decreasing clarity; engineering rule.",
       "sources": [
-        "CF-ENTRY-036"
+        "CF-ENTRY-036",
+        "CF-ENTRY-038"
       ],
       "canon_ref": "canon/build/BUILD-002-prime-directive.md"
     },
@@ -1942,6 +1943,160 @@
         "CF-ENTRY-037"
       ],
       "canon_ref": "canon/build/BUILD-001-core-question.md"
+    },
+    {
+      "id": "CF-CON-176",
+      "label": "Discovery Pyramid",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Five layers: story character reality self human.",
+      "sources": [
+        "CF-ENTRY-038"
+      ],
+      "canon_ref": "canon/build/BUILD-002-prime-directive.md"
+    },
+    {
+      "id": "CF-CON-177",
+      "label": "Rule of Curiosity",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "One answered \u00b7 two active \u00b7 one hidden question always.",
+      "sources": [
+        "CF-ENTRY-038"
+      ],
+      "canon_ref": "canon/build/BUILD-002-prime-directive.md"
+    },
+    {
+      "id": "CF-CON-178",
+      "label": "Discovery not confusion",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Immutable: I almost understand never I have no idea.",
+      "sources": [
+        "CF-ENTRY-038"
+      ],
+      "canon_ref": "canon/build/BUILD-002-prime-directive.md"
+    },
+    {
+      "id": "CF-CON-179",
+      "label": "Goldilocks Principle",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Scene between too obvious and too obscure; correct creates wonder.",
+      "sources": [
+        "CF-ENTRY-038"
+      ],
+      "canon_ref": "canon/build/BUILD-002-prime-directive.md"
+    },
+    {
+      "id": "CF-CON-180",
+      "label": "Three discoveries per scene",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Immediate delayed invisible discoveries required per scene.",
+      "sources": [
+        "CF-ENTRY-038"
+      ],
+      "canon_ref": "canon/build/BUILD-002-prime-directive.md"
+    },
+    {
+      "id": "CF-CON-181",
+      "label": "Discovery Loop",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Observation interpretation assumption evidence revision understanding.",
+      "sources": [
+        "CF-ENTRY-038"
+      ],
+      "canon_ref": "canon/build/BUILD-002-prime-directive.md"
+    },
+    {
+      "id": "CF-CON-182",
+      "label": "Assumption Ladder",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Readers build ladders; novel examines never builds them.",
+      "sources": [
+        "CF-ENTRY-038"
+      ],
+      "canon_ref": "canon/build/BUILD-002-prime-directive.md"
+    },
+    {
+      "id": "CF-CON-183",
+      "label": "Information Economy",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Never answer immediately; never delay unnecessarily; spend wisely.",
+      "sources": [
+        "CF-ENTRY-038"
+      ],
+      "canon_ref": "canon/build/BUILD-002-prime-directive.md"
+    },
+    {
+      "id": "CF-CON-184",
+      "label": "Question lifecycles",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Immediate medium long entire-novel question classification.",
+      "sources": [
+        "CF-ENTRY-038"
+      ],
+      "canon_ref": "canon/build/BUILD-002-prime-directive.md"
+    },
+    {
+      "id": "CF-CON-185",
+      "label": "Discovery through repetition",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Bridge example: object fixed meaning transforms across reads.",
+      "sources": [
+        "CF-ENTRY-038"
+      ],
+      "canon_ref": "canon/build/BUILD-002-prime-directive.md"
+    },
+    {
+      "id": "CF-CON-186",
+      "label": "Discovery Map",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Ten domains: story character world memory emotion rhythm etc.",
+      "sources": [
+        "CF-ENTRY-038"
+      ],
+      "canon_ref": "canon/build/BUILD-002-prime-directive.md"
+    },
+    {
+      "id": "CF-CON-187",
+      "label": "Prime Question per page",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "What is reader discovering? Nothing \u2192 delete page.",
+      "sources": [
+        "CF-ENTRY-038"
+      ],
+      "canon_ref": "canon/build/BUILD-002-prime-directive.md"
+    },
+    {
+      "id": "CF-CON-188",
+      "label": "Curiosity replaces certainty",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Rewards patience not cleverness; true engine of reader change.",
+      "sources": [
+        "CF-ENTRY-038"
+      ],
+      "canon_ref": "canon/build/BUILD-002-prime-directive.md"
+    },
+    {
+      "id": "CF-CON-189",
+      "label": "BUILD-002 engineering spec",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Discovery mechanism canonical v1.0; how reader changes.",
+      "sources": [
+        "CF-ENTRY-038"
+      ],
+      "canon_ref": "canon/build/BUILD-002-prime-directive.md"
     }
   ],
   "edges": [
@@ -3072,7 +3227,7 @@
     },
     {
       "from": "CF-CON-158",
-      "to": "CF-CON-030",
+      "to": "CF-CON-157",
       "type": "related"
     },
     {
@@ -3238,6 +3393,116 @@
     {
       "from": "CF-CON-175",
       "to": "CF-CON-159",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-176",
+      "to": "CF-CON-158",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-176",
+      "to": "CF-CON-001",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-177",
+      "to": "CF-CON-176",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-178",
+      "to": "CF-CON-158",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-178",
+      "to": "CF-CON-179",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-179",
+      "to": "CF-CON-138",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-179",
+      "to": "CF-CON-178",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-180",
+      "to": "CF-CON-176",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-181",
+      "to": "CF-CON-164",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-181",
+      "to": "CF-CON-182",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-182",
+      "to": "CF-CON-164",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-182",
+      "to": "CF-CON-173",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-183",
+      "to": "CF-CON-181",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-184",
+      "to": "CF-CON-177",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-185",
+      "to": "CF-CON-094",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-185",
+      "to": "CF-CON-176",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-186",
+      "to": "CF-CON-176",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-187",
+      "to": "CF-CON-158",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-188",
+      "to": "CF-CON-003",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-188",
+      "to": "CF-CON-157",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-189",
+      "to": "CF-CON-158",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-189",
+      "to": "CF-CON-157",
       "type": "related"
     }
   ]

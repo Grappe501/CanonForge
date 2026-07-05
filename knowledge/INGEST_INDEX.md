@@ -41,3 +41,4 @@
 | CF-ENTRY-035 | `knowledge/entries/035-master-build-roadmap-v1-pause.md` | 2026-07-05 | processed | CF-CON-150, CF-CON-151, CF-CON-152, CF-CON-153, CF-CON-154, CF-CON-155 |
 | CF-ENTRY-036 | `knowledge/entries/036-master-build-canonical-discipline-build-001-013.md` | 2026-07-05 | processed | CF-CON-156, CF-CON-157, CF-CON-158, CF-CON-159, CF-CON-160, CF-CON-161, CF-CON-162, CF-CON-163, CF-CON-164, CF-CON-165, CF-CON-166, CF-CON-167, CF-CON-168, CF-CON-169, CF-CON-170 |
 | CF-ENTRY-037 | `knowledge/entries/037-build-001-expanded-canon-v0-1.md` | 2026-07-05 | processed | CF-CON-157, CF-CON-171, CF-CON-172, CF-CON-173, CF-CON-174, CF-CON-175 |
+| CF-ENTRY-038 | `knowledge/entries/038-build-002-prime-directive-canonical-v1.md` | 2026-07-05 | processed | CF-CON-158, CF-CON-176, CF-CON-177, CF-CON-178, CF-CON-179, CF-CON-180, CF-CON-181, CF-CON-182, CF-CON-183, CF-CON-184, CF-CON-185, CF-CON-186, CF-CON-187, CF-CON-188, CF-CON-189 |

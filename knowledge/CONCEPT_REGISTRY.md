@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 0.6.1 · 2026-07-05 · 175 concepts registered
+> Version 0.6.2 · 2026-07-05 · 189 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | CF-CON-155 | New storytelling medium | Mission | **Locked** | Inventing medium not writing novel; cathedral discipline. | CF-ENTRY-035 |
 | CF-CON-156 | Canonical build discipline | Governance | **Locked** | Stop brainstorming; version numbers; traceability like software. | CF-ENTRY-036 |
 | CF-CON-157 | BUILD-001 Core Question | Mission | **Frozen** | Root command v0.1: experience humility questioning assumptions. | CF-ENTRY-036, CF-ENTRY-037 |
-| CF-CON-158 | BUILD-002 Prime Directive | Governance | **Frozen** | Does this increase discovery? Mystery ends; discovery continues. | CF-ENTRY-036 |
+| CF-CON-158 | BUILD-002 Prime Directive | Governance | **Frozen** | Every page: discovery without decreasing clarity; engineering rule. | CF-ENTRY-036, CF-ENTRY-038 |
 | CF-CON-159 | Four Pillars | Architecture | **Frozen** | Wonder · Humanity · Resonance · Transformation. | CF-ENTRY-036 |
 | CF-CON-160 | BUILD-004 Seven Laws | Governance | **Frozen** | Immutable distill of Constitution; story wins; never lie. | CF-ENTRY-036 |
 | CF-CON-161 | Reader Arc | Architecture | **Frozen** | Five stages: confidence to reflection outside the book. | CF-ENTRY-036 |
@@ -179,6 +179,20 @@
 | CF-CON-173 | Absence Order Rhythm | Architecture | **Frozen** | Three reader assumption mechanisms: absence · order · rhythm. | CF-ENTRY-037 |
 | CF-CON-174 | Wrong chapter anchor | Heart | **Frozen** | Hidden dev anchor: misunderstood people met in wrong chapter. | CF-ENTRY-037 |
 | CF-CON-175 | Core emotional arc | Architecture | **Frozen** | Wonder confidence disturbance recognition humility; door to page one. | CF-ENTRY-037 |
+| CF-CON-176 | Discovery Pyramid | Architecture | **Frozen** | Five layers: story character reality self human. | CF-ENTRY-038 |
+| CF-CON-177 | Rule of Curiosity | Architecture | **Frozen** | One answered · two active · one hidden question always. | CF-ENTRY-038 |
+| CF-CON-178 | Discovery not confusion | Governance | **Frozen** | Immutable: I almost understand never I have no idea. | CF-ENTRY-038 |
+| CF-CON-179 | Goldilocks Principle | Architecture | **Frozen** | Scene between too obvious and too obscure; correct creates wonder. | CF-ENTRY-038 |
+| CF-CON-180 | Three discoveries per scene | Architecture | **Frozen** | Immediate delayed invisible discoveries required per scene. | CF-ENTRY-038 |
+| CF-CON-181 | Discovery Loop | Architecture | **Frozen** | Observation interpretation assumption evidence revision understanding. | CF-ENTRY-038 |
+| CF-CON-182 | Assumption Ladder | Architecture | **Frozen** | Readers build ladders; novel examines never builds them. | CF-ENTRY-038 |
+| CF-CON-183 | Information Economy | Architecture | **Frozen** | Never answer immediately; never delay unnecessarily; spend wisely. | CF-ENTRY-038 |
+| CF-CON-184 | Question lifecycles | Architecture | **Frozen** | Immediate medium long entire-novel question classification. | CF-ENTRY-038 |
+| CF-CON-185 | Discovery through repetition | Architecture | **Frozen** | Bridge example: object fixed meaning transforms across reads. | CF-ENTRY-038 |
+| CF-CON-186 | Discovery Map | Architecture | **Frozen** | Ten domains: story character world memory emotion rhythm etc. | CF-ENTRY-038 |
+| CF-CON-187 | Prime Question per page | Governance | **Frozen** | What is reader discovering? Nothing → delete page. | CF-ENTRY-038 |
+| CF-CON-188 | Curiosity replaces certainty | Heart | **Frozen** | Rewards patience not cleverness; true engine of reader change. | CF-ENTRY-038 |
+| CF-CON-189 | BUILD-002 engineering spec | Governance | **Frozen** | Discovery mechanism canonical v1.0; how reader changes. | CF-ENTRY-038 |
 
 ## Related Concepts
 
@@ -339,7 +353,7 @@
 - **CF-CON-155** (New storytelling medium, Locked): CF-CON-153 → `architecture/MASTER_BUILD_ROADMAP.md`
 - **CF-CON-156** (Canonical build discipline, Locked): CF-CON-121 → `canon/build/BUILD_INDEX.md`
 - **CF-CON-157** (BUILD-001 Core Question, Frozen): CF-CON-141, CF-CON-153 → `canon/build/BUILD-001-core-question.md`
-- **CF-CON-158** (BUILD-002 Prime Directive, Frozen): CF-CON-138, CF-CON-030 → `canon/build/BUILD-002-prime-directive.md`
+- **CF-CON-158** (BUILD-002 Prime Directive, Frozen): CF-CON-138, CF-CON-157 → `canon/build/BUILD-002-prime-directive.md`
 - **CF-CON-159** (Four Pillars, Frozen): CF-CON-094, CF-CON-137 → `canon/build/BUILD-003-four-pillars.md`
 - **CF-CON-160** (BUILD-004 Seven Laws, Frozen): CF-CON-136, CF-CON-023 → `canon/build/BUILD-004-seven-laws.md`
 - **CF-CON-161** (Reader Arc, Frozen): CF-CON-002, CF-CON-001 → `canon/build/BUILD-005-reader-arc.md`
@@ -357,3 +371,17 @@
 - **CF-CON-173** (Absence Order Rhythm, Frozen): CF-CON-164, CF-CON-014 → `canon/build/BUILD-001-core-question.md`
 - **CF-CON-174** (Wrong chapter anchor, Frozen): CF-CON-157, CF-CON-143 → `canon/build/BUILD-001-core-question.md`
 - **CF-CON-175** (Core emotional arc, Frozen): CF-CON-161, CF-CON-159 → `canon/build/BUILD-001-core-question.md`
+- **CF-CON-176** (Discovery Pyramid, Frozen): CF-CON-158, CF-CON-001 → `canon/build/BUILD-002-prime-directive.md`
+- **CF-CON-177** (Rule of Curiosity, Frozen): CF-CON-176 → `canon/build/BUILD-002-prime-directive.md`
+- **CF-CON-178** (Discovery not confusion, Frozen): CF-CON-158, CF-CON-179 → `canon/build/BUILD-002-prime-directive.md`
+- **CF-CON-179** (Goldilocks Principle, Frozen): CF-CON-138, CF-CON-178 → `canon/build/BUILD-002-prime-directive.md`
+- **CF-CON-180** (Three discoveries per scene, Frozen): CF-CON-176 → `canon/build/BUILD-002-prime-directive.md`
+- **CF-CON-181** (Discovery Loop, Frozen): CF-CON-164, CF-CON-182 → `canon/build/BUILD-002-prime-directive.md`
+- **CF-CON-182** (Assumption Ladder, Frozen): CF-CON-164, CF-CON-173 → `canon/build/BUILD-002-prime-directive.md`
+- **CF-CON-183** (Information Economy, Frozen): CF-CON-181 → `canon/build/BUILD-002-prime-directive.md`
+- **CF-CON-184** (Question lifecycles, Frozen): CF-CON-177 → `canon/build/BUILD-002-prime-directive.md`
+- **CF-CON-185** (Discovery through repetition, Frozen): CF-CON-094, CF-CON-176 → `canon/build/BUILD-002-prime-directive.md`
+- **CF-CON-186** (Discovery Map, Frozen): CF-CON-176 → `canon/build/BUILD-002-prime-directive.md`
+- **CF-CON-187** (Prime Question per page, Frozen): CF-CON-158 → `canon/build/BUILD-002-prime-directive.md`
+- **CF-CON-188** (Curiosity replaces certainty, Frozen): CF-CON-003, CF-CON-157 → `canon/build/BUILD-002-prime-directive.md`
+- **CF-CON-189** (BUILD-002 engineering spec, Frozen): CF-CON-158, CF-CON-157 → `canon/build/BUILD-002-prime-directive.md`

@@ -1,13 +1,14 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "0.6.1",
-  "generated_at": "2026-07-05T21:09:38.397591+00:00",
+  "canonforge_version": "0.6.2",
+  "generated_at": "2026-07-05T21:10:44.699198+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 37,
-  "concept_count": 175,
+  "entry_count": 38,
+  "concept_count": 189,
   "build_001_version": "0.1",
+  "build_002_version": "1.0",
   "roadmap_version": "1.0",
   "project_version": "0.0.1",
   "build_layer": "BUILD-001-013 frozen",
@@ -558,6 +559,31 @@
         "CF-CON-175"
       ],
       "byte_size": 8185
+    },
+    {
+      "entry_id": "CF-ENTRY-038",
+      "file": "knowledge/entries/038-build-002-prime-directive-canonical-v1.md",
+      "sha256": "c28f7e4537a60b0dd55f59b46ab43a48ea8fee1e3f8efbdc5cbe63aa73fad882",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-158",
+        "CF-CON-176",
+        "CF-CON-177",
+        "CF-CON-178",
+        "CF-CON-179",
+        "CF-CON-180",
+        "CF-CON-181",
+        "CF-CON-182",
+        "CF-CON-183",
+        "CF-CON-184",
+        "CF-CON-185",
+        "CF-CON-186",
+        "CF-CON-187",
+        "CF-CON-188",
+        "CF-CON-189"
+      ],
+      "byte_size": 7816
     }
   ],
   "indexes": {

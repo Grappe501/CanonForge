@@ -1,8 +1,8 @@
-# Master Canon v0.5.1
+# Master Canon v0.5.2
 
 > Implementation constitution · derived from [CONSTITUTION.md](CONSTITUTION.md)
 > **BUILD-000.000 is law** — BUILD-001–013 are frozen foundational canon
-> Supersedes v0.5.0 (2026-07-05 · BUILD-001 Expanded Canon v0.1 CF-ENTRY-037)
+> Supersedes v0.5.1 (2026-07-05 · BUILD-002 Canonical v1.0 CF-ENTRY-038)
 
 ---
 
@@ -39,9 +39,13 @@ Key locked insights:
 
 | Filter | Question | BUILD |
 |---|---|---|
-| Prime Directive | Does this increase **discovery**? | BUILD-002 |
-| One Question | Does this increase **wonder** without reducing **clarity**? | BUILD-000.002 |
+| **Prime Directive** | Does this increase **discovery** without decreasing **clarity**? | BUILD-002 v1.0 |
 | Four Pillars | Strengthen ≥1 of Wonder · Humanity · Resonance · Transformation? | BUILD-003 |
+| Seven Laws | Immutable creative rules | BUILD-004 |
+
+**Mechanism:** BUILD-001 = *why* · BUILD-002 = *how* (discovery, not mystery)
+
+→ [build/BUILD-002-prime-directive.md](build/BUILD-002-prime-directive.md) · Discovery Pyramid · Prime Question per page
 
 → Full registry: [build/BUILD_INDEX.md](build/BUILD_INDEX.md)
 

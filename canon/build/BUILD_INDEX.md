@@ -10,7 +10,7 @@
 ```txt
 BUILD-000.000   THE CONSTITUTION          → law (never broken)
 BUILD-000.001–003                     → North Star · One Question · Thematic
-BUILD-001–013                         → foundational canon (frozen · BUILD-001 at v0.1)
+BUILD-001–013                         → foundational canon (BUILD-001 v0.1 · BUILD-002 v1.0)
 BUILD-014+                            → sequential build documents
 architecture/                         → expanded specs (derived · cross-ref)
 knowledge/entries/                    → verbatim source uploads
@@ -29,7 +29,7 @@ knowledge/entries/                    → verbatim source uploads
 | **000.002** | One Question | ratified | Frozen | 033 | CF-CON-138 | Constitution |
 | **000.003** | Thematic Foundation | ratified | Frozen | 033 | CF-CON-141 | Constitution · Master Canon |
 | **001** | The Core Question | **0.1** | **Frozen** | 036, 037 | CF-CON-157, 171–175 | [BUILD-001](BUILD-001-core-question.md) |
-| **002** | The Prime Directive | **1.0.0** | **Frozen** | 036 | CF-CON-158 | [BUILD-002](BUILD-002-prime-directive.md) |
+| **002** | The Prime Directive | **1.0** | **Frozen** | 036, 038 | CF-CON-158, 176–189 | [BUILD-002](BUILD-002-prime-directive.md) |
 | **003** | The Four Pillars | **1.0.0** | **Frozen** | 036 | CF-CON-159 | [BUILD-003](BUILD-003-four-pillars.md) |
 | **004** | The Seven Laws | **1.0.0** | **Frozen** | 036 | CF-CON-160 | [BUILD-004](BUILD-004-seven-laws.md) |
 | **005** | The Reader Arc | **1.0.0** | **Frozen** | 036 | CF-CON-161 | [BUILD-005](BUILD-005-reader-arc.md) |
@@ -48,8 +48,8 @@ knowledge/entries/                    → verbatim source uploads
 ## Filter stack (decision order)
 
 1. Constitution BUILD-000.000
-2. BUILD-002 Prime Directive — *Does this increase discovery?*
-3. BUILD-000.002 One Question — *Wonder without reducing clarity?*
+2. BUILD-002 Prime Directive — *Does this increase discovery without decreasing clarity?*
+3. BUILD-000.002 One Question — *Wonder without reducing clarity?* (subsumed in 002.1)
 4. BUILD-003 Four Pillars — strengthen ≥1 pillar
 5. BUILD-004 Seven Laws — immutable
 6. Expanded specs in `architecture/`
@@ -60,9 +60,9 @@ knowledge/entries/                    → verbatim source uploads
 
 | BUILD | Architecture spec |
 |---|---|
-| 005 Reader Arc | FIVE_LOCKS · Reader Simulator (TBD) |
-| 006 Emotional Score | THE_SCORE · NARRATIVE_METER |
-| 008 Assumption Engine | Article XVII · HIDDEN_ENGINE |
+| 005 Reader Arc | FIVE_LOCKS · Discovery Pyramid Layer 4–5 |
+| 006 Emotional Score | THE_SCORE · Discovery Tempo · Density |
+| 008 Assumption Engine | Assumption Ladder · Curiosity Engine |
 | 009 Music Theory | MOVEMENTS_NOT_CHAPTERS · RHYTHM_BIBLE |
 | 010 Physics of Reading | [architecture/PHYSICS_OF_READING.md](../../architecture/PHYSICS_OF_READING.md) |
 | 011 Invisible Contract | HIDDEN_ENGINE · No Beginning law |

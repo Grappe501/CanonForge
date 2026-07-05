@@ -42,6 +42,7 @@
 | 2026-07-05 | Master Build Roadmap v1.0 | CF-ENTRY-035 session pause | CF-CON-150–155 |
 | 2026-07-05 | BUILD-001–013 frozen v1.0.0 | Canonical build discipline | CF-CON-156–169 |
 | 2026-07-05 | BUILD-014 queued | Periodic Table of Novel next | CF-CON-170 |
+| 2026-07-05 | BUILD-002 Canonical v1.0 | Discovery engineering §002.0–002.26 | CF-CON-176–189 |
 | 2026-07-05 | BUILD-001 Expanded Canon v0.1 | §001.0–001.18 · traceability matrix | CF-CON-171–175 |
 | 2026-07-05 | Title fifth-read gate | BUILD-012 requirement locked | CF-CON-168 |
 
