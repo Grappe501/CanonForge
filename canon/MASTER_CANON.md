@@ -42,11 +42,13 @@ Key locked insights:
 | **Four Pillars** | Strengthen ≥1 of Wonder · **Connection** · Resonance · Transformation? | BUILD-003 v1.0 |
 | Seven Laws | Immutable · complies with BUILD-004 v1.0? | BUILD-004 |
 
-**Stack:** BUILD-001 = *why* · … · **022 = *silence language*** · **023 = *visual physics***
+**Stack:** BUILD-001 = *why* · … · **021 = *symbol language*** · **022 = *silence*** · **023 = *visual physics***
 
 → [build/BUILD-023-typography-physics.md](build/BUILD-023-typography-physics.md) · Typographic Lexicon · Law of Rarity · One Typeface
 
 → [build/BUILD-022-language-of-silence.md](build/BUILD-022-language-of-silence.md) · Seven Forms · Breath Map · Fifth Read Hears Silence
+
+→ [build/BUILD-021-symbol-genome.md](build/BUILD-021-symbol-genome.md) · Symbolic Gravity · Live With This
 
 → [build/BUILD-020-resonance-registry.md](build/BUILD-020-resonance-registry.md) · Motif Families · Rule of Return · Closed/Open Motifs
 
