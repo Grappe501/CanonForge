@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "0.6.4",
-  "generated_at": "2026-07-05T21:13:34.513008+00:00",
+  "canonforge_version": "0.6.5",
+  "generated_at": "2026-07-05T21:14:48.957135+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -1786,9 +1786,10 @@
       "label": "Reader Arc",
       "category": "Architecture",
       "status": "Frozen",
-      "definition": "Five stages: confidence to reflection outside the book.",
+      "definition": "Dual arc: 12 movements \u00b7 Five Reads \u00b7 Theory of Reading.",
       "sources": [
-        "CF-ENTRY-036"
+        "CF-ENTRY-036",
+        "CF-ENTRY-041"
       ],
       "canon_ref": "canon/build/BUILD-005-reader-arc.md"
     },
@@ -2308,6 +2309,116 @@
         "CF-ENTRY-040"
       ],
       "canon_ref": "canon/build/BUILD-004-seven-laws.md"
+    },
+    {
+      "id": "CF-CON-209",
+      "label": "Invisible protagonist",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Reader is architectural protagonist with full dramatic arc.",
+      "sources": [
+        "CF-ENTRY-041"
+      ],
+      "canon_ref": "canon/build/BUILD-005-reader-arc.md"
+    },
+    {
+      "id": "CF-CON-210",
+      "label": "Twelve reader movements",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Curiosity through resonance; full emotional journey spec.",
+      "sources": [
+        "CF-ENTRY-041"
+      ],
+      "canon_ref": "canon/build/BUILD-005-reader-arc.md"
+    },
+    {
+      "id": "CF-CON-211",
+      "label": "Five Reads five readers",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Adventure chronology humanity philosophy themselves.",
+      "sources": [
+        "CF-ENTRY-041"
+      ],
+      "canon_ref": "canon/build/BUILD-005-reader-arc.md"
+    },
+    {
+      "id": "CF-CON-212",
+      "label": "Reader trust asset",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "I could have known; trust once broken never recovered.",
+      "sources": [
+        "CF-ENTRY-041"
+      ],
+      "canon_ref": "canon/build/BUILD-005-reader-arc.md"
+    },
+    {
+      "id": "CF-CON-213",
+      "label": "Hesitation true ending",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Reader hesitates before assumptions; true ending after close.",
+      "sources": [
+        "CF-ENTRY-041"
+      ],
+      "canon_ref": "canon/build/BUILD-005-reader-arc.md"
+    },
+    {
+      "id": "CF-CON-214",
+      "label": "Dual parallel arc",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Protagonist arc plus reader arc; second is masterpiece.",
+      "sources": [
+        "CF-ENTRY-041"
+      ],
+      "canon_ref": "canon/build/BUILD-005-reader-arc.md"
+    },
+    {
+      "id": "CF-CON-215",
+      "label": "Theory of Reading",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Two stories: on page and inside reader; reading is art.",
+      "sources": [
+        "CF-ENTRY-041"
+      ],
+      "canon_ref": "canon/build/BUILD-005-reader-arc.md"
+    },
+    {
+      "id": "CF-CON-216",
+      "label": "Reader completes loop",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Complete when reader carries seeing into ordinary life.",
+      "sources": [
+        "CF-ENTRY-041"
+      ],
+      "canon_ref": "canon/build/BUILD-005-reader-arc.md"
+    },
+    {
+      "id": "CF-CON-217",
+      "label": "Reader rights seed",
+      "category": "Governance",
+      "status": "Queued",
+      "definition": "005.15 rights feed BUILD-015 Bill of Rights.",
+      "sources": [
+        "CF-ENTRY-041"
+      ],
+      "canon_ref": "canon/build/BUILD-005-reader-arc.md"
+    },
+    {
+      "id": "CF-CON-218",
+      "label": "BUILD-005 transformation spec",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "How reader becomes person who can truly read book.",
+      "sources": [
+        "CF-ENTRY-041"
+      ],
+      "canon_ref": "canon/build/BUILD-005-reader-arc.md"
     }
   ],
   "edges": [
@@ -3889,6 +4000,106 @@
     {
       "from": "CF-CON-208",
       "to": "CF-CON-190",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-209",
+      "to": "CF-CON-002",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-209",
+      "to": "CF-CON-161",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-210",
+      "to": "CF-CON-175",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-210",
+      "to": "CF-CON-161",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-211",
+      "to": "CF-CON-001",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-211",
+      "to": "CF-CON-176",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-212",
+      "to": "CF-CON-023",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-212",
+      "to": "CF-CON-200",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-213",
+      "to": "CF-CON-157",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-213",
+      "to": "CF-CON-216",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-214",
+      "to": "CF-CON-161",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-214",
+      "to": "CF-CON-209",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-215",
+      "to": "CF-CON-153",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-215",
+      "to": "CF-CON-155",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-216",
+      "to": "CF-CON-154",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-216",
+      "to": "CF-CON-213",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-217",
+      "to": "CF-CON-207",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-217",
+      "to": "CF-CON-212",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-218",
+      "to": "CF-CON-161",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-218",
+      "to": "CF-CON-157",
       "type": "related"
     }
   ]

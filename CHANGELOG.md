@@ -3,6 +3,18 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [0.6.5] — 2026-07-05
+
+### Added
+- CF-ENTRY-041: BUILD-005 Reader Arc Canonical v1.0
+- Concepts CF-CON-209 through CF-CON-218
+- Dual arc · twelve movements · Five Reads · Theory of Reading
+- BUILD-015 seed rights updated from §005.15
+
+### Changed
+- BUILD-005 expanded from five-stage stub to full transformation spec
+- Master Canon v0.5.5
+
 ## [0.6.4] — 2026-07-05
 
 ### Added

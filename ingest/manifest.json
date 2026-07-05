@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "0.6.4",
-  "generated_at": "2026-07-05T21:13:52.573218+00:00",
+  "canonforge_version": "0.6.5",
+  "generated_at": "2026-07-05T21:14:48.941618+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 40,
+  "entry_count": 41,
   "concept_count": 208,
   "build_001_version": "0.1",
   "build_002_version": "1.0",
@@ -627,6 +627,27 @@
         "CF-CON-208"
       ],
       "byte_size": 9065
+    },
+    {
+      "entry_id": "CF-ENTRY-041",
+      "file": "knowledge/entries/041-build-005-reader-arc-canonical-v1.md",
+      "sha256": "b073b24abd3b70130c2addf8d86b79ebfa6d2bc0129527b6da7293384509c08c",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-161",
+        "CF-CON-209",
+        "CF-CON-210",
+        "CF-CON-211",
+        "CF-CON-212",
+        "CF-CON-213",
+        "CF-CON-214",
+        "CF-CON-215",
+        "CF-CON-216",
+        "CF-CON-217",
+        "CF-CON-218"
+      ],
+      "byte_size": 8720
     }
   ],
   "indexes": {

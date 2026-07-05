@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 0.6.4 · 2026-07-05 · 208 concepts registered
+> Version 0.6.5 · 2026-07-05 · 218 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | CF-CON-158 | BUILD-002 Prime Directive | Governance | **Frozen** | Every page: discovery without decreasing clarity; engineering rule. | CF-ENTRY-036, CF-ENTRY-038 |
 | CF-CON-159 | Four Pillars | Architecture | **Frozen** | Wonder · Connection · Resonance · Transformation. | CF-ENTRY-036, CF-ENTRY-039 |
 | CF-CON-160 | BUILD-004 Seven Immutable Laws | Governance | **Frozen** | Physics of universe: story sacred · never lie · earned discovery. | CF-ENTRY-036, CF-ENTRY-040 |
-| CF-CON-161 | Reader Arc | Architecture | **Frozen** | Five stages: confidence to reflection outside the book. | CF-ENTRY-036 |
+| CF-CON-161 | Reader Arc | Architecture | **Frozen** | Dual arc: 12 movements · Five Reads · Theory of Reading. | CF-ENTRY-036, CF-ENTRY-041 |
 | CF-CON-162 | Emotional Score | Architecture | **Frozen** | Eight movements of emotion; no victory only understanding. | CF-ENTRY-036 |
 | CF-CON-163 | Human Experience Model | Theme | **Frozen** | One civilization humanity; characters represent being human. | CF-ENTRY-036 |
 | CF-CON-164 | Assumption Engine | Architecture | **Frozen** | Per page: reader assumption · natural · transform not disprove. | CF-ENTRY-036 |
@@ -212,6 +212,16 @@
 | CF-CON-206 | Supporting rules 004.3-15 | Governance | **Frozen** | Restraint invisibility beauty patience completeness loop wonder. | CF-ENTRY-040 |
 | CF-CON-207 | Reader Bill of Rights | Governance | **Queued** | BUILD-015 moral contract with audience; seed rights queued. | CF-ENTRY-040 |
 | CF-CON-208 | Law Seven humanity first | Governance | **Frozen** | Humanity precedes identity; worth never depends on identity. | CF-ENTRY-040 |
+| CF-CON-209 | Invisible protagonist | Architecture | **Frozen** | Reader is architectural protagonist with full dramatic arc. | CF-ENTRY-041 |
+| CF-CON-210 | Twelve reader movements | Architecture | **Frozen** | Curiosity through resonance; full emotional journey spec. | CF-ENTRY-041 |
+| CF-CON-211 | Five Reads five readers | Architecture | **Frozen** | Adventure chronology humanity philosophy themselves. | CF-ENTRY-041 |
+| CF-CON-212 | Reader trust asset | Governance | **Frozen** | I could have known; trust once broken never recovered. | CF-ENTRY-041 |
+| CF-CON-213 | Hesitation true ending | Heart | **Frozen** | Reader hesitates before assumptions; true ending after close. | CF-ENTRY-041 |
+| CF-CON-214 | Dual parallel arc | Architecture | **Frozen** | Protagonist arc plus reader arc; second is masterpiece. | CF-ENTRY-041 |
+| CF-CON-215 | Theory of Reading | Mission | **Frozen** | Two stories: on page and inside reader; reading is art. | CF-ENTRY-041 |
+| CF-CON-216 | Reader completes loop | Heart | **Frozen** | Complete when reader carries seeing into ordinary life. | CF-ENTRY-041 |
+| CF-CON-217 | Reader rights seed | Governance | **Queued** | 005.15 rights feed BUILD-015 Bill of Rights. | CF-ENTRY-041 |
+| CF-CON-218 | BUILD-005 transformation spec | Governance | **Frozen** | How reader becomes person who can truly read book. | CF-ENTRY-041 |
 
 ## Related Concepts
 
@@ -423,3 +433,13 @@
 - **CF-CON-206** (Supporting rules 004.3-15, Frozen): CF-CON-160 → `canon/build/BUILD-004-seven-laws.md`
 - **CF-CON-207** (Reader Bill of Rights, Queued): CF-CON-160, CF-CON-023 → `canon/build/BUILD-015-reader-bill-of-rights.md`
 - **CF-CON-208** (Law Seven humanity first, Frozen): CF-CON-145, CF-CON-190 → `canon/build/BUILD-004-seven-laws.md`
+- **CF-CON-209** (Invisible protagonist, Frozen): CF-CON-002, CF-CON-161 → `canon/build/BUILD-005-reader-arc.md`
+- **CF-CON-210** (Twelve reader movements, Frozen): CF-CON-175, CF-CON-161 → `canon/build/BUILD-005-reader-arc.md`
+- **CF-CON-211** (Five Reads five readers, Frozen): CF-CON-001, CF-CON-176 → `canon/build/BUILD-005-reader-arc.md`
+- **CF-CON-212** (Reader trust asset, Frozen): CF-CON-023, CF-CON-200 → `canon/build/BUILD-005-reader-arc.md`
+- **CF-CON-213** (Hesitation true ending, Frozen): CF-CON-157, CF-CON-216 → `canon/build/BUILD-005-reader-arc.md`
+- **CF-CON-214** (Dual parallel arc, Frozen): CF-CON-161, CF-CON-209 → `canon/build/BUILD-005-reader-arc.md`
+- **CF-CON-215** (Theory of Reading, Frozen): CF-CON-153, CF-CON-155 → `canon/build/BUILD-005-reader-arc.md`
+- **CF-CON-216** (Reader completes loop, Frozen): CF-CON-154, CF-CON-213 → `canon/build/BUILD-005-reader-arc.md`
+- **CF-CON-217** (Reader rights seed, Queued): CF-CON-207, CF-CON-212 → `canon/build/BUILD-005-reader-arc.md`
+- **CF-CON-218** (BUILD-005 transformation spec, Frozen): CF-CON-161, CF-CON-157 → `canon/build/BUILD-005-reader-arc.md`

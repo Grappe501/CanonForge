@@ -43,7 +43,8 @@
 | **Four Pillars** | Wonder · Connection · Resonance · Transformation | CF-CON-159 |
 | **Connection pillar** | Pillar Two; supersedes Humanity label | CF-CON-190 |
 | **Canonical Test** | Seven questions before scene enters MS | CF-CON-204 |
-| **Reader Bill of Rights** | BUILD-015 queued · promises to reader | CF-CON-207 |
+| **Theory of Reading** | Two stories: page and inside reader | CF-CON-215 |
+| **Twelve reader movements** | Full emotional journey engineering spec | CF-CON-210 |
 | **Reader Arc** | Five-stage reader journey parallel to protagonist | CF-CON-161 |
 | **Assumption Engine** | Per-page assumption · natural · transform | CF-CON-164 |
 | **BUILD layer** | Versioned canonical build documents 001+ | CF-CON-156 |

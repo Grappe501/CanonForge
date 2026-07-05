@@ -18,14 +18,18 @@ Promises we make to every person who opens the book.
 
 ---
 
-## Seed rights (from author upload — not yet canonical)
+## Seed rights (from BUILD-005 §005.15 · CF-ENTRY-041 — not yet canonical)
 
-- The right to a **complete story** on the first read
-- The right to **fair clues**
-- The right never to be **intentionally deceived**
-- The right to **discover** rather than be lectured
-- The right to **wonder**
-- The right to arrive at **different interpretations** where the text genuinely supports them
+- A **complete first story**
+- **Fair clues**
+- **Respect**
+- **Wonder**
+- **Discovery**
+- **Emotional truth**
+- **Silence** that means something
+- A **reason to return**
+- **Never** confusion for its own sake
+- **Never** manipulation for applause
 
 ---
 
