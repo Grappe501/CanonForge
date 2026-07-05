@@ -9,7 +9,7 @@
 
 > **Hidden truth before hidden clues.** Every mystery traces back here. This document is **never published** — the private history from which the entire novel grows.
 
-**Instrument complete** *(BUILD-001–031)*. **BUILD-032 Prime Event** *(✓ v1.0 · AUTHOR-ONLY)*. **BUILD-033 First Consciousness** *(✓ v1.0)*. Next: **BUILD-034 Color Language**.
+**Instrument complete** *(BUILD-001–031)*. **BUILD-032 Prime Event** *(✓ v1.0 · AUTHOR-ONLY)*. **BUILD-033 First Consciousness** *(✓ v1.0)*. **BUILD-034 Constellation** *(✓ v1.0)*. Next: **BUILD-035 Antagonist Engine**.
 
 ---
 
@@ -210,9 +210,9 @@ Next builds create **unique story identity**:
 
 ---
 
-## BUILD-034 preview *(CF-ENTRY-073)*
+## BUILD-035 preview *(CF-ENTRY-074)*
 
-→ **BUILD-034 Color Language** — Phase II.5 atomic vocabulary *(queued)*
+→ **BUILD-035 Antagonist Engine** *(queued)*
 
 ---
 

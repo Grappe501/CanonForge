@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "2.13.0",
-  "generated_at": "2026-07-05T22:37:22.490873+00:00",
+  "canonforge_version": "2.14.0",
+  "generated_at": "2026-07-05T22:41:37.750945+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -7599,10 +7599,11 @@
       "label": "Design Language phase",
       "category": "Architecture",
       "status": "Open",
-      "definition": "Phase II.5 atomic vocabulary BUILD-034-045.",
+      "definition": "Atomic vocabulary deferred; BUILD numbers TBD.",
       "sources": [
         "CF-ENTRY-072",
-        "CF-ENTRY-073"
+        "CF-ENTRY-073",
+        "CF-ENTRY-074"
       ],
       "canon_ref": "architecture/CHRONOFORGE_ROADMAP.md"
     },
@@ -7622,10 +7623,11 @@
       "label": "Story Genome phase",
       "category": "Architecture",
       "status": "Open",
-      "definition": "Phase III BUILD-033-052 specific novel.",
+      "definition": "Phase III BUILD-033-052; 033-034 frozen.",
       "sources": [
         "CF-ENTRY-072",
-        "CF-ENTRY-073"
+        "CF-ENTRY-073",
+        "CF-ENTRY-074"
       ],
       "canon_ref": "architecture/CHRONOFORGE_ROADMAP.md"
     },
@@ -7926,6 +7928,227 @@
         "CF-ENTRY-073"
       ],
       "canon_ref": "canon/build/BUILD-033-first-consciousness.md#0330--purpose"
+    },
+    {
+      "id": "CF-CON-717",
+      "label": "Constellation of Consciousnesses",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Major minds independent; intersections not support.",
+      "sources": [
+        "CF-ENTRY-074"
+      ],
+      "canon_ref": "canon/build/BUILD-034-constellation-of-consciousnesses.md"
+    },
+    {
+      "id": "CF-CON-718",
+      "label": "Constellation first law",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "No consciousness serves another story.",
+      "sources": [
+        "CF-ENTRY-074"
+      ],
+      "canon_ref": "canon/build/BUILD-034-constellation-of-consciousnesses.md#0341--the-first-law"
+    },
+    {
+      "id": "CF-CON-719",
+      "label": "Constellation model",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Stars by perspective not physical connection.",
+      "sources": [
+        "CF-ENTRY-074"
+      ],
+      "canon_ref": "canon/build/BUILD-034-constellation-of-consciousnesses.md#0342--the-constellation-model"
+    },
+    {
+      "id": "CF-CON-720",
+      "label": "Five consciousness functions",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Questioner rememberer builder wanderer witness.",
+      "sources": [
+        "CF-ENTRY-074"
+      ],
+      "canon_ref": "canon/build/BUILD-034-constellation-of-consciousnesses.md#0343--the-five-functions"
+    },
+    {
+      "id": "CF-CON-721",
+      "label": "Mirror principle reciprocal",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Both consciousnesses change; no untouched encounter.",
+      "sources": [
+        "CF-ENTRY-074"
+      ],
+      "canon_ref": "canon/build/BUILD-034-constellation-of-consciousnesses.md#0344--the-mirror-principle"
+    },
+    {
+      "id": "CF-CON-722",
+      "label": "Private universe",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Unseen life; reader never fully enters.",
+      "sources": [
+        "CF-ENTRY-074"
+      ],
+      "canon_ref": "canon/build/BUILD-034-constellation-of-consciousnesses.md#0345--the-private-universe"
+    },
+    {
+      "id": "CF-CON-723",
+      "label": "Difference engine perception",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Differ in perception not demographics.",
+      "sources": [
+        "CF-ENTRY-074"
+      ],
+      "canon_ref": "canon/build/BUILD-034-constellation-of-consciousnesses.md#0346--the-difference-engine"
+    },
+    {
+      "id": "CF-CON-724",
+      "label": "Consciousness overlap",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Overlap understanding; gap conflict not evil.",
+      "sources": [
+        "CF-ENTRY-074"
+      ],
+      "canon_ref": "canon/build/BUILD-034-constellation-of-consciousnesses.md#0347--the-overlap"
+    },
+    {
+      "id": "CF-CON-725",
+      "label": "Shared memory divergence",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Same event two memories; truth between.",
+      "sources": [
+        "CF-ENTRY-074"
+      ],
+      "canon_ref": "canon/build/BUILD-034-constellation-of-consciousnesses.md#0348--the-shared-memory"
+    },
+    {
+      "id": "CF-CON-726",
+      "label": "Silent influence",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Glance gesture hallway; quiet life influence.",
+      "sources": [
+        "CF-ENTRY-074"
+      ],
+      "canon_ref": "canon/build/BUILD-034-constellation-of-consciousnesses.md#0349--the-silent-influence"
+    },
+    {
+      "id": "CF-CON-727",
+      "label": "Absence principle consciousness",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Absent remembered lost shapes constellation.",
+      "sources": [
+        "CF-ENTRY-074"
+      ],
+      "canon_ref": "canon/build/BUILD-034-constellation-of-consciousnesses.md#03410--the-absence-principle"
+    },
+    {
+      "id": "CF-CON-728",
+      "label": "Evolution web",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Transformation propagates through network.",
+      "sources": [
+        "CF-ENTRY-074"
+      ],
+      "canon_ref": "canon/build/BUILD-034-constellation-of-consciousnesses.md#03411--the-evolution-web"
+    },
+    {
+      "id": "CF-CON-729",
+      "label": "Constellation ledger record",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Ten fields per major consciousness.",
+      "sources": [
+        "CF-ENTRY-074"
+      ],
+      "canon_ref": "canon/build/BUILD-034-constellation-of-consciousnesses.md#03412--the-constellation-ledger"
+    },
+    {
+      "id": "CF-CON-730",
+      "label": "Reader constellation",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Individuals to relationships to whole pattern.",
+      "sources": [
+        "CF-ENTRY-074"
+      ],
+      "canon_ref": "canon/build/BUILD-034-constellation-of-consciousnesses.md#03413--the-readers-constellation"
+    },
+    {
+      "id": "CF-CON-731",
+      "label": "Constellation final principle",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Never completely understood; revise like real people.",
+      "sources": [
+        "CF-ENTRY-074"
+      ],
+      "canon_ref": "canon/build/BUILD-034-constellation-of-consciousnesses.md#03414--the-final-principle"
+    },
+    {
+      "id": "CF-CON-732",
+      "label": "Companion Engine superseded",
+      "category": "Architecture",
+      "status": "Deprecated",
+      "definition": "Replaced by Constellation of Consciousnesses.",
+      "sources": [
+        "CF-ENTRY-072",
+        "CF-ENTRY-074"
+      ],
+      "canon_ref": "canon/build/BUILD-034-constellation-of-consciousnesses.md"
+    },
+    {
+      "id": "CF-CON-733",
+      "label": "First star we notice",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Protagonist is first star not main star.",
+      "sources": [
+        "CF-ENTRY-074"
+      ],
+      "canon_ref": "canon/build/BUILD-034-constellation-of-consciousnesses.md#0342--the-constellation-model"
+    },
+    {
+      "id": "CF-CON-734",
+      "label": "Which consciousness understood differently",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Deeper than favorite character question.",
+      "sources": [
+        "CF-ENTRY-074"
+      ],
+      "canon_ref": "canon/build/BUILD-034-constellation-of-consciousnesses.md"
+    },
+    {
+      "id": "CF-CON-735",
+      "label": "Empathy through reread",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Revise understanding of people not events.",
+      "sources": [
+        "CF-ENTRY-074"
+      ],
+      "canon_ref": "canon/build/BUILD-034-constellation-of-consciousnesses.md"
+    },
+    {
+      "id": "CF-CON-736",
+      "label": "Many lives intersecting",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Not one life with supporting characters.",
+      "sources": [
+        "CF-ENTRY-074"
+      ],
+      "canon_ref": "canon/build/BUILD-034-constellation-of-consciousnesses.md#0340--purpose"
     }
   ],
   "edges": [
@@ -14411,7 +14634,7 @@
     },
     {
       "from": "CF-CON-689",
-      "to": "CF-CON-690",
+      "to": "CF-CON-717",
       "type": "related"
     },
     {
@@ -14687,6 +14910,211 @@
     {
       "from": "CF-CON-716",
       "to": "CF-CON-005",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-717",
+      "to": "CF-CON-697",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-717",
+      "to": "CF-CON-629",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-717",
+      "to": "CF-CON-736",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-718",
+      "to": "CF-CON-717",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-718",
+      "to": "CF-CON-733",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-719",
+      "to": "CF-CON-717",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-719",
+      "to": "CF-CON-629",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-720",
+      "to": "CF-CON-717",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-720",
+      "to": "CF-CON-170",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-721",
+      "to": "CF-CON-717",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-721",
+      "to": "CF-CON-708",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-722",
+      "to": "CF-CON-717",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-722",
+      "to": "CF-CON-380",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-723",
+      "to": "CF-CON-717",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-723",
+      "to": "CF-CON-701",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-724",
+      "to": "CF-CON-717",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-724",
+      "to": "CF-CON-401",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-725",
+      "to": "CF-CON-717",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-725",
+      "to": "CF-CON-647",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-726",
+      "to": "CF-CON-717",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-726",
+      "to": "CF-CON-457",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-727",
+      "to": "CF-CON-717",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-727",
+      "to": "CF-CON-173",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-728",
+      "to": "CF-CON-717",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-728",
+      "to": "CF-CON-710",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-729",
+      "to": "CF-CON-717",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-729",
+      "to": "CF-CON-711",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-730",
+      "to": "CF-CON-717",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-730",
+      "to": "CF-CON-001",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-731",
+      "to": "CF-CON-717",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-731",
+      "to": "CF-CON-712",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-732",
+      "to": "CF-CON-717",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-732",
+      "to": "CF-CON-718",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-733",
+      "to": "CF-CON-697",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-733",
+      "to": "CF-CON-719",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-734",
+      "to": "CF-CON-735",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-734",
+      "to": "CF-CON-176",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-735",
+      "to": "CF-CON-734",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-735",
+      "to": "CF-CON-007",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-736",
+      "to": "CF-CON-717",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-736",
+      "to": "CF-CON-545",
       "type": "related"
     }
   ]

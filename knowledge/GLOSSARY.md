@@ -81,12 +81,14 @@
 | **Composing phase** | What happened not how system works | CF-CON-663 |
 | **Prime Event** | Hidden center of gravity of this novella | CF-CON-665 |
 | **Ten shadows** | Historical to reader shadow types | CF-CON-668 |
-| **Design Language phase** | Phase II.5 atomic vocabulary BUILD-034-045 | CF-CON-687 |
+| **Design Language phase** | Atomic vocabulary deferred · BUILD TBD | CF-CON-687 |
 | **Design language before characters** | Vocabulary before protagonist | CF-CON-691 |
 | **80-120 build scale** | Projected canonical BUILD count | CF-CON-688 |
 | **First Consciousness** | Primary lens; revealed not created | CF-CON-697 |
 | **Identity through experience** | Not labels; notice remember hope | CF-CON-714 |
-| **Reader builds identification** | Immersion built with the book | CF-CON-715 |
+| **Constellation of Consciousnesses** | Independent minds illuminate one another | CF-CON-717 |
+| **Empathy through reread** | Revise understanding of people | CF-CON-735 |
+| **Which consciousness understood differently** | Deeper than favorite character | CF-CON-734 |
 | **Universe larger than imagined** | Ordinary world larger after closing book | CF-CON-563 |
 | **Motif not symbol** | Returns vs carries meaning | CF-CON-450 |
 | **Language of Silence** | Composed silence · seven forms | CF-CON-457 |

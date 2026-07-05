@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 2.13.0 · 2026-07-05 · 716 concepts registered
+> Version 2.14.0 · 2026-07-05 · 736 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -690,9 +690,9 @@
 | CF-CON-684 | Consciousness changes not event | Mission | **Frozen** | Event fixed; climax is understanding significance. | CF-ENTRY-071 |
 | CF-CON-685 | Narrative engineering discipline | Governance | **Frozen** | Complete OS for story; not novel outline. | CF-ENTRY-072 |
 | CF-CON-686 | Phase II engine room complete | Mission | **Frozen** | BUILD-016-032 operating system frozen. | CF-ENTRY-072 |
-| CF-CON-687 | Design Language phase | Architecture | **Open** | Phase II.5 atomic vocabulary BUILD-034-045. | CF-ENTRY-072, CF-ENTRY-073 |
+| CF-CON-687 | Design Language phase | Architecture | **Open** | Atomic vocabulary deferred; BUILD numbers TBD. | CF-ENTRY-072, CF-ENTRY-073, CF-ENTRY-074 |
 | CF-CON-688 | 80-120 build scale | Governance | **Open** | Projected canonical BUILD count at completion. | CF-ENTRY-072 |
-| CF-CON-689 | Story Genome phase | Architecture | **Open** | Phase III BUILD-033-052 specific novel. | CF-ENTRY-072, CF-ENTRY-073 |
+| CF-CON-689 | Story Genome phase | Architecture | **Open** | Phase III BUILD-033-052; 033-034 frozen. | CF-ENTRY-072, CF-ENTRY-073, CF-ENTRY-074 |
 | CF-CON-690 | Five Reads engineering | Architecture | **Open** | Phase IV BUILD-053-057 reread capability. | CF-ENTRY-072 |
 | CF-CON-691 | Design language before characters | Governance | **Frozen** | Atomic vocabulary before protagonist. | CF-ENTRY-072 |
 | CF-CON-692 | Chronoforge roadmap v2 | Governance | **Frozen** | Seven phases plus II.5; renumber 033+. | CF-ENTRY-072 |
@@ -720,6 +720,26 @@
 | CF-CON-714 | Identity through experience | Governance | **Frozen** | Notice remember fear hope; not labels. | CF-ENTRY-073 |
 | CF-CON-715 | Reader builds identification | Heart | **Frozen** | Reader and book build immersion together. | CF-ENTRY-073 |
 | CF-CON-716 | First mind reader inhabits | Heart | **Frozen** | Initial window into world; not meet protagonist. | CF-ENTRY-073 |
+| CF-CON-717 | Constellation of Consciousnesses | Architecture | **Frozen** | Major minds independent; intersections not support. | CF-ENTRY-074 |
+| CF-CON-718 | Constellation first law | Governance | **Frozen** | No consciousness serves another story. | CF-ENTRY-074 |
+| CF-CON-719 | Constellation model | Architecture | **Frozen** | Stars by perspective not physical connection. | CF-ENTRY-074 |
+| CF-CON-720 | Five consciousness functions | Architecture | **Frozen** | Questioner rememberer builder wanderer witness. | CF-ENTRY-074 |
+| CF-CON-721 | Mirror principle reciprocal | Architecture | **Frozen** | Both consciousnesses change; no untouched encounter. | CF-ENTRY-074 |
+| CF-CON-722 | Private universe | Architecture | **Frozen** | Unseen life; reader never fully enters. | CF-ENTRY-074 |
+| CF-CON-723 | Difference engine perception | Architecture | **Frozen** | Differ in perception not demographics. | CF-ENTRY-074 |
+| CF-CON-724 | Consciousness overlap | Architecture | **Frozen** | Overlap understanding; gap conflict not evil. | CF-ENTRY-074 |
+| CF-CON-725 | Shared memory divergence | Architecture | **Frozen** | Same event two memories; truth between. | CF-ENTRY-074 |
+| CF-CON-726 | Silent influence | Architecture | **Frozen** | Glance gesture hallway; quiet life influence. | CF-ENTRY-074 |
+| CF-CON-727 | Absence principle consciousness | Architecture | **Frozen** | Absent remembered lost shapes constellation. | CF-ENTRY-074 |
+| CF-CON-728 | Evolution web | Architecture | **Frozen** | Transformation propagates through network. | CF-ENTRY-074 |
+| CF-CON-729 | Constellation ledger record | Architecture | **Frozen** | Ten fields per major consciousness. | CF-ENTRY-074 |
+| CF-CON-730 | Reader constellation | Heart | **Frozen** | Individuals to relationships to whole pattern. | CF-ENTRY-074 |
+| CF-CON-731 | Constellation final principle | Mission | **Frozen** | Never completely understood; revise like real people. | CF-ENTRY-074 |
+| CF-CON-732 | Companion Engine superseded | Architecture | **Deprecated** | Replaced by Constellation of Consciousnesses. | CF-ENTRY-072, CF-ENTRY-074 |
+| CF-CON-733 | First star we notice | Mission | **Frozen** | Protagonist is first star not main star. | CF-ENTRY-074 |
+| CF-CON-734 | Which consciousness understood differently | Heart | **Frozen** | Deeper than favorite character question. | CF-ENTRY-074 |
+| CF-CON-735 | Empathy through reread | Mission | **Frozen** | Revise understanding of people not events. | CF-ENTRY-074 |
+| CF-CON-736 | Many lives intersecting | Mission | **Frozen** | Not one life with supporting characters. | CF-ENTRY-074 |
 
 ## Related Concepts
 
@@ -1411,7 +1431,7 @@
 - **CF-CON-686** (Phase II engine room complete, Frozen): CF-CON-660, CF-CON-665 → `architecture/CHRONOFORGE_ROADMAP.md`
 - **CF-CON-687** (Design Language phase, Open): CF-CON-691, CF-CON-689 → `architecture/CHRONOFORGE_ROADMAP.md`
 - **CF-CON-688** (80-120 build scale, Open): CF-CON-685 → `architecture/CHRONOFORGE_ROADMAP.md`
-- **CF-CON-689** (Story Genome phase, Open): CF-CON-697, CF-CON-690 → `architecture/CHRONOFORGE_ROADMAP.md`
+- **CF-CON-689** (Story Genome phase, Open): CF-CON-697, CF-CON-717 → `architecture/CHRONOFORGE_ROADMAP.md`
 - **CF-CON-690** (Five Reads engineering, Open): CF-CON-001, CF-CON-689 → `architecture/CHRONOFORGE_ROADMAP.md`
 - **CF-CON-691** (Design language before characters, Frozen): CF-CON-687, CF-CON-545 → `architecture/CHRONOFORGE_ROADMAP.md`
 - **CF-CON-692** (Chronoforge roadmap v2, Frozen): CF-CON-360, CF-CON-688 → `architecture/CHRONOFORGE_ROADMAP.md`
@@ -1439,3 +1459,23 @@
 - **CF-CON-714** (Identity through experience, Frozen): CF-CON-697, CF-CON-145 → `canon/build/BUILD-033-first-consciousness.md`
 - **CF-CON-715** (Reader builds identification, Frozen): CF-CON-709, CF-CON-002 → `canon/build/BUILD-033-first-consciousness.md`
 - **CF-CON-716** (First mind reader inhabits, Frozen): CF-CON-697, CF-CON-005 → `canon/build/BUILD-033-first-consciousness.md#0330--purpose`
+- **CF-CON-717** (Constellation of Consciousnesses, Frozen): CF-CON-697, CF-CON-629, CF-CON-736 → `canon/build/BUILD-034-constellation-of-consciousnesses.md`
+- **CF-CON-718** (Constellation first law, Frozen): CF-CON-717, CF-CON-733 → `canon/build/BUILD-034-constellation-of-consciousnesses.md#0341--the-first-law`
+- **CF-CON-719** (Constellation model, Frozen): CF-CON-717, CF-CON-629 → `canon/build/BUILD-034-constellation-of-consciousnesses.md#0342--the-constellation-model`
+- **CF-CON-720** (Five consciousness functions, Frozen): CF-CON-717, CF-CON-170 → `canon/build/BUILD-034-constellation-of-consciousnesses.md#0343--the-five-functions`
+- **CF-CON-721** (Mirror principle reciprocal, Frozen): CF-CON-717, CF-CON-708 → `canon/build/BUILD-034-constellation-of-consciousnesses.md#0344--the-mirror-principle`
+- **CF-CON-722** (Private universe, Frozen): CF-CON-717, CF-CON-380 → `canon/build/BUILD-034-constellation-of-consciousnesses.md#0345--the-private-universe`
+- **CF-CON-723** (Difference engine perception, Frozen): CF-CON-717, CF-CON-701 → `canon/build/BUILD-034-constellation-of-consciousnesses.md#0346--the-difference-engine`
+- **CF-CON-724** (Consciousness overlap, Frozen): CF-CON-717, CF-CON-401 → `canon/build/BUILD-034-constellation-of-consciousnesses.md#0347--the-overlap`
+- **CF-CON-725** (Shared memory divergence, Frozen): CF-CON-717, CF-CON-647 → `canon/build/BUILD-034-constellation-of-consciousnesses.md#0348--the-shared-memory`
+- **CF-CON-726** (Silent influence, Frozen): CF-CON-717, CF-CON-457 → `canon/build/BUILD-034-constellation-of-consciousnesses.md#0349--the-silent-influence`
+- **CF-CON-727** (Absence principle consciousness, Frozen): CF-CON-717, CF-CON-173 → `canon/build/BUILD-034-constellation-of-consciousnesses.md#03410--the-absence-principle`
+- **CF-CON-728** (Evolution web, Frozen): CF-CON-717, CF-CON-710 → `canon/build/BUILD-034-constellation-of-consciousnesses.md#03411--the-evolution-web`
+- **CF-CON-729** (Constellation ledger record, Frozen): CF-CON-717, CF-CON-711 → `canon/build/BUILD-034-constellation-of-consciousnesses.md#03412--the-constellation-ledger`
+- **CF-CON-730** (Reader constellation, Frozen): CF-CON-717, CF-CON-001 → `canon/build/BUILD-034-constellation-of-consciousnesses.md#03413--the-readers-constellation`
+- **CF-CON-731** (Constellation final principle, Frozen): CF-CON-717, CF-CON-712 → `canon/build/BUILD-034-constellation-of-consciousnesses.md#03414--the-final-principle`
+- **CF-CON-732** (Companion Engine superseded, Deprecated): CF-CON-717, CF-CON-718 → `canon/build/BUILD-034-constellation-of-consciousnesses.md`
+- **CF-CON-733** (First star we notice, Frozen): CF-CON-697, CF-CON-719 → `canon/build/BUILD-034-constellation-of-consciousnesses.md#0342--the-constellation-model`
+- **CF-CON-734** (Which consciousness understood differently, Frozen): CF-CON-735, CF-CON-176 → `canon/build/BUILD-034-constellation-of-consciousnesses.md`
+- **CF-CON-735** (Empathy through reread, Frozen): CF-CON-734, CF-CON-007 → `canon/build/BUILD-034-constellation-of-consciousnesses.md`
+- **CF-CON-736** (Many lives intersecting, Frozen): CF-CON-717, CF-CON-545 → `canon/build/BUILD-034-constellation-of-consciousnesses.md#0340--purpose`

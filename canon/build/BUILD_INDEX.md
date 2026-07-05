@@ -25,9 +25,8 @@ BUILD-029                             → Phase Three **v1.0**
 BUILD-030                             → Phase Three **v1.0** · Universal Architecture **complete**
 BUILD-031                             → Phase Three **v1.0** · **AUTHOR-ONLY**
 BUILD-032                             → Phase II **v1.0** · **AUTHOR-ONLY**
-BUILD-033                             → Phase III **v1.0** · Story Genome **begun**
-BUILD-034–045                         → Phase II.5 Design Language · **NEXT**
-BUILD-046+                            → Story Genome cont. · Five Reads · queued
+BUILD-034                             → Phase III **v1.0**
+BUILD-035+                            → Story Genome cont. · queued
 architecture/                         → expanded specs (derived · cross-ref)
 knowledge/entries/                    → verbatim source uploads
 ```
@@ -78,7 +77,8 @@ knowledge/entries/                    → verbatim source uploads
 | **031** | The Secret History | **1.0** | **Frozen · AUTHOR-ONLY** | 070 | CF-CON-645–664 | [BUILD-031](BUILD-031-secret-history.md) |
 | **032** | The Prime Event | **1.0** | **Frozen · AUTHOR-ONLY** | 071 | CF-CON-665–684 | [BUILD-032](BUILD-032-prime-event.md) |
 | **033** | The First Consciousness | **1.0** | **Frozen** | 073 | CF-CON-697–716 | [BUILD-033](BUILD-033-first-consciousness.md) |
-| **034–072** | Roadmap v2 phases | — | **Queued** | — | — | [CHRONOFORGE_ROADMAP](../architecture/CHRONOFORGE_ROADMAP.md) |
+| **034** | Constellation of Consciousnesses | **1.0** | **Frozen** | 074 | CF-CON-717–736 | [BUILD-034](BUILD-034-constellation-of-consciousnesses.md) |
+| **035–072** | Roadmap v2 phases | — | **Queued** | — | — | [CHRONOFORGE_ROADMAP](../architecture/CHRONOFORGE_ROADMAP.md) |
 
 ---
 
@@ -125,7 +125,8 @@ knowledge/entries/                    → verbatim source uploads
 | 030 Cosmology Engine | Cosmic ledger · mystery permanent · Universal Architecture complete |
 | 031 Secret History | Three histories · history ledger · **AUTHOR-ONLY** · instrument complete |
 | 032 Prime Event | Ten shadows · **AUTHOR-ONLY** · first story-specific |
-| 033 First Consciousness | Consciousness revealed · experience not labels · Story Genome begun |
+| 033 First Consciousness | Consciousness revealed · experience not labels |
+| 034 Constellation | Independent minds · illuminate not complete · empathy reread |
 
 ---
 

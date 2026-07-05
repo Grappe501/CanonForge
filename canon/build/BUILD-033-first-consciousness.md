@@ -8,7 +8,7 @@
 
 > **Consciousness revealed, not created** *(CF-CON-713)*. Not a character profile — **architecture of awareness**. Identity through **experience, not labels** *(CF-CON-714)*.
 
-**Story Genome begins** *(BUILD-033+)*. Next: **BUILD-034 Color Language** *(Phase II.5 Design Language · queued)*.
+**Story Genome active** *(BUILD-033–034 ✓)*. Next: **BUILD-035 Antagonist Engine** *(queued)*.
 
 ---
 
@@ -187,10 +187,16 @@ Readers imagine a **living consciousness** · unconsciously lend aspects of them
 | Former title | Status |
 |---|---|
 | Protagonist Engine *(Roadmap v2 BUILD-045)* | **Superseded** |
-| Color Language *(Roadmap v2 BUILD-033)* | **Deferred to BUILD-034** |
+| Color Language *(Roadmap v2)* | **Deferred** |
 | **The First Consciousness** | **Authoritative · BUILD-033 v1.0** |
 
-→ **BUILD-034 Color Language** *(Phase II.5 · queued)*
+→ **BUILD-034 Constellation of Consciousnesses** *(✓ v1.0)* · **BUILD-035 Antagonist Engine** *(queued)*
+
+---
+
+## BUILD-035 preview *(CF-ENTRY-074)*
+
+→ **BUILD-035 Antagonist Engine** — coherent alternate answer · not mere opposition *(queued)*
 
 ---
 

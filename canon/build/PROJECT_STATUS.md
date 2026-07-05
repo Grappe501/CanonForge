@@ -24,10 +24,10 @@
 | Field | Value |
 |---|---|
 | **Repo** | CanonForge (`Grappe501/CanonForge`) |
-| **Repo Version** | See [VERSION](../../VERSION) · **2.13.0** |
-| **Build Layer** | BUILD-001–033 frozen · **015.5 active** |
-| **Entries** | CF-ENTRY-001 through CF-ENTRY-073 |
-| **Concepts** | 716+ |
+| **Repo Version** | See [VERSION](../../VERSION) · **2.14.0** |
+| **Build Layer** | BUILD-001–034 frozen · **015.5 active** |
+| **Entries** | CF-ENTRY-001 through CF-ENTRY-074 |
+| **Concepts** | 736+ |
 | **Traceability** | Entry → Concept → BUILD → Architecture → Matrix |
 
 ---
@@ -39,7 +39,7 @@
 | **One** | Philosophy | **✓ COMPLETE** |
 | **Two** | Engines (016–032) | **✓ COMPLETE** |
 | **II.5** | Design Language (034–045) | **NEXT** |
-| **Three** | Story Genome (033–052) | **Begun** (033 ✓) |
+| **Three** | Story Genome (033–052) | **Active** (033–034 ✓) |
 | **Four–Seven** | Five Reads · Score · Audits · Novel | Queued |
 | **015.5** | Build Bible | **In progress** |
 
@@ -50,11 +50,11 @@
 ## Governance mode
 
 ```txt
-STOP:   BUILD-034 until BUILD-015.5 v1.0 (016–033 excepted per author uploads)
-START:  Phase II.5 · BUILD-034 Color Language
+STOP:   BUILD-035 until BUILD-015.5 v1.0 (016–034 excepted per author uploads)
+START:  Story Genome · BUILD-035 Antagonist Engine
 NEVER:  manuscript/ until Phase VII (BUILD-073+) · BUILD-031–032 never reader-facing
 ```
 
 ---
 
-*Project v0.4.0 · BUILD-033 First Consciousness frozen · BUILD-034 Color Language next · CF-ENTRY-073*
+*Project v0.4.0 · BUILD-034 Constellation frozen · BUILD-035 Antagonist Engine next · CF-ENTRY-074*

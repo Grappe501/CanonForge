@@ -11,8 +11,7 @@
 ```txt
 PHASE I       Philosophy                        BUILD-001–015     ✓ COMPLETE
 PHASE II      Engines (operating system)        BUILD-016–032     ✓ COMPLETE
-PHASE II.5    Design Language                   BUILD-034–045     NEXT
-PHASE III     Story Genome                      BUILD-033–052     **033 ✓**
+PHASE III     Story Genome                      BUILD-033–052     **033–034 ✓**
 PHASE IV      The Five Reads                    BUILD-053–057     Queued
 PHASE V       The Score                         BUILD-058–062     Queued
 PHASE VI      Canonical Edition                 BUILD-063–072     Queued
@@ -91,9 +90,10 @@ PHASE VII     The Novel                         BUILD-073+        Prose gate
 | BUILD | Title | Status |
 |---|---|---|
 | **033** | **The First Consciousness** | **✓ v1.0** · CF-ENTRY-073 |
-| **046–052** | Companion through Ending Engine | Queued |
+| **034** | **Constellation of Consciousnesses** | **✓ v1.0** · CF-ENTRY-074 |
+| **035–040** | Antagonist through Ending Engine | Queued |
 
-→ **BUILD-034 Color Language** queued
+→ **BUILD-035 Antagonist Engine** queued
 
 ---
 
@@ -151,4 +151,4 @@ The Composer's Blueprint 0–20 map ([MASTER_BUILD_ROADMAP.md](MASTER_BUILD_ROAD
 
 ---
 
-*CHRONOFORGE_PHASES v2.1 · CF-ENTRY-073 · BUILD-033 First Consciousness frozen*
+*CHRONOFORGE_PHASES v2.2 · CF-ENTRY-074 · BUILD-034 Constellation frozen*

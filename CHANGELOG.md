@@ -3,6 +3,17 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [2.14.0] — 2026-07-05
+
+### Added
+- CF-ENTRY-074: BUILD-034 The Constellation of Consciousnesses Canonical v1.0
+- Concepts CF-CON-717 through CF-CON-736
+- Five functions · constellation ledger · mirror principle · evolution web
+- **No consciousness completes another** · illuminate one another
+- **Which consciousness understood differently** · empathy through reread (CF-CON-734–735)
+- Companion Engine superseded (CF-CON-732)
+- Master Canon v1.5.8
+
 ## [2.13.0] — 2026-07-05
 
 ### Added

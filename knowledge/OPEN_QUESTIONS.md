@@ -74,14 +74,14 @@ Architecture must now give birth to the actual story. **BUILD-026 World Engine v
 
 Gravitational center: **How do separate consciousnesses discover that they belong to the same reality?** *(CF-CON-549)*
 
-Concrete questions for Phase II.5 (BUILD-034+):
+Concrete questions for Story Genome (BUILD-035+):
 
-- **BUILD-034 Color Language** — first atomic design vocabulary *(deferred from 033 · CF-CON-687)*
-- **Populate First Consciousness profile** — central question · false certainty · attention map *(CF-CON-711)*
-- How does design language connect to **First Consciousness attention map**?
-- **Populate Prime Event ledger** *(CF-CON-670 · AUTHOR-ONLY)*
+- **BUILD-035 Antagonist Engine** — coherent alternate answer to central question *(CF-CON-694)*
+- **Populate Constellation ledger** — major consciousness profiles *(CF-CON-729)*
+- **Design Language phase** — deferred *(Color through Naming · CF-CON-687)*
+- **Which consciousness understood differently** — empathy reread target *(CF-CON-734)*
 
-BUILD-033 establishes **consciousness architecture** — not biography. Story Genome begun. Design Language **BUILD-034–045** follows.
+BUILD-034 establishes **constellation architecture** — no consciousness exists to complete another.
 
 ## Hidden mathematics {#hidden-math}
 
