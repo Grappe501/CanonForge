@@ -87,4 +87,4 @@ H:\CanonForge\
 
 ---
 
-*Built 2026-07-05 · Knowledge OS scaffold · 22 entries · 44 concepts*
+*Built 2026-07-05 · Knowledge OS · Composer's Blueprint v0.1 · 32 entries · 135 concepts*
