@@ -27,7 +27,9 @@
 | **Resonance** | Central metaphor — harmony discovered across reads | CF-CON-094 |
 | **The Score** | Master per-page composition map | CF-CON-093 |
 | **Reader performance** | Book=score; reader=performer; novel completed each read | CF-CON-106 |
-| **Narrative Meter** | Page weight fingerprint—not word count | CF-CON-101 |
+| **Composer's Pass** | Phase 2 performance orchestration after narrative lock | CF-CON-112 |
+| **Meaning accrues late** | Five movements; performance design is Movement 5 | CF-CON-118 |
+| **Original Score** | One canonical First Edition—the composed artifact | CF-CON-116 |
 | **Experience product** | The reading journey is the product, not the artifact | CF-CON-037 |
 | **3-text-before-page-5** | Experience success scene: text three people before reaching page five on reread | CF-CON-045 |
 | **Call me when you finish** | Target recommendation type — experience sharing, not craft admiration | CF-CON-038 |

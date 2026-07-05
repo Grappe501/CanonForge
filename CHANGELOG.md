@@ -3,6 +3,13 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [0.2.9] — 2026-07-05
+
+### Added
+- CF-ENTRY-031: production philosophy · two manuscripts · Composer's Pass · Original Score
+- Concepts CF-CON-111 through CF-CON-120
+- `architecture/PRODUCTION_PHILOSOPHY.md` · meaning accrues late discipline
+
 ## [0.2.8] — 2026-07-05
 
 ### Added

@@ -3,7 +3,7 @@
 > Institutional knowledge system for **CHRONOFORGE** — the recursive adventure novel project.
 > Codename: CHRONOFORGE · Repo: `Grappe501/CanonForge` · Local truth: `H:\CanonForge`
 
-**Version:** see [VERSION](VERSION) · **Current:** 0.2.8 · **Concepts:** 110
+**Version:** see [VERSION](VERSION) · **Current:** 0.2.9 · **Concepts:** 120
 
 ---
 
@@ -31,6 +31,7 @@ ingest/        ← machine-readable manifest for retrieval automation
 | What's still undecided? | [knowledge/OPEN_QUESTIONS.md](knowledge/OPEN_QUESTIONS.md) |
 | Where did an idea come from? | [knowledge/INGEST_INDEX.md](knowledge/INGEST_INDEX.md) → `entries/` |
 | What did we lock today? | [knowledge/DECISION_LOG.md](knowledge/DECISION_LOG.md) |
+| What is the production workflow? | [architecture/PRODUCTION_PHILOSOPHY.md](architecture/PRODUCTION_PHILOSOPHY.md) |
 | What is the master score? | [architecture/THE_SCORE.md](architecture/THE_SCORE.md) |
 | What is the typographic language? | [architecture/VISUAL_GRAMMAR.md](architecture/VISUAL_GRAMMAR.md) |
 | How is the book scored? | [architecture/RHYTHM_BIBLE.md](architecture/RHYTHM_BIBLE.md) |

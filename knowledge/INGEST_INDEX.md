@@ -34,3 +34,4 @@
 | CF-ENTRY-028 | `knowledge/entries/028-visual-grammar-typography-score.md` | 2026-07-05 | processed | CF-CON-080, CF-CON-081, CF-CON-082, CF-CON-083, CF-CON-084, CF-CON-085, CF-CON-086, CF-CON-087, CF-CON-088 |
 | CF-ENTRY-029 | `knowledge/entries/029-physics-of-reading-score-resonance.md` | 2026-07-05 | processed | CF-CON-089, CF-CON-090, CF-CON-091, CF-CON-092, CF-CON-093, CF-CON-094, CF-CON-095, CF-CON-096, CF-CON-097, CF-CON-098, CF-CON-099, CF-CON-100 |
 | CF-ENTRY-030 | `knowledge/entries/030-narrative-meter-reader-performance.md` | 2026-07-05 | processed | CF-CON-101, CF-CON-102, CF-CON-103, CF-CON-104, CF-CON-105, CF-CON-106, CF-CON-107, CF-CON-108, CF-CON-109, CF-CON-110 |
+| CF-ENTRY-031 | `knowledge/entries/031-production-philosophy-composer-pass.md` | 2026-07-05 | processed | CF-CON-111, CF-CON-112, CF-CON-113, CF-CON-114, CF-CON-115, CF-CON-116, CF-CON-117, CF-CON-118, CF-CON-119, CF-CON-120 |

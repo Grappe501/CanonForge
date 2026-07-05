@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 0.2.8 · 2026-07-05 · 110 concepts registered
+> Version 0.2.9 · 2026-07-05 · 120 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -114,6 +114,16 @@
 | CF-CON-108 | Novel completed each read | Governance | **Locked** | Novel not complete at print; completed each time read. | CF-ENTRY-030 |
 | CF-CON-109 | Publication-survivable anchors | Architecture | **Locked** | Anchor to sentences/motifs/cadence—not line 14 page 37. | CF-ENTRY-030 |
 | CF-CON-110 | Page fingerprint | Architecture | **Locked** | Weighted attributes per page including certainty gap. | CF-ENTRY-030 |
+| CF-CON-111 | Two-phase production | Process | **Locked** | Phase 1 write story; Phase 2 compose printed artifact. | CF-ENTRY-031 |
+| CF-CON-112 | Composer's Pass | Process | **Locked** | Phase 2 orchestrates performance—not prose editing. | CF-ENTRY-031 |
+| CF-CON-113 | Two manuscripts | Process | **Locked** | Narrative MS (pure text) vs Performance MS (experience). | CF-ENTRY-031 |
+| CF-CON-114 | Page turn tool | Architecture | **Locked** | Page turn as Hitchcock edit—suspense rhythm silence. | CF-ENTRY-031 |
+| CF-CON-115 | Author as typesetter | Process | **Locked** | Typography is part of story; author owns performance design. | CF-ENTRY-031 |
+| CF-CON-116 | Original Score edition | Commerce | **Locked** | One canonical First Edition printing—the composed score. | CF-ENTRY-031 |
+| CF-CON-117 | Production vocabulary | Process | **Locked** | Movements not drafts; orchestration; performance design. | CF-ENTRY-031 |
+| CF-CON-118 | Meaning accrues late | Process | **Locked** | Five movements: story→character→clues→rhythm→performance. | CF-ENTRY-031 |
+| CF-CON-119 | Collectible typography | Commerce | **Locked** | First Edition typography as Original Score collectible. | CF-ENTRY-031 |
+| CF-CON-120 | Performances not score | Commerce | **Locked** | Later editions are performances; one composed score canonical. | CF-ENTRY-031 |
 
 ## Related Concepts
 
@@ -227,3 +237,13 @@
 - **CF-CON-108** (Novel completed each read, Locked): CF-CON-106, CF-CON-025 → `canon/MASTER_CANON.md`
 - **CF-CON-109** (Publication-survivable anchors, Locked): CF-CON-103 → `architecture/NARRATIVE_METER.md`
 - **CF-CON-110** (Page fingerprint, Locked): CF-CON-101 → `architecture/THE_SCORE.md`
+- **CF-CON-111** (Two-phase production, Locked): CF-CON-112, CF-CON-113 → `architecture/PRODUCTION_PHILOSOPHY.md`
+- **CF-CON-112** (Composer's Pass, Locked): CF-CON-111, CF-CON-114 → `architecture/PRODUCTION_PHILOSOPHY.md`
+- **CF-CON-113** (Two manuscripts, Locked): CF-CON-111 → `architecture/PRODUCTION_PHILOSOPHY.md`
+- **CF-CON-114** (Page turn tool, Locked): CF-CON-112 → `architecture/PRODUCTION_PHILOSOPHY.md`
+- **CF-CON-115** (Author as typesetter, Locked): CF-CON-080, CF-CON-089 → `architecture/PRODUCTION_PHILOSOPHY.md`
+- **CF-CON-116** (Original Score edition, Locked): CF-CON-119, CF-CON-120 → `architecture/PRODUCTION_PHILOSOPHY.md`
+- **CF-CON-117** (Production vocabulary, Locked): CF-CON-111 → `architecture/PRODUCTION_PHILOSOPHY.md`
+- **CF-CON-118** (Meaning accrues late, Locked): CF-CON-112 → `architecture/PRODUCTION_PHILOSOPHY.md`
+- **CF-CON-119** (Collectible typography, Locked): CF-CON-116 → `architecture/PRODUCTION_PHILOSOPHY.md`
+- **CF-CON-120** (Performances not score, Locked): CF-CON-116 → `architecture/PRODUCTION_PHILOSOPHY.md`

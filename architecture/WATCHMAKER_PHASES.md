@@ -31,9 +31,25 @@ Chapter One = Phase 9 (NOT Phase 1)
 
 ---
 
-## Phase 14
+## Phase 14+
 
 Implementation directives for prose emission **not yet received**. No manuscript work until Phase 14 authorizes.
+
+---
+
+## Production movements (post–Story Engine · CF-CON-118)
+
+After Watchmaker Phases complete and Phase 14 authorizes prose:
+
+| Movement | Focus | Manuscript |
+|---|---|---|
+| **1** | Story only | Narrative |
+| **2** | Character · emotional truth | Narrative |
+| **3** | Hidden clue architecture | Narrative + deep |
+| **4** | Rhythm · cadence · silence | Deep + Rhythm Bible |
+| **5** | Canonical performance edition | **Performance MS** · Composer's Pass |
+
+See [PRODUCTION_PHILOSOPHY.md](PRODUCTION_PHILOSOPHY.md).
 
 ---
 
@@ -49,4 +65,4 @@ Phase 14  ○  Awaiting directives
 
 ---
 
-*CF-CON-017 · CF-CON-018 · CF-ENTRY-008*
+*CF-CON-017 · CF-CON-018 · CF-CON-118 · CF-ENTRY-008 · CF-ENTRY-031*

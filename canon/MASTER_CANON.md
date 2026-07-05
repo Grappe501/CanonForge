@@ -1,8 +1,8 @@
-# Master Canon v0.2.8
+# Master Canon v0.2.9
 
 > Governing creative constitution for CHRONOFORGE
 > Derived from locked concepts · open forks marked explicitly
-> Supersedes v0.2.7 (2026-07-05 · CF-ENTRY-030 reader performance model)
+> Supersedes v0.2.8 (2026-07-05 · CF-ENTRY-031 production philosophy)
 
 ---
 
@@ -67,6 +67,26 @@ READ 5  = concert (Presto)
 Same text · different tempo each read — patterns recognized sooner (CF-CON-107). Compose experience that **matures as performed**.
 
 **Organic structure only** — reject mechanical word/line/page counts (CF-CON-102). See [architecture/NARRATIVE_METER.md](../architecture/NARRATIVE_METER.md).
+
+### Production philosophy (CF-CON-111 · CF-CON-117 · locked CF-ENTRY-031)
+
+```txt
+PHASE 1  →  Write the masterpiece (Narrative Manuscript)
+PHASE 2  →  Composer's Pass (Performance Manuscript)
+
+Not drafts · movements
+Not editing · orchestration
+Not typesetting · performance design
+Not a book · a performed reading experience
+```
+
+**Typography is part of the story** — author as typesetter (CF-CON-115). Page turn = Hitchcock edit (CF-CON-114).
+
+**One Original Score** — canonical First Edition printing (CF-CON-116). Later editions = performances, not the score (CF-CON-120).
+
+**Meaning accrues late (CF-CON-118):** Movement 1 story → 2 character → 3 clues → 4 rhythm → 5 performance edition.
+
+See [architecture/PRODUCTION_PHILOSOPHY.md](../architecture/PRODUCTION_PHILOSOPHY.md).
 
 ### Typography immutable law (CF-CON-089)
 
@@ -334,4 +354,4 @@ See [knowledge/OPEN_QUESTIONS.md](../knowledge/OPEN_QUESTIONS.md):
 
 ---
 
-*v0.2.8 · 2026-07-05 · synthesized from CF-ENTRY-001 through CF-ENTRY-030 · 110 concepts*
+*v0.2.9 · 2026-07-05 · synthesized from CF-ENTRY-001 through CF-ENTRY-031 · 120 concepts*

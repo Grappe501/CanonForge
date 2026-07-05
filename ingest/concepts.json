@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "canonforge_version": "0.2.0",
-  "generated_at": "2026-07-05T20:58:23.183054+00:00",
+  "generated_at": "2026-07-05T20:59:31.057212+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -1226,6 +1226,116 @@
         "CF-ENTRY-030"
       ],
       "canon_ref": "architecture/THE_SCORE.md"
+    },
+    {
+      "id": "CF-CON-111",
+      "label": "Two-phase production",
+      "category": "Process",
+      "status": "Locked",
+      "definition": "Phase 1 write story; Phase 2 compose printed artifact.",
+      "sources": [
+        "CF-ENTRY-031"
+      ],
+      "canon_ref": "architecture/PRODUCTION_PHILOSOPHY.md"
+    },
+    {
+      "id": "CF-CON-112",
+      "label": "Composer's Pass",
+      "category": "Process",
+      "status": "Locked",
+      "definition": "Phase 2 orchestrates performance\u2014not prose editing.",
+      "sources": [
+        "CF-ENTRY-031"
+      ],
+      "canon_ref": "architecture/PRODUCTION_PHILOSOPHY.md"
+    },
+    {
+      "id": "CF-CON-113",
+      "label": "Two manuscripts",
+      "category": "Process",
+      "status": "Locked",
+      "definition": "Narrative MS (pure text) vs Performance MS (experience).",
+      "sources": [
+        "CF-ENTRY-031"
+      ],
+      "canon_ref": "architecture/PRODUCTION_PHILOSOPHY.md"
+    },
+    {
+      "id": "CF-CON-114",
+      "label": "Page turn tool",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "Page turn as Hitchcock edit\u2014suspense rhythm silence.",
+      "sources": [
+        "CF-ENTRY-031"
+      ],
+      "canon_ref": "architecture/PRODUCTION_PHILOSOPHY.md"
+    },
+    {
+      "id": "CF-CON-115",
+      "label": "Author as typesetter",
+      "category": "Process",
+      "status": "Locked",
+      "definition": "Typography is part of story; author owns performance design.",
+      "sources": [
+        "CF-ENTRY-031"
+      ],
+      "canon_ref": "architecture/PRODUCTION_PHILOSOPHY.md"
+    },
+    {
+      "id": "CF-CON-116",
+      "label": "Original Score edition",
+      "category": "Commerce",
+      "status": "Locked",
+      "definition": "One canonical First Edition printing\u2014the composed score.",
+      "sources": [
+        "CF-ENTRY-031"
+      ],
+      "canon_ref": "architecture/PRODUCTION_PHILOSOPHY.md"
+    },
+    {
+      "id": "CF-CON-117",
+      "label": "Production vocabulary",
+      "category": "Process",
+      "status": "Locked",
+      "definition": "Movements not drafts; orchestration; performance design.",
+      "sources": [
+        "CF-ENTRY-031"
+      ],
+      "canon_ref": "architecture/PRODUCTION_PHILOSOPHY.md"
+    },
+    {
+      "id": "CF-CON-118",
+      "label": "Meaning accrues late",
+      "category": "Process",
+      "status": "Locked",
+      "definition": "Five movements: story\u2192character\u2192clues\u2192rhythm\u2192performance.",
+      "sources": [
+        "CF-ENTRY-031"
+      ],
+      "canon_ref": "architecture/PRODUCTION_PHILOSOPHY.md"
+    },
+    {
+      "id": "CF-CON-119",
+      "label": "Collectible typography",
+      "category": "Commerce",
+      "status": "Locked",
+      "definition": "First Edition typography as Original Score collectible.",
+      "sources": [
+        "CF-ENTRY-031"
+      ],
+      "canon_ref": "architecture/PRODUCTION_PHILOSOPHY.md"
+    },
+    {
+      "id": "CF-CON-120",
+      "label": "Performances not score",
+      "category": "Commerce",
+      "status": "Locked",
+      "definition": "Later editions are performances; one composed score canonical.",
+      "sources": [
+        "CF-ENTRY-031"
+      ],
+      "canon_ref": "architecture/PRODUCTION_PHILOSOPHY.md"
     }
   ],
   "edges": [
@@ -2027,6 +2137,76 @@
     {
       "from": "CF-CON-110",
       "to": "CF-CON-101",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-111",
+      "to": "CF-CON-112",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-111",
+      "to": "CF-CON-113",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-112",
+      "to": "CF-CON-111",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-112",
+      "to": "CF-CON-114",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-113",
+      "to": "CF-CON-111",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-114",
+      "to": "CF-CON-112",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-115",
+      "to": "CF-CON-080",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-115",
+      "to": "CF-CON-089",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-116",
+      "to": "CF-CON-119",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-116",
+      "to": "CF-CON-120",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-117",
+      "to": "CF-CON-111",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-118",
+      "to": "CF-CON-112",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-119",
+      "to": "CF-CON-116",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-120",
+      "to": "CF-CON-116",
       "type": "related"
     }
   ]
