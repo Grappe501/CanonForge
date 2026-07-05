@@ -32,6 +32,7 @@ OUTPUT:  manuscript/ (Phase 14+ ONLY)
 | Visual Grammar | 4+ | `architecture/VISUAL_GRAMMAR.md` ✓ (framework) |
 | The Score | 4+ | `architecture/THE_SCORE.md` ✓ (framework) |
 | Physics of Reading | 4+ | `architecture/PHYSICS_OF_READING.md` ✓ (framework) |
+| Narrative Meter | 4+ | `architecture/NARRATIVE_METER.md` ✓ (framework) |
 | Production Philosophy | 14+ | `architecture/PRODUCTION_PHILOSOPHY.md` ✓ (framework) |
 | Chapter One / Opening | 9 | **LAST** |
 
