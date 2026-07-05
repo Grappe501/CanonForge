@@ -10,7 +10,7 @@
 ```txt
 BUILD-000.000   THE CONSTITUTION          → law (never broken)
 BUILD-000.001–003                     → North Star · One Question · Thematic
-BUILD-001–013                         → foundational canon (001 v0.1 · 002–010 v1.0)
+BUILD-001–013                         → foundational canon (001 v0.1 · 002–011 v1.0)
 BUILD-014–015                         → queued (Periodic Table · Bill of Rights)
 architecture/                         → expanded specs (derived · cross-ref)
 knowledge/entries/                    → verbatim source uploads
@@ -38,7 +38,7 @@ knowledge/entries/                    → verbatim source uploads
 | **008** | The Assumption Engine | **1.0** | **Frozen** | 036, 044 | CF-CON-164, 243–255 | [BUILD-008](BUILD-008-assumption-engine.md) |
 | **009** | The Grammar of Time | **1.0** | **Frozen** | 036, 045 | CF-CON-165, 256–268 | [BUILD-009](BUILD-009-grammar-of-time.md) |
 | **010** | Physics of Reading | **1.0** | **Frozen** | 036, 046 | CF-CON-166, 269–281 | [BUILD-010](BUILD-010-physics-of-reading.md) |
-| **011** | The Invisible Contract | **1.0.0** | **Frozen** | 036 | CF-CON-167 | [BUILD-011](BUILD-011-invisible-contract.md) |
+| **011** | The Reader's Covenant | **1.0** | **Frozen** | 036, 047 | CF-CON-167, 282–291 | [BUILD-011](BUILD-011-readers-covenant.md) |
 | **012** | The Title | **1.0.0** | **Frozen** | 036 | CF-CON-168 | [BUILD-012](BUILD-012-title.md) |
 | **013** | The Writer's Oath | **1.0.0** | **Frozen** | 036 | CF-CON-169 | [BUILD-013](BUILD-013-writers-oath.md) |
 | **014** | Periodic Table of the Novel | — | **Queued** | — | CF-CON-170 | [BUILD-014](BUILD-014-periodic-table-of-the-novel.md) |
@@ -67,8 +67,7 @@ knowledge/entries/                    → verbatim source uploads
 | 008 Assumption Engine | ASSUMPTION_LEDGER · Five Levels · Assumption Catalog |
 | 009 Grammar of Time | Five Times · Time Weave · Temporal Score · HIDDEN_ENGINE |
 | 010 Physics of Reading | Typography layer · Reading Matrix · Five Instruments |
-| 011 Invisible Contract | Unspoken promises · expansion queued (046) |
-| 011 Invisible Contract | HIDDEN_ENGINE · No Beginning law |
+| 011 Reader's Covenant | Fifteen Promises · Covenant of Silence · Gift epilogue |
 
 ---
 

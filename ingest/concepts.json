@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "0.7.0",
-  "generated_at": "2026-07-05T21:24:04.815401+00:00",
+  "canonforge_version": "0.8.0",
+  "generated_at": "2026-07-05T21:26:51.259368+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -1855,14 +1855,15 @@
     },
     {
       "id": "CF-CON-167",
-      "label": "BUILD-011 Invisible Contract",
-      "category": "Architecture",
+      "label": "Reader's Covenant",
+      "category": "Governance",
       "status": "Frozen",
-      "definition": "Allow unstated reader assumptions; fair subversion.",
+      "definition": "Fifteen promises before first sentence; trust binds both sides.",
       "sources": [
-        "CF-ENTRY-036"
+        "CF-ENTRY-036",
+        "CF-ENTRY-047"
       ],
-      "canon_ref": "canon/build/BUILD-011-invisible-contract.md"
+      "canon_ref": "canon/build/BUILD-011-readers-covenant.md"
     },
     {
       "id": "CF-CON-168",
@@ -3117,6 +3118,116 @@
         "CF-ENTRY-046"
       ],
       "canon_ref": "canon/build/BUILD-010-physics-of-reading.md"
+    },
+    {
+      "id": "CF-CON-282",
+      "label": "Reader's Covenant",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Promise binding both sides; attention for trust.",
+      "sources": [
+        "CF-ENTRY-047"
+      ],
+      "canon_ref": "canon/build/BUILD-011-readers-covenant.md"
+    },
+    {
+      "id": "CF-CON-283",
+      "label": "Fifteen Promises",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Word belongs; sacred hours; honest mystery; no punishment.",
+      "sources": [
+        "CF-ENTRY-047"
+      ],
+      "canon_ref": "canon/build/BUILD-011-readers-covenant.md"
+    },
+    {
+      "id": "CF-CON-284",
+      "label": "Covenant of Silence",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "No post-publication explanation; work stands alone.",
+      "sources": [
+        "CF-ENTRY-047"
+      ],
+      "canon_ref": "canon/build/BUILD-011-readers-covenant.md"
+    },
+    {
+      "id": "CF-CON-285",
+      "label": "Covenant of Reading",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Book belongs equally to every reader; no correct tier.",
+      "sources": [
+        "CF-ENTRY-047"
+      ],
+      "canon_ref": "canon/build/BUILD-011-readers-covenant.md"
+    },
+    {
+      "id": "CF-CON-286",
+      "label": "Final Covenant",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Turn back as person who returned not who began.",
+      "sources": [
+        "CF-ENTRY-047"
+      ],
+      "canon_ref": "canon/build/BUILD-011-readers-covenant.md"
+    },
+    {
+      "id": "CF-CON-287",
+      "label": "Gift not product",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Will this stay with people not impress people.",
+      "sources": [
+        "CF-ENTRY-047"
+      ],
+      "canon_ref": "canon/build/BUILD-011-readers-covenant.md"
+    },
+    {
+      "id": "CF-CON-288",
+      "label": "Companion not customer",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Reader is companion not audience or puzzle solver.",
+      "sources": [
+        "CF-ENTRY-047"
+      ],
+      "canon_ref": "canon/build/BUILD-011-readers-covenant.md"
+    },
+    {
+      "id": "CF-CON-289",
+      "label": "Reader's responsibility",
+      "category": "Process",
+      "status": "Frozen",
+      "definition": "Three asks: curiosity patience honesty only.",
+      "sources": [
+        "CF-ENTRY-047"
+      ],
+      "canon_ref": "canon/build/BUILD-011-readers-covenant.md"
+    },
+    {
+      "id": "CF-CON-290",
+      "label": "Author's responsibility",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Never deceive preach manipulate; serve story humanity.",
+      "sources": [
+        "CF-ENTRY-047"
+      ],
+      "canon_ref": "canon/build/BUILD-011-readers-covenant.md"
+    },
+    {
+      "id": "CF-CON-291",
+      "label": "BUILD-011 trust foundation",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Trust foundation beneath every remaining build.",
+      "sources": [
+        "CF-ENTRY-047"
+      ],
+      "canon_ref": "canon/build/BUILD-011-readers-covenant.md"
     }
   ],
   "edges": [
@@ -4337,7 +4448,12 @@
     },
     {
       "from": "CF-CON-167",
-      "to": "CF-CON-057",
+      "to": "CF-CON-207",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-167",
+      "to": "CF-CON-281",
       "type": "related"
     },
     {
@@ -5378,6 +5494,106 @@
     {
       "from": "CF-CON-281",
       "to": "CF-CON-255",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-282",
+      "to": "CF-CON-167",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-282",
+      "to": "CF-CON-290",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-283",
+      "to": "CF-CON-282",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-283",
+      "to": "CF-CON-207",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-284",
+      "to": "CF-CON-048",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-284",
+      "to": "CF-CON-282",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-285",
+      "to": "CF-CON-215",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-285",
+      "to": "CF-CON-282",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-286",
+      "to": "CF-CON-057",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-286",
+      "to": "CF-CON-154",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-287",
+      "to": "CF-CON-037",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-287",
+      "to": "CF-CON-038",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-288",
+      "to": "CF-CON-282",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-288",
+      "to": "CF-CON-161",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-289",
+      "to": "CF-CON-282",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-289",
+      "to": "CF-CON-177",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-290",
+      "to": "CF-CON-208",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-290",
+      "to": "CF-CON-169",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-291",
+      "to": "CF-CON-282",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-291",
+      "to": "CF-CON-192",
       "type": "related"
     }
   ]

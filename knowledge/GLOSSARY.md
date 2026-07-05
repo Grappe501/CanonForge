@@ -52,6 +52,8 @@
 | **Grammar of Time** | Five Times · experienced time not clock | CF-CON-165 |
 | **Physics of Reading** | Perception before understanding · Five Instruments | CF-CON-166 |
 | **Reading Matrix** | Passage eval dimensions · full experience | CF-CON-278 |
+| **Reader's Covenant** | Fifteen promises · trust binds both sides | CF-CON-282 |
+| **Gift not product** | Will this stay with people | CF-CON-287 |
 | **BUILD layer** | Versioned canonical build documents 001+ | CF-CON-156 |
 | **Experience product** | The reading journey is the product, not the artifact | CF-CON-037 |
 | **3-text-before-page-5** | Experience success scene: text three people before reaching page five on reread | CF-CON-045 |

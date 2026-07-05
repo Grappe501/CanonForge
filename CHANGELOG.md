@@ -3,6 +3,19 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [0.8.0] — 2026-07-05
+
+### Added
+- CF-ENTRY-047: BUILD-011 The Reader's Covenant Canonical v1.0
+- Concepts CF-CON-282 through CF-CON-291
+- Fifteen Promises · Covenant of Silence · Covenant of Reading · Final Covenant
+- Gift not product epilogue · companion not customer
+
+### Changed
+- **BUILD-011 renamed:** Invisible Contract → **The Reader's Covenant**
+- Supersedes BUILD-011 stub; CF-CON-054 remains structural Law II
+- Master Canon v0.7.0
+
 ## [0.7.0] — 2026-07-05
 
 ### Added

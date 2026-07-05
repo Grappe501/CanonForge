@@ -1,7 +1,7 @@
-# Master Canon v0.6.0
+# Master Canon v0.7.0
 
-> **BUILD-010:** Physics of Reading · perception before understanding · the instrument
-> Supersedes v0.5.9 (2026-07-05 · BUILD-010 Physics of Reading CF-ENTRY-046)
+> **BUILD-011:** The Reader's Covenant · trust binds both sides · gift not product
+> Supersedes v0.6.0 (2026-07-05 · BUILD-011 Reader's Covenant CF-ENTRY-047)
 
 ---
 
@@ -42,11 +42,11 @@ Key locked insights:
 | **Four Pillars** | Strengthen ≥1 of Wonder · **Connection** · Resonance · Transformation? | BUILD-003 v1.0 |
 | Seven Laws | Immutable · complies with BUILD-004 v1.0? | BUILD-004 |
 
-**Stack:** BUILD-001 = *why* · … · BUILD-009 = *experienced time* · BUILD-010 = *reading as instrument*
+**Stack:** BUILD-001 = *why* · … · BUILD-010 = *reading as instrument* · BUILD-011 = *trust*
+
+→ [build/BUILD-011-readers-covenant.md](build/BUILD-011-readers-covenant.md) · Fifteen Promises · Reader's Covenant · Gift not product
 
 → [build/BUILD-010-physics-of-reading.md](build/BUILD-010-physics-of-reading.md) · Five Instruments · Reading Loop · Perception First
-
-→ [build/BUILD-009-grammar-of-time.md](build/BUILD-009-grammar-of-time.md) · Five Times · Time Weave · Temporal Spiral
 
 → [build/BUILD-004-seven-laws.md](build/BUILD-004-seven-laws.md)
 
@@ -346,11 +346,13 @@ If readers hunt the author's identity instead of the novel → focus has shifted
 
 Supports fractured chronology · layered rereads · reader transformation. Form and theme become one.
 
-### Law II — Invisible Contract (CF-CON-054)
+### Law II — Invisible Contract *(structural · CF-CON-054)*
 
 Reader assumes: *"I'm reading from beginning to end."*
 Novel silently: *"That's an interesting assumption."*
 Never stated. Never hinted. Carried until final pages.
+
+→ Moral foundation: [BUILD-011 Reader's Covenant](build/BUILD-011-readers-covenant.md) · CF-CON-282
 
 ### Opening/closing continuity (CF-CON-055 · CF-CON-056 · exact text open fork)
 

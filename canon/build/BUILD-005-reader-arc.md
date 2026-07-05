@@ -53,7 +53,7 @@ The reader enters with **invisible assumptions** — necessary for transformatio
 
 Every assumption will be **examined**. None will be **mocked**.
 
-*(Aligns: BUILD-011 Invisible Contract · BUILD-001 §001.3)*
+*(Aligns: BUILD-011 Reader's Covenant · BUILD-001 §001.3)*
 
 ---
 

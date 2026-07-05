@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "0.7.0",
-  "generated_at": "2026-07-05T21:24:04.815401+00:00",
+  "canonforge_version": "0.8.0",
+  "generated_at": "2026-07-05T21:26:51.246599+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 46,
-  "concept_count": 281,
+  "entry_count": 47,
+  "concept_count": 291,
   "build_001_version": "0.1",
   "build_002_version": "1.0",
   "build_003_version": "1.0",
@@ -19,6 +19,8 @@
   "build_009_title": "Grammar of Time",
   "build_010_version": "1.0",
   "build_010_title": "Physics of Reading",
+  "build_011_version": "1.0",
+  "build_011_title": "Reader's Covenant",
   "roadmap_version": "1.0",
   "project_version": "0.0.1",
   "build_layer": "BUILD-001-013 frozen",
@@ -774,6 +776,27 @@
         "CF-CON-281"
       ],
       "byte_size": 7763
+    },
+    {
+      "entry_id": "CF-ENTRY-047",
+      "file": "knowledge/entries/047-build-011-readers-covenant-v1.md",
+      "sha256": "8687707fbb716b9e7af96f8d151214523c6d0422cee293d9832a6c6ab4607695",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-167",
+        "CF-CON-282",
+        "CF-CON-283",
+        "CF-CON-284",
+        "CF-CON-285",
+        "CF-CON-286",
+        "CF-CON-287",
+        "CF-CON-288",
+        "CF-CON-289",
+        "CF-CON-290",
+        "CF-CON-291"
+      ],
+      "byte_size": 8009
     }
   ],
   "indexes": {

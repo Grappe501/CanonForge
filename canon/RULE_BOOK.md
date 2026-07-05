@@ -27,9 +27,11 @@ If typography changes → reality changed. Not voice. Not emphasis.
 >
 > **The reader chooses where to enter the loop.**
 
-### Third Law — Invisible Contract (CF-CON-054)
+### Third Law — Invisible Contract *(structural · CF-CON-054)*
 
-The reader unconsciously assumes linear reading. The novel never confirms or denies this until Recognition. Never state the contract. Never hint at it.
+The reader unconsciously assumes linear reading from beginning to end. The novel never confirms or denies this until Recognition. Never state the contract. Never hint at it.
+
+→ Moral covenant: [build/BUILD-011-readers-covenant.md](build/BUILD-011-readers-covenant.md)
 
 ### Opening/closing continuity (CF-CON-055 · CF-CON-056)
 

@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 0.7.0 · 2026-07-05 · 281 concepts registered
+> Version 0.8.0 · 2026-07-05 · 291 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | CF-CON-164 | Assumption Engine | Architecture | **Frozen** | Pattern completion; incomplete truths; cognition model v1.0. | CF-ENTRY-036, CF-ENTRY-044 |
 | CF-CON-165 | Grammar of Time | Architecture | **Frozen** | Five times; experienced time; supersedes Music Theory stub. | CF-ENTRY-036, CF-ENTRY-045 |
 | CF-CON-166 | Physics of Reading | Architecture | **Frozen** | Reading as living process; perception before understanding; instrument. | CF-ENTRY-036, CF-ENTRY-046 |
-| CF-CON-167 | BUILD-011 Invisible Contract | Architecture | **Frozen** | Allow unstated reader assumptions; fair subversion. | CF-ENTRY-036 |
+| CF-CON-167 | Reader's Covenant | Governance | **Frozen** | Fifteen promises before first sentence; trust binds both sides. | CF-ENTRY-036, CF-ENTRY-047 |
 | CF-CON-168 | Title fifth-read gate | Design fork | **Frozen** | Title not understood until fifth reading; deepest truth. | CF-ENTRY-036 |
 | CF-CON-169 | Writer's Oath | Process | **Frozen** | Before session: discover truth; reader is partner not opponent. | CF-ENTRY-036 |
 | CF-CON-170 | Periodic Table of Novel | Architecture | **Queued** | Elemental atoms before characters; BUILD-014 next. | CF-ENTRY-036 |
@@ -285,6 +285,16 @@
 | CF-CON-279 | Perception before understanding | Architecture | **Frozen** | How readers perceive not how they understand first. | CF-ENTRY-046 |
 | CF-CON-280 | Novel as instrument | Mission | **Frozen** | BUILD-010: book experienced in nervous system not paper. | CF-ENTRY-046 |
 | CF-CON-281 | Constructing reality | Heart | **Frozen** | Reader never consuming words; continuously constructing reality. | CF-ENTRY-046 |
+| CF-CON-282 | Reader's Covenant | Governance | **Frozen** | Promise binding both sides; attention for trust. | CF-ENTRY-047 |
+| CF-CON-283 | Fifteen Promises | Governance | **Frozen** | Word belongs; sacred hours; honest mystery; no punishment. | CF-ENTRY-047 |
+| CF-CON-284 | Covenant of Silence | Governance | **Frozen** | No post-publication explanation; work stands alone. | CF-ENTRY-047 |
+| CF-CON-285 | Covenant of Reading | Heart | **Frozen** | Book belongs equally to every reader; no correct tier. | CF-ENTRY-047 |
+| CF-CON-286 | Final Covenant | Heart | **Frozen** | Turn back as person who returned not who began. | CF-ENTRY-047 |
+| CF-CON-287 | Gift not product | Mission | **Frozen** | Will this stay with people not impress people. | CF-ENTRY-047 |
+| CF-CON-288 | Companion not customer | Heart | **Frozen** | Reader is companion not audience or puzzle solver. | CF-ENTRY-047 |
+| CF-CON-289 | Reader's responsibility | Process | **Frozen** | Three asks: curiosity patience honesty only. | CF-ENTRY-047 |
+| CF-CON-290 | Author's responsibility | Governance | **Frozen** | Never deceive preach manipulate; serve story humanity. | CF-ENTRY-047 |
+| CF-CON-291 | BUILD-011 trust foundation | Governance | **Frozen** | Trust foundation beneath every remaining build. | CF-ENTRY-047 |
 
 ## Related Concepts
 
@@ -454,7 +464,7 @@
 - **CF-CON-164** (Assumption Engine, Frozen): CF-CON-145, CF-CON-243 → `canon/build/BUILD-008-assumption-engine.md`
 - **CF-CON-165** (Grammar of Time, Frozen): CF-CON-014, CF-CON-256 → `canon/build/BUILD-009-grammar-of-time.md`
 - **CF-CON-166** (Physics of Reading, Frozen): CF-CON-092, CF-CON-164 → `canon/build/BUILD-010-physics-of-reading.md`
-- **CF-CON-167** (BUILD-011 Invisible Contract, Frozen): CF-CON-054, CF-CON-057 → `canon/build/BUILD-011-invisible-contract.md`
+- **CF-CON-167** (Reader's Covenant, Frozen): CF-CON-054, CF-CON-207, CF-CON-281 → `canon/build/BUILD-011-readers-covenant.md`
 - **CF-CON-168** (Title fifth-read gate, Frozen): CF-CON-152 → `canon/build/BUILD-012-title.md`
 - **CF-CON-169** (Writer's Oath, Frozen): CF-CON-038, CF-CON-135 → `canon/build/BUILD-013-writers-oath.md`
 - **CF-CON-170** (Periodic Table of Novel, Queued): CF-CON-159, CF-CON-164 → `canon/build/BUILD-014-periodic-table-of-the-novel.md`
@@ -569,3 +579,13 @@
 - **CF-CON-279** (Perception before understanding, Frozen): CF-CON-166, CF-CON-158 → `canon/build/BUILD-010-physics-of-reading.md`
 - **CF-CON-280** (Novel as instrument, Frozen): CF-CON-229, CF-CON-155 → `canon/build/BUILD-010-physics-of-reading.md`
 - **CF-CON-281** (Constructing reality, Frozen): CF-CON-247, CF-CON-255 → `canon/build/BUILD-010-physics-of-reading.md`
+- **CF-CON-282** (Reader's Covenant, Frozen): CF-CON-167, CF-CON-290 → `canon/build/BUILD-011-readers-covenant.md`
+- **CF-CON-283** (Fifteen Promises, Frozen): CF-CON-282, CF-CON-207 → `canon/build/BUILD-011-readers-covenant.md`
+- **CF-CON-284** (Covenant of Silence, Frozen): CF-CON-048, CF-CON-282 → `canon/build/BUILD-011-readers-covenant.md`
+- **CF-CON-285** (Covenant of Reading, Frozen): CF-CON-215, CF-CON-282 → `canon/build/BUILD-011-readers-covenant.md`
+- **CF-CON-286** (Final Covenant, Frozen): CF-CON-057, CF-CON-154 → `canon/build/BUILD-011-readers-covenant.md`
+- **CF-CON-287** (Gift not product, Frozen): CF-CON-037, CF-CON-038 → `canon/build/BUILD-011-readers-covenant.md`
+- **CF-CON-288** (Companion not customer, Frozen): CF-CON-282, CF-CON-161 → `canon/build/BUILD-011-readers-covenant.md`
+- **CF-CON-289** (Reader's responsibility, Frozen): CF-CON-282, CF-CON-177 → `canon/build/BUILD-011-readers-covenant.md`
+- **CF-CON-290** (Author's responsibility, Frozen): CF-CON-208, CF-CON-169 → `canon/build/BUILD-011-readers-covenant.md`
+- **CF-CON-291** (BUILD-011 trust foundation, Frozen): CF-CON-282, CF-CON-192 → `canon/build/BUILD-011-readers-covenant.md`

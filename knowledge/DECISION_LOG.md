@@ -42,6 +42,7 @@
 | 2026-07-05 | Master Build Roadmap v1.0 | CF-ENTRY-035 session pause | CF-CON-150–155 |
 | 2026-07-05 | BUILD-001–013 frozen v1.0.0 | Canonical build discipline | CF-CON-156–169 |
 | 2026-07-05 | BUILD-014 queued | Periodic Table of Novel next | CF-CON-170 |
+| 2026-07-05 | BUILD-011 Reader's Covenant v1.0 | Supersedes Invisible Contract stub | CF-CON-282–291 |
 | 2026-07-05 | BUILD-010 Physics of Reading v1.0 | Novel as instrument · Reading Matrix | CF-CON-269–281 |
 | 2026-07-05 | BUILD-004 Immutable Laws v1.0 | Seven laws · meta-laws · covenant | CF-CON-199–208 |
 | 2026-07-05 | BUILD-015 queued | Reader Bill of Rights directive | CF-CON-207 |

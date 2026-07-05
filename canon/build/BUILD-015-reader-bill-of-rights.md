@@ -2,7 +2,7 @@
 
 > **Status: QUEUED · Directive CF-ENTRY-040**
 > CF-CON-207 · Not yet authored
-> Suggested before BUILD-005 expansion · moral contract with audience
+> **Aligns with:** [BUILD-011 Reader's Covenant](BUILD-011-readers-covenant.md) v1.0 (CF-ENTRY-047) — operational rights layer
 
 ---
 
@@ -14,7 +14,7 @@ Chronoforge also needs a **Bill of Rights** — **for the reader**.
 
 Promises we make to every person who opens the book.
 
-*(Complements BUILD-004 immutable laws · BUILD-000 Constitution)*
+*(Seed rights below · canonical promises now in BUILD-011 §011.1–011.15 · CF-ENTRY-047)*
 
 ---
 

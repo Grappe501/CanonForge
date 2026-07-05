@@ -85,7 +85,7 @@ But the book must **never mock them** for being wrong.
 
 The book must invite them to discover more.
 
-*(Aligns: BUILD-011 Invisible Contract · BUILD-008 Assumption Engine)*
+*(Aligns: BUILD-011 Reader's Covenant · BUILD-008 Assumption Engine)*
 
 ---
 
@@ -320,7 +320,7 @@ Every later build must trace back here.
 | **008** Assumption Engine | Operationalize reader self-discovery |
 | **009** Grammar of Time | Make time felt before measured; Five Times | BUILD-009 |
 | **010** Physics of Reading | Define how reader participates |
-| **011** Invisible Contract | Define assumptions we allow readers to make |
+| **011** Reader's Covenant | Trust · fifteen promises · relationship before first sentence |
 | **012** Title | Remain unresolved until fifth-depth meaning known |
 | **013** Writer's Oath | Protect humility, story, reader partnership |
 | **014** Periodic Table | Identify elemental materials from which purpose is built |

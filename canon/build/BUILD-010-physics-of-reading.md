@@ -304,11 +304,11 @@ If conflict, **this BUILD wins**.
 
 ---
 
-## BUILD-011 preview (CF-ENTRY-046)
+## BUILD-011 — fulfilled (CF-ENTRY-047)
 
-Next: **Invisible Contract** expanded — unspoken **promises** the book makes before the first sentence. Moral foundation of the reading experience.
+**The Reader's Covenant** — unspoken **promises** honored before the first sentence. Trust binds both sides.
 
-→ Aligns with [BUILD-015](BUILD-015-reader-bill-of-rights.md) Reader Bill of Rights
+→ [BUILD-011-readers-covenant.md](BUILD-011-readers-covenant.md) · aligns with [BUILD-015](BUILD-015-reader-bill-of-rights.md) Reader Bill of Rights (queued)
 
 ---
 

@@ -111,7 +111,7 @@ Chronoforge quietly asks: **According to whom?**
 
 Never mocks chronology. Reveals multiple valid ways to experience it.
 
-*(BUILD-011 Invisible Contract · Article IV fair play)*
+*(BUILD-011 Reader's Covenant · Article IV fair play)*
 
 ---
 
