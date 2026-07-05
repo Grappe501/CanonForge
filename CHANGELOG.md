@@ -3,6 +3,17 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [0.3.0] — 2026-07-05
+
+### Added
+- CF-ENTRY-032: Composer's Blueprint · CHRONOFORGE Master Build System v0.1
+- Concepts CF-CON-121 through CF-CON-135 (135 total)
+- `architecture/COMPOSERS_BLUEPRINT.md` — ten-layer build system map
+- Master promise: architecture never more interesting than people
+
+### Milestone
+- Stop inventing · start architecting · Layer 0 Constitution largely mapped
+
 ## [0.2.9] — 2026-07-05
 
 ### Added

@@ -3,13 +3,13 @@
 > Institutional knowledge system for **CHRONOFORGE** — the recursive adventure novel project.
 > Codename: CHRONOFORGE · Repo: `Grappe501/CanonForge` · Local truth: `H:\CanonForge`
 
-**Version:** see [VERSION](VERSION) · **Current:** 0.2.9 · **Concepts:** 120
+**Version:** see [VERSION](VERSION) · **Current:** 0.3.0 · **Concepts:** 135 · **Build System:** v0.1
 
 ---
 
 ## What this is
 
-CanonForge is the **Knowledge OS** — not the book. It ingests every conversation upload, registers every concept, and synthesizes governing canon before any prose is written.
+CanonForge is the **Knowledge OS** and live instance of the **Composer's Blueprint** — the machine that produces CHRONOFORGE, not documentation about the story.
 
 ```txt
 knowledge/     ← raw entries + concept registry (institutional memory)
@@ -31,6 +31,7 @@ ingest/        ← machine-readable manifest for retrieval automation
 | What's still undecided? | [knowledge/OPEN_QUESTIONS.md](knowledge/OPEN_QUESTIONS.md) |
 | Where did an idea come from? | [knowledge/INGEST_INDEX.md](knowledge/INGEST_INDEX.md) → `entries/` |
 | What did we lock today? | [knowledge/DECISION_LOG.md](knowledge/DECISION_LOG.md) |
+| What is the build system? | [architecture/COMPOSERS_BLUEPRINT.md](architecture/COMPOSERS_BLUEPRINT.md) |
 | What is the production workflow? | [architecture/PRODUCTION_PHILOSOPHY.md](architecture/PRODUCTION_PHILOSOPHY.md) |
 | What is the master score? | [architecture/THE_SCORE.md](architecture/THE_SCORE.md) |
 | What is the typographic language? | [architecture/VISUAL_GRAMMAR.md](architecture/VISUAL_GRAMMAR.md) |

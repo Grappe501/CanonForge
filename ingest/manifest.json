@@ -1,12 +1,13 @@
 {
   "schema_version": "1.0.0",
   "canonforge_version": "0.2.0",
-  "generated_at": "2026-07-05T20:59:31.030762+00:00",
+  "generated_at": "2026-07-05T21:01:32.306717+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 31,
-  "concept_count": 120,
+  "entry_count": 32,
+  "concept_count": 135,
+  "build_system_version": "0.1",
   "entries": [
     {
       "entry_id": "CF-ENTRY-001",
@@ -438,6 +439,31 @@
         "CF-CON-120"
       ],
       "byte_size": 4204
+    },
+    {
+      "entry_id": "CF-ENTRY-032",
+      "file": "knowledge/entries/032-composers-blueprint-master-build-system.md",
+      "sha256": "477f222213360d3e2f55936adb29fbae4da562e620233cf4fe6f041ad16a0c44",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-121",
+        "CF-CON-122",
+        "CF-CON-123",
+        "CF-CON-124",
+        "CF-CON-125",
+        "CF-CON-126",
+        "CF-CON-127",
+        "CF-CON-128",
+        "CF-CON-129",
+        "CF-CON-130",
+        "CF-CON-131",
+        "CF-CON-132",
+        "CF-CON-133",
+        "CF-CON-134",
+        "CF-CON-135"
+      ],
+      "byte_size": 5681
     }
   ],
   "indexes": {

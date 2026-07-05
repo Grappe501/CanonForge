@@ -53,6 +53,7 @@ H:/           = local truth
 
 | # | Bible | Phase | Location | Status |
 |---|---|---|---|---|
+| 0 | Composer's Blueprint | — | `architecture/COMPOSERS_BLUEPRINT.md` | **v0.1 ✓** |
 | 1 | The Promise | 1 | TBD | Open |
 | 2 | Hidden Timeline | 2 | Book of Secrets | Not started |
 | 3 | Published Timeline | 3 | architecture/ | Not started |

@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 0.2.9 · 2026-07-05 · 120 concepts registered
+> Version 0.3.0 · 2026-07-05 · 135 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -124,6 +124,21 @@
 | CF-CON-118 | Meaning accrues late | Process | **Locked** | Five movements: story→character→clues→rhythm→performance. | CF-ENTRY-031 |
 | CF-CON-119 | Collectible typography | Commerce | **Locked** | First Edition typography as Original Score collectible. | CF-ENTRY-031 |
 | CF-CON-120 | Performances not score | Commerce | **Locked** | Later editions are performances; one composed score canonical. | CF-ENTRY-031 |
+| CF-CON-121 | Composer's Blueprint | Governance | **Locked** | Machine that produces story—not story documentation. | CF-ENTRY-032 |
+| CF-CON-122 | Master Build System | Governance | **Locked** | CHRONOFORGE ten-layer OS; CanonForge repo is live instance. | CF-ENTRY-032 |
+| CF-CON-123 | Layer 0 Constitution | Governance | **Locked** | Eight constitutional docs; why book exists; largely mapped. | CF-ENTRY-032 |
+| CF-CON-124 | Layer 1 Book of Secrets | Governance | **Locked** | Nine apex docs; never published; gate established. | CF-ENTRY-032 |
+| CF-CON-125 | Character Engine | Architecture | **Open** | Psychological architecture per character—not biography. | CF-ENTRY-032 |
+| CF-CON-126 | Reader Psychology | Architecture | **Open** | Per-scene reader assumption and emotion model. | CF-ENTRY-032 |
+| CF-CON-127 | Layer 5 Musical Composition | Architecture | **Locked** | Per-scene tempo pulse meter cadence silence etc. | CF-ENTRY-032 |
+| CF-CON-128 | Emotional Architecture | Architecture | **Open** | Plot feelings not events—symphony of emotions. | CF-ENTRY-032 |
+| CF-CON-129 | Discovery Engine | Architecture | **Locked** | Five passes; every page maps to every pass. | CF-ENTRY-032 |
+| CF-CON-130 | Echo System | Architecture | **Open** | Track every recurring motif occurrence. | CF-ENTRY-032 |
+| CF-CON-131 | Layer 9 Performance Design | Architecture | **Locked** | Post-narrative layout typography canonical edition. | CF-ENTRY-032 |
+| CF-CON-132 | Layer 10 Validation | Architecture | **Locked** | Checklist proving five-pass book works fairly. | CF-ENTRY-032 |
+| CF-CON-133 | Reader Simulator | Architecture | **Open** | Persona models A–E; simulate experiences while designing. | CF-ENTRY-032 |
+| CF-CON-134 | Resonance Matrix | Architecture | **Open** | Crown jewel: per-page row across all dimensions. | CF-ENTRY-032 |
+| CF-CON-135 | People over architecture | Governance | **Locked** | If architecture beats people, stop and fix. | CF-ENTRY-032 |
 
 ## Related Concepts
 
@@ -247,3 +262,18 @@
 - **CF-CON-118** (Meaning accrues late, Locked): CF-CON-112 → `architecture/PRODUCTION_PHILOSOPHY.md`
 - **CF-CON-119** (Collectible typography, Locked): CF-CON-116 → `architecture/PRODUCTION_PHILOSOPHY.md`
 - **CF-CON-120** (Performances not score, Locked): CF-CON-116 → `architecture/PRODUCTION_PHILOSOPHY.md`
+- **CF-CON-121** (Composer's Blueprint, Locked): CF-CON-122 → `architecture/COMPOSERS_BLUEPRINT.md`
+- **CF-CON-122** (Master Build System, Locked): CF-CON-121 → `architecture/COMPOSERS_BLUEPRINT.md`
+- **CF-CON-123** (Layer 0 Constitution, Locked): CF-CON-122 → `architecture/COMPOSERS_BLUEPRINT.md`
+- **CF-CON-124** (Layer 1 Book of Secrets, Locked): CF-CON-022 → `canon/BOOK_OF_SECRETS/README.md`
+- **CF-CON-125** (Character Engine, Open): — → `architecture/COMPOSERS_BLUEPRINT.md`
+- **CF-CON-126** (Reader Psychology, Open): CF-CON-133 → `architecture/COMPOSERS_BLUEPRINT.md`
+- **CF-CON-127** (Layer 5 Musical Composition, Locked): CF-CON-070, CF-CON-093 → `architecture/RHYTHM_BIBLE.md`
+- **CF-CON-128** (Emotional Architecture, Open): CF-CON-127 → `architecture/COMPOSERS_BLUEPRINT.md`
+- **CF-CON-129** (Discovery Engine, Locked): CF-CON-001, CF-CON-134 → `architecture/FIVE_LOCKS.md`
+- **CF-CON-130** (Echo System, Open): CF-CON-094 → `architecture/COMPOSERS_BLUEPRINT.md`
+- **CF-CON-131** (Layer 9 Performance Design, Locked): CF-CON-112 → `architecture/PRODUCTION_PHILOSOPHY.md`
+- **CF-CON-132** (Layer 10 Validation, Locked): CF-CON-027 → `architecture/VALIDATION_STACK.md`
+- **CF-CON-133** (Reader Simulator, Open): CF-CON-126 → `architecture/COMPOSERS_BLUEPRINT.md`
+- **CF-CON-134** (Resonance Matrix, Open): CF-CON-094, CF-CON-129 → `architecture/COMPOSERS_BLUEPRINT.md`
+- **CF-CON-135** (People over architecture, Locked): CF-CON-028 → `canon/MASTER_CANON.md`

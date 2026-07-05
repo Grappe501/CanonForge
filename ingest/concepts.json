@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "canonforge_version": "0.2.0",
-  "generated_at": "2026-07-05T20:59:31.057212+00:00",
+  "generated_at": "2026-07-05T21:01:32.314221+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -1336,6 +1336,171 @@
         "CF-ENTRY-031"
       ],
       "canon_ref": "architecture/PRODUCTION_PHILOSOPHY.md"
+    },
+    {
+      "id": "CF-CON-121",
+      "label": "Composer's Blueprint",
+      "category": "Governance",
+      "status": "Locked",
+      "definition": "Machine that produces story\u2014not story documentation.",
+      "sources": [
+        "CF-ENTRY-032"
+      ],
+      "canon_ref": "architecture/COMPOSERS_BLUEPRINT.md"
+    },
+    {
+      "id": "CF-CON-122",
+      "label": "Master Build System",
+      "category": "Governance",
+      "status": "Locked",
+      "definition": "CHRONOFORGE ten-layer OS; CanonForge repo is live instance.",
+      "sources": [
+        "CF-ENTRY-032"
+      ],
+      "canon_ref": "architecture/COMPOSERS_BLUEPRINT.md"
+    },
+    {
+      "id": "CF-CON-123",
+      "label": "Layer 0 Constitution",
+      "category": "Governance",
+      "status": "Locked",
+      "definition": "Eight constitutional docs; why book exists; largely mapped.",
+      "sources": [
+        "CF-ENTRY-032"
+      ],
+      "canon_ref": "architecture/COMPOSERS_BLUEPRINT.md"
+    },
+    {
+      "id": "CF-CON-124",
+      "label": "Layer 1 Book of Secrets",
+      "category": "Governance",
+      "status": "Locked",
+      "definition": "Nine apex docs; never published; gate established.",
+      "sources": [
+        "CF-ENTRY-032"
+      ],
+      "canon_ref": "canon/BOOK_OF_SECRETS/README.md"
+    },
+    {
+      "id": "CF-CON-125",
+      "label": "Character Engine",
+      "category": "Architecture",
+      "status": "Open",
+      "definition": "Psychological architecture per character\u2014not biography.",
+      "sources": [
+        "CF-ENTRY-032"
+      ],
+      "canon_ref": "architecture/COMPOSERS_BLUEPRINT.md"
+    },
+    {
+      "id": "CF-CON-126",
+      "label": "Reader Psychology",
+      "category": "Architecture",
+      "status": "Open",
+      "definition": "Per-scene reader assumption and emotion model.",
+      "sources": [
+        "CF-ENTRY-032"
+      ],
+      "canon_ref": "architecture/COMPOSERS_BLUEPRINT.md"
+    },
+    {
+      "id": "CF-CON-127",
+      "label": "Layer 5 Musical Composition",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "Per-scene tempo pulse meter cadence silence etc.",
+      "sources": [
+        "CF-ENTRY-032"
+      ],
+      "canon_ref": "architecture/RHYTHM_BIBLE.md"
+    },
+    {
+      "id": "CF-CON-128",
+      "label": "Emotional Architecture",
+      "category": "Architecture",
+      "status": "Open",
+      "definition": "Plot feelings not events\u2014symphony of emotions.",
+      "sources": [
+        "CF-ENTRY-032"
+      ],
+      "canon_ref": "architecture/COMPOSERS_BLUEPRINT.md"
+    },
+    {
+      "id": "CF-CON-129",
+      "label": "Discovery Engine",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "Five passes; every page maps to every pass.",
+      "sources": [
+        "CF-ENTRY-032"
+      ],
+      "canon_ref": "architecture/FIVE_LOCKS.md"
+    },
+    {
+      "id": "CF-CON-130",
+      "label": "Echo System",
+      "category": "Architecture",
+      "status": "Open",
+      "definition": "Track every recurring motif occurrence.",
+      "sources": [
+        "CF-ENTRY-032"
+      ],
+      "canon_ref": "architecture/COMPOSERS_BLUEPRINT.md"
+    },
+    {
+      "id": "CF-CON-131",
+      "label": "Layer 9 Performance Design",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "Post-narrative layout typography canonical edition.",
+      "sources": [
+        "CF-ENTRY-032"
+      ],
+      "canon_ref": "architecture/PRODUCTION_PHILOSOPHY.md"
+    },
+    {
+      "id": "CF-CON-132",
+      "label": "Layer 10 Validation",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "Checklist proving five-pass book works fairly.",
+      "sources": [
+        "CF-ENTRY-032"
+      ],
+      "canon_ref": "architecture/VALIDATION_STACK.md"
+    },
+    {
+      "id": "CF-CON-133",
+      "label": "Reader Simulator",
+      "category": "Architecture",
+      "status": "Open",
+      "definition": "Persona models A\u2013E; simulate experiences while designing.",
+      "sources": [
+        "CF-ENTRY-032"
+      ],
+      "canon_ref": "architecture/COMPOSERS_BLUEPRINT.md"
+    },
+    {
+      "id": "CF-CON-134",
+      "label": "Resonance Matrix",
+      "category": "Architecture",
+      "status": "Open",
+      "definition": "Crown jewel: per-page row across all dimensions.",
+      "sources": [
+        "CF-ENTRY-032"
+      ],
+      "canon_ref": "architecture/COMPOSERS_BLUEPRINT.md"
+    },
+    {
+      "id": "CF-CON-135",
+      "label": "People over architecture",
+      "category": "Governance",
+      "status": "Locked",
+      "definition": "If architecture beats people, stop and fix.",
+      "sources": [
+        "CF-ENTRY-032"
+      ],
+      "canon_ref": "canon/MASTER_CANON.md"
     }
   ],
   "edges": [
@@ -2207,6 +2372,91 @@
     {
       "from": "CF-CON-120",
       "to": "CF-CON-116",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-121",
+      "to": "CF-CON-122",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-122",
+      "to": "CF-CON-121",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-123",
+      "to": "CF-CON-122",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-124",
+      "to": "CF-CON-022",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-126",
+      "to": "CF-CON-133",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-127",
+      "to": "CF-CON-070",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-127",
+      "to": "CF-CON-093",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-128",
+      "to": "CF-CON-127",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-129",
+      "to": "CF-CON-001",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-129",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-130",
+      "to": "CF-CON-094",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-131",
+      "to": "CF-CON-112",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-132",
+      "to": "CF-CON-027",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-133",
+      "to": "CF-CON-126",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-134",
+      "to": "CF-CON-094",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-134",
+      "to": "CF-CON-129",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-135",
+      "to": "CF-CON-028",
       "type": "related"
     }
   ]

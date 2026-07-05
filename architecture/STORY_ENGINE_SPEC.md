@@ -6,7 +6,7 @@
 
 ## Definition
 
-The Story Engine is the **complete pre-prose artifact set** required before a single word of manuscript is written. It is not the book — it is the machine that produces the book.
+The Story Engine is the **complete pre-prose artifact set** required before a single word of manuscript is written. Subsystem of the [Composer's Blueprint](COMPOSERS_BLUEPRINT.md) (Layers 0–10).
 
 ```txt
 INPUT:   conversation uploads · author decisions · Book of Secrets
@@ -33,6 +33,7 @@ OUTPUT:  manuscript/ (Phase 14+ ONLY)
 | The Score | 4+ | `architecture/THE_SCORE.md` ✓ (framework) |
 | Physics of Reading | 4+ | `architecture/PHYSICS_OF_READING.md` ✓ (framework) |
 | Narrative Meter | 4+ | `architecture/NARRATIVE_METER.md` ✓ (framework) |
+| Composer's Blueprint | — | `architecture/COMPOSERS_BLUEPRINT.md` ✓ (v0.1) |
 | Production Philosophy | 14+ | `architecture/PRODUCTION_PHILOSOPHY.md` ✓ (framework) |
 | Chapter One / Opening | 9 | **LAST** |
 

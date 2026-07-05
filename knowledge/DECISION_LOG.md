@@ -34,7 +34,8 @@
 | 2026-07-05 | Reader performance model | Novel completed each read | CF-CON-106, CF-CON-108 |
 | 2026-07-05 | Narrative Meter | Weight not word count; organic structure | CF-CON-101, CF-CON-102 |
 | 2026-07-05 | Production philosophy | Two manuscripts · Composer's Pass · Original Score | CF-CON-111–120 |
-| 2026-07-05 | Meaning accrues late | Five-movement draft discipline | CF-CON-118 |
+| 2026-07-05 | Composer's Blueprint | Master Build System v0.1 · ten layers | CF-CON-121, CF-CON-122 |
+| 2026-07-05 | People over architecture | Master promise before any scene | CF-CON-135 |
 | 2026-07-05 | Originality firewall | Genre pillars as physics not copy | CF-CON-039 |
 
 ## Open Forks (see OPEN_QUESTIONS.md)

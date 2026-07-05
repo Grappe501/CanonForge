@@ -29,7 +29,8 @@
 | **Reader performance** | Book=score; reader=performer; novel completed each read | CF-CON-106 |
 | **Composer's Pass** | Phase 2 performance orchestration after narrative lock | CF-CON-112 |
 | **Meaning accrues late** | Five movements; performance design is Movement 5 | CF-CON-118 |
-| **Original Score** | One canonical First Edition—the composed artifact | CF-CON-116 |
+| **Composer's Blueprint** | Machine that produces the story | CF-CON-121 |
+| **Resonance Matrix** | Crown jewel page-row map (TBD) | CF-CON-134 |
 | **Experience product** | The reading journey is the product, not the artifact | CF-CON-037 |
 | **3-text-before-page-5** | Experience success scene: text three people before reaching page five on reread | CF-CON-045 |
 | **Call me when you finish** | Target recommendation type — experience sharing, not craft admiration | CF-CON-038 |

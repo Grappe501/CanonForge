@@ -1,8 +1,8 @@
-# Master Canon v0.2.9
+# Master Canon v0.3.0
 
 > Governing creative constitution for CHRONOFORGE
 > Derived from locked concepts · open forks marked explicitly
-> Supersedes v0.2.8 (2026-07-05 · CF-ENTRY-031 production philosophy)
+> Supersedes v0.2.9 · **Composer's Blueprint v0.1** (CF-ENTRY-032)
 
 ---
 
@@ -88,6 +88,18 @@ Not a book · a performed reading experience
 
 See [architecture/PRODUCTION_PHILOSOPHY.md](../architecture/PRODUCTION_PHILOSOPHY.md).
 
+### Master promise (CF-CON-135 · locked CF-ENTRY-032)
+
+> **If the architecture ever becomes more interesting than the people, we stop and fix it.**
+
+Hidden systems amplify emotion — they do not compete with it.
+
+### Composer's Blueprint (CF-CON-121 · CF-CON-122)
+
+**CHRONOFORGE Master Build System v0.1** — ten layers + Reader Simulator + Resonance Matrix.
+
+CanonForge repo = live OS instance. Full map: [architecture/COMPOSERS_BLUEPRINT.md](../architecture/COMPOSERS_BLUEPRINT.md).
+
 ### Typography immutable law (CF-CON-089)
 
 > **Typography is never decorative.**
@@ -130,14 +142,17 @@ Yes: **"How did this book know I would think that?"**
 ## Hierarchy
 
 ```txt
+COMPOSER'S BLUEPRINT  →  machine that produces the story (architecture/COMPOSERS_BLUEPRINT.md)
+
 APEX (author-only):
-  BOOK OF SECRETS  →  source truths · compile gate
+  BOOK OF SECRETS  →  Layer 1 · source truths · compile gate
 
-GOVERNANCE:
+GOVERNANCE (Layer 0):
   MASTER CANON     →  this document
+  RULE BOOK        →  canonical rules
 
-IMPLEMENTATION:
-  Story Engine / ten bibles / architecture docs
+IMPLEMENTATION (Layers 2–10):
+  Story Engine / composition / validation artifacts
 
 PROSE (last):
   manuscript/      →  NOT AUTHORIZED YET
@@ -354,4 +369,4 @@ See [knowledge/OPEN_QUESTIONS.md](../knowledge/OPEN_QUESTIONS.md):
 
 ---
 
-*v0.2.9 · 2026-07-05 · synthesized from CF-ENTRY-001 through CF-ENTRY-031 · 120 concepts*
+*v0.3.0 · 2026-07-05 · Composer's Blueprint v0.1 · CF-ENTRY-001 through CF-ENTRY-032 · 135 concepts*
