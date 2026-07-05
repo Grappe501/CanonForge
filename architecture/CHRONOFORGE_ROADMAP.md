@@ -12,7 +12,7 @@
 |---|---|
 | Original expectation | ~30–40 BUILDs |
 | **Current projection** | **80–120 canonical BUILDs** |
-| **Frozen today** | BUILD-001–032 *(32 BUILDs · 684 concepts)* |
+| **Frozen today** | BUILD-001–033 *(33 BUILDs · 716 concepts)* |
 
 Chronoforge is not a novel outline. It is a **complete engineering discipline for narrative** — software architecture · musical score · philosophical framework · production pipeline · quality assurance system · layered together.
 
@@ -23,17 +23,15 @@ Chronoforge is not a novel outline. It is a **complete engineering discipline fo
 ```txt
 PHASE I      Philosophy                    BUILD-001–015     ✓ COMPLETE
 PHASE II     Engines (operating system)    BUILD-016–032     ✓ COMPLETE
-PHASE II.5   Design Language               BUILD-033–044     NEXT (12 queued)
-PHASE III    Story Genome                  BUILD-045–052     Queued
+PHASE II.5   Design Language               BUILD-034–045     NEXT (12 queued)
+PHASE III    Story Genome                  BUILD-033–052     **Begun** (033 ✓)
 PHASE IV     The Five Reads                BUILD-053–057     Queued
 PHASE V      The Score                     BUILD-058–062     Queued
 PHASE VI     Canonical Edition             BUILD-063–072     Queued
 PHASE VII    The Novel                     BUILD-073+        Prose authorized
 ```
 
-**Nature shift at BUILD-033:** Up through BUILD-032 = universal **operating system**. From BUILD-033 onward = **this novel** — first design vocabulary, then consciousnesses, then reread engineering, then score, then audits, then prose.
-
-**Design Language gate *(CF-CON-691)*:** Do not define protagonists until atomic vocabulary exists. Characters become unforgettable through the worlds and languages they inhabit.
+**Nature shift at BUILD-033:** Story Genome begins with **First Consciousness** — consciousness architecture before atomic design vocabulary. Design Language deferred to **BUILD-034–045**.
 
 ---
 
@@ -71,45 +69,43 @@ Purpose · Reader · Discovery · Trust · Resonance · Music · Architecture.
 
 ---
 
-## Phase II.5 — The Chronoforge Design Language *(BUILD-033–044 · NEXT)*
+## Phase II.5 — Design Language *(BUILD-034–045 · NEXT)*
 
-**Atomic vocabulary** — smallest recurring design elements shaping reader experience. ~12 BUILDs before any protagonist.
+**Atomic vocabulary** — deferred from BUILD-033 by author canonical choice *(BUILD-033 = First Consciousness)*.
 
 | BUILD | Title | Notes |
 |---|---|---|
-| **033** | **Color Language** | Queued · **START HERE** |
-| **034** | Shape Language | Queued |
-| **035** | Number Language | Queued |
-| **036** | Spatial Language | Queued |
-| **037** | Gesture Language | Queued |
-| **038** | Weather Language | Queued |
-| **039** | Light and Shadow Language | Queued |
-| **040** | Sound Language | Queued |
-| **041** | Texture Language | Queued |
-| **042** | Food and Shared Meals Language | Queued |
-| **043** | Dream Language | Queued |
-| **044** | Naming Language | Queued |
-
-*(Titles provisional until author canonical upload per BUILD.)*
+| **034** | **Color Language** | Queued · **START HERE** |
+| **035** | Shape Language | Queued |
+| **036** | Number Language | Queued |
+| **037** | Spatial Language | Queued |
+| **038** | Gesture Language | Queued |
+| **039** | Weather Language | Queued |
+| **040** | Light and Shadow Language | Queued |
+| **041** | Sound Language | Queued |
+| **042** | Texture Language | Queued |
+| **043** | Food and Shared Meals Language | Queued |
+| **044** | Dream Language | Queued |
+| **045** | Naming Language | Queued |
 
 ---
 
-## Phase III — The Story Genome *(BUILD-045–052)*
+## Phase III — The Story Genome *(BUILD-033–052 · begun)*
 
-Everything becomes **specific** — consciousness profiles, not biographies.
+**This novel** — consciousness revealed not created *(CF-CON-713)*.
 
-| BUILD | Title | Notes |
+| BUILD | Title | Status |
 |---|---|---|
-| **045** | **Protagonist Engine** | Consciousness profile · false certainty · unique noticing |
-| **046** | Companion Engine | Mirrors · not sidekicks |
-| **047** | Antagonist Engine | Coherent alternate answer · not mere opposition |
-| **048** | Relationship Engine | Evolution · fracture · repair |
-| **049** | Dialogue Engine | Conversation as consciousness |
-| **050** | Scene Engine | Minimum requirements · resonance obligations |
-| **051** | Movement Engine | Symphony movements · not chapters |
-| **052** | Ending Engine | How ending changes beginning |
+| **033** | **The First Consciousness** | **✓ v1.0** · CF-ENTRY-073 |
+| **046** | Companion Engine | Queued |
+| **047** | Antagonist Engine | Queued |
+| **048** | Relationship Engine | Queued |
+| **049** | Dialogue Engine | Queued |
+| **050** | Scene Engine | Queued |
+| **051** | Movement Engine | Queued |
+| **052** | Ending Engine | Queued |
 
-*Former roadmap BUILD-033 Central Mystery · BUILD-034 Human Story · BUILD-035–036 Ending/Opening — superseded by this genome sequence.*
+*Former **Protagonist Engine** (BUILD-045) **superseded** by First Consciousness (BUILD-033).*
 
 ---
 
@@ -174,18 +170,17 @@ Steve's original Phase III–VI numbering (BUILD-033–060) is **preserved in in
 
 | Original concept | New BUILD |
 |---|---|
-| Protagonist Engine | **045** *(was 033)* |
-| Fifth Read Experience | **057** *(was 045)* |
-| Full Conductor's Score | **062** *(was 050)* |
-| Canonical Release Standard | **072** *(was 060)* |
+| Protagonist Engine | **033 First Consciousness** *(was 045)* |
+| Color Language | **034** *(deferred from 033)* |
+| Companion Engine | **046** *(was 046)* |
 
 ---
 
 ## Governance
 
 ```txt
-STOP:   BUILD-033 until BUILD-015.5 v1.0 (016–032 excepted per author uploads)
-START:  Phase II.5 · BUILD-033 Color Language
+STOP:   BUILD-034 until BUILD-015.5 v1.0 (016–033 excepted per author uploads)
+START:  Phase II.5 · BUILD-034 Color Language
 NEVER:  manuscript/ until Phase VII · BUILD-031–032 never reader-facing
 ```
 

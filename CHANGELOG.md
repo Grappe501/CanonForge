@@ -3,6 +3,18 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [2.13.0] — 2026-07-05
+
+### Added
+- CF-ENTRY-073: BUILD-033 The First Consciousness Canonical v1.0
+- Concepts CF-CON-697 through CF-CON-716
+- Consciousness profile · attention map · inner music · reader mirror
+- **Consciousness revealed not created** · **identity through experience not labels**
+- **Reader builds identification together with the book** (CF-CON-715)
+- Story Genome begun · Design Language deferred to BUILD-034–045
+- Protagonist Engine superseded (CF-CON-693)
+- Master Canon v1.5.7
+
 ## [2.12.0] — 2026-07-05
 
 ### Added

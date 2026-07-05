@@ -74,14 +74,14 @@ Architecture must now give birth to the actual story. **BUILD-026 World Engine v
 
 Gravitational center: **How do separate consciousnesses discover that they belong to the same reality?** *(CF-CON-549)*
 
-Concrete questions for Phase II.5 (BUILD-033+):
+Concrete questions for Phase II.5 (BUILD-034+):
 
-- **BUILD-033 Color Language** — first atomic design vocabulary *(Phase II.5 gate · CF-CON-687)*
-- How do design languages connect to **Symbol Genome** and **Resonance Matrix**?
-- **Populate Prime Event ledger** — actual event record *(CF-CON-670 · AUTHOR-ONLY)*
-- **Never shown directly** — can Prime Event be assembled fairly? *(CF-CON-678 · Candidate)*
+- **BUILD-034 Color Language** — first atomic design vocabulary *(deferred from 033 · CF-CON-687)*
+- **Populate First Consciousness profile** — central question · false certainty · attention map *(CF-CON-711)*
+- How does design language connect to **First Consciousness attention map**?
+- **Populate Prime Event ledger** *(CF-CON-670 · AUTHOR-ONLY)*
 
-Roadmap v2: **80–120 BUILDs** · Story Genome begins **BUILD-045** · prose **BUILD-073+**. See [architecture/CHRONOFORGE_ROADMAP.md](../architecture/CHRONOFORGE_ROADMAP.md).
+BUILD-033 establishes **consciousness architecture** — not biography. Story Genome begun. Design Language **BUILD-034–045** follows.
 
 ## Hidden mathematics {#hidden-math}
 

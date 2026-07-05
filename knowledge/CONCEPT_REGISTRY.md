@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 2.12.0 · 2026-07-05 · 696 concepts registered
+> Version 2.13.0 · 2026-07-05 · 716 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -690,16 +690,36 @@
 | CF-CON-684 | Consciousness changes not event | Mission | **Frozen** | Event fixed; climax is understanding significance. | CF-ENTRY-071 |
 | CF-CON-685 | Narrative engineering discipline | Governance | **Frozen** | Complete OS for story; not novel outline. | CF-ENTRY-072 |
 | CF-CON-686 | Phase II engine room complete | Mission | **Frozen** | BUILD-016-032 operating system frozen. | CF-ENTRY-072 |
-| CF-CON-687 | Design Language phase | Architecture | **Open** | Phase II.5 atomic vocabulary BUILD-033-044. | CF-ENTRY-072 |
+| CF-CON-687 | Design Language phase | Architecture | **Open** | Phase II.5 atomic vocabulary BUILD-034-045. | CF-ENTRY-072, CF-ENTRY-073 |
 | CF-CON-688 | 80-120 build scale | Governance | **Open** | Projected canonical BUILD count at completion. | CF-ENTRY-072 |
-| CF-CON-689 | Story Genome phase | Architecture | **Open** | Phase III BUILD-045-052 specific novel. | CF-ENTRY-072 |
+| CF-CON-689 | Story Genome phase | Architecture | **Open** | Phase III BUILD-033-052 specific novel. | CF-ENTRY-072, CF-ENTRY-073 |
 | CF-CON-690 | Five Reads engineering | Architecture | **Open** | Phase IV BUILD-053-057 reread capability. | CF-ENTRY-072 |
 | CF-CON-691 | Design language before characters | Governance | **Frozen** | Atomic vocabulary before protagonist. | CF-ENTRY-072 |
 | CF-CON-692 | Chronoforge roadmap v2 | Governance | **Frozen** | Seven phases plus II.5; renumber 033+. | CF-ENTRY-072 |
-| CF-CON-693 | Protagonist Engine queued | Architecture | **Open** | BUILD-045 consciousness profile not biography. | CF-ENTRY-072 |
+| CF-CON-693 | Protagonist Engine superseded | Architecture | **Deprecated** | Replaced by BUILD-033 First Consciousness. | CF-ENTRY-072, CF-ENTRY-073 |
 | CF-CON-694 | Antagonist as alternate answer | Theme | **Open** | Coherent answer to central question. | CF-ENTRY-072 |
 | CF-CON-695 | Movement Engine queued | Architecture | **Open** | BUILD-051 symphony movements not chapters. | CF-ENTRY-072 |
 | CF-CON-696 | Canonical edition audit stack | Process | **Open** | Phase VI BUILD-063-072 QA audits. | CF-ENTRY-072 |
+| CF-CON-697 | First Consciousness | Architecture | **Frozen** | Primary lens; architecture of awareness not profile. | CF-ENTRY-073 |
+| CF-CON-698 | First Consciousness first law | Governance | **Frozen** | Lens not importance; lens changes reality remains. | CF-ENTRY-073 |
+| CF-CON-699 | Lived central question | Mission | **Frozen** | Unanswered question shapes attention memory hope. | CF-ENTRY-073 |
+| CF-CON-700 | False certainty consciousness | Architecture | **Frozen** | Foundational assumption; deepest fracture. | CF-ENTRY-073 |
+| CF-CON-701 | Attention map | Architecture | **Frozen** | What noticed unnoticed misunderstood; attention destiny. | CF-ENTRY-073 |
+| CF-CON-702 | Inner music | Architecture | **Frozen** | Private rhythm; recognizable before dialogue. | CF-ENTRY-073 |
+| CF-CON-703 | Memory landscape | Architecture | **Frozen** | Individual retention style not generic. | CF-ENTRY-073 |
+| CF-CON-704 | Language of self | Architecture | **Frozen** | Ways of thinking not favorite words. | CF-ENTRY-073 |
+| CF-CON-705 | Invisible wound | Architecture | **Frozen** | Incomplete understanding; never exposition. | CF-ENTRY-073 |
+| CF-CON-706 | Quiet gift | Architecture | **Frozen** | Overlooked strength grants perspective. | CF-ENTRY-073 |
+| CF-CON-707 | Moral compass response | Mission | **Frozen** | Response when certainty fails reveals character. | CF-ENTRY-073 |
+| CF-CON-708 | Relational mirror | Architecture | **Frozen** | Self understood through others. | CF-ENTRY-073 |
+| CF-CON-709 | Reader mirror | Heart | **Frozen** | Recognition of self not understanding other. | CF-ENTRY-073 |
+| CF-CON-710 | Evolution curve four dimensions | Architecture | **Frozen** | Perception meaning relationship hope. | CF-ENTRY-073 |
+| CF-CON-711 | Consciousness profile record | Architecture | **Frozen** | Ten fields; living profile per consciousness. | CF-ENTRY-073 |
+| CF-CON-712 | First Consciousness final principle | Mission | **Frozen** | Never fully knowable; real people beyond stories. | CF-ENTRY-073 |
+| CF-CON-713 | Consciousness revealed not created | Governance | **Frozen** | People revealed; unanswered question not traits. | CF-ENTRY-073 |
+| CF-CON-714 | Identity through experience | Governance | **Frozen** | Notice remember fear hope; not labels. | CF-ENTRY-073 |
+| CF-CON-715 | Reader builds identification | Heart | **Frozen** | Reader and book build immersion together. | CF-ENTRY-073 |
+| CF-CON-716 | First mind reader inhabits | Heart | **Frozen** | Initial window into world; not meet protagonist. | CF-ENTRY-073 |
 
 ## Related Concepts
 
@@ -1391,11 +1411,31 @@
 - **CF-CON-686** (Phase II engine room complete, Frozen): CF-CON-660, CF-CON-665 → `architecture/CHRONOFORGE_ROADMAP.md`
 - **CF-CON-687** (Design Language phase, Open): CF-CON-691, CF-CON-689 → `architecture/CHRONOFORGE_ROADMAP.md`
 - **CF-CON-688** (80-120 build scale, Open): CF-CON-685 → `architecture/CHRONOFORGE_ROADMAP.md`
-- **CF-CON-689** (Story Genome phase, Open): CF-CON-687, CF-CON-690 → `architecture/CHRONOFORGE_ROADMAP.md`
+- **CF-CON-689** (Story Genome phase, Open): CF-CON-697, CF-CON-690 → `architecture/CHRONOFORGE_ROADMAP.md`
 - **CF-CON-690** (Five Reads engineering, Open): CF-CON-001, CF-CON-689 → `architecture/CHRONOFORGE_ROADMAP.md`
 - **CF-CON-691** (Design language before characters, Frozen): CF-CON-687, CF-CON-545 → `architecture/CHRONOFORGE_ROADMAP.md`
 - **CF-CON-692** (Chronoforge roadmap v2, Frozen): CF-CON-360, CF-CON-688 → `architecture/CHRONOFORGE_ROADMAP.md`
-- **CF-CON-693** (Protagonist Engine queued, Open): CF-CON-689, CF-CON-364 → `architecture/CHRONOFORGE_ROADMAP.md`
-- **CF-CON-694** (Antagonist as alternate answer, Open): CF-CON-003, CF-CON-693 → `architecture/CHRONOFORGE_ROADMAP.md`
+- **CF-CON-693** (Protagonist Engine superseded, Deprecated): CF-CON-697, CF-CON-713 → `canon/build/BUILD-033-first-consciousness.md`
+- **CF-CON-694** (Antagonist as alternate answer, Open): CF-CON-003, CF-CON-697 → `architecture/CHRONOFORGE_ROADMAP.md`
 - **CF-CON-695** (Movement Engine queued, Open): CF-CON-059, CF-CON-524 → `architecture/CHRONOFORGE_ROADMAP.md`
 - **CF-CON-696** (Canonical edition audit stack, Open): CF-CON-132, CF-CON-116 → `architecture/CHRONOFORGE_ROADMAP.md`
+- **CF-CON-697** (First Consciousness, Frozen): CF-CON-364, CF-CON-713, CF-CON-716 → `canon/build/BUILD-033-first-consciousness.md`
+- **CF-CON-698** (First Consciousness first law, Frozen): CF-CON-697, CF-CON-383 → `canon/build/BUILD-033-first-consciousness.md#0331--the-first-law`
+- **CF-CON-699** (Lived central question, Frozen): CF-CON-697, CF-CON-171 → `canon/build/BUILD-033-first-consciousness.md#0332--the-central-question`
+- **CF-CON-700** (False certainty consciousness, Frozen): CF-CON-697, CF-CON-401 → `canon/build/BUILD-033-first-consciousness.md#0333--the-false-certainty`
+- **CF-CON-701** (Attention map, Frozen): CF-CON-697, CF-CON-173 → `canon/build/BUILD-033-first-consciousness.md#0334--the-attention-map`
+- **CF-CON-702** (Inner music, Frozen): CF-CON-697, CF-CON-505 → `canon/build/BUILD-033-first-consciousness.md#0335--the-inner-music`
+- **CF-CON-703** (Memory landscape, Frozen): CF-CON-697, CF-CON-416 → `canon/build/BUILD-033-first-consciousness.md#0336--the-memory-landscape`
+- **CF-CON-704** (Language of self, Frozen): CF-CON-697, CF-CON-449 → `canon/build/BUILD-033-first-consciousness.md#0337--the-language-of-self`
+- **CF-CON-705** (Invisible wound, Frozen): CF-CON-697, CF-CON-380 → `canon/build/BUILD-033-first-consciousness.md#0338--the-invisible-wound`
+- **CF-CON-706** (Quiet gift, Frozen): CF-CON-697, CF-CON-176 → `canon/build/BUILD-033-first-consciousness.md#0339--the-quiet-gift`
+- **CF-CON-707** (Moral compass response, Frozen): CF-CON-697, CF-CON-145 → `canon/build/BUILD-033-first-consciousness.md#03310--the-moral-compass`
+- **CF-CON-708** (Relational mirror, Frozen): CF-CON-697, CF-CON-578 → `canon/build/BUILD-033-first-consciousness.md#03311--the-relational-mirror`
+- **CF-CON-709** (Reader mirror, Frozen): CF-CON-697, CF-CON-002 → `canon/build/BUILD-033-first-consciousness.md#03312--the-readers-mirror`
+- **CF-CON-710** (Evolution curve four dimensions, Frozen): CF-CON-697, CF-CON-623 → `canon/build/BUILD-033-first-consciousness.md#03313--the-evolution-curve`
+- **CF-CON-711** (Consciousness profile record, Frozen): CF-CON-697, CF-CON-134 → `canon/build/BUILD-033-first-consciousness.md#03314--the-consciousness-profile`
+- **CF-CON-712** (First Consciousness final principle, Frozen): CF-CON-697, CF-CON-627 → `canon/build/BUILD-033-first-consciousness.md#03315--the-final-principle`
+- **CF-CON-713** (Consciousness revealed not created, Frozen): CF-CON-697, CF-CON-364 → `canon/build/BUILD-033-first-consciousness.md`
+- **CF-CON-714** (Identity through experience, Frozen): CF-CON-697, CF-CON-145 → `canon/build/BUILD-033-first-consciousness.md`
+- **CF-CON-715** (Reader builds identification, Frozen): CF-CON-709, CF-CON-002 → `canon/build/BUILD-033-first-consciousness.md`
+- **CF-CON-716** (First mind reader inhabits, Frozen): CF-CON-697, CF-CON-005 → `canon/build/BUILD-033-first-consciousness.md#0330--purpose`

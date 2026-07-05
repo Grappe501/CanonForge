@@ -9,7 +9,7 @@
 
 > **First story-specific BUILD.** Not mechanics · not philosophy — **the secret** that has been true since before page one. Renamed from queued **Rules of Time** *(BUILD-009 already defines experienced time)*.
 
-**Composing phase** *(BUILD-032+)*. Next: **BUILD-033 Color Language** *(Phase II.5 · Roadmap v2)*.
+**Composing phase** *(BUILD-032+)*. **BUILD-033 First Consciousness** *(✓ v1.0)*. Next: **BUILD-034 Color Language**.
 
 ---
 
@@ -178,11 +178,11 @@ The central revelation becomes something they **genuinely create within their ow
 |---|---|
 | Universal framework (001–031) | **Complete** |
 | **This story's Prime Event** | **Framework frozen · event not yet populated** |
-| BUILD-033–044 Design Language | Queued · **NEXT** |
-| BUILD-045 Protagonist Engine | Queued |
-| BUILD-046–052 Story Genome | Queued |
+| BUILD-033 First Consciousness | **✓ v1.0** |
+| BUILD-034–045 Design Language | Queued · **NEXT** |
+| BUILD-046 Companion Engine | Queued |
 
-→ **BUILD-033 Color Language** *(Phase II.5 · queued)* · [CHRONOFORGE_ROADMAP.md](../../architecture/CHRONOFORGE_ROADMAP.md)
+→ **BUILD-034 Color Language** *(Phase II.5 · queued)*
 
 ---
 

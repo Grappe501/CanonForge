@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "2.12.0",
-  "generated_at": "2026-07-05T22:33:49.406936+00:00",
+  "canonforge_version": "2.13.0",
+  "generated_at": "2026-07-05T22:37:22.490873+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -7599,9 +7599,10 @@
       "label": "Design Language phase",
       "category": "Architecture",
       "status": "Open",
-      "definition": "Phase II.5 atomic vocabulary BUILD-033-044.",
+      "definition": "Phase II.5 atomic vocabulary BUILD-034-045.",
       "sources": [
-        "CF-ENTRY-072"
+        "CF-ENTRY-072",
+        "CF-ENTRY-073"
       ],
       "canon_ref": "architecture/CHRONOFORGE_ROADMAP.md"
     },
@@ -7621,9 +7622,10 @@
       "label": "Story Genome phase",
       "category": "Architecture",
       "status": "Open",
-      "definition": "Phase III BUILD-045-052 specific novel.",
+      "definition": "Phase III BUILD-033-052 specific novel.",
       "sources": [
-        "CF-ENTRY-072"
+        "CF-ENTRY-072",
+        "CF-ENTRY-073"
       ],
       "canon_ref": "architecture/CHRONOFORGE_ROADMAP.md"
     },
@@ -7662,14 +7664,15 @@
     },
     {
       "id": "CF-CON-693",
-      "label": "Protagonist Engine queued",
+      "label": "Protagonist Engine superseded",
       "category": "Architecture",
-      "status": "Open",
-      "definition": "BUILD-045 consciousness profile not biography.",
+      "status": "Deprecated",
+      "definition": "Replaced by BUILD-033 First Consciousness.",
       "sources": [
-        "CF-ENTRY-072"
+        "CF-ENTRY-072",
+        "CF-ENTRY-073"
       ],
-      "canon_ref": "architecture/CHRONOFORGE_ROADMAP.md"
+      "canon_ref": "canon/build/BUILD-033-first-consciousness.md"
     },
     {
       "id": "CF-CON-694",
@@ -7703,6 +7706,226 @@
         "CF-ENTRY-072"
       ],
       "canon_ref": "architecture/CHRONOFORGE_ROADMAP.md"
+    },
+    {
+      "id": "CF-CON-697",
+      "label": "First Consciousness",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Primary lens; architecture of awareness not profile.",
+      "sources": [
+        "CF-ENTRY-073"
+      ],
+      "canon_ref": "canon/build/BUILD-033-first-consciousness.md"
+    },
+    {
+      "id": "CF-CON-698",
+      "label": "First Consciousness first law",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Lens not importance; lens changes reality remains.",
+      "sources": [
+        "CF-ENTRY-073"
+      ],
+      "canon_ref": "canon/build/BUILD-033-first-consciousness.md#0331--the-first-law"
+    },
+    {
+      "id": "CF-CON-699",
+      "label": "Lived central question",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Unanswered question shapes attention memory hope.",
+      "sources": [
+        "CF-ENTRY-073"
+      ],
+      "canon_ref": "canon/build/BUILD-033-first-consciousness.md#0332--the-central-question"
+    },
+    {
+      "id": "CF-CON-700",
+      "label": "False certainty consciousness",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Foundational assumption; deepest fracture.",
+      "sources": [
+        "CF-ENTRY-073"
+      ],
+      "canon_ref": "canon/build/BUILD-033-first-consciousness.md#0333--the-false-certainty"
+    },
+    {
+      "id": "CF-CON-701",
+      "label": "Attention map",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "What noticed unnoticed misunderstood; attention destiny.",
+      "sources": [
+        "CF-ENTRY-073"
+      ],
+      "canon_ref": "canon/build/BUILD-033-first-consciousness.md#0334--the-attention-map"
+    },
+    {
+      "id": "CF-CON-702",
+      "label": "Inner music",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Private rhythm; recognizable before dialogue.",
+      "sources": [
+        "CF-ENTRY-073"
+      ],
+      "canon_ref": "canon/build/BUILD-033-first-consciousness.md#0335--the-inner-music"
+    },
+    {
+      "id": "CF-CON-703",
+      "label": "Memory landscape",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Individual retention style not generic.",
+      "sources": [
+        "CF-ENTRY-073"
+      ],
+      "canon_ref": "canon/build/BUILD-033-first-consciousness.md#0336--the-memory-landscape"
+    },
+    {
+      "id": "CF-CON-704",
+      "label": "Language of self",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Ways of thinking not favorite words.",
+      "sources": [
+        "CF-ENTRY-073"
+      ],
+      "canon_ref": "canon/build/BUILD-033-first-consciousness.md#0337--the-language-of-self"
+    },
+    {
+      "id": "CF-CON-705",
+      "label": "Invisible wound",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Incomplete understanding; never exposition.",
+      "sources": [
+        "CF-ENTRY-073"
+      ],
+      "canon_ref": "canon/build/BUILD-033-first-consciousness.md#0338--the-invisible-wound"
+    },
+    {
+      "id": "CF-CON-706",
+      "label": "Quiet gift",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Overlooked strength grants perspective.",
+      "sources": [
+        "CF-ENTRY-073"
+      ],
+      "canon_ref": "canon/build/BUILD-033-first-consciousness.md#0339--the-quiet-gift"
+    },
+    {
+      "id": "CF-CON-707",
+      "label": "Moral compass response",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Response when certainty fails reveals character.",
+      "sources": [
+        "CF-ENTRY-073"
+      ],
+      "canon_ref": "canon/build/BUILD-033-first-consciousness.md#03310--the-moral-compass"
+    },
+    {
+      "id": "CF-CON-708",
+      "label": "Relational mirror",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Self understood through others.",
+      "sources": [
+        "CF-ENTRY-073"
+      ],
+      "canon_ref": "canon/build/BUILD-033-first-consciousness.md#03311--the-relational-mirror"
+    },
+    {
+      "id": "CF-CON-709",
+      "label": "Reader mirror",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Recognition of self not understanding other.",
+      "sources": [
+        "CF-ENTRY-073"
+      ],
+      "canon_ref": "canon/build/BUILD-033-first-consciousness.md#03312--the-readers-mirror"
+    },
+    {
+      "id": "CF-CON-710",
+      "label": "Evolution curve four dimensions",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Perception meaning relationship hope.",
+      "sources": [
+        "CF-ENTRY-073"
+      ],
+      "canon_ref": "canon/build/BUILD-033-first-consciousness.md#03313--the-evolution-curve"
+    },
+    {
+      "id": "CF-CON-711",
+      "label": "Consciousness profile record",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Ten fields; living profile per consciousness.",
+      "sources": [
+        "CF-ENTRY-073"
+      ],
+      "canon_ref": "canon/build/BUILD-033-first-consciousness.md#03314--the-consciousness-profile"
+    },
+    {
+      "id": "CF-CON-712",
+      "label": "First Consciousness final principle",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Never fully knowable; real people beyond stories.",
+      "sources": [
+        "CF-ENTRY-073"
+      ],
+      "canon_ref": "canon/build/BUILD-033-first-consciousness.md#03315--the-final-principle"
+    },
+    {
+      "id": "CF-CON-713",
+      "label": "Consciousness revealed not created",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "People revealed; unanswered question not traits.",
+      "sources": [
+        "CF-ENTRY-073"
+      ],
+      "canon_ref": "canon/build/BUILD-033-first-consciousness.md"
+    },
+    {
+      "id": "CF-CON-714",
+      "label": "Identity through experience",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Notice remember fear hope; not labels.",
+      "sources": [
+        "CF-ENTRY-073"
+      ],
+      "canon_ref": "canon/build/BUILD-033-first-consciousness.md"
+    },
+    {
+      "id": "CF-CON-715",
+      "label": "Reader builds identification",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Reader and book build immersion together.",
+      "sources": [
+        "CF-ENTRY-073"
+      ],
+      "canon_ref": "canon/build/BUILD-033-first-consciousness.md"
+    },
+    {
+      "id": "CF-CON-716",
+      "label": "First mind reader inhabits",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Initial window into world; not meet protagonist.",
+      "sources": [
+        "CF-ENTRY-073"
+      ],
+      "canon_ref": "canon/build/BUILD-033-first-consciousness.md#0330--purpose"
     }
   ],
   "edges": [
@@ -14183,7 +14406,7 @@
     },
     {
       "from": "CF-CON-689",
-      "to": "CF-CON-687",
+      "to": "CF-CON-697",
       "type": "related"
     },
     {
@@ -14223,12 +14446,12 @@
     },
     {
       "from": "CF-CON-693",
-      "to": "CF-CON-689",
+      "to": "CF-CON-697",
       "type": "related"
     },
     {
       "from": "CF-CON-693",
-      "to": "CF-CON-364",
+      "to": "CF-CON-713",
       "type": "related"
     },
     {
@@ -14238,7 +14461,7 @@
     },
     {
       "from": "CF-CON-694",
-      "to": "CF-CON-693",
+      "to": "CF-CON-697",
       "type": "related"
     },
     {
@@ -14259,6 +14482,211 @@
     {
       "from": "CF-CON-696",
       "to": "CF-CON-116",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-697",
+      "to": "CF-CON-364",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-697",
+      "to": "CF-CON-713",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-697",
+      "to": "CF-CON-716",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-698",
+      "to": "CF-CON-697",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-698",
+      "to": "CF-CON-383",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-699",
+      "to": "CF-CON-697",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-699",
+      "to": "CF-CON-171",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-700",
+      "to": "CF-CON-697",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-700",
+      "to": "CF-CON-401",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-701",
+      "to": "CF-CON-697",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-701",
+      "to": "CF-CON-173",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-702",
+      "to": "CF-CON-697",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-702",
+      "to": "CF-CON-505",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-703",
+      "to": "CF-CON-697",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-703",
+      "to": "CF-CON-416",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-704",
+      "to": "CF-CON-697",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-704",
+      "to": "CF-CON-449",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-705",
+      "to": "CF-CON-697",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-705",
+      "to": "CF-CON-380",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-706",
+      "to": "CF-CON-697",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-706",
+      "to": "CF-CON-176",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-707",
+      "to": "CF-CON-697",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-707",
+      "to": "CF-CON-145",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-708",
+      "to": "CF-CON-697",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-708",
+      "to": "CF-CON-578",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-709",
+      "to": "CF-CON-697",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-709",
+      "to": "CF-CON-002",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-710",
+      "to": "CF-CON-697",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-710",
+      "to": "CF-CON-623",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-711",
+      "to": "CF-CON-697",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-711",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-712",
+      "to": "CF-CON-697",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-712",
+      "to": "CF-CON-627",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-713",
+      "to": "CF-CON-697",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-713",
+      "to": "CF-CON-364",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-714",
+      "to": "CF-CON-697",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-714",
+      "to": "CF-CON-145",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-715",
+      "to": "CF-CON-709",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-715",
+      "to": "CF-CON-002",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-716",
+      "to": "CF-CON-697",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-716",
+      "to": "CF-CON-005",
       "type": "related"
     }
   ]

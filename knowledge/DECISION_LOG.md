@@ -42,6 +42,8 @@
 | 2026-07-05 | Master Build Roadmap v1.0 | CF-ENTRY-035 session pause | CF-CON-150–155 |
 | 2026-07-05 | BUILD-001–013 frozen v1.0 | Foundational canon complete | CF-CON-156–320 |
 | 2026-07-05 | BUILD-014 Elements of Meaning | Supersedes Periodic Table stub | CF-CON-170 |
+| 2026-07-05 | BUILD-033 First Consciousness v1.0 | Revealed not created · experience not labels | CF-CON-697–716 |
+| 2026-07-05 | Protagonist Engine superseded | First Consciousness replaces character profile | CF-CON-693 |
 | 2026-07-05 | Chronoforge Roadmap v2 | Phase II.5 Design Language before Story Genome | CF-CON-692 |
 | 2026-07-05 | 80-120 BUILD scale | Narrative engineering discipline projection | CF-CON-688 |
 | 2026-07-05 | Design language before characters | BUILD-033-044 before protagonist | CF-CON-691 |

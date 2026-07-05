@@ -11,8 +11,8 @@
 ```txt
 PHASE I       Philosophy                        BUILD-001–015     ✓ COMPLETE
 PHASE II      Engines (operating system)        BUILD-016–032     ✓ COMPLETE
-PHASE II.5    Design Language                   BUILD-033–044     NEXT
-PHASE III     Story Genome                      BUILD-045–052     Queued
+PHASE II.5    Design Language                   BUILD-034–045     NEXT
+PHASE III     Story Genome                      BUILD-033–052     **033 ✓**
 PHASE IV      The Five Reads                    BUILD-053–057     Queued
 PHASE V       The Score                         BUILD-058–062     Queued
 PHASE VI      Canonical Edition                 BUILD-063–072     Queued
@@ -77,43 +77,23 @@ PHASE VII     The Novel                         BUILD-073+        Prose gate
 
 ---
 
-## Phase II.5 — Design Language *(BUILD-033–044 · NEXT)*
-
-Atomic vocabulary before consciousnesses *(CF-CON-687 · CF-CON-691)*.
+## Phase II.5 — Design Language *(BUILD-034–045 · NEXT)*
 
 | BUILD | Title |
 |---|---|
-| **033** | Color Language |
-| **034** | Shape Language |
-| **035** | Number Language |
-| **036** | Spatial Language |
-| **037** | Gesture Language |
-| **038** | Weather Language |
-| **039** | Light and Shadow Language |
-| **040** | Sound Language |
-| **041** | Texture Language |
-| **042** | Food and Shared Meals Language |
-| **043** | Dream Language |
-| **044** | Naming Language |
-
-→ **BUILD-033 Color Language** queued · STOP gate until BUILD-015.5 v1.0
+| **034** | Color Language |
+| **035–045** | Shape through Naming Language |
 
 ---
 
-## Phase Three — Story Genome *(BUILD-045–052)*
+## Phase Three — Story Genome *(BUILD-033–052 · begun)*
 
-**This novel** — consciousness profiles · relationships · scenes · movements · ending *(CF-CON-689)*.
+| BUILD | Title | Status |
+|---|---|---|
+| **033** | **The First Consciousness** | **✓ v1.0** · CF-ENTRY-073 |
+| **046–052** | Companion through Ending Engine | Queued |
 
-| BUILD | Title |
-|---|---|
-| **045** | Protagonist Engine |
-| **046** | Companion Engine |
-| **047** | Antagonist Engine |
-| **048** | Relationship Engine |
-| **049** | Dialogue Engine |
-| **050** | Scene Engine |
-| **051** | Movement Engine |
-| **052** | Ending Engine |
+→ **BUILD-034 Color Language** queued
 
 ---
 
@@ -171,4 +151,4 @@ The Composer's Blueprint 0–20 map ([MASTER_BUILD_ROADMAP.md](MASTER_BUILD_ROAD
 
 ---
 
-*CHRONOFORGE_PHASES v2.0 · CF-ENTRY-072 · Phase II complete · Design Language next*
+*CHRONOFORGE_PHASES v2.1 · CF-ENTRY-073 · BUILD-033 First Consciousness frozen*

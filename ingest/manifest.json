@@ -1,17 +1,20 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "2.12.0",
-  "generated_at": "2026-07-05T22:33:49.385013+00:00",
+  "canonforge_version": "2.13.0",
+  "generated_at": "2026-07-05T22:37:22.467083+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 72,
-  "concept_count": 696,
+  "entry_count": 73,
+  "concept_count": 716,
   "project_version": "0.4.0",
   "roadmap_version": "1.0",
   "roadmap_build_projection": "80-120",
   "phase_ii_complete": true,
-  "phase_ii_5_next": "BUILD-033 Color Language",
+  "build_033_version": "1.0",
+  "build_033_title": "First Consciousness",
+  "story_genome": "begun",
+  "phase_ii_5_next": "BUILD-034 Color Language",
   "phase_two": "complete",
   "build_016_version": "1.0",
   "build_016_title": "Consciousness Engine",
@@ -82,7 +85,7 @@
   "build_015_title": "Resonance Matrix",
   "foundational_layer": "BUILD-001-013 complete",
   "engineering_layer": "BUILD-014-015 complete",
-  "build_layer": "BUILD-001-032 frozen \u00b7 BUILD-015.5 active",
+  "build_layer": "BUILD-001-033 frozen \u00b7 BUILD-015.5 active",
   "entries": [
     {
       "entry_id": "CF-ENTRY-001",
@@ -1543,6 +1546,36 @@
         "CF-CON-696"
       ],
       "byte_size": 5619
+    },
+    {
+      "entry_id": "CF-ENTRY-073",
+      "file": "knowledge/entries/073-build-033-first-consciousness-v1.md",
+      "sha256": "4b57a36c142630dd31d9150ece32e5fa95f30f79c122f2c3baa47dd491968415",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-697",
+        "CF-CON-698",
+        "CF-CON-699",
+        "CF-CON-700",
+        "CF-CON-701",
+        "CF-CON-702",
+        "CF-CON-703",
+        "CF-CON-704",
+        "CF-CON-705",
+        "CF-CON-706",
+        "CF-CON-707",
+        "CF-CON-708",
+        "CF-CON-709",
+        "CF-CON-710",
+        "CF-CON-711",
+        "CF-CON-712",
+        "CF-CON-713",
+        "CF-CON-714",
+        "CF-CON-715",
+        "CF-CON-716"
+      ],
+      "byte_size": 8511
     }
   ],
   "indexes": {

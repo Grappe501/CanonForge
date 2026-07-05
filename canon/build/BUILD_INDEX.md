@@ -25,8 +25,9 @@ BUILD-029                             → Phase Three **v1.0**
 BUILD-030                             → Phase Three **v1.0** · Universal Architecture **complete**
 BUILD-031                             → Phase Three **v1.0** · **AUTHOR-ONLY**
 BUILD-032                             → Phase II **v1.0** · **AUTHOR-ONLY**
-BUILD-033–044                         → Phase II.5 Design Language · **NEXT**
-BUILD-045+                            → Story Genome through Novel · queued
+BUILD-033                             → Phase III **v1.0** · Story Genome **begun**
+BUILD-034–045                         → Phase II.5 Design Language · **NEXT**
+BUILD-046+                            → Story Genome cont. · Five Reads · queued
 architecture/                         → expanded specs (derived · cross-ref)
 knowledge/entries/                    → verbatim source uploads
 ```
@@ -76,7 +77,8 @@ knowledge/entries/                    → verbatim source uploads
 | **030** | The Cosmology Engine | **1.0** | **Frozen** | 069 | CF-CON-625–644 | [BUILD-030](BUILD-030-cosmology-engine.md) |
 | **031** | The Secret History | **1.0** | **Frozen · AUTHOR-ONLY** | 070 | CF-CON-645–664 | [BUILD-031](BUILD-031-secret-history.md) |
 | **032** | The Prime Event | **1.0** | **Frozen · AUTHOR-ONLY** | 071 | CF-CON-665–684 | [BUILD-032](BUILD-032-prime-event.md) |
-| **033–072** | Roadmap v2 phases | — | **Queued** | — | — | [CHRONOFORGE_ROADMAP](../architecture/CHRONOFORGE_ROADMAP.md) |
+| **033** | The First Consciousness | **1.0** | **Frozen** | 073 | CF-CON-697–716 | [BUILD-033](BUILD-033-first-consciousness.md) |
+| **034–072** | Roadmap v2 phases | — | **Queued** | — | — | [CHRONOFORGE_ROADMAP](../architecture/CHRONOFORGE_ROADMAP.md) |
 
 ---
 
@@ -122,7 +124,8 @@ knowledge/entries/                    → verbatim source uploads
 | 029 Journey Engine | Five journeys · hidden destination · reader journey |
 | 030 Cosmology Engine | Cosmic ledger · mystery permanent · Universal Architecture complete |
 | 031 Secret History | Three histories · history ledger · **AUTHOR-ONLY** · instrument complete |
-| 032 Prime Event | Ten shadows · Prime Event ledger · first story-specific · **AUTHOR-ONLY** |
+| 032 Prime Event | Ten shadows · **AUTHOR-ONLY** · first story-specific |
+| 033 First Consciousness | Consciousness revealed · experience not labels · Story Genome begun |
 
 ---
 

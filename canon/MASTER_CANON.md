@@ -1,7 +1,7 @@
-# Master Canon v1.5.6
+# Master Canon v1.5.7
 
-> **BUILD-032:** Prime Event · first story-specific BUILD · echo of one event
-> Supersedes v1.5.5 (2026-07-05 · BUILD-032 CF-ENTRY-071 · CanonForge 2.11.0)
+> **BUILD-033:** First Consciousness · revealed not created · experience not labels
+> Supersedes v1.5.6 (2026-07-05 · BUILD-033 CF-ENTRY-073 · CanonForge 2.13.0)
 
 ---
 
@@ -42,11 +42,11 @@ Key locked insights:
 | **Four Pillars** | Strengthen ≥1 of Wonder · **Connection** · Resonance · Transformation? | BUILD-003 v1.0 |
 | Seven Laws | Immutable · complies with BUILD-004 v1.0? | BUILD-004 |
 
-**Stack:** BUILD-001 = *why* · … · **031 = *hidden chronology anchor*** · **032 = *this story's Prime Event***
+**Stack:** BUILD-001 = *why* · … · **032 = *echo of one event*** · **033 = *first consciousness lens***
 
-→ [build/BUILD-032-prime-event.md](build/BUILD-032-prime-event.md) · Ten Shadows · Prime Event Ledger · **AUTHOR-ONLY**
+→ [build/BUILD-033-first-consciousness.md](build/BUILD-033-first-consciousness.md) · Consciousness Profile · Reader Mirror · Experience Not Labels
 
-→ [build/BUILD-031-secret-history.md](build/BUILD-031-secret-history.md) · Three Histories · History Ledger · **AUTHOR-ONLY**
+→ [build/BUILD-032-prime-event.md](build/BUILD-032-prime-event.md) · Ten Shadows · **AUTHOR-ONLY**
 
 → [build/BUILD-030-cosmology-engine.md](build/BUILD-030-cosmology-engine.md) · Cosmic Ledger · Mystery Permanent · Universal Architecture Complete
 
@@ -252,6 +252,12 @@ Never published · never referenced directly in reader-facing prose *(CF-CON-661
 
 Possibility under consideration: **never shown directly** — reader **assembles** truth from echoes *(CF-CON-678 · CF-CON-679 · Candidate)*.
 
+### First Consciousness immutable law (CF-CON-697 · BUILD-033)
+
+> **The reader does not meet the protagonist. The reader gradually becomes capable of understanding them.**
+
+> **Consciousness revealed, not created** *(CF-CON-713)*. Identity through **what they notice · remember · fear · hope** — not labels *(CF-CON-714)*. Reader and book **build identification together** *(CF-CON-715)*. Never fully knowable *(CF-CON-712)*.
+
 ### Cosmology immutable law (CF-CON-625 · BUILD-030)
 
 > **The universe is not a machine to be solved. It is a reality to be explored.**
@@ -264,7 +270,7 @@ Final question: **"How should conscious beings live within a universe they can n
 
 **Secret History** *(BUILD-031 · CF-CON-645 · AUTHOR-ONLY)* — hidden chronology framework. Populated events never reader-facing. See protected BUILD doc — not cited in surface canon.
 
-**Composing phase** *(CF-CON-663)*. **Phase II engine room complete** *(BUILD-016–032 · CF-CON-686)*. **Roadmap v2:** 80–120 BUILDs · **Phase II.5 Design Language next** *(BUILD-033 Color Language · CF-CON-687)*. → [architecture/CHRONOFORGE_ROADMAP.md](../architecture/CHRONOFORGE_ROADMAP.md)
+**Story Genome begun** *(BUILD-033 · CF-CON-697)*. **Phase II engine room complete** *(BUILD-016–032 · CF-CON-686)*. Next: **BUILD-034 Color Language** *(Phase II.5)*. → [architecture/CHRONOFORGE_ROADMAP.md](../architecture/CHRONOFORGE_ROADMAP.md)
 
 ### Visual Grammar (CF-CON-080 · CF-CON-081)
 

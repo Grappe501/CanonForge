@@ -135,14 +135,15 @@ We did not build a novel. We built a **theory of storytelling** — an operating
 | **016–025** | Engineering documents | **✓ v1.0** |
 | **026–032** | World through Prime Event | **✓ v1.0** · 031–032 AUTHOR-ONLY |
 
-### Phase II.5 — **NEXT** (BUILD-033–044 · Design Language)
+### Phase II.5 — **NEXT** (BUILD-034–045 · Design Language)
 
 | BUILD | Title | Status |
 |---|---|---|
-| **033** | Color Language | Queued · **START** |
-| **034–044** | Shape through Naming Language | Queued |
+| **033** | **The First Consciousness** | **✓ v1.0** · CF-ENTRY-073 |
+| **034** | Color Language | Queued · **START** |
+| **035–045** | Shape through Naming Language | Queued |
 
-### Phase III — Story Genome (BUILD-045–052 · queued)
+### Phase III — Story Genome (BUILD-046–052 · queued)
 
 | BUILD | Title |
 |---|---|
