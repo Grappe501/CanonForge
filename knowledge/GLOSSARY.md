@@ -42,7 +42,8 @@
 | **Prime Question** | What is reader discovering? Nothing → delete | CF-CON-187 |
 | **Four Pillars** | Wonder · Connection · Resonance · Transformation | CF-CON-159 |
 | **Connection pillar** | Pillar Two; supersedes Humanity label | CF-CON-190 |
-| **Four Pillars Matrix** | Per-scene pillar scores | CF-CON-192 |
+| **Canonical Test** | Seven questions before scene enters MS | CF-CON-204 |
+| **Reader Bill of Rights** | BUILD-015 queued · promises to reader | CF-CON-207 |
 | **Reader Arc** | Five-stage reader journey parallel to protagonist | CF-CON-161 |
 | **Assumption Engine** | Per-page assumption · natural · transform | CF-CON-164 |
 | **BUILD layer** | Versioned canonical build documents 001+ | CF-CON-156 |

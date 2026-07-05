@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "0.6.3",
-  "generated_at": "2026-07-05T21:11:58.066488+00:00",
+  "canonforge_version": "0.6.4",
+  "generated_at": "2026-07-05T21:13:34.513008+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -1771,12 +1771,13 @@
     },
     {
       "id": "CF-CON-160",
-      "label": "BUILD-004 Seven Laws",
+      "label": "BUILD-004 Seven Immutable Laws",
       "category": "Governance",
       "status": "Frozen",
-      "definition": "Immutable distill of Constitution; story wins; never lie.",
+      "definition": "Physics of universe: story sacred \u00b7 never lie \u00b7 earned discovery.",
       "sources": [
-        "CF-ENTRY-036"
+        "CF-ENTRY-036",
+        "CF-ENTRY-040"
       ],
       "canon_ref": "canon/build/BUILD-004-seven-laws.md"
     },
@@ -2197,6 +2198,116 @@
         "CF-ENTRY-039"
       ],
       "canon_ref": "canon/build/BUILD-003-four-pillars.md"
+    },
+    {
+      "id": "CF-CON-199",
+      "label": "Immutable laws physics",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "BUILD-004 v1.0; universe does not bend to convenience.",
+      "sources": [
+        "CF-ENTRY-040"
+      ],
+      "canon_ref": "canon/build/BUILD-004-seven-laws.md"
+    },
+    {
+      "id": "CF-CON-200",
+      "label": "Reader supplies the lie",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Novel does not deceive; reader completes; sacred distinction.",
+      "sources": [
+        "CF-ENTRY-040"
+      ],
+      "canon_ref": "canon/build/BUILD-004-seven-laws.md"
+    },
+    {
+      "id": "CF-CON-201",
+      "label": "Resonance five appearances",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Introduce deepen transform reframe complete across reads.",
+      "sources": [
+        "CF-ENTRY-040"
+      ],
+      "canon_ref": "canon/build/BUILD-004-seven-laws.md"
+    },
+    {
+      "id": "CF-CON-202",
+      "label": "Meta-Laws",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "No contradiction; writing changes not laws; no convenience override.",
+      "sources": [
+        "CF-ENTRY-040"
+      ],
+      "canon_ref": "canon/build/BUILD-004-seven-laws.md"
+    },
+    {
+      "id": "CF-CON-203",
+      "label": "Order of Authority",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Story humanity discovery resonance rhythm typography; novelty loses.",
+      "sources": [
+        "CF-ENTRY-040"
+      ],
+      "canon_ref": "canon/build/BUILD-004-seven-laws.md"
+    },
+    {
+      "id": "CF-CON-204",
+      "label": "Canonical Test",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Seven questions before scene enters manuscript.",
+      "sources": [
+        "CF-ENTRY-040"
+      ],
+      "canon_ref": "canon/build/BUILD-004-seven-laws.md"
+    },
+    {
+      "id": "CF-CON-205",
+      "label": "Author's Covenant",
+      "category": "Process",
+      "status": "Frozen",
+      "definition": "Invitation discovery experience simplicity resonance curiosity.",
+      "sources": [
+        "CF-ENTRY-040"
+      ],
+      "canon_ref": "canon/build/BUILD-004-seven-laws.md"
+    },
+    {
+      "id": "CF-CON-206",
+      "label": "Supporting rules 004.3-15",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Restraint invisibility beauty patience completeness loop wonder.",
+      "sources": [
+        "CF-ENTRY-040"
+      ],
+      "canon_ref": "canon/build/BUILD-004-seven-laws.md"
+    },
+    {
+      "id": "CF-CON-207",
+      "label": "Reader Bill of Rights",
+      "category": "Governance",
+      "status": "Queued",
+      "definition": "BUILD-015 moral contract with audience; seed rights queued.",
+      "sources": [
+        "CF-ENTRY-040"
+      ],
+      "canon_ref": "canon/build/BUILD-015-reader-bill-of-rights.md"
+    },
+    {
+      "id": "CF-CON-208",
+      "label": "Law Seven humanity first",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Humanity precedes identity; worth never depends on identity.",
+      "sources": [
+        "CF-ENTRY-040"
+      ],
+      "canon_ref": "canon/build/BUILD-004-seven-laws.md"
     }
   ],
   "edges": [
@@ -3688,6 +3799,96 @@
     {
       "from": "CF-CON-198",
       "to": "CF-CON-157",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-199",
+      "to": "CF-CON-160",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-199",
+      "to": "CF-CON-136",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-200",
+      "to": "CF-CON-023",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-200",
+      "to": "CF-CON-158",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-201",
+      "to": "CF-CON-094",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-201",
+      "to": "CF-CON-185",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-202",
+      "to": "CF-CON-160",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-203",
+      "to": "CF-CON-160",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-203",
+      "to": "CF-CON-028",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-204",
+      "to": "CF-CON-160",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-204",
+      "to": "CF-CON-187",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-205",
+      "to": "CF-CON-169",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-205",
+      "to": "CF-CON-160",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-206",
+      "to": "CF-CON-160",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-207",
+      "to": "CF-CON-160",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-207",
+      "to": "CF-CON-023",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-208",
+      "to": "CF-CON-145",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-208",
+      "to": "CF-CON-190",
       "type": "related"
     }
   ]

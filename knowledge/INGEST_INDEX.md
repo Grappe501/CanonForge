@@ -43,3 +43,4 @@
 | CF-ENTRY-037 | `knowledge/entries/037-build-001-expanded-canon-v0-1.md` | 2026-07-05 | processed | CF-CON-157, CF-CON-171, CF-CON-172, CF-CON-173, CF-CON-174, CF-CON-175 |
 | CF-ENTRY-038 | `knowledge/entries/038-build-002-prime-directive-canonical-v1.md` | 2026-07-05 | processed | CF-CON-158, CF-CON-176, CF-CON-177, CF-CON-178, CF-CON-179, CF-CON-180, CF-CON-181, CF-CON-182, CF-CON-183, CF-CON-184, CF-CON-185, CF-CON-186, CF-CON-187, CF-CON-188, CF-CON-189 |
 | CF-ENTRY-039 | `knowledge/entries/039-build-003-four-pillars-canonical-v1.md` | 2026-07-05 | processed | CF-CON-159, CF-CON-190, CF-CON-191, CF-CON-192, CF-CON-193, CF-CON-194, CF-CON-195, CF-CON-196, CF-CON-197, CF-CON-198 |
+| CF-ENTRY-040 | `knowledge/entries/040-build-004-seven-immutable-laws-v1.md` | 2026-07-05 | processed | CF-CON-160, CF-CON-199, CF-CON-200, CF-CON-201, CF-CON-202, CF-CON-203, CF-CON-204, CF-CON-205, CF-CON-206, CF-CON-207, CF-CON-208 |

@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "0.6.3",
-  "generated_at": "2026-07-05T21:11:58.055249+00:00",
+  "canonforge_version": "0.6.4",
+  "generated_at": "2026-07-05T21:13:34.500397+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 39,
+  "entry_count": 40,
   "concept_count": 198,
   "build_001_version": "0.1",
   "build_002_version": "1.0",
@@ -605,6 +605,27 @@
         "CF-CON-198"
       ],
       "byte_size": 7231
+    },
+    {
+      "entry_id": "CF-ENTRY-040",
+      "file": "knowledge/entries/040-build-004-seven-immutable-laws-v1.md",
+      "sha256": "6536e23377371c5184d4d779a4609ec60a61b13af12b807e9ae81a0c31c5fcc7",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-160",
+        "CF-CON-199",
+        "CF-CON-200",
+        "CF-CON-201",
+        "CF-CON-202",
+        "CF-CON-203",
+        "CF-CON-204",
+        "CF-CON-205",
+        "CF-CON-206",
+        "CF-CON-207",
+        "CF-CON-208"
+      ],
+      "byte_size": 9065
     }
   ],
   "indexes": {

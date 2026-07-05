@@ -3,6 +3,19 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [0.6.4] — 2026-07-05
+
+### Added
+- CF-ENTRY-040: BUILD-004 Seven Immutable Laws Canonical v1.0
+- Concepts CF-CON-199 through CF-CON-208
+- BUILD-015 Reader Bill of Rights queued (directive)
+- Meta-Laws · Order of Authority · Canonical Test · Author's Covenant
+
+### Changed
+- BUILD-004 expanded from stub to immutable physics (7 laws restructured)
+- Law Seven: Humanity Precedes Identity
+- Master Canon v0.5.4
+
 ## [0.6.3] — 2026-07-05
 
 ### Added

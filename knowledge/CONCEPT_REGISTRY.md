@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 0.6.3 · 2026-07-05 · 198 concepts registered
+> Version 0.6.4 · 2026-07-05 · 208 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | CF-CON-157 | BUILD-001 Core Question | Mission | **Frozen** | Root command v0.1: experience humility questioning assumptions. | CF-ENTRY-036, CF-ENTRY-037 |
 | CF-CON-158 | BUILD-002 Prime Directive | Governance | **Frozen** | Every page: discovery without decreasing clarity; engineering rule. | CF-ENTRY-036, CF-ENTRY-038 |
 | CF-CON-159 | Four Pillars | Architecture | **Frozen** | Wonder · Connection · Resonance · Transformation. | CF-ENTRY-036, CF-ENTRY-039 |
-| CF-CON-160 | BUILD-004 Seven Laws | Governance | **Frozen** | Immutable distill of Constitution; story wins; never lie. | CF-ENTRY-036 |
+| CF-CON-160 | BUILD-004 Seven Immutable Laws | Governance | **Frozen** | Physics of universe: story sacred · never lie · earned discovery. | CF-ENTRY-036, CF-ENTRY-040 |
 | CF-CON-161 | Reader Arc | Architecture | **Frozen** | Five stages: confidence to reflection outside the book. | CF-ENTRY-036 |
 | CF-CON-162 | Emotional Score | Architecture | **Frozen** | Eight movements of emotion; no victory only understanding. | CF-ENTRY-036 |
 | CF-CON-163 | Human Experience Model | Theme | **Frozen** | One civilization humanity; characters represent being human. | CF-ENTRY-036 |
@@ -202,6 +202,16 @@
 | CF-CON-196 | Symphony composition model | Architecture | **Frozen** | Wonder melody connection harmony resonance overtones. | CF-ENTRY-039 |
 | CF-CON-197 | Four symphony movements | Architecture | **Frozen** | Pillars as movements: ears heart mind soul. | CF-ENTRY-039 |
 | CF-CON-198 | BUILD-003 structural skeleton | Governance | **Frozen** | Architecture layer canonical v1.0; what every part strengthens. | CF-ENTRY-039 |
+| CF-CON-199 | Immutable laws physics | Governance | **Frozen** | BUILD-004 v1.0; universe does not bend to convenience. | CF-ENTRY-040 |
+| CF-CON-200 | Reader supplies the lie | Governance | **Frozen** | Novel does not deceive; reader completes; sacred distinction. | CF-ENTRY-040 |
+| CF-CON-201 | Resonance five appearances | Architecture | **Frozen** | Introduce deepen transform reframe complete across reads. | CF-ENTRY-040 |
+| CF-CON-202 | Meta-Laws | Governance | **Frozen** | No contradiction; writing changes not laws; no convenience override. | CF-ENTRY-040 |
+| CF-CON-203 | Order of Authority | Governance | **Frozen** | Story humanity discovery resonance rhythm typography; novelty loses. | CF-ENTRY-040 |
+| CF-CON-204 | Canonical Test | Governance | **Frozen** | Seven questions before scene enters manuscript. | CF-ENTRY-040 |
+| CF-CON-205 | Author's Covenant | Process | **Frozen** | Invitation discovery experience simplicity resonance curiosity. | CF-ENTRY-040 |
+| CF-CON-206 | Supporting rules 004.3-15 | Governance | **Frozen** | Restraint invisibility beauty patience completeness loop wonder. | CF-ENTRY-040 |
+| CF-CON-207 | Reader Bill of Rights | Governance | **Queued** | BUILD-015 moral contract with audience; seed rights queued. | CF-ENTRY-040 |
+| CF-CON-208 | Law Seven humanity first | Governance | **Frozen** | Humanity precedes identity; worth never depends on identity. | CF-ENTRY-040 |
 
 ## Related Concepts
 
@@ -364,7 +374,7 @@
 - **CF-CON-157** (BUILD-001 Core Question, Frozen): CF-CON-141, CF-CON-153 → `canon/build/BUILD-001-core-question.md`
 - **CF-CON-158** (BUILD-002 Prime Directive, Frozen): CF-CON-138, CF-CON-157 → `canon/build/BUILD-002-prime-directive.md`
 - **CF-CON-159** (Four Pillars, Frozen): CF-CON-094, CF-CON-137 → `canon/build/BUILD-003-four-pillars.md`
-- **CF-CON-160** (BUILD-004 Seven Laws, Frozen): CF-CON-136, CF-CON-023 → `canon/build/BUILD-004-seven-laws.md`
+- **CF-CON-160** (BUILD-004 Seven Immutable Laws, Frozen): CF-CON-136, CF-CON-023 → `canon/build/BUILD-004-seven-laws.md`
 - **CF-CON-161** (Reader Arc, Frozen): CF-CON-002, CF-CON-001 → `canon/build/BUILD-005-reader-arc.md`
 - **CF-CON-162** (Emotional Score, Frozen): CF-CON-093, CF-CON-118 → `canon/build/BUILD-006-emotional-score.md`
 - **CF-CON-163** (Human Experience Model, Frozen): CF-CON-139, CF-CON-144 → `canon/build/BUILD-007-human-experience-model.md`
@@ -403,3 +413,13 @@
 - **CF-CON-196** (Symphony composition model, Frozen): CF-CON-165, CF-CON-159 → `canon/build/BUILD-003-four-pillars.md`
 - **CF-CON-197** (Four symphony movements, Frozen): CF-CON-196, CF-CON-165 → `canon/build/BUILD-003-four-pillars.md`
 - **CF-CON-198** (BUILD-003 structural skeleton, Frozen): CF-CON-159, CF-CON-157 → `canon/build/BUILD-003-four-pillars.md`
+- **CF-CON-199** (Immutable laws physics, Frozen): CF-CON-160, CF-CON-136 → `canon/build/BUILD-004-seven-laws.md`
+- **CF-CON-200** (Reader supplies the lie, Frozen): CF-CON-023, CF-CON-158 → `canon/build/BUILD-004-seven-laws.md`
+- **CF-CON-201** (Resonance five appearances, Frozen): CF-CON-094, CF-CON-185 → `canon/build/BUILD-004-seven-laws.md`
+- **CF-CON-202** (Meta-Laws, Frozen): CF-CON-160 → `canon/build/BUILD-004-seven-laws.md`
+- **CF-CON-203** (Order of Authority, Frozen): CF-CON-160, CF-CON-028 → `canon/build/BUILD-004-seven-laws.md`
+- **CF-CON-204** (Canonical Test, Frozen): CF-CON-160, CF-CON-187 → `canon/build/BUILD-004-seven-laws.md`
+- **CF-CON-205** (Author's Covenant, Frozen): CF-CON-169, CF-CON-160 → `canon/build/BUILD-004-seven-laws.md`
+- **CF-CON-206** (Supporting rules 004.3-15, Frozen): CF-CON-160 → `canon/build/BUILD-004-seven-laws.md`
+- **CF-CON-207** (Reader Bill of Rights, Queued): CF-CON-160, CF-CON-023 → `canon/build/BUILD-015-reader-bill-of-rights.md`
+- **CF-CON-208** (Law Seven humanity first, Frozen): CF-CON-145, CF-CON-190 → `canon/build/BUILD-004-seven-laws.md`

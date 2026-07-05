@@ -1,8 +1,8 @@
-# Master Canon v0.5.3
+# Master Canon v0.5.4
 
 > Implementation constitution · derived from [CONSTITUTION.md](CONSTITUTION.md)
-> **BUILD-000.000 is law** — BUILD-001–013 are frozen foundational canon
-> Supersedes v0.5.2 (2026-07-05 · BUILD-003 Canonical v1.0 CF-ENTRY-039)
+> **BUILD-000.000 is law** · **BUILD-004 is physics** — BUILD-001–013 frozen foundational canon
+> Supersedes v0.5.3 (2026-07-05 · BUILD-004 Immutable Laws CF-ENTRY-040)
 
 ---
 
@@ -41,9 +41,11 @@ Key locked insights:
 |---|---|---|
 | **Prime Directive** | Does this increase **discovery** without decreasing **clarity**? | BUILD-002 v1.0 |
 | **Four Pillars** | Strengthen ≥1 of Wonder · **Connection** · Resonance · Transformation? | BUILD-003 v1.0 |
-| Seven Laws | Immutable creative rules | BUILD-004 |
+| Seven Laws | Immutable · complies with BUILD-004 v1.0? | BUILD-004 |
 
-**Stack:** BUILD-001 = *why* · BUILD-002 = *how* · BUILD-003 = *what every part strengthens*
+**Stack:** BUILD-001 = *why* · BUILD-002 = *how* · BUILD-003 = *what* · BUILD-004 = *laws*
+
+→ [build/BUILD-004-seven-laws.md](build/BUILD-004-seven-laws.md) · Canonical Test · Order of Authority
 
 → [build/BUILD-002-prime-directive.md](build/BUILD-002-prime-directive.md) · [build/BUILD-003-four-pillars.md](build/BUILD-003-four-pillars.md)
 

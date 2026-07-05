@@ -10,8 +10,8 @@
 ```txt
 BUILD-000.000   THE CONSTITUTION          → law (never broken)
 BUILD-000.001–003                     → North Star · One Question · Thematic
-BUILD-001–013                         → foundational canon (BUILD-001 v0.1 · BUILD-002–003 v1.0)
-BUILD-014+                            → sequential build documents
+BUILD-001–013                         → foundational canon (001 v0.1 · 002–004 v1.0)
+BUILD-014–015                         → queued (Periodic Table · Bill of Rights)
 architecture/                         → expanded specs (derived · cross-ref)
 knowledge/entries/                    → verbatim source uploads
 ```
@@ -31,7 +31,7 @@ knowledge/entries/                    → verbatim source uploads
 | **001** | The Core Question | **0.1** | **Frozen** | 036, 037 | CF-CON-157, 171–175 | [BUILD-001](BUILD-001-core-question.md) |
 | **002** | The Prime Directive | **1.0** | **Frozen** | 036, 038 | CF-CON-158, 176–189 | [BUILD-002](BUILD-002-prime-directive.md) |
 | **003** | The Four Pillars | **1.0** | **Frozen** | 036, 039 | CF-CON-159, 190–198 | [BUILD-003](BUILD-003-four-pillars.md) |
-| **004** | The Seven Laws | **1.0.0** | **Frozen** | 036 | CF-CON-160 | [BUILD-004](BUILD-004-seven-laws.md) |
+| **004** | Seven Immutable Laws | **1.0** | **Frozen · IMMUTABLE** | 036, 040 | CF-CON-160, 199–208 | [BUILD-004](BUILD-004-seven-laws.md) |
 | **005** | The Reader Arc | **1.0.0** | **Frozen** | 036 | CF-CON-161 | [BUILD-005](BUILD-005-reader-arc.md) |
 | **006** | The Emotional Score | **1.0.0** | **Frozen** | 036 | CF-CON-162 | [BUILD-006](BUILD-006-emotional-score.md) |
 | **007** | Human Experience Model | **1.0.0** | **Frozen** | 036 | CF-CON-163 | [BUILD-007](BUILD-007-human-experience-model.md) |
@@ -41,7 +41,8 @@ knowledge/entries/                    → verbatim source uploads
 | **011** | The Invisible Contract | **1.0.0** | **Frozen** | 036 | CF-CON-167 | [BUILD-011](BUILD-011-invisible-contract.md) |
 | **012** | The Title | **1.0.0** | **Frozen** | 036 | CF-CON-168 | [BUILD-012](BUILD-012-title.md) |
 | **013** | The Writer's Oath | **1.0.0** | **Frozen** | 036 | CF-CON-169 | [BUILD-013](BUILD-013-writers-oath.md) |
-| **014** | Periodic Table of the Novel | — | **Next** | — | CF-CON-170 | [BUILD-014](BUILD-014-periodic-table-of-the-novel.md) |
+| **014** | Periodic Table of the Novel | — | **Queued** | — | CF-CON-170 | [BUILD-014](BUILD-014-periodic-table-of-the-novel.md) |
+| **015** | Reader Bill of Rights | — | **Queued** | 040 | CF-CON-207 | [BUILD-015](BUILD-015-reader-bill-of-rights.md) |
 
 ---
 
@@ -51,7 +52,7 @@ knowledge/entries/                    → verbatim source uploads
 2. BUILD-002 Prime Directive — *Does this increase discovery without decreasing clarity?*
 3. BUILD-000.002 One Question — *Wonder without reducing clarity?* (subsumed in 002.1)
 4. BUILD-003 Four Pillars — strengthen ≥1 of Wonder · Connection · Resonance · Transformation
-5. BUILD-004 Seven Laws — immutable
+5. BUILD-004 Seven Immutable Laws — **physics of the universe**
 6. Expanded specs in `architecture/`
 
 ---
