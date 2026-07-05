@@ -3,6 +3,17 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [0.6.1] — 2026-07-05
+
+### Added
+- CF-ENTRY-037: BUILD-001 Expanded Canon v0.1 (§001.0–001.18)
+- Concepts CF-CON-171 through CF-CON-175
+
+### Changed
+- BUILD-001 superseded v1.0.0 statement → Expanded Canon v0.1
+- BUILD-005 cross-ref to BUILD-001 §001.11 emotional arc
+- Master Canon v0.5.1
+
 ## [0.6.0] — 2026-07-05
 
 ### Added

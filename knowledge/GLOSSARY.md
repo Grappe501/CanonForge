@@ -34,6 +34,9 @@
 | **Article XVII** | Assumption — silent on irrelevant identity | CF-CON-145 |
 | **Resonance Matrix** | Crown jewel page-row map (TBD) | CF-CON-134 |
 | **Prime Directive** | Does this increase discovery? | CF-CON-158 |
+| **I was out of order** | Reader not timeline is the deeper realization | CF-CON-172 |
+| **Wrong chapter anchor** | Hidden development bone · may not be printed | CF-CON-174 |
+| **Absence Order Rhythm** | Three assumption mechanisms | CF-CON-173 |
 | **Four Pillars** | Wonder · Humanity · Resonance · Transformation | CF-CON-159 |
 | **Reader Arc** | Five-stage reader journey parallel to protagonist | CF-CON-161 |
 | **Assumption Engine** | Per-page assumption · natural · transform | CF-CON-164 |

@@ -10,7 +10,7 @@
 ```txt
 BUILD-000.000   THE CONSTITUTION          → law (never broken)
 BUILD-000.001–003                     → North Star · One Question · Thematic
-BUILD-001–013                         → foundational canon v1.0.0 (frozen)
+BUILD-001–013                         → foundational canon (frozen · BUILD-001 at v0.1)
 BUILD-014+                            → sequential build documents
 architecture/                         → expanded specs (derived · cross-ref)
 knowledge/entries/                    → verbatim source uploads
@@ -28,7 +28,7 @@ knowledge/entries/                    → verbatim source uploads
 | **000.001** | North Star | ratified | Frozen | 033 | CF-CON-137 | Constitution Art. preamble |
 | **000.002** | One Question | ratified | Frozen | 033 | CF-CON-138 | Constitution |
 | **000.003** | Thematic Foundation | ratified | Frozen | 033 | CF-CON-141 | Constitution · Master Canon |
-| **001** | The Core Question | **1.0.0** | **Frozen** | 036 | CF-CON-157 | [BUILD-001](BUILD-001-core-question.md) |
+| **001** | The Core Question | **0.1** | **Frozen** | 036, 037 | CF-CON-157, 171–175 | [BUILD-001](BUILD-001-core-question.md) |
 | **002** | The Prime Directive | **1.0.0** | **Frozen** | 036 | CF-CON-158 | [BUILD-002](BUILD-002-prime-directive.md) |
 | **003** | The Four Pillars | **1.0.0** | **Frozen** | 036 | CF-CON-159 | [BUILD-003](BUILD-003-four-pillars.md) |
 | **004** | The Seven Laws | **1.0.0** | **Frozen** | 036 | CF-CON-160 | [BUILD-004](BUILD-004-seven-laws.md) |

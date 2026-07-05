@@ -26,7 +26,7 @@ Treat with cathedral / operating-system discipline. Every piece serves the whole
 
 | Phase | Name | Deliverable | Status |
 |---|---|---|---|
-| **0** | Discover the Truth | Why must this book exist? (humanly) | **✓ BUILD-001 frozen v1.0.0** |
+| **0** | Discover the Truth | Why must this book exist? (humanly) | **✓ BUILD-001 v0.1** |
 | **1** | The Constitution | Immutable laws · Articles I–XVII | **✓** `canon/CONSTITUTION.md` |
 | **2** | Book of Secrets | Source code · all apex truths | Gate only · BUILD-001 next |
 | **3** | Story Engine | Mechanics · why time fractured · memory · identity | **Framework ✓** |

@@ -1,12 +1,13 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "0.6.0",
-  "generated_at": "2026-07-05T21:07:55.474664+00:00",
+  "canonforge_version": "0.6.1",
+  "generated_at": "2026-07-05T21:09:38.397591+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 36,
-  "concept_count": 170,
+  "entry_count": 37,
+  "concept_count": 175,
+  "build_001_version": "0.1",
   "roadmap_version": "1.0",
   "project_version": "0.0.1",
   "build_layer": "BUILD-001-013 frozen",
@@ -541,6 +542,22 @@
         "CF-CON-170"
       ],
       "byte_size": 6996
+    },
+    {
+      "entry_id": "CF-ENTRY-037",
+      "file": "knowledge/entries/037-build-001-expanded-canon-v0-1.md",
+      "sha256": "d921023389bf85a4ac4c7d6e6c0d63c4cbcb2c2d169b357c9aa4a557e384c795",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-157",
+        "CF-CON-171",
+        "CF-CON-172",
+        "CF-CON-173",
+        "CF-CON-174",
+        "CF-CON-175"
+      ],
+      "byte_size": 8185
     }
   ],
   "indexes": {

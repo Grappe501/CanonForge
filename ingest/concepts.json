@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "0.6.0",
-  "generated_at": "2026-07-05T21:07:55.478751+00:00",
+  "canonforge_version": "0.6.1",
+  "generated_at": "2026-07-05T21:09:38.407770+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -1738,9 +1738,10 @@
       "label": "BUILD-001 Core Question",
       "category": "Mission",
       "status": "Frozen",
-      "definition": "Why book exists: experience humility questioning assumptions.",
+      "definition": "Root command v0.1: experience humility questioning assumptions.",
       "sources": [
-        "CF-ENTRY-036"
+        "CF-ENTRY-036",
+        "CF-ENTRY-037"
       ],
       "canon_ref": "canon/build/BUILD-001-core-question.md"
     },
@@ -1886,6 +1887,61 @@
         "CF-ENTRY-036"
       ],
       "canon_ref": "canon/build/BUILD-014-periodic-table-of-the-novel.md"
+    },
+    {
+      "id": "CF-CON-171",
+      "label": "Experience not sermon",
+      "category": "Theme",
+      "status": "Frozen",
+      "definition": "I judged before I understood; humility by experience not instruction.",
+      "sources": [
+        "CF-ENTRY-037"
+      ],
+      "canon_ref": "canon/build/BUILD-001-core-question.md"
+    },
+    {
+      "id": "CF-CON-172",
+      "label": "I was out of order",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Deeper than timeline: reader understanding fragmented; reader changed.",
+      "sources": [
+        "CF-ENTRY-037"
+      ],
+      "canon_ref": "canon/build/BUILD-001-core-question.md"
+    },
+    {
+      "id": "CF-CON-173",
+      "label": "Absence Order Rhythm",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Three reader assumption mechanisms: absence \u00b7 order \u00b7 rhythm.",
+      "sources": [
+        "CF-ENTRY-037"
+      ],
+      "canon_ref": "canon/build/BUILD-001-core-question.md"
+    },
+    {
+      "id": "CF-CON-174",
+      "label": "Wrong chapter anchor",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Hidden dev anchor: misunderstood people met in wrong chapter.",
+      "sources": [
+        "CF-ENTRY-037"
+      ],
+      "canon_ref": "canon/build/BUILD-001-core-question.md"
+    },
+    {
+      "id": "CF-CON-175",
+      "label": "Core emotional arc",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Wonder confidence disturbance recognition humility; door to page one.",
+      "sources": [
+        "CF-ENTRY-037"
+      ],
+      "canon_ref": "canon/build/BUILD-001-core-question.md"
     }
   ],
   "edges": [
@@ -3132,6 +3188,56 @@
     {
       "from": "CF-CON-170",
       "to": "CF-CON-164",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-171",
+      "to": "CF-CON-157",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-171",
+      "to": "CF-CON-142",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-172",
+      "to": "CF-CON-137",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-172",
+      "to": "CF-CON-140",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-173",
+      "to": "CF-CON-164",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-173",
+      "to": "CF-CON-014",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-174",
+      "to": "CF-CON-157",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-174",
+      "to": "CF-CON-143",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-175",
+      "to": "CF-CON-161",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-175",
+      "to": "CF-CON-159",
       "type": "related"
     }
   ]

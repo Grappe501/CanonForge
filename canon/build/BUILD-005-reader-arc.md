@@ -47,4 +47,14 @@ The book's work is not complete at the final sentence. Stage Five continues in t
 
 ---
 
+## Relationship to BUILD-001 §001.11
+
+BUILD-001 defines the **core emotional arc** (Wonder → Confidence → Disturbance → Recognition → Humility).
+
+BUILD-005 defines the **structural reader arc** (Confidence → Curiosity → Doubt → Discovery → Reflection).
+
+Both trace to BUILD-001 §001.17. Emotional states (001.11) describe *felt experience*; stages above describe *cognitive progression*. They operate simultaneously.
+
+---
+
 *BUILD-005 v1.0.0 · frozen · CF-ENTRY-036*

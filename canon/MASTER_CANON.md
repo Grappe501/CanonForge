@@ -1,8 +1,8 @@
-# Master Canon v0.5.0
+# Master Canon v0.5.1
 
 > Implementation constitution · derived from [CONSTITUTION.md](CONSTITUTION.md)
 > **BUILD-000.000 is law** — BUILD-001–013 are frozen foundational canon
-> Supersedes v0.4.0 (2026-07-05 · BUILD layer CF-ENTRY-036)
+> Supersedes v0.5.0 (2026-07-05 · BUILD-001 Expanded Canon v0.1 CF-ENTRY-037)
 
 ---
 
@@ -21,13 +21,19 @@
 
 ## The Mission
 
-### BUILD-001 — Core Question (frozen v1.0.0 · CF-CON-157)
+### BUILD-001 — Core Question (Expanded Canon **v0.1** · CF-CON-157 · CF-ENTRY-037)
 
-> To allow readers to experience, rather than merely understand, that every human being—and every memory, story, and moment—becomes richer when we question our assumptions with humility.
+> **Chronoforge exists to allow readers to experience, rather than merely understand, that every human being — and every memory, story, and moment — becomes richer when we question our assumptions with humility.**
 
-Genre (SF, adventure, politics) are **expressions**. This is **purpose**.
+Root command. Every character, scene, rhythm, silence, symbol, and revelation must serve this.
 
-→ [build/BUILD-001-core-question.md](build/BUILD-001-core-question.md)
+Key locked insights:
+- **Experience not sermon** — *"I judged before I understood"* (CF-CON-171)
+- **I was out of order** — deeper than timeline; reader changed (CF-CON-172)
+- **Absence · Order · Rhythm** — three assumption mechanisms (CF-CON-173)
+- **Wrong chapter anchor** — hidden development bone (CF-CON-174)
+
+→ [build/BUILD-001-core-question.md](build/BUILD-001-core-question.md) · §001.0–001.18
 
 ### Decision filters
 

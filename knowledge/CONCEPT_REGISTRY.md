@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 0.6.0 · 2026-07-05 · 170 concepts registered
+> Version 0.6.1 · 2026-07-05 · 175 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | CF-CON-154 | Phase 20 The Loop | Architecture | **Locked** | First/last connected by understanding; reader must begin again. | CF-ENTRY-035 |
 | CF-CON-155 | New storytelling medium | Mission | **Locked** | Inventing medium not writing novel; cathedral discipline. | CF-ENTRY-035 |
 | CF-CON-156 | Canonical build discipline | Governance | **Locked** | Stop brainstorming; version numbers; traceability like software. | CF-ENTRY-036 |
-| CF-CON-157 | BUILD-001 Core Question | Mission | **Frozen** | Why book exists: experience humility questioning assumptions. | CF-ENTRY-036 |
+| CF-CON-157 | BUILD-001 Core Question | Mission | **Frozen** | Root command v0.1: experience humility questioning assumptions. | CF-ENTRY-036, CF-ENTRY-037 |
 | CF-CON-158 | BUILD-002 Prime Directive | Governance | **Frozen** | Does this increase discovery? Mystery ends; discovery continues. | CF-ENTRY-036 |
 | CF-CON-159 | Four Pillars | Architecture | **Frozen** | Wonder · Humanity · Resonance · Transformation. | CF-ENTRY-036 |
 | CF-CON-160 | BUILD-004 Seven Laws | Governance | **Frozen** | Immutable distill of Constitution; story wins; never lie. | CF-ENTRY-036 |
@@ -174,6 +174,11 @@
 | CF-CON-168 | Title fifth-read gate | Design fork | **Frozen** | Title not understood until fifth reading; deepest truth. | CF-ENTRY-036 |
 | CF-CON-169 | Writer's Oath | Process | **Frozen** | Before session: discover truth; reader is partner not opponent. | CF-ENTRY-036 |
 | CF-CON-170 | Periodic Table of Novel | Architecture | **Queued** | Elemental atoms before characters; BUILD-014 next. | CF-ENTRY-036 |
+| CF-CON-171 | Experience not sermon | Theme | **Frozen** | I judged before I understood; humility by experience not instruction. | CF-ENTRY-037 |
+| CF-CON-172 | I was out of order | Heart | **Frozen** | Deeper than timeline: reader understanding fragmented; reader changed. | CF-ENTRY-037 |
+| CF-CON-173 | Absence Order Rhythm | Architecture | **Frozen** | Three reader assumption mechanisms: absence · order · rhythm. | CF-ENTRY-037 |
+| CF-CON-174 | Wrong chapter anchor | Heart | **Frozen** | Hidden dev anchor: misunderstood people met in wrong chapter. | CF-ENTRY-037 |
+| CF-CON-175 | Core emotional arc | Architecture | **Frozen** | Wonder confidence disturbance recognition humility; door to page one. | CF-ENTRY-037 |
 
 ## Related Concepts
 
@@ -347,3 +352,8 @@
 - **CF-CON-168** (Title fifth-read gate, Frozen): CF-CON-152 → `canon/build/BUILD-012-title.md`
 - **CF-CON-169** (Writer's Oath, Frozen): CF-CON-038, CF-CON-135 → `canon/build/BUILD-013-writers-oath.md`
 - **CF-CON-170** (Periodic Table of Novel, Queued): CF-CON-159, CF-CON-164 → `canon/build/BUILD-014-periodic-table-of-the-novel.md`
+- **CF-CON-171** (Experience not sermon, Frozen): CF-CON-157, CF-CON-142 → `canon/build/BUILD-001-core-question.md`
+- **CF-CON-172** (I was out of order, Frozen): CF-CON-137, CF-CON-140 → `canon/build/BUILD-001-core-question.md`
+- **CF-CON-173** (Absence Order Rhythm, Frozen): CF-CON-164, CF-CON-014 → `canon/build/BUILD-001-core-question.md`
+- **CF-CON-174** (Wrong chapter anchor, Frozen): CF-CON-157, CF-CON-143 → `canon/build/BUILD-001-core-question.md`
+- **CF-CON-175** (Core emotional arc, Frozen): CF-CON-161, CF-CON-159 → `canon/build/BUILD-001-core-question.md`
