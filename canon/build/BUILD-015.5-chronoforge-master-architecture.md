@@ -31,7 +31,7 @@ We did not build a novel. We built a **theory of storytelling** — an operating
 |---|---|---|
 | **One** | The Philosophy + Engineering Schema | **✓ COMPLETE** (BUILD-001–015) |
 | **Two** | Engineering Documents | **✓ COMPLETE** (BUILD-016–032 · engine room) |
-| **II.5** | Design Language | **Next** (BUILD-033–044 queued) |
+| **II.5** | Design Language | **Next** (BUILD-034–045 queued) |
 | **Three** | Story Genome | Queued (BUILD-045–052) |
 | **Four–Six** | Five Reads · Score · Canonical Edition | Queued (BUILD-053–072) |
 | **Seven** | The Novel | Queued · prose authorized BUILD-073+ |
@@ -277,7 +277,7 @@ Build Bible v1.0 requires:
 
 ## 015.5.11 — What happens next
 
-**Do not proceed to BUILD-033** until BUILD-015.5 reaches v1.0 *(BUILD-016–032 excepted per author uploads)*.
+**Do not proceed to BUILD-034** until BUILD-015.5 reaches v1.0 *(BUILD-016–033 excepted per author uploads)*.
 
 Next passes expand this document into the full 100–200 page Build Bible:
 
@@ -287,7 +287,7 @@ Next passes expand this document into the full 100–200 page Build Bible:
 4. Master data dictionary (elements · symbols · echo IDs)
 5. Execution index (which BUILD when · blocking rules)
 
-When v1.0 ships — **Phase II.5** continues with **BUILD-033 Color Language** — design vocabulary before protagonists.
+When v1.0 ships — **Phase II.5** continues with **BUILD-034 Color Language**.
 
 ---
 
