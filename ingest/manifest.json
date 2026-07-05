@@ -1,16 +1,17 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "1.4.1",
-  "generated_at": "2026-07-05T21:44:05.997975+00:00",
+  "canonforge_version": "1.5.0",
+  "generated_at": "2026-07-05T21:45:52.405538+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 54,
-  "concept_count": 383,
+  "entry_count": 55,
+  "concept_count": 400,
   "project_version": "0.2.0",
   "phase_two": "begun",
   "build_016_version": "1.0",
   "build_016_title": "Consciousness Engine",
+  "build_017_version": "1.0",
   "build_017_title": "Reality Engine",
   "phase_one": "complete",
   "build_015_5_version": "0.1",
@@ -1001,6 +1002,35 @@
         "CF-CON-383"
       ],
       "byte_size": 9690
+    },
+    {
+      "entry_id": "CF-ENTRY-055",
+      "file": "knowledge/entries/055-build-017-reality-engine-v1.md",
+      "sha256": "4e7b407ecba7f9d4dd8b14f592cb97cdb623daebc3c023307f5788357ee905cb",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-345",
+        "CF-CON-383",
+        "CF-CON-384",
+        "CF-CON-385",
+        "CF-CON-386",
+        "CF-CON-387",
+        "CF-CON-388",
+        "CF-CON-389",
+        "CF-CON-390",
+        "CF-CON-391",
+        "CF-CON-392",
+        "CF-CON-393",
+        "CF-CON-394",
+        "CF-CON-395",
+        "CF-CON-396",
+        "CF-CON-397",
+        "CF-CON-398",
+        "CF-CON-399",
+        "CF-CON-400"
+      ],
+      "byte_size": 7115
     }
   ],
   "indexes": {

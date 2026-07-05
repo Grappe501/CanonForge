@@ -3,6 +3,18 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [1.5.0] — 2026-07-05
+
+### Added
+- CF-ENTRY-055: BUILD-017 The Reality Engine Canonical v1.0
+- Concepts CF-CON-384 through CF-CON-400
+- Five layers of reality · story-true reality · seventeen principles · Reality Test
+- Master Canon v1.3.2
+
+### Changed
+- CF-CON-383 Reality Engine: Queued → **Frozen**
+- Phase Two: BUILD-017 complete · BUILD-018 Fracture Map next
+
 ## [1.4.1] — 2026-07-05
 
 ### Changed

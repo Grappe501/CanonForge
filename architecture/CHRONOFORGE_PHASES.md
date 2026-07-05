@@ -10,7 +10,7 @@
 
 ```txt
 PHASE ONE     Philosophy + engineering schema     ✓ COMPLETE
-PHASE TWO     Engineering documents               **016 ✓** · 017–025 queued
+PHASE TWO     Engineering documents               **016 ✓** · **017 ✓** · 018–025 queued
 PHASE THREE   The novel (substrate)               BUILD-026–036
 PHASE FOUR    The people (lives)                  Per-consciousness packages
 PHASE FIVE    Composition                         Prose · one movement at a time
@@ -52,7 +52,7 @@ Engineer the book — not outline chapters.
 | BUILD | Title | Notes |
 |---|---|---|
 | **016** | Consciousness Engine | **✓ v1.0** · ten systems · CF-ENTRY-054 |
-| **017** | **Reality Engine** | Architecture of reality · boundaries · CF-ENTRY-054 |
+| **017** | **Reality Engine** | **✓ v1.0** · five layers · CF-ENTRY-055 |
 | **018** | Fracture Map | Where · why · how chronology breaks |
 | **019** | Memory Engine | Storage · editing · false certainty |
 | **020** | Resonance Registry | Objects · phrases · gestures · dreams · threads |

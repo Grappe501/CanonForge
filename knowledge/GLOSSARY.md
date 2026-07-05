@@ -40,7 +40,10 @@
 | **Consciousness Engine** | Ten living systems · inhabit not watch | CF-CON-364 |
 | **Incomplete consciousness** | Always incomplete; see a little farther | CF-CON-380 |
 | **Sixth consciousness** | Reader as final network node | CF-CON-382 |
-| **Reality Engine** | BUILD-017 architecture of reality | CF-CON-383 |
+| **Reality Engine** | Immutable rules · five layers · story-true reality | CF-CON-383 |
+| **Story-true reality** | What reality makes this story true | CF-CON-384 |
+| **Five layers of reality** | Physical · experienced · remembered · shared · underlying | CF-CON-386 |
+| **Reality test** | Five gates before worldbuilding enters MS | CF-CON-399 |
 | **Prime Directive** | Does this increase discovery? | CF-CON-158 |
 | **I was out of order** | Reader not timeline is the deeper realization | CF-CON-172 |
 | **Wrong chapter anchor** | Hidden development bone · may not be printed | CF-CON-174 |

@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 1.4.1 · 2026-07-05 · 383 concepts registered
+> Version 1.5.0 · 2026-07-05 · 400 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -386,7 +386,24 @@
 | CF-CON-380 | Incomplete consciousness | Mission | **Frozen** | Always incomplete not broken; see farther. | CF-ENTRY-054 |
 | CF-CON-381 | Inhabit not watch | Heart | **Frozen** | Consciousness unit not character watched. | CF-ENTRY-054 |
 | CF-CON-382 | Sixth consciousness | Heart | **Frozen** | Reader final node; story needs six. | CF-ENTRY-054 |
-| CF-CON-383 | Reality Engine BUILD-017 | Architecture | **Queued** | Architecture of reality; supersedes chronology title. | CF-ENTRY-054 |
+| CF-CON-383 | Reality Engine | Architecture | **Frozen** | Immutable rules of existence; story-true reality design. | CF-ENTRY-054, CF-ENTRY-055 |
+| CF-CON-384 | Story-true reality | Mission | **Frozen** | What reality would make this story true not how universe works. | CF-ENTRY-055 |
+| CF-CON-385 | Reality consistent understanding not | Governance | **Frozen** | Universe rules fixed; only understanding evolves. | CF-ENTRY-055 |
+| CF-CON-386 | Five layers of reality | Architecture | **Frozen** | Physical experienced remembered shared underlying. | CF-ENTRY-055 |
+| CF-CON-387 | Rule of conservation | Governance | **Frozen** | Nothing meaningful from nothing; every mystery has evidence. | CF-ENTRY-055 |
+| CF-CON-388 | Causal web | Architecture | **Frozen** | Reality as network; ripples tracked by Matrix. | CF-ENTRY-055 |
+| CF-CON-389 | Rule of possibility | Governance | **Frozen** | Wonder from coherence; miracles without foundation forbidden. | CF-ENTRY-055 |
+| CF-CON-390 | Horizon of knowledge | Heart | **Frozen** | Unknown is invitation; reality larger than any observer. | CF-ENTRY-055 |
+| CF-CON-391 | Architecture of time objective | Architecture | **Frozen** | Time objective; experience of time not; event unchanged meaning evolves. | CF-ENTRY-055 |
+| CF-CON-392 | Architecture of memory access | Architecture | **Frozen** | Memory alters access not past; reinterpretation not revision. | CF-ENTRY-055 |
+| CF-CON-393 | Architecture of identity tree | Heart | **Frozen** | Identity grows accumulates sheds integrates like living tree. | CF-ENTRY-055 |
+| CF-CON-394 | Observer principle | Governance | **Frozen** | Observation changes understanding not reality. | CF-ENTRY-055 |
+| CF-CON-395 | Rule of limits | Governance | **Frozen** | Extraordinary capabilities bounded; constraints create drama. | CF-ENTRY-055 |
+| CF-CON-396 | Cost principle | Theme | **Frozen** | Every gain requires cost; nothing significant free. | CF-ENTRY-055 |
+| CF-CON-397 | Invisible framework | Architecture | **Frozen** | Reality Engine like gravity; powerful when unnoticed. | CF-ENTRY-055 |
+| CF-CON-398 | Reality discovered not lectured | Heart | **Frozen** | World rules learned by living inside them. | CF-ENTRY-055 |
+| CF-CON-399 | Reality test | Governance | **Frozen** | Five questions before worldbuilding enters manuscript. | CF-ENTRY-055 |
+| CF-CON-400 | Truthful universe | Mission | **Frozen** | Foundation for honest mysteries; truthful not strange. | CF-ENTRY-055 |
 
 ## Related Concepts
 
@@ -772,4 +789,21 @@
 - **CF-CON-380** (Incomplete consciousness, Frozen): CF-CON-293, CF-CON-364 → `canon/build/BUILD-016-consciousness-engine.md`
 - **CF-CON-381** (Inhabit not watch, Frozen): CF-CON-364, CF-CON-230 → `canon/build/BUILD-016-consciousness-engine.md`
 - **CF-CON-382** (Sixth consciousness, Frozen): CF-CON-002, CF-CON-364 → `canon/build/BUILD-016-consciousness-engine.md`
-- **CF-CON-383** (Reality Engine BUILD-017, Queued): CF-CON-345, CF-CON-364 → `canon/build/BUILD-017-reality-engine.md`
+- **CF-CON-383** (Reality Engine, Frozen): CF-CON-345, CF-CON-364, CF-CON-384 → `canon/build/BUILD-017-reality-engine.md`
+- **CF-CON-384** (Story-true reality, Frozen): CF-CON-383, CF-CON-400 → `canon/build/BUILD-017-reality-engine.md`
+- **CF-CON-385** (Reality consistent understanding not, Frozen): CF-CON-383, CF-CON-199 → `canon/build/BUILD-017-reality-engine.md#0171--the-first-principle`
+- **CF-CON-386** (Five layers of reality, Frozen): CF-CON-383, CF-CON-367 → `canon/build/BUILD-017-reality-engine.md#0172--the-layers-of-reality`
+- **CF-CON-387** (Rule of conservation, Frozen): CF-CON-383, CF-CON-134 → `canon/build/BUILD-017-reality-engine.md#0173--the-rule-of-conservation`
+- **CF-CON-388** (Causal web, Frozen): CF-CON-383, CF-CON-134 → `canon/build/BUILD-017-reality-engine.md#0174--the-causal-web`
+- **CF-CON-389** (Rule of possibility, Frozen): CF-CON-383, CF-CON-158 → `canon/build/BUILD-017-reality-engine.md#0175--the-rule-of-possibility`
+- **CF-CON-390** (Horizon of knowledge, Frozen): CF-CON-383, CF-CON-380 → `canon/build/BUILD-017-reality-engine.md#0176--the-horizon-of-knowledge`
+- **CF-CON-391** (Architecture of time objective, Frozen): CF-CON-383, CF-CON-165 → `canon/build/BUILD-017-reality-engine.md#0177--the-architecture-of-time`
+- **CF-CON-392** (Architecture of memory access, Frozen): CF-CON-383, CF-CON-006 → `canon/build/BUILD-017-reality-engine.md#0178--the-architecture-of-memory`
+- **CF-CON-393** (Architecture of identity tree, Frozen): CF-CON-383, CF-CON-364 → `canon/build/BUILD-017-reality-engine.md#0179--the-architecture-of-identity`
+- **CF-CON-394** (Observer principle, Frozen): CF-CON-383, CF-CON-382 → `canon/build/BUILD-017-reality-engine.md#01710--the-observer-principle`
+- **CF-CON-395** (Rule of limits, Frozen): CF-CON-383, CF-CON-208 → `canon/build/BUILD-017-reality-engine.md#01711--the-rule-of-limits`
+- **CF-CON-396** (Cost principle, Frozen): CF-CON-383, CF-CON-198 → `canon/build/BUILD-017-reality-engine.md#01712--the-cost-principle`
+- **CF-CON-397** (Invisible framework, Frozen): CF-CON-383, CF-CON-166 → `canon/build/BUILD-017-reality-engine.md#01713--the-invisible-framework`
+- **CF-CON-398** (Reality discovered not lectured, Frozen): CF-CON-383, CF-CON-282 → `canon/build/BUILD-017-reality-engine.md#01714--the-readers-experience`
+- **CF-CON-399** (Reality test, Frozen): CF-CON-383, CF-CON-204 → `canon/build/BUILD-017-reality-engine.md#01715--the-reality-test`
+- **CF-CON-400** (Truthful universe, Frozen): CF-CON-383, CF-CON-384 → `canon/build/BUILD-017-reality-engine.md#01716--the-final-principle`

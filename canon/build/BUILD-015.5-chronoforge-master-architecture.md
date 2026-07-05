@@ -118,7 +118,7 @@ We did not build a novel. We built a **theory of storytelling** — an operating
 | BUILD | Title | Role |
 |---|---|---|
 | **016** | Consciousness Engine | Replaces character sheets |
-| **017** | The Reality Engine | Actual timeline · causality · reality laws · boundaries |
+| **017** | The Reality Engine | **✓ v1.0** · five layers · CF-ENTRY-055 |
 | **018** | Fracture Map | Where · why · how chronology breaks |
 | **019** | Memory Engine | Storage · editing · false certainty |
 | **020** | Resonance Registry | Every recurring motif |
@@ -264,7 +264,7 @@ Build Bible v1.0 requires:
 
 ## 015.5.11 — What happens next
 
-**Do not proceed to BUILD-017** until BUILD-015.5 reaches v1.0 *(BUILD-016 excepted per CF-ENTRY-053)*.
+**Do not proceed to BUILD-018** until BUILD-015.5 reaches v1.0 *(BUILD-016–017 excepted per CF-ENTRY-053/055)*.
 
 Next passes expand this document into the full 100–200 page Build Bible:
 
@@ -274,7 +274,7 @@ Next passes expand this document into the full 100–200 page Build Bible:
 4. Master data dictionary (elements · symbols · echo IDs)
 5. Execution index (which BUILD when · blocking rules)
 
-When v1.0 ships — Phase Two begins with **BUILD-016 Consciousness Engine**.
+When v1.0 ships — Phase Two continues with **BUILD-018 Fracture Map**.
 
 ---
 

@@ -1,7 +1,7 @@
 # BUILD-016 — The Consciousness Engine
 
 > **Canonical Version 1.0 · Status: FROZEN**
-> CF-CON-240 · CF-CON-364–383 · CF-ENTRY-043 · CF-ENTRY-053 · CF-ENTRY-054
+> CF-CON-345 · CF-CON-364–382 · CF-ENTRY-043 · CF-ENTRY-053 · CF-ENTRY-054
 > Supersedes CF-ENTRY-053 truncated upload · **Authoritative:** CF-ENTRY-054
 > **Traces to:** BUILD-007 Humanity · BUILD-008 Assumption · BUILD-009 Time · BUILD-010 Reading · BUILD-015 Matrix
 
@@ -224,15 +224,13 @@ The novel doesn't complete anyone. It helps each consciousness see a little fart
 
 ---
 
-## BUILD-017 preview *(CF-ENTRY-054 · CF-CON-383)*
+## BUILD-017 — frozen *(CF-ENTRY-055 · CF-CON-383–400)*
 
-Now that we know **what** experiences the novel — we define **where** those experiences occur.
+Now that we know **what** experiences the novel and **where** — the architecture must give birth to the actual story.
 
-Not planet · city · timeline — the **architecture of reality itself**.
+→ [BUILD-017-reality-engine.md](BUILD-017-reality-engine.md) · **v1.0 frozen**
 
-→ **The Reality Engine** — what reality may do · what it cannot · how time · memory · causality · identity · consciousness interact · where boundaries lie
-
-→ [BUILD-017-reality-engine.md](BUILD-017-reality-engine.md) (queued)
+→ **BUILD-018 Fracture Map** — true chronology · central wound · why the story begins where it begins *(queued)*
 
 *(Supersedes "Chronology Engine" as BUILD-017 title · chronology remains subsystem in BUILD-015 §015.11)*
 

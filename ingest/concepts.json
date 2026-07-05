@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "1.4.1",
-  "generated_at": "2026-07-05T21:44:06.002003+00:00",
+  "canonforge_version": "1.5.0",
+  "generated_at": "2026-07-05T21:45:52.418105+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -4244,14 +4244,202 @@
     },
     {
       "id": "CF-CON-383",
-      "label": "Reality Engine BUILD-017",
+      "label": "Reality Engine",
       "category": "Architecture",
-      "status": "Queued",
-      "definition": "Architecture of reality; supersedes chronology title.",
+      "status": "Frozen",
+      "definition": "Immutable rules of existence; story-true reality design.",
       "sources": [
-        "CF-ENTRY-054"
+        "CF-ENTRY-054",
+        "CF-ENTRY-055"
       ],
       "canon_ref": "canon/build/BUILD-017-reality-engine.md"
+    },
+    {
+      "id": "CF-CON-384",
+      "label": "Story-true reality",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "What reality would make this story true not how universe works.",
+      "sources": [
+        "CF-ENTRY-055"
+      ],
+      "canon_ref": "canon/build/BUILD-017-reality-engine.md"
+    },
+    {
+      "id": "CF-CON-385",
+      "label": "Reality consistent understanding not",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Universe rules fixed; only understanding evolves.",
+      "sources": [
+        "CF-ENTRY-055"
+      ],
+      "canon_ref": "canon/build/BUILD-017-reality-engine.md#0171--the-first-principle"
+    },
+    {
+      "id": "CF-CON-386",
+      "label": "Five layers of reality",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Physical experienced remembered shared underlying.",
+      "sources": [
+        "CF-ENTRY-055"
+      ],
+      "canon_ref": "canon/build/BUILD-017-reality-engine.md#0172--the-layers-of-reality"
+    },
+    {
+      "id": "CF-CON-387",
+      "label": "Rule of conservation",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Nothing meaningful from nothing; every mystery has evidence.",
+      "sources": [
+        "CF-ENTRY-055"
+      ],
+      "canon_ref": "canon/build/BUILD-017-reality-engine.md#0173--the-rule-of-conservation"
+    },
+    {
+      "id": "CF-CON-388",
+      "label": "Causal web",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Reality as network; ripples tracked by Matrix.",
+      "sources": [
+        "CF-ENTRY-055"
+      ],
+      "canon_ref": "canon/build/BUILD-017-reality-engine.md#0174--the-causal-web"
+    },
+    {
+      "id": "CF-CON-389",
+      "label": "Rule of possibility",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Wonder from coherence; miracles without foundation forbidden.",
+      "sources": [
+        "CF-ENTRY-055"
+      ],
+      "canon_ref": "canon/build/BUILD-017-reality-engine.md#0175--the-rule-of-possibility"
+    },
+    {
+      "id": "CF-CON-390",
+      "label": "Horizon of knowledge",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Unknown is invitation; reality larger than any observer.",
+      "sources": [
+        "CF-ENTRY-055"
+      ],
+      "canon_ref": "canon/build/BUILD-017-reality-engine.md#0176--the-horizon-of-knowledge"
+    },
+    {
+      "id": "CF-CON-391",
+      "label": "Architecture of time objective",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Time objective; experience of time not; event unchanged meaning evolves.",
+      "sources": [
+        "CF-ENTRY-055"
+      ],
+      "canon_ref": "canon/build/BUILD-017-reality-engine.md#0177--the-architecture-of-time"
+    },
+    {
+      "id": "CF-CON-392",
+      "label": "Architecture of memory access",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Memory alters access not past; reinterpretation not revision.",
+      "sources": [
+        "CF-ENTRY-055"
+      ],
+      "canon_ref": "canon/build/BUILD-017-reality-engine.md#0178--the-architecture-of-memory"
+    },
+    {
+      "id": "CF-CON-393",
+      "label": "Architecture of identity tree",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Identity grows accumulates sheds integrates like living tree.",
+      "sources": [
+        "CF-ENTRY-055"
+      ],
+      "canon_ref": "canon/build/BUILD-017-reality-engine.md#0179--the-architecture-of-identity"
+    },
+    {
+      "id": "CF-CON-394",
+      "label": "Observer principle",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Observation changes understanding not reality.",
+      "sources": [
+        "CF-ENTRY-055"
+      ],
+      "canon_ref": "canon/build/BUILD-017-reality-engine.md#01710--the-observer-principle"
+    },
+    {
+      "id": "CF-CON-395",
+      "label": "Rule of limits",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Extraordinary capabilities bounded; constraints create drama.",
+      "sources": [
+        "CF-ENTRY-055"
+      ],
+      "canon_ref": "canon/build/BUILD-017-reality-engine.md#01711--the-rule-of-limits"
+    },
+    {
+      "id": "CF-CON-396",
+      "label": "Cost principle",
+      "category": "Theme",
+      "status": "Frozen",
+      "definition": "Every gain requires cost; nothing significant free.",
+      "sources": [
+        "CF-ENTRY-055"
+      ],
+      "canon_ref": "canon/build/BUILD-017-reality-engine.md#01712--the-cost-principle"
+    },
+    {
+      "id": "CF-CON-397",
+      "label": "Invisible framework",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Reality Engine like gravity; powerful when unnoticed.",
+      "sources": [
+        "CF-ENTRY-055"
+      ],
+      "canon_ref": "canon/build/BUILD-017-reality-engine.md#01713--the-invisible-framework"
+    },
+    {
+      "id": "CF-CON-398",
+      "label": "Reality discovered not lectured",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "World rules learned by living inside them.",
+      "sources": [
+        "CF-ENTRY-055"
+      ],
+      "canon_ref": "canon/build/BUILD-017-reality-engine.md#01714--the-readers-experience"
+    },
+    {
+      "id": "CF-CON-399",
+      "label": "Reality test",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Five questions before worldbuilding enters manuscript.",
+      "sources": [
+        "CF-ENTRY-055"
+      ],
+      "canon_ref": "canon/build/BUILD-017-reality-engine.md#01715--the-reality-test"
+    },
+    {
+      "id": "CF-CON-400",
+      "label": "Truthful universe",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Foundation for honest mysteries; truthful not strange.",
+      "sources": [
+        "CF-ENTRY-055"
+      ],
+      "canon_ref": "canon/build/BUILD-017-reality-engine.md#01716--the-final-principle"
     }
   ],
   "edges": [
@@ -7553,6 +7741,181 @@
     {
       "from": "CF-CON-383",
       "to": "CF-CON-364",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-383",
+      "to": "CF-CON-384",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-384",
+      "to": "CF-CON-383",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-384",
+      "to": "CF-CON-400",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-385",
+      "to": "CF-CON-383",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-385",
+      "to": "CF-CON-199",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-386",
+      "to": "CF-CON-383",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-386",
+      "to": "CF-CON-367",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-387",
+      "to": "CF-CON-383",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-387",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-388",
+      "to": "CF-CON-383",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-388",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-389",
+      "to": "CF-CON-383",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-389",
+      "to": "CF-CON-158",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-390",
+      "to": "CF-CON-383",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-390",
+      "to": "CF-CON-380",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-391",
+      "to": "CF-CON-383",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-391",
+      "to": "CF-CON-165",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-392",
+      "to": "CF-CON-383",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-392",
+      "to": "CF-CON-006",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-393",
+      "to": "CF-CON-383",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-393",
+      "to": "CF-CON-364",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-394",
+      "to": "CF-CON-383",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-394",
+      "to": "CF-CON-382",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-395",
+      "to": "CF-CON-383",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-395",
+      "to": "CF-CON-208",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-396",
+      "to": "CF-CON-383",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-396",
+      "to": "CF-CON-198",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-397",
+      "to": "CF-CON-383",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-397",
+      "to": "CF-CON-166",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-398",
+      "to": "CF-CON-383",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-398",
+      "to": "CF-CON-282",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-399",
+      "to": "CF-CON-383",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-399",
+      "to": "CF-CON-204",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-400",
+      "to": "CF-CON-383",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-400",
+      "to": "CF-CON-384",
       "type": "related"
     }
   ]

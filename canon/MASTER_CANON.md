@@ -1,7 +1,7 @@
-# Master Canon v1.3.1
+# Master Canon v1.3.2
 
-> **BUILD-016:** The Consciousness Engine · fundamental unit · inhabit not watch
-> Supersedes v1.3.0 (2026-07-05 · BUILD-016 CF-ENTRY-054 · CanonForge 1.4.1)
+> **BUILD-017:** The Reality Engine · story-true universe · five layers
+> Supersedes v1.3.1 (2026-07-05 · BUILD-017 CF-ENTRY-055 · CanonForge 1.5.0)
 
 ---
 
@@ -42,7 +42,9 @@ Key locked insights:
 | **Four Pillars** | Strengthen ≥1 of Wonder · **Connection** · Resonance · Transformation? | BUILD-003 v1.0 |
 | Seven Laws | Immutable · complies with BUILD-004 v1.0? | BUILD-004 |
 
-**Stack:** BUILD-001 = *why* · … · BUILD-015 = *where* · **016 = *consciousness***
+**Stack:** BUILD-001 = *why* · … · BUILD-015 = *where* · **016 = *consciousness*** · **017 = *reality***
+
+→ [build/BUILD-017-reality-engine.md](build/BUILD-017-reality-engine.md) · Five Layers · Story-True Reality · Reality Test
 
 → [build/BUILD-016-consciousness-engine.md](build/BUILD-016-consciousness-engine.md) · Ten Living Systems · Sixth Consciousness · Incomplete Principle
 
