@@ -74,14 +74,14 @@ Architecture must now give birth to the actual story. **BUILD-026 World Engine v
 
 Gravitational center: **How do separate consciousnesses discover that they belong to the same reality?** *(CF-CON-549)*
 
-Concrete questions for Story Genome (BUILD-039+):
+Concrete questions for Story Genome (BUILD-040+):
 
-- **BUILD-039 Movement Engine** — symphony movements not chapters *(queued)*
-- **Populate Moment ledger** — five families · resonance weight · prime echo *(CF-CON-808)*
-- **Populate Conversation ledger** — four layers · hidden question *(CF-CON-789)*
+- **BUILD-040 Ending Engine** — final resonance and departure *(queued)*
+- **Populate Movement ledger** — five functions · musical key · closing breath *(CF-CON-829)*
+- **Populate Moment ledger** — five families · resonance weight *(CF-CON-808)*
 - **Design Language phase** — deferred *(CF-CON-687)*
 
-BUILD-038 establishes **moment as fundamental unit** — transformation not location · islands of memory *(CF-CON-814 · CF-CON-811)*.
+BUILD-039 establishes **movements replace chapters** — symphony structure · movements **felt not named** *(CF-CON-832 · CF-CON-833)*.
 
 ## Hidden mathematics {#hidden-math}
 

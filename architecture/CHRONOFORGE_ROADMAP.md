@@ -12,7 +12,7 @@
 |---|---|
 | Original expectation | ~30–40 BUILDs |
 | **Current projection** | **80–120 canonical BUILDs** |
-| **Frozen today** | BUILD-001–038 *(38 BUILDs · 816 concepts)* |
+| **Frozen today** | BUILD-001–039 *(39 BUILDs · 836 concepts)* |
 
 Chronoforge is not a novel outline. It is a **complete engineering discipline for narrative** — software architecture · musical score · philosophical framework · production pipeline · quality assurance system · layered together.
 
@@ -24,7 +24,7 @@ Chronoforge is not a novel outline. It is a **complete engineering discipline fo
 PHASE I      Philosophy                    BUILD-001–015     ✓ COMPLETE
 PHASE II     Engines (operating system)    BUILD-016–032     ✓ COMPLETE
 PHASE II.5   Design Language               deferred          BUILD numbers TBD
-PHASE III    Story Genome                  BUILD-033–052     **033–038 ✓**
+PHASE III    Story Genome                  BUILD-033–052     **033–039 ✓**
 PHASE IV     The Five Reads                BUILD-053–057     Queued
 PHASE V      The Score                     BUILD-058–062     Queued
 PHASE VI     Canonical Edition             BUILD-063–072     Queued
@@ -33,7 +33,7 @@ PHASE VII    The Novel                     BUILD-073+        Prose authorized
 
 **Story Genome active:** BUILD-033 First Consciousness · BUILD-034 Constellation *(frozen)*. Design Language **deferred** — author prioritizing consciousness architecture.
 
-**Next:** BUILD-039 Movement Engine.
+**Next:** BUILD-040 Ending Engine.
 
 ---
 
@@ -87,8 +87,8 @@ Twelve atomic vocabularies *(Color through Naming)* — **BUILD numbers TBD**. D
 | **036** | **The Relationship Engine** | **✓ v1.0** · CF-ENTRY-076 |
 | **037** | **The Conversation Engine** | **✓ v1.0** · CF-ENTRY-077 |
 | **038** | **The Moment Engine** | **✓ v1.0** · CF-ENTRY-078 |
-| **039** | Movement Engine | Queued · **NEXT** |
-| **040** | Ending Engine | Queued |
+| **039** | **The Movement Engine** | **✓ v1.0** · CF-ENTRY-079 |
+| **040** | Ending Engine | Queued · **NEXT** |
 
 *Superseded: **Protagonist Engine** → BUILD-033 · **Companion Engine** → BUILD-034 Constellation.*
 
@@ -167,8 +167,8 @@ Steve's original Phase III–VI numbering (BUILD-033–060) is **preserved in in
 ## Governance
 
 ```txt
-STOP:   BUILD-039 until BUILD-015.5 v1.0 (016–038 excepted per author uploads)
-START:  Story Genome · BUILD-039 Movement Engine
+STOP:   BUILD-040 until BUILD-015.5 v1.0 (016–039 excepted per author uploads)
+START:  Story Genome · BUILD-040 Ending Engine
 NEVER:  manuscript/ until Phase VII · BUILD-031–032 never reader-facing
 ```
 

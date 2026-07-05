@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 2.18.0 · 2026-07-05 · 816 concepts registered
+> Version 2.19.0 · 2026-07-05 · 836 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -698,7 +698,7 @@
 | CF-CON-692 | Chronoforge roadmap v2 | Governance | **Frozen** | Seven phases plus II.5; renumber 033+. | CF-ENTRY-072 |
 | CF-CON-693 | Protagonist Engine superseded | Architecture | **Deprecated** | Replaced by BUILD-033 First Consciousness. | CF-ENTRY-072, CF-ENTRY-073 |
 | CF-CON-694 | Antagonist as alternate answer | Theme | **Deprecated** | Superseded by Opposing Consciousness BUILD-035. | CF-ENTRY-072, CF-ENTRY-075 |
-| CF-CON-695 | Movement Engine queued | Architecture | **Open** | BUILD-051 symphony movements not chapters. | CF-ENTRY-072 |
+| CF-CON-695 | Movement Engine queued | Architecture | **Deprecated** | Fulfilled by Movement Engine BUILD-039. | CF-ENTRY-072, CF-ENTRY-079 |
 | CF-CON-696 | Canonical edition audit stack | Process | **Open** | Phase VI BUILD-063-072 QA audits. | CF-ENTRY-072 |
 | CF-CON-697 | First Consciousness | Architecture | **Frozen** | Primary lens; architecture of awareness not profile. | CF-ENTRY-073 |
 | CF-CON-698 | First Consciousness first law | Governance | **Frozen** | Lens not importance; lens changes reality remains. | CF-ENTRY-073 |
@@ -820,6 +820,26 @@
 | CF-CON-814 | Islands of memory | Mission | **Frozen** | Twelve fifteen moments not plot sequence. | CF-ENTRY-078 |
 | CF-CON-815 | Measured by change not time | Architecture | **Frozen** | Moment significance from transformation not duration. | CF-ENTRY-078 |
 | CF-CON-816 | Smallest unit transformation | Architecture | **Frozen** | Complete unit of change in Chronoforge. | CF-ENTRY-078 |
+| CF-CON-817 | Movement Engine | Architecture | **Frozen** | Replaces chapters; emotional completion not page count. | CF-ENTRY-079 |
+| CF-CON-818 | Movement first law | Governance | **Frozen** | Ends at emotional resting place; natural breath. | CF-ENTRY-079 |
+| CF-CON-819 | Five movement functions | Architecture | **Frozen** | Awakening exploration fracture integration resonance. | CF-ENTRY-079 |
+| CF-CON-820 | Movement not length | Architecture | **Frozen** | Three or thirty pages; transformation not length. | CF-ENTRY-079 |
+| CF-CON-821 | Musical key movement | Architecture | **Frozen** | Emotional key tempo symbol silence shift together. | CF-ENTRY-079 |
+| CF-CON-822 | Invisible transition movement | Architecture | **Frozen** | Felt before understood; everything has changed. | CF-ENTRY-079 |
+| CF-CON-823 | Movement motif | Architecture | **Frozen** | Defining resonance per movement; old motif anew. | CF-ENTRY-079 |
+| CF-CON-824 | Return movement | Architecture | **Frozen** | Later movements transform earlier; reader changed. | CF-ENTRY-079 |
+| CF-CON-825 | Movement curve | Architecture | **Frozen** | Orientation expansion pressure recognition breath. | CF-ENTRY-079 |
+| CF-CON-826 | Movement of silence | Architecture | **Frozen** | One defining silence; meaning passes to reader. | CF-ENTRY-079 |
+| CF-CON-827 | Reader navigates emotionally | Heart | **Frozen** | Stop navigating by pages; feel something new. | CF-ENTRY-079 |
+| CF-CON-828 | Grand symphony | Architecture | **Frozen** | Novella one symphony; five movements example. | CF-ENTRY-079 |
+| CF-CON-829 | Movement ledger record | Architecture | **Frozen** | Nine fields per movement. | CF-ENTRY-079 |
+| CF-CON-830 | Rule of momentum | Governance | **Frozen** | Must stand alone yet enrich composition. | CF-ENTRY-079 |
+| CF-CON-831 | Movement final principle | Mission | **Frozen** | Remember like seasons by feeling not page. | CF-ENTRY-079 |
+| CF-CON-832 | Movements felt not named | Mission | **Frozen** | Never labeled; perceived on reread not puzzle. | CF-ENTRY-079 |
+| CF-CON-833 | Chapter structure superseded | Architecture | **Frozen** | Movements replace chapters; breathe not stop. | CF-ENTRY-079 |
+| CF-CON-834 | Where movement took me | Heart | **Frozen** | Never what chapter; where movement taken reader. | CF-ENTRY-079 |
+| CF-CON-835 | Emotional completion movement | Architecture | **Frozen** | Movement defined by emotional completion not pages. | CF-ENTRY-079 |
+| CF-CON-836 | Symphony structure novella | Mission | **Frozen** | Stops resembling novel; starts resembling symphony. | CF-ENTRY-079 |
 
 ## Related Concepts
 
@@ -1517,7 +1537,7 @@
 - **CF-CON-692** (Chronoforge roadmap v2, Frozen): CF-CON-360, CF-CON-688 → `architecture/CHRONOFORGE_ROADMAP.md`
 - **CF-CON-693** (Protagonist Engine superseded, Deprecated): CF-CON-697, CF-CON-713 → `canon/build/BUILD-033-first-consciousness.md`
 - **CF-CON-694** (Antagonist as alternate answer, Deprecated): CF-CON-737, CF-CON-750 → `canon/build/BUILD-035-opposing-consciousness.md`
-- **CF-CON-695** (Movement Engine queued, Open): CF-CON-059, CF-CON-524 → `architecture/CHRONOFORGE_ROADMAP.md`
+- **CF-CON-695** (Movement Engine queued, Deprecated): CF-CON-817 → `canon/build/BUILD-039-movement-engine.md`
 - **CF-CON-696** (Canonical edition audit stack, Open): CF-CON-132, CF-CON-116 → `architecture/CHRONOFORGE_ROADMAP.md`
 - **CF-CON-697** (First Consciousness, Frozen): CF-CON-364, CF-CON-713, CF-CON-716 → `canon/build/BUILD-033-first-consciousness.md`
 - **CF-CON-698** (First Consciousness first law, Frozen): CF-CON-697, CF-CON-383 → `canon/build/BUILD-033-first-consciousness.md#0331--the-first-law`
@@ -1639,3 +1659,23 @@
 - **CF-CON-814** (Islands of memory, Frozen): CF-CON-797, CF-CON-807 → `canon/build/BUILD-038-moment-engine.md#islands-of-memory-cf-con-814--author-closing`
 - **CF-CON-815** (Measured by change not time, Frozen): CF-CON-797, CF-CON-165 → `canon/build/BUILD-038-moment-engine.md#0380--purpose`
 - **CF-CON-816** (Smallest unit transformation, Frozen): CF-CON-797, CF-CON-159 → `canon/build/BUILD-038-moment-engine.md#0380--purpose`
+- **CF-CON-817** (Movement Engine, Frozen): CF-CON-835, CF-CON-828, CF-CON-076 → `canon/build/BUILD-039-movement-engine.md`
+- **CF-CON-818** (Movement first law, Frozen): CF-CON-817, CF-CON-219 → `canon/build/BUILD-039-movement-engine.md#0391--the-first-law`
+- **CF-CON-819** (Five movement functions, Frozen): CF-CON-817, CF-CON-401 → `canon/build/BUILD-039-movement-engine.md#0392--the-five-functions-of-a-movement`
+- **CF-CON-820** (Movement not length, Frozen): CF-CON-817, CF-CON-806 → `canon/build/BUILD-039-movement-engine.md#0393--movement-not-length`
+- **CF-CON-821** (Musical key movement, Frozen): CF-CON-817, CF-CON-505 → `canon/build/BUILD-039-movement-engine.md#0394--the-musical-key`
+- **CF-CON-822** (Invisible transition movement, Frozen): CF-CON-817, CF-CON-832 → `canon/build/BUILD-039-movement-engine.md#0395--the-invisible-transition`
+- **CF-CON-823** (Movement motif, Frozen): CF-CON-817, CF-CON-431 → `canon/build/BUILD-039-movement-engine.md#0396--the-movement-motif`
+- **CF-CON-824** (Return movement, Frozen): CF-CON-817, CF-CON-025 → `canon/build/BUILD-039-movement-engine.md#0397--the-return`
+- **CF-CON-825** (Movement curve, Frozen): CF-CON-817, CF-CON-800 → `canon/build/BUILD-039-movement-engine.md#0398--the-movement-curve`
+- **CF-CON-826** (Movement of silence, Frozen): CF-CON-817, CF-CON-457 → `canon/build/BUILD-039-movement-engine.md#0399--the-movement-of-silence`
+- **CF-CON-827** (Reader navigates emotionally, Frozen): CF-CON-817, CF-CON-065 → `canon/build/BUILD-039-movement-engine.md#03910--the-readers-position`
+- **CF-CON-828** (Grand symphony, Frozen): CF-CON-817, CF-CON-819 → `canon/build/BUILD-039-movement-engine.md#03911--the-grand-symphony`
+- **CF-CON-829** (Movement ledger record, Frozen): CF-CON-817, CF-CON-808 → `canon/build/BUILD-039-movement-engine.md#03912--the-movement-ledger`
+- **CF-CON-830** (Rule of momentum, Frozen): CF-CON-817, CF-CON-169 → `canon/build/BUILD-039-movement-engine.md#03913--the-rule-of-momentum`
+- **CF-CON-831** (Movement final principle, Frozen): CF-CON-817, CF-CON-814 → `canon/build/BUILD-039-movement-engine.md#03914--the-final-principle`
+- **CF-CON-832** (Movements felt not named, Frozen): CF-CON-817, CF-CON-059 → `canon/build/BUILD-039-movement-engine.md#movements-felt-not-named-cf-con-832--cf-con-833--author-closing`
+- **CF-CON-833** (Chapter structure superseded, Frozen): CF-CON-817, CF-CON-059 → `canon/build/BUILD-039-movement-engine.md`
+- **CF-CON-834** (Where movement took me, Frozen): CF-CON-817, CF-CON-827 → `canon/build/BUILD-039-movement-engine.md`
+- **CF-CON-835** (Emotional completion movement, Frozen): CF-CON-817, CF-CON-818 → `canon/build/BUILD-039-movement-engine.md#0390--purpose`
+- **CF-CON-836** (Symphony structure novella, Frozen): CF-CON-817, CF-CON-076 → `canon/build/BUILD-039-movement-engine.md`

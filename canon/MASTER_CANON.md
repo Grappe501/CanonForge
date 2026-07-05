@@ -1,7 +1,7 @@
-# Master Canon v1.6.2
+# Master Canon v1.6.3
 
-> **BUILD-038:** Moment Engine · transformation not location · islands of memory
-> Supersedes v1.6.1 (2026-07-05 · BUILD-038 CF-ENTRY-078 · CanonForge 2.18.0)
+> **BUILD-039:** Movement Engine · symphony not chapters · movements felt not named
+> Supersedes v1.6.2 (2026-07-05 · BUILD-039 CF-ENTRY-079 · CanonForge 2.19.0)
 
 ---
 
@@ -42,7 +42,9 @@ Key locked insights:
 | **Four Pillars** | Strengthen ≥1 of Wonder · **Connection** · Resonance · Transformation? | BUILD-003 v1.0 |
 | Seven Laws | Immutable · complies with BUILD-004 v1.0? | BUILD-004 |
 
-**Stack:** BUILD-001 = *why* · … · **037 = *conversation layers*** · **038 = *moments not scenes***
+**Stack:** BUILD-001 = *why* · … · **038 = *moments*** · **039 = *movements not chapters***
+
+→ [build/BUILD-039-movement-engine.md](build/BUILD-039-movement-engine.md) · Five Functions · Movement Ledger · Felt Not Named
 
 → [build/BUILD-038-moment-engine.md](build/BUILD-038-moment-engine.md) · Five Moment Families · Moment Ledger · Islands of Memory
 
@@ -294,6 +296,12 @@ Possibility under consideration: **never shown directly** — reader **assembles
 
 > **Measured by change, not time** *(CF-CON-815)* — smallest complete unit of **transformation**, not screenplay location *(CF-CON-813 Scene superseded)*. **Five families:** Discovery · Decision · Recognition · Communion · Departure *(CF-CON-799)*. Novella composed of **remembered moments** — readers carry **twelve or fifteen islands of memory**, not chronology *(CF-CON-814 · CF-CON-811)*.
 
+### Movement immutable law (CF-CON-817 · BUILD-039)
+
+> **The reader should never ask, 'What chapter am I in?' They should ask, 'Where has this movement taken me?'**
+
+> **Movements replace chapters** *(CF-CON-833 · CF-CON-059)* — defined by **emotional completion**, not page count *(CF-CON-835)*. **Five functions:** Awakening · Exploration · Fracture · Integration · Resonance *(CF-CON-819)*. Movements **felt, not named** — never labeled · perceived on reread *(CF-CON-832)*. Novella = **one symphony** *(CF-CON-828 · CF-CON-076)*.
+
 ### Cosmology immutable law (CF-CON-625 · BUILD-030)
 
 > **The universe is not a machine to be solved. It is a reality to be explored.**
@@ -306,7 +314,7 @@ Final question: **"How should conscious beings live within a universe they can n
 
 **Secret History** *(BUILD-031 · CF-CON-645 · AUTHOR-ONLY)* — hidden chronology framework. Populated events never reader-facing. See protected BUILD doc — not cited in surface canon.
 
-**Story Genome active** *(BUILD-033–038 · CF-CON-697 · CF-CON-717 · CF-CON-737 · CF-CON-757 · CF-CON-777 · CF-CON-797)*. Next: **BUILD-039 Movement Engine**.
+**Story Genome active** *(BUILD-033–039 · CF-CON-697 · CF-CON-717 · CF-CON-737 · CF-CON-757 · CF-CON-777 · CF-CON-797 · CF-CON-817)*. Next: **BUILD-040 Ending Engine**.
 
 ### Visual Grammar (CF-CON-080 · CF-CON-081)
 

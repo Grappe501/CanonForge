@@ -3,6 +3,17 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [2.19.0] — 2026-07-05
+
+### Added
+- CF-ENTRY-079: BUILD-039 The Movement Engine Canonical v1.0
+- Concepts CF-CON-817 through CF-CON-836
+- Five movement functions · movement ledger · grand symphony
+- **Movements felt not named** — hidden architecture on reread (CF-CON-832)
+- **Chapter structure superseded** · emotional completion not pages (CF-CON-833 · CF-CON-835)
+- Movement Engine queued fulfilled (CF-CON-695)
+- Master Canon v1.6.3
+
 ## [2.18.0] — 2026-07-05
 
 ### Added

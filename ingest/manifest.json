@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0.0",
   "canonforge_version": "2.14.0",
-  "generated_at": "2026-07-05T22:56:32.950848+00:00",
+  "generated_at": "2026-07-05T22:59:25.388644+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 78,
-  "concept_count": 816,
+  "entry_count": 79,
+  "concept_count": 836,
   "project_version": "0.4.0",
   "roadmap_version": "1.0",
   "roadmap_build_projection": "80-120",
@@ -23,9 +23,11 @@
   "build_037_title": "Conversation Engine",
   "build_038_version": "1.0",
   "build_038_title": "Moment Engine",
+  "build_039_version": "1.0",
+  "build_039_title": "Movement Engine",
   "story_genome": "active",
   "phase_ii_5_next": "deferred",
-  "story_genome_next": "BUILD-039 Movement Engine",
+  "story_genome_next": "BUILD-040 Ending Engine",
   "phase_two": "complete",
   "build_016_version": "1.0",
   "build_016_title": "Consciousness Engine",
@@ -96,7 +98,7 @@
   "build_015_title": "Resonance Matrix",
   "foundational_layer": "BUILD-001-013 complete",
   "engineering_layer": "BUILD-014-015 complete",
-  "build_layer": "BUILD-001-038 frozen \u00b7 BUILD-015.5 active",
+  "build_layer": "BUILD-001-039 frozen \u00b7 BUILD-015.5 active",
   "entries": [
     {
       "entry_id": "CF-ENTRY-001",
@@ -1737,6 +1739,36 @@
         "CF-CON-816"
       ],
       "byte_size": 8612
+    },
+    {
+      "entry_id": "CF-ENTRY-079",
+      "file": "knowledge/entries/079-build-039-movement-engine-v1.md",
+      "sha256": "b8c9693c4b02766abf9a120040feadbfa26fa0500039d482e162ca2f6c229a06",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-817",
+        "CF-CON-818",
+        "CF-CON-819",
+        "CF-CON-820",
+        "CF-CON-821",
+        "CF-CON-822",
+        "CF-CON-823",
+        "CF-CON-824",
+        "CF-CON-825",
+        "CF-CON-826",
+        "CF-CON-827",
+        "CF-CON-828",
+        "CF-CON-829",
+        "CF-CON-830",
+        "CF-CON-831",
+        "CF-CON-832",
+        "CF-CON-833",
+        "CF-CON-834",
+        "CF-CON-835",
+        "CF-CON-836"
+      ],
+      "byte_size": 8573
     }
   ],
   "indexes": {

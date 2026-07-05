@@ -9,7 +9,7 @@
 
 > **First story-specific BUILD.** Not mechanics · not philosophy — **the secret** that has been true since before page one. Renamed from queued **Rules of Time** *(BUILD-009 already defines experienced time)*.
 
-**Composing phase** *(BUILD-032+)*. **BUILD-033–038** *(✓ v1.0)*. Next: **BUILD-039 Movement Engine**.
+**Composing phase** *(BUILD-032+)*. **BUILD-033–039** *(✓ v1.0)*. Next: **BUILD-040 Ending Engine**.
 
 ---
 
@@ -183,9 +183,10 @@ The central revelation becomes something they **genuinely create within their ow
 | BUILD-036 Relationship Engine | **✓ v1.0** |
 | BUILD-037 Conversation Engine | **✓ v1.0** |
 | BUILD-038 Moment Engine | **✓ v1.0** |
-| BUILD-039 Movement Engine | Queued · **NEXT** |
+| BUILD-039 Movement Engine | **✓ v1.0** |
+| BUILD-040 Ending Engine | Queued · **NEXT** |
 
-→ **BUILD-039 Movement Engine** *(queued)*
+→ **BUILD-040 Ending Engine** *(queued)*
 
 ---
 

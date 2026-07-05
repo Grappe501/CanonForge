@@ -100,6 +100,8 @@
 | **Moment Engine** | Smallest unit of transformation not scene | CF-CON-797 |
 | **Five moment families** | Discovery decision recognition communion departure | CF-CON-799 |
 | **Islands of memory** | Remembered moments not plot sequence | CF-CON-814 |
+| **Movement Engine** | Symphony movements replace chapters | CF-CON-817 |
+| **Movements felt not named** | Hidden architecture; reread not puzzle | CF-CON-832 |
 | **Universe larger than imagined** | Ordinary world larger after closing book | CF-CON-563 |
 | **Motif not symbol** | Returns vs carries meaning | CF-CON-450 |
 | **Language of Silence** | Composed silence · seven forms | CF-CON-457 |

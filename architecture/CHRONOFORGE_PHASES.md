@@ -11,7 +11,7 @@
 ```txt
 PHASE I       Philosophy                        BUILD-001–015     ✓ COMPLETE
 PHASE II      Engines (operating system)        BUILD-016–032     ✓ COMPLETE
-PHASE III     Story Genome                      BUILD-033–052     **033–038 ✓**
+PHASE III     Story Genome                      BUILD-033–052     **033–039 ✓**
 PHASE IV      The Five Reads                    BUILD-053–057     Queued
 PHASE V       The Score                         BUILD-058–062     Queued
 PHASE VI      Canonical Edition                 BUILD-063–072     Queued
@@ -95,9 +95,10 @@ PHASE VII     The Novel                         BUILD-073+        Prose gate
 | **036** | **The Relationship Engine** | **✓ v1.0** · CF-ENTRY-076 |
 | **037** | **The Conversation Engine** | **✓ v1.0** · CF-ENTRY-077 |
 | **038** | **The Moment Engine** | **✓ v1.0** · CF-ENTRY-078 |
-| **039–040** | Movement through Ending Engine | Queued |
+| **039** | **The Movement Engine** | **✓ v1.0** · CF-ENTRY-079 |
+| **040** | Ending Engine | Queued · **NEXT** |
 
-→ **BUILD-039 Movement Engine** queued
+→ **BUILD-040 Ending Engine** queued
 
 ---
 

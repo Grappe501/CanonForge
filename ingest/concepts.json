@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "canonforge_version": "2.14.0",
-  "generated_at": "2026-07-05T22:56:32.991412+00:00",
+  "generated_at": "2026-07-05T22:59:25.416859+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -7692,12 +7692,13 @@
       "id": "CF-CON-695",
       "label": "Movement Engine queued",
       "category": "Architecture",
-      "status": "Open",
-      "definition": "BUILD-051 symphony movements not chapters.",
+      "status": "Deprecated",
+      "definition": "Fulfilled by Movement Engine BUILD-039.",
       "sources": [
-        "CF-ENTRY-072"
+        "CF-ENTRY-072",
+        "CF-ENTRY-079"
       ],
-      "canon_ref": "architecture/CHRONOFORGE_ROADMAP.md"
+      "canon_ref": "canon/build/BUILD-039-movement-engine.md"
     },
     {
       "id": "CF-CON-696",
@@ -9033,6 +9034,226 @@
         "CF-ENTRY-078"
       ],
       "canon_ref": "canon/build/BUILD-038-moment-engine.md#0380--purpose"
+    },
+    {
+      "id": "CF-CON-817",
+      "label": "Movement Engine",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Replaces chapters; emotional completion not page count.",
+      "sources": [
+        "CF-ENTRY-079"
+      ],
+      "canon_ref": "canon/build/BUILD-039-movement-engine.md"
+    },
+    {
+      "id": "CF-CON-818",
+      "label": "Movement first law",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Ends at emotional resting place; natural breath.",
+      "sources": [
+        "CF-ENTRY-079"
+      ],
+      "canon_ref": "canon/build/BUILD-039-movement-engine.md#0391--the-first-law"
+    },
+    {
+      "id": "CF-CON-819",
+      "label": "Five movement functions",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Awakening exploration fracture integration resonance.",
+      "sources": [
+        "CF-ENTRY-079"
+      ],
+      "canon_ref": "canon/build/BUILD-039-movement-engine.md#0392--the-five-functions-of-a-movement"
+    },
+    {
+      "id": "CF-CON-820",
+      "label": "Movement not length",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Three or thirty pages; transformation not length.",
+      "sources": [
+        "CF-ENTRY-079"
+      ],
+      "canon_ref": "canon/build/BUILD-039-movement-engine.md#0393--movement-not-length"
+    },
+    {
+      "id": "CF-CON-821",
+      "label": "Musical key movement",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Emotional key tempo symbol silence shift together.",
+      "sources": [
+        "CF-ENTRY-079"
+      ],
+      "canon_ref": "canon/build/BUILD-039-movement-engine.md#0394--the-musical-key"
+    },
+    {
+      "id": "CF-CON-822",
+      "label": "Invisible transition movement",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Felt before understood; everything has changed.",
+      "sources": [
+        "CF-ENTRY-079"
+      ],
+      "canon_ref": "canon/build/BUILD-039-movement-engine.md#0395--the-invisible-transition"
+    },
+    {
+      "id": "CF-CON-823",
+      "label": "Movement motif",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Defining resonance per movement; old motif anew.",
+      "sources": [
+        "CF-ENTRY-079"
+      ],
+      "canon_ref": "canon/build/BUILD-039-movement-engine.md#0396--the-movement-motif"
+    },
+    {
+      "id": "CF-CON-824",
+      "label": "Return movement",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Later movements transform earlier; reader changed.",
+      "sources": [
+        "CF-ENTRY-079"
+      ],
+      "canon_ref": "canon/build/BUILD-039-movement-engine.md#0397--the-return"
+    },
+    {
+      "id": "CF-CON-825",
+      "label": "Movement curve",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Orientation expansion pressure recognition breath.",
+      "sources": [
+        "CF-ENTRY-079"
+      ],
+      "canon_ref": "canon/build/BUILD-039-movement-engine.md#0398--the-movement-curve"
+    },
+    {
+      "id": "CF-CON-826",
+      "label": "Movement of silence",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "One defining silence; meaning passes to reader.",
+      "sources": [
+        "CF-ENTRY-079"
+      ],
+      "canon_ref": "canon/build/BUILD-039-movement-engine.md#0399--the-movement-of-silence"
+    },
+    {
+      "id": "CF-CON-827",
+      "label": "Reader navigates emotionally",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Stop navigating by pages; feel something new.",
+      "sources": [
+        "CF-ENTRY-079"
+      ],
+      "canon_ref": "canon/build/BUILD-039-movement-engine.md#03910--the-readers-position"
+    },
+    {
+      "id": "CF-CON-828",
+      "label": "Grand symphony",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Novella one symphony; five movements example.",
+      "sources": [
+        "CF-ENTRY-079"
+      ],
+      "canon_ref": "canon/build/BUILD-039-movement-engine.md#03911--the-grand-symphony"
+    },
+    {
+      "id": "CF-CON-829",
+      "label": "Movement ledger record",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Nine fields per movement.",
+      "sources": [
+        "CF-ENTRY-079"
+      ],
+      "canon_ref": "canon/build/BUILD-039-movement-engine.md#03912--the-movement-ledger"
+    },
+    {
+      "id": "CF-CON-830",
+      "label": "Rule of momentum",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Must stand alone yet enrich composition.",
+      "sources": [
+        "CF-ENTRY-079"
+      ],
+      "canon_ref": "canon/build/BUILD-039-movement-engine.md#03913--the-rule-of-momentum"
+    },
+    {
+      "id": "CF-CON-831",
+      "label": "Movement final principle",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Remember like seasons by feeling not page.",
+      "sources": [
+        "CF-ENTRY-079"
+      ],
+      "canon_ref": "canon/build/BUILD-039-movement-engine.md#03914--the-final-principle"
+    },
+    {
+      "id": "CF-CON-832",
+      "label": "Movements felt not named",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Never labeled; perceived on reread not puzzle.",
+      "sources": [
+        "CF-ENTRY-079"
+      ],
+      "canon_ref": "canon/build/BUILD-039-movement-engine.md#movements-felt-not-named-cf-con-832--cf-con-833--author-closing"
+    },
+    {
+      "id": "CF-CON-833",
+      "label": "Chapter structure superseded",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Movements replace chapters; breathe not stop.",
+      "sources": [
+        "CF-ENTRY-079"
+      ],
+      "canon_ref": "canon/build/BUILD-039-movement-engine.md"
+    },
+    {
+      "id": "CF-CON-834",
+      "label": "Where movement took me",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Never what chapter; where movement taken reader.",
+      "sources": [
+        "CF-ENTRY-079"
+      ],
+      "canon_ref": "canon/build/BUILD-039-movement-engine.md"
+    },
+    {
+      "id": "CF-CON-835",
+      "label": "Emotional completion movement",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Movement defined by emotional completion not pages.",
+      "sources": [
+        "CF-ENTRY-079"
+      ],
+      "canon_ref": "canon/build/BUILD-039-movement-engine.md#0390--purpose"
+    },
+    {
+      "id": "CF-CON-836",
+      "label": "Symphony structure novella",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Stops resembling novel; starts resembling symphony.",
+      "sources": [
+        "CF-ENTRY-079"
+      ],
+      "canon_ref": "canon/build/BUILD-039-movement-engine.md"
     }
   ],
   "edges": [
@@ -15573,12 +15794,7 @@
     },
     {
       "from": "CF-CON-695",
-      "to": "CF-CON-059",
-      "type": "related"
-    },
-    {
-      "from": "CF-CON-695",
-      "to": "CF-CON-524",
+      "to": "CF-CON-817",
       "type": "related"
     },
     {
@@ -16809,6 +17025,211 @@
     {
       "from": "CF-CON-816",
       "to": "CF-CON-159",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-817",
+      "to": "CF-CON-835",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-817",
+      "to": "CF-CON-828",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-817",
+      "to": "CF-CON-076",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-818",
+      "to": "CF-CON-817",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-818",
+      "to": "CF-CON-219",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-819",
+      "to": "CF-CON-817",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-819",
+      "to": "CF-CON-401",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-820",
+      "to": "CF-CON-817",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-820",
+      "to": "CF-CON-806",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-821",
+      "to": "CF-CON-817",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-821",
+      "to": "CF-CON-505",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-822",
+      "to": "CF-CON-817",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-822",
+      "to": "CF-CON-832",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-823",
+      "to": "CF-CON-817",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-823",
+      "to": "CF-CON-431",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-824",
+      "to": "CF-CON-817",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-824",
+      "to": "CF-CON-025",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-825",
+      "to": "CF-CON-817",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-825",
+      "to": "CF-CON-800",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-826",
+      "to": "CF-CON-817",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-826",
+      "to": "CF-CON-457",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-827",
+      "to": "CF-CON-817",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-827",
+      "to": "CF-CON-065",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-828",
+      "to": "CF-CON-817",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-828",
+      "to": "CF-CON-819",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-829",
+      "to": "CF-CON-817",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-829",
+      "to": "CF-CON-808",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-830",
+      "to": "CF-CON-817",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-830",
+      "to": "CF-CON-169",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-831",
+      "to": "CF-CON-817",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-831",
+      "to": "CF-CON-814",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-832",
+      "to": "CF-CON-817",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-832",
+      "to": "CF-CON-059",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-833",
+      "to": "CF-CON-817",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-833",
+      "to": "CF-CON-059",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-834",
+      "to": "CF-CON-817",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-834",
+      "to": "CF-CON-827",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-835",
+      "to": "CF-CON-817",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-835",
+      "to": "CF-CON-818",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-836",
+      "to": "CF-CON-817",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-836",
+      "to": "CF-CON-076",
       "type": "related"
     }
   ]
