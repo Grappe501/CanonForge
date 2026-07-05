@@ -254,11 +254,9 @@ BUILD-017 defines **reality laws** within which chronology operates — not a re
 
 ---
 
-## BUILD-021 preview *(CF-ENTRY-058)*
+## BUILD-022 preview *(CF-ENTRY-059 partial)*
 
-The Resonance Registry is **v1.0 frozen**. Symbol Genome governs how motif families inherit and evolve.
-
-→ **BUILD-021 Symbol Genome** *(queued)*
+→ **BUILD-022 Silence Ledger** *(queued)*
 
 ---
 

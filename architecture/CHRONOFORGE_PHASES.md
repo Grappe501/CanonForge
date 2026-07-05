@@ -56,7 +56,7 @@ Engineer the book — not outline chapters.
 | **018** | **Fracture Engine** | **✓ v1.0** · understanding gap · CF-ENTRY-056 |
 | **019** | **Memory Engine** | **✓ v1.0** · reconstruction · CF-ENTRY-057 |
 | **020** | **Resonance Registry** | **✓ v1.0** · motif vocabulary · CF-ENTRY-058 |
-| **021** | Symbol Genome | Families · inheritance · evolution · payoffs |
+| **021** | **Symbol Genome** | **✓ v1.0 partial** · §021.7+ pending · CF-ENTRY-059 |
 | **022** | Silence Ledger | Every pause · blank · omission |
 | **023** | Typography Physics | Canonical · ~20 events · each enormous |
 | **024** | Rhythm Score | Movement · page · pulse · breath |

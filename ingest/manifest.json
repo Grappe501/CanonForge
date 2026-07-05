@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "1.8.0",
-  "generated_at": "2026-07-05T21:50:35.917828+00:00",
+  "canonforge_version": "1.9.0",
+  "generated_at": "2026-07-05T21:52:53.817839+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 58,
-  "concept_count": 448,
+  "entry_count": 59,
+  "concept_count": 456,
   "project_version": "0.2.0",
   "phase_two": "begun",
   "build_016_version": "1.0",
@@ -19,6 +19,9 @@
   "build_019_title": "Memory Engine",
   "build_020_version": "1.0",
   "build_020_title": "Resonance Registry",
+  "build_021_version": "1.0-partial",
+  "build_021_title": "Symbol Genome",
+  "build_021_status": "truncated_021_7",
   "phase_one": "complete",
   "build_015_5_version": "0.1",
   "build_015_5_title": "Chronoforge Master Architecture",
@@ -1115,6 +1118,24 @@
         "CF-CON-448"
       ],
       "byte_size": 8384
+    },
+    {
+      "entry_id": "CF-ENTRY-059",
+      "file": "knowledge/entries/059-build-021-symbol-genome-v1-truncated.md",
+      "sha256": "6ae28c2ff884fe931a70d0951385de6fae1dc3ff2a58badec5f80ec82a549634",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-449",
+        "CF-CON-450",
+        "CF-CON-451",
+        "CF-CON-452",
+        "CF-CON-453",
+        "CF-CON-454",
+        "CF-CON-455",
+        "CF-CON-456"
+      ],
+      "byte_size": 4005
     }
   ],
   "indexes": {

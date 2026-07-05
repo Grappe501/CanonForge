@@ -232,9 +232,9 @@ Not merely fractured time · not something that **broke** · the visible process
 
 ---
 
-## BUILD-021 preview *(CF-ENTRY-058)*
+## BUILD-022 preview *(CF-ENTRY-059 partial)*
 
-→ **BUILD-021 Symbol Genome** — motif inheritance · evolution · payoffs *(queued)*
+→ **BUILD-022 Silence Ledger** *(queued)*
 
 ---
 

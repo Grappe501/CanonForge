@@ -274,11 +274,11 @@ Matrix governs **everything**. Registry governs **what returns transformed**.
 
 ---
 
-## BUILD-021 preview *(CF-ENTRY-058)*
+## BUILD-021 — partial *(CF-ENTRY-059)*
 
-Motif **families** need inheritance · evolution · payoff rules across the novel.
+→ [BUILD-021-symbol-genome.md](BUILD-021-symbol-genome.md) · **§021.0–021.6 frozen** · §021.7+ truncated
 
-→ **BUILD-021 Symbol Genome** *(queued)*
+→ **BUILD-022 Silence Ledger** *(queued)*
 
 ---
 

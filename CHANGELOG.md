@@ -3,6 +3,17 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [1.9.0] — 2026-07-05
+
+### Added
+- CF-ENTRY-059: BUILD-021 The Symbol Genome **partial** (truncated at §021.7)
+- Concepts CF-CON-449 through CF-CON-456
+- Motif≠symbol discipline · symbol life cycle · seven symbol families · rule of emergence
+- Master Canon v1.3.6
+
+### Changed
+- BUILD-021 §021.0–021.6 frozen · §021.7+ pending author completion
+
 ## [1.8.0] — 2026-07-05
 
 ### Added

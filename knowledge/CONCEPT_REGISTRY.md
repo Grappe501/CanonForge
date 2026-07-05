@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 1.8.0 · 2026-07-05 · 448 concepts registered
+> Version 1.9.0 · 2026-07-05 · 456 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -452,6 +452,14 @@
 | CF-CON-446 | Living network motifs | Architecture | **Frozen** | Registry as graph not list; full symbolic system. | CF-ENTRY-058 |
 | CF-CON-447 | Motif test | Governance | **Frozen** | Six questions before motif enters manuscript. | CF-ENTRY-058 |
 | CF-CON-448 | Closed and open motifs | Mission | **Frozen** | Closed complete in book; open alive after final page. | CF-ENTRY-058 |
+| CF-CON-449 | Symbol Genome | Architecture | **Frozen** | Symbolic language; emergence not assignment; partial BUILD. | CF-ENTRY-059 |
+| CF-CON-450 | Motif not symbol | Governance | **Frozen** | Motif returns; symbol carries meaning; keep separate. | CF-ENTRY-059 |
+| CF-CON-451 | Nothing begins as symbol | Mission | **Frozen** | Bridge first bridge; meaning emerges through experience. | CF-ENTRY-059 |
+| CF-CON-452 | Symbol life cycle | Process | **Frozen** | Reality familiarity association transformation integration. | CF-ENTRY-059 |
+| CF-CON-453 | Symbol families | Architecture | **Frozen** | Passage reflection orientation rhythm connection light return. | CF-ENTRY-059 |
+| CF-CON-454 | Symbol record | Architecture | **Frozen** | Profile per symbol; links related motifs. | CF-ENTRY-059 |
+| CF-CON-455 | Rule of emergence | Governance | **Frozen** | Discover not decode; cant think same way anymore. | CF-ENTRY-059 |
+| CF-CON-456 | Symbol web | Architecture | **Frozen** | Symbols interact; meaning from relationships. | CF-ENTRY-059 |
 
 ## Related Concepts
 
@@ -903,3 +911,11 @@
 - **CF-CON-446** (Living network motifs, Frozen): CF-CON-431, CF-CON-358 → `canon/build/BUILD-020-resonance-registry.md#02015--the-living-network`
 - **CF-CON-447** (Motif test, Frozen): CF-CON-431, CF-CON-399 → `canon/build/BUILD-020-resonance-registry.md#02016--the-motif-test`
 - **CF-CON-448** (Closed and open motifs, Frozen): CF-CON-431, CF-CON-380, CF-CON-385 → `canon/build/BUILD-020-resonance-registry.md`
+- **CF-CON-449** (Symbol Genome, Frozen): CF-CON-431, CF-CON-450, CF-CON-453 → `canon/build/BUILD-021-symbol-genome.md`
+- **CF-CON-450** (Motif not symbol, Frozen): CF-CON-449, CF-CON-431 → `canon/build/BUILD-021-symbol-genome.md#0210--purpose`
+- **CF-CON-451** (Nothing begins as symbol, Frozen): CF-CON-449, CF-CON-455 → `canon/build/BUILD-021-symbol-genome.md#0211--the-first-principle`
+- **CF-CON-452** (Symbol life cycle, Frozen): CF-CON-449, CF-CON-435 → `canon/build/BUILD-021-symbol-genome.md#0212--the-life-cycle-of-a-symbol`
+- **CF-CON-453** (Symbol families, Frozen): CF-CON-449, CF-CON-433 → `canon/build/BUILD-021-symbol-genome.md#0213--symbol-families`
+- **CF-CON-454** (Symbol record, Frozen): CF-CON-449, CF-CON-434 → `canon/build/BUILD-021-symbol-genome.md#0214--the-symbol-record`
+- **CF-CON-455** (Rule of emergence, Frozen): CF-CON-449, CF-CON-415 → `canon/build/BUILD-021-symbol-genome.md#0215--the-rule-of-emergence`
+- **CF-CON-456** (Symbol web, Frozen): CF-CON-449, CF-CON-438 → `canon/build/BUILD-021-symbol-genome.md#0216--the-symbol-web`

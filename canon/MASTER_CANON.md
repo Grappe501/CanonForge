@@ -1,7 +1,7 @@
-# Master Canon v1.3.5
+# Master Canon v1.3.6
 
-> **BUILD-020:** The Resonance Registry · narrative motifs · closed/open · composer workbench
-> Supersedes v1.3.4 (2026-07-05 · BUILD-020 CF-ENTRY-058 · CanonForge 1.8.0)
+> **BUILD-021:** The Symbol Genome · motif≠symbol · emergence · **partial §021.7+ pending**
+> Supersedes v1.3.5 (2026-07-05 · BUILD-021 CF-ENTRY-059 · CanonForge 1.9.0)
 
 ---
 
@@ -42,7 +42,9 @@ Key locked insights:
 | **Four Pillars** | Strengthen ≥1 of Wonder · **Connection** · Resonance · Transformation? | BUILD-003 v1.0 |
 | Seven Laws | Immutable · complies with BUILD-004 v1.0? | BUILD-004 |
 
-**Stack:** BUILD-001 = *why* · … · **016 = *consciousness*** · **017 = *reality*** · **018 = *understanding gap*** · **019 = *living memory*** · **020 = *motif vocabulary***
+**Stack:** BUILD-001 = *why* · … · **016 = *consciousness*** · **017 = *reality*** · **018 = *understanding gap*** · **019 = *living memory*** · **020 = *motif vocabulary*** · **021 = *symbol language (partial)***
+
+→ [build/BUILD-021-symbol-genome.md](build/BUILD-021-symbol-genome.md) · Motif≠Symbol · Seven Families · Rule of Emergence *(§021.7+ pending)*
 
 → [build/BUILD-020-resonance-registry.md](build/BUILD-020-resonance-registry.md) · Motif Families · Rule of Return · Closed/Open Motifs
 

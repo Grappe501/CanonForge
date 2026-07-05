@@ -51,6 +51,8 @@
 | **True medium** | Fixed text + evolving reader memory | CF-CON-430 |
 | **Resonance Registry** | Motif catalog · composer workbench | CF-CON-431 |
 | **Closed and open motifs** | Complete in book vs alive after | CF-CON-448 |
+| **Symbol Genome** | Symbolic language · emergence not decode | CF-CON-449 |
+| **Motif not symbol** | Returns vs carries meaning | CF-CON-450 |
 | **Prime Directive** | Does this increase discovery? | CF-CON-158 |
 | **I was out of order** | Reader not timeline is the deeper realization | CF-CON-172 |
 | **Wrong chapter anchor** | Hidden development bone · may not be printed | CF-CON-174 |

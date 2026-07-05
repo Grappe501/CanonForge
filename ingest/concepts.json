@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "1.8.0",
-  "generated_at": "2026-07-05T21:50:35.943122+00:00",
+  "canonforge_version": "1.9.0",
+  "generated_at": "2026-07-05T21:52:53.841121+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -4968,6 +4968,94 @@
         "CF-ENTRY-058"
       ],
       "canon_ref": "canon/build/BUILD-020-resonance-registry.md"
+    },
+    {
+      "id": "CF-CON-449",
+      "label": "Symbol Genome",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Symbolic language; emergence not assignment; partial BUILD.",
+      "sources": [
+        "CF-ENTRY-059"
+      ],
+      "canon_ref": "canon/build/BUILD-021-symbol-genome.md"
+    },
+    {
+      "id": "CF-CON-450",
+      "label": "Motif not symbol",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Motif returns; symbol carries meaning; keep separate.",
+      "sources": [
+        "CF-ENTRY-059"
+      ],
+      "canon_ref": "canon/build/BUILD-021-symbol-genome.md#0210--purpose"
+    },
+    {
+      "id": "CF-CON-451",
+      "label": "Nothing begins as symbol",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Bridge first bridge; meaning emerges through experience.",
+      "sources": [
+        "CF-ENTRY-059"
+      ],
+      "canon_ref": "canon/build/BUILD-021-symbol-genome.md#0211--the-first-principle"
+    },
+    {
+      "id": "CF-CON-452",
+      "label": "Symbol life cycle",
+      "category": "Process",
+      "status": "Frozen",
+      "definition": "Reality familiarity association transformation integration.",
+      "sources": [
+        "CF-ENTRY-059"
+      ],
+      "canon_ref": "canon/build/BUILD-021-symbol-genome.md#0212--the-life-cycle-of-a-symbol"
+    },
+    {
+      "id": "CF-CON-453",
+      "label": "Symbol families",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Passage reflection orientation rhythm connection light return.",
+      "sources": [
+        "CF-ENTRY-059"
+      ],
+      "canon_ref": "canon/build/BUILD-021-symbol-genome.md#0213--symbol-families"
+    },
+    {
+      "id": "CF-CON-454",
+      "label": "Symbol record",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Profile per symbol; links related motifs.",
+      "sources": [
+        "CF-ENTRY-059"
+      ],
+      "canon_ref": "canon/build/BUILD-021-symbol-genome.md#0214--the-symbol-record"
+    },
+    {
+      "id": "CF-CON-455",
+      "label": "Rule of emergence",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Discover not decode; cant think same way anymore.",
+      "sources": [
+        "CF-ENTRY-059"
+      ],
+      "canon_ref": "canon/build/BUILD-021-symbol-genome.md#0215--the-rule-of-emergence"
+    },
+    {
+      "id": "CF-CON-456",
+      "label": "Symbol web",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Symbols interact; meaning from relationships.",
+      "sources": [
+        "CF-ENTRY-059"
+      ],
+      "canon_ref": "canon/build/BUILD-021-symbol-genome.md#0216--the-symbol-web"
     }
   ],
   "edges": [
@@ -8954,6 +9042,91 @@
     {
       "from": "CF-CON-448",
       "to": "CF-CON-385",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-449",
+      "to": "CF-CON-431",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-449",
+      "to": "CF-CON-450",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-449",
+      "to": "CF-CON-453",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-450",
+      "to": "CF-CON-449",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-450",
+      "to": "CF-CON-431",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-451",
+      "to": "CF-CON-449",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-451",
+      "to": "CF-CON-455",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-452",
+      "to": "CF-CON-449",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-452",
+      "to": "CF-CON-435",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-453",
+      "to": "CF-CON-449",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-453",
+      "to": "CF-CON-433",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-454",
+      "to": "CF-CON-449",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-454",
+      "to": "CF-CON-434",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-455",
+      "to": "CF-CON-449",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-455",
+      "to": "CF-CON-415",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-456",
+      "to": "CF-CON-449",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-456",
+      "to": "CF-CON-438",
       "type": "related"
     }
   ]
