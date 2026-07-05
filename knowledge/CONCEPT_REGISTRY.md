@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 2.4.0 · 2026-07-05 · 544 concepts registered
+> Version 2.5.0 · 2026-07-05 · 564 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -546,8 +546,28 @@
 | CF-CON-540 | Rule of page invisibility | Governance | **Frozen** | Feel effects without noticing; else decoration. | CF-ENTRY-064 |
 | CF-CON-541 | Final architecture test | Governance | **Frozen** | Five questions before canonical edition approved. | CF-ENTRY-064 |
 | CF-CON-542 | Architect Phase complete | Mission | **Frozen** | BUILD-001-025 how; Phase Three the novel. | CF-ENTRY-064 |
-| CF-CON-543 | World-only-in-Chronoforge | Mission | **Frozen** | BUILD-026 gate; story-true world question. | CF-ENTRY-064 |
+| CF-CON-543 | World-only-in-Chronoforge | Mission | **Frozen** | Reality whole consciousness fragmented; BUILD-026 answer. | CF-ENTRY-064, CF-ENTRY-065 |
 | CF-CON-544 | Architecture becomes art | Mission | **Frozen** | Instrument designed; symphony begins BUILD-026. | CF-ENTRY-064 |
+| CF-CON-545 | World Engine | Architecture | **Frozen** | Behavior of existence; world as first character. | CF-ENTRY-065 |
+| CF-CON-546 | World as first character | Mission | **Frozen** | World not setting; living environment. | CF-ENTRY-065 |
+| CF-CON-547 | First law of the world | Governance | **Frozen** | Reality dignity apart from plot; story enters. | CF-ENTRY-065 |
+| CF-CON-548 | Central world question | Mission | **Frozen** | Reality whole; consciousness experiences fragments. | CF-ENTRY-065 |
+| CF-CON-549 | Gravitational center question | Mission | **Frozen** | How consciousnesses discover same reality. | CF-ENTRY-065 |
+| CF-CON-550 | Shape of the world | Architecture | **Frozen** | Ancient vast intimate knowable unfinished. | CF-ENTRY-065 |
+| CF-CON-551 | Living world | Architecture | **Frozen** | Changes independent of plot; own rhythm. | CF-ENTRY-065 |
+| CF-CON-552 | World memory | Architecture | **Frozen** | Physical history in ruins paths landscape. | CF-ENTRY-065 |
+| CF-CON-553 | World music | Architecture | **Frozen** | Place tempo; recognize by rhythm first. | CF-ENTRY-065 |
+| CF-CON-554 | Horizon principle | Architecture | **Frozen** | What lies beyond; emotional exploration. | CF-ENTRY-065 |
+| CF-CON-555 | Scale principle geography | Architecture | **Frozen** | Room to sky; fractal integrity. | CF-ENTRY-065 |
+| CF-CON-556 | World shapes consciousness | Architecture | **Frozen** | Place not conscious; influences perception. | CF-ENTRY-065 |
+| CF-CON-557 | Civilization test | Governance | **Frozen** | What problem solved; need not aesthetics. | CF-ENTRY-065 |
+| CF-CON-558 | Rule of world discovery | Governance | **Frozen** | No travel guide; curiosity not exposition. | CF-ENTRY-065 |
+| CF-CON-559 | Invisible history | Architecture | **Frozen** | Forgotten ages beneath; mystery deepens scale. | CF-ENTRY-065 |
+| CF-CON-560 | World limits | Architecture | **Frozen** | Strengths blind spots; mirrors consciousness. | CF-ENTRY-065 |
+| CF-CON-561 | Readers world mirror | Heart | **Frozen** | What place do I inhabit; real world mirror. | CF-ENTRY-065 |
+| CF-CON-562 | World final principle | Mission | **Frozen** | Reality larger after leaving book. | CF-ENTRY-065 |
+| CF-CON-563 | Universe larger than imagined | Mission | **Frozen** | Ordinary world larger after closing book. | CF-ENTRY-065 |
+| CF-CON-564 | Originality deep borrow | Governance | **Frozen** | Borrow courage wonder; never surface tropes. | CF-ENTRY-065 |
 
 ## Related Concepts
 
@@ -1093,5 +1113,25 @@
 - **CF-CON-540** (Rule of page invisibility, Frozen): CF-CON-525, CF-CON-524 → `canon/build/BUILD-025-page-architecture.md#02515--the-rule-of-invisibility`
 - **CF-CON-541** (Final architecture test, Frozen): CF-CON-525, CF-CON-501 → `canon/build/BUILD-025-page-architecture.md#02516--the-final-architecture-test`
 - **CF-CON-542** (Architect Phase complete, Frozen): CF-CON-525, CF-CON-360 → `canon/build/BUILD-025-page-architecture.md`
-- **CF-CON-543** (World-only-in-Chronoforge, Frozen): CF-CON-384, CF-CON-399 → `canon/build/BUILD-025-page-architecture.md`
-- **CF-CON-544** (Architecture becomes art, Frozen): CF-CON-542, CF-CON-543 → `canon/build/BUILD-025-page-architecture.md`
+- **CF-CON-543** (World-only-in-Chronoforge, Frozen): CF-CON-384, CF-CON-399, CF-CON-548 → `canon/build/BUILD-026-world-engine.md#0262--the-worlds-central-question`
+- **CF-CON-544** (Architecture becomes art, Frozen): CF-CON-542, CF-CON-543, CF-CON-545 → `canon/build/BUILD-025-page-architecture.md`
+- **CF-CON-545** (World Engine, Frozen): CF-CON-384, CF-CON-543, CF-CON-546 → `canon/build/BUILD-026-world-engine.md`
+- **CF-CON-546** (World as first character, Frozen): CF-CON-545, CF-CON-547 → `canon/build/BUILD-026-world-engine.md`
+- **CF-CON-547** (First law of the world, Frozen): CF-CON-545, CF-CON-399 → `canon/build/BUILD-026-world-engine.md#0261--the-first-law-of-the-world`
+- **CF-CON-548** (Central world question, Frozen): CF-CON-545, CF-CON-401 → `canon/build/BUILD-026-world-engine.md#0262--the-worlds-central-question`
+- **CF-CON-549** (Gravitational center question, Frozen): CF-CON-545, CF-CON-548 → `canon/build/BUILD-026-world-engine.md#0262--the-worlds-central-question`
+- **CF-CON-550** (Shape of the world, Frozen): CF-CON-545, CF-CON-380 → `canon/build/BUILD-026-world-engine.md#0263--the-shape-of-the-world`
+- **CF-CON-551** (Living world, Frozen): CF-CON-545, CF-CON-505 → `canon/build/BUILD-026-world-engine.md#0264--the-living-world`
+- **CF-CON-552** (World memory, Frozen): CF-CON-545, CF-CON-416 → `canon/build/BUILD-026-world-engine.md#0265--the-worlds-memory`
+- **CF-CON-553** (World music, Frozen): CF-CON-545, CF-CON-507 → `canon/build/BUILD-026-world-engine.md#0266--the-worlds-music`
+- **CF-CON-554** (Horizon principle, Frozen): CF-CON-545, CF-CON-158 → `canon/build/BUILD-026-world-engine.md#0267--the-horizon-principle`
+- **CF-CON-555** (Scale principle geography, Frozen): CF-CON-545, CF-CON-521 → `canon/build/BUILD-026-world-engine.md#0268--the-scale-principle`
+- **CF-CON-556** (World shapes consciousness, Frozen): CF-CON-545, CF-CON-364 → `canon/build/BUILD-026-world-engine.md#0269--the-worlds-consciousness`
+- **CF-CON-557** (Civilization test, Frozen): CF-CON-545, CF-CON-549 → `canon/build/BUILD-026-world-engine.md#02610--the-civilization-test`
+- **CF-CON-558** (Rule of world discovery, Frozen): CF-CON-545, CF-CON-176 → `canon/build/BUILD-026-world-engine.md#02611--the-rule-of-discovery`
+- **CF-CON-559** (Invisible history, Frozen): CF-CON-545, CF-CON-413 → `canon/build/BUILD-026-world-engine.md#02612--the-invisible-history`
+- **CF-CON-560** (World limits, Frozen): CF-CON-545, CF-CON-401 → `canon/build/BUILD-026-world-engine.md#02613--the-worlds-limits`
+- **CF-CON-561** (Readers world mirror, Frozen): CF-CON-545, CF-CON-002 → `canon/build/BUILD-026-world-engine.md#02614--the-readers-world`
+- **CF-CON-562** (World final principle, Frozen): CF-CON-545, CF-CON-171 → `canon/build/BUILD-026-world-engine.md#02615--the-final-principle`
+- **CF-CON-563** (Universe larger than imagined, Frozen): CF-CON-545, CF-CON-039 → `canon/build/BUILD-026-world-engine.md`
+- **CF-CON-564** (Originality deep borrow, Frozen): CF-CON-545, CF-CON-563 → `canon/build/BUILD-026-world-engine.md`

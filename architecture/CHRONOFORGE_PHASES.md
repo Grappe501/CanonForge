@@ -11,7 +11,7 @@
 ```txt
 PHASE ONE     Philosophy + engineering schema     ✓ COMPLETE
 PHASE TWO     Engineering documents               **✓ COMPLETE** (016–025)
-PHASE THREE   The novel (substrate)               BUILD-026–036 **queued**
+PHASE THREE   The novel (substrate)               **026 ✓** · BUILD-027–036 queued
 PHASE FOUR    The people (lives)                  Per-consciousness packages
 PHASE FIVE    Composition                         Prose · one movement at a time
 PHASE SIX     Performance                         Rewrite · score · typeset
@@ -62,7 +62,7 @@ Engineer the book — not outline chapters.
 | **024** | **The Tempo Engine** | **✓ v1.0** · five tempos · performance model · CF-ENTRY-063 |
 | **025** | **Page Architecture** | **✓ v1.0** · Print Score · CF-ENTRY-064 |
 
-**Phase Two: ✓ COMPLETE** · Gate to Phase Three: BUILD-015.5 v1.0 · BUILD-026 World queued
+**Phase Two: ✓ COMPLETE** · **Phase Three: begun** (026 ✓) · BUILD-027 queued
 
 **Gate:** BUILD-015.5 v1.0 · Matrix schema understood
 
@@ -70,25 +70,18 @@ Engineer the book — not outline chapters.
 
 ## Phase Three — The Novel
 
-**Architect's Phase complete** *(BUILD-025 · CF-CON-542)*. Only now. Not before.
+**Architect's Phase complete** *(BUILD-025 · CF-CON-542)*. **Symphony begun** *(BUILD-026 · CF-CON-545)*.
 
-First creative question *(BUILD-026 gate · CF-CON-543)*:
-
-> **What world could only exist inside Chronoforge?**
-
-| BUILD | Scope |
-|---|---|
-| **026** | World |
-| **027** | Civilizations |
-| **028** | Technology |
-| **029** | Transportation |
-| **030** | Cosmology |
-| **031** | History |
-| **032** | Rules of Time |
-| **033** | Central Mystery |
-| **034** | Human Story |
-| **035** | **The Ending** |
-| **036** | **The Opening** *(after ending)* |
+| BUILD | Title | Notes |
+|---|---|---|
+| **026** | **The World Engine** | **✓ v1.0** · central question · CF-ENTRY-065 |
+| **027** | Civilizations | Queued · Civilization Test |
+| **028–031** | Technology · Transportation · Cosmology · History | Queued |
+| **032** | Rules of Time | Queued |
+| **033** | Central Mystery | Queued |
+| **034** | Human Story | Queued |
+| **035** | **The Ending** | Queued |
+| **036** | **The Opening** *(after ending)* | Queued |
 
 ---
 

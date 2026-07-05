@@ -3,7 +3,7 @@
 > Institutional knowledge system for **CHRONOFORGE** — the recursive adventure novel project.
 > Codename: CHRONOFORGE · Repo: `Grappe501/CanonForge` · Local truth: `H:\CanonForge`
 
-**Version:** see [VERSION](VERSION) · **CanonForge:** 2.4.0 · **BUILD-025:** v1.0 · **Concepts:** 544
+**Version:** see [VERSION](VERSION) · **CanonForge:** 2.5.0 · **BUILD-026:** v1.0 · **Concepts:** 564
 
 ---
 
@@ -90,4 +90,4 @@ H:\CanonForge\
 
 ---
 
-*Built 2026-07-05 · BUILD-025 v1.0 · Phase Two complete · 64 entries · 544 concepts*
+*Built 2026-07-05 · BUILD-026 v1.0 · Phase Three begun · 65 entries · 564 concepts*

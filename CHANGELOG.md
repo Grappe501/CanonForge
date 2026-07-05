@@ -3,6 +3,17 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [2.5.0] — 2026-07-05
+
+### Added
+- CF-ENTRY-065: BUILD-026 The World Engine Canonical v1.0
+- Concepts CF-CON-545 through CF-CON-564
+- **Central world question** — reality whole · consciousness fragmented
+- **Gravitational center** — how consciousnesses discover same reality
+- Civilization test · horizon principle · universe larger than imagined
+- CF-CON-543 expanded · World-only-in-Chronoforge answered
+- Master Canon v1.5.0 · **Phase Three begun**
+
 ## [2.4.0] — 2026-07-05
 
 ### Added

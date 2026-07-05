@@ -64,6 +64,9 @@
 | **Story first page second** | Narrative truth before visual elegance | CF-CON-526 |
 | **Print Score** | Per-page profile integrating all ledgers | CF-CON-537 |
 | **Architect Phase complete** | BUILD-001–025 how; Phase Three the novel | CF-CON-542 |
+| **World Engine** | Behavior of existence; world as first character | CF-CON-545 |
+| **Central world question** | Reality whole; consciousness experiences fragments | CF-CON-548 |
+| **Universe larger than imagined** | Ordinary world larger after closing book | CF-CON-563 |
 | **Motif not symbol** | Returns vs carries meaning | CF-CON-450 |
 | **Language of Silence** | Composed silence · seven forms | CF-CON-457 |
 | **Fifth read hears silence** | Words to architecture to silence | CF-CON-472 |

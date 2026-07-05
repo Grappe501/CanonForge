@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "2.4.0",
-  "generated_at": "2026-07-05T22:10:19.487513+00:00",
+  "canonforge_version": "2.5.0",
+  "generated_at": "2026-07-05T22:13:11.136620+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -6013,11 +6013,12 @@
       "label": "World-only-in-Chronoforge",
       "category": "Mission",
       "status": "Frozen",
-      "definition": "BUILD-026 gate; story-true world question.",
+      "definition": "Reality whole consciousness fragmented; BUILD-026 answer.",
       "sources": [
-        "CF-ENTRY-064"
+        "CF-ENTRY-064",
+        "CF-ENTRY-065"
       ],
-      "canon_ref": "canon/build/BUILD-025-page-architecture.md"
+      "canon_ref": "canon/build/BUILD-026-world-engine.md#0262--the-worlds-central-question"
     },
     {
       "id": "CF-CON-544",
@@ -6029,6 +6030,226 @@
         "CF-ENTRY-064"
       ],
       "canon_ref": "canon/build/BUILD-025-page-architecture.md"
+    },
+    {
+      "id": "CF-CON-545",
+      "label": "World Engine",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Behavior of existence; world as first character.",
+      "sources": [
+        "CF-ENTRY-065"
+      ],
+      "canon_ref": "canon/build/BUILD-026-world-engine.md"
+    },
+    {
+      "id": "CF-CON-546",
+      "label": "World as first character",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "World not setting; living environment.",
+      "sources": [
+        "CF-ENTRY-065"
+      ],
+      "canon_ref": "canon/build/BUILD-026-world-engine.md"
+    },
+    {
+      "id": "CF-CON-547",
+      "label": "First law of the world",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Reality dignity apart from plot; story enters.",
+      "sources": [
+        "CF-ENTRY-065"
+      ],
+      "canon_ref": "canon/build/BUILD-026-world-engine.md#0261--the-first-law-of-the-world"
+    },
+    {
+      "id": "CF-CON-548",
+      "label": "Central world question",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Reality whole; consciousness experiences fragments.",
+      "sources": [
+        "CF-ENTRY-065"
+      ],
+      "canon_ref": "canon/build/BUILD-026-world-engine.md#0262--the-worlds-central-question"
+    },
+    {
+      "id": "CF-CON-549",
+      "label": "Gravitational center question",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "How consciousnesses discover same reality.",
+      "sources": [
+        "CF-ENTRY-065"
+      ],
+      "canon_ref": "canon/build/BUILD-026-world-engine.md#0262--the-worlds-central-question"
+    },
+    {
+      "id": "CF-CON-550",
+      "label": "Shape of the world",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Ancient vast intimate knowable unfinished.",
+      "sources": [
+        "CF-ENTRY-065"
+      ],
+      "canon_ref": "canon/build/BUILD-026-world-engine.md#0263--the-shape-of-the-world"
+    },
+    {
+      "id": "CF-CON-551",
+      "label": "Living world",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Changes independent of plot; own rhythm.",
+      "sources": [
+        "CF-ENTRY-065"
+      ],
+      "canon_ref": "canon/build/BUILD-026-world-engine.md#0264--the-living-world"
+    },
+    {
+      "id": "CF-CON-552",
+      "label": "World memory",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Physical history in ruins paths landscape.",
+      "sources": [
+        "CF-ENTRY-065"
+      ],
+      "canon_ref": "canon/build/BUILD-026-world-engine.md#0265--the-worlds-memory"
+    },
+    {
+      "id": "CF-CON-553",
+      "label": "World music",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Place tempo; recognize by rhythm first.",
+      "sources": [
+        "CF-ENTRY-065"
+      ],
+      "canon_ref": "canon/build/BUILD-026-world-engine.md#0266--the-worlds-music"
+    },
+    {
+      "id": "CF-CON-554",
+      "label": "Horizon principle",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "What lies beyond; emotional exploration.",
+      "sources": [
+        "CF-ENTRY-065"
+      ],
+      "canon_ref": "canon/build/BUILD-026-world-engine.md#0267--the-horizon-principle"
+    },
+    {
+      "id": "CF-CON-555",
+      "label": "Scale principle geography",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Room to sky; fractal integrity.",
+      "sources": [
+        "CF-ENTRY-065"
+      ],
+      "canon_ref": "canon/build/BUILD-026-world-engine.md#0268--the-scale-principle"
+    },
+    {
+      "id": "CF-CON-556",
+      "label": "World shapes consciousness",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Place not conscious; influences perception.",
+      "sources": [
+        "CF-ENTRY-065"
+      ],
+      "canon_ref": "canon/build/BUILD-026-world-engine.md#0269--the-worlds-consciousness"
+    },
+    {
+      "id": "CF-CON-557",
+      "label": "Civilization test",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "What problem solved; need not aesthetics.",
+      "sources": [
+        "CF-ENTRY-065"
+      ],
+      "canon_ref": "canon/build/BUILD-026-world-engine.md#02610--the-civilization-test"
+    },
+    {
+      "id": "CF-CON-558",
+      "label": "Rule of world discovery",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "No travel guide; curiosity not exposition.",
+      "sources": [
+        "CF-ENTRY-065"
+      ],
+      "canon_ref": "canon/build/BUILD-026-world-engine.md#02611--the-rule-of-discovery"
+    },
+    {
+      "id": "CF-CON-559",
+      "label": "Invisible history",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Forgotten ages beneath; mystery deepens scale.",
+      "sources": [
+        "CF-ENTRY-065"
+      ],
+      "canon_ref": "canon/build/BUILD-026-world-engine.md#02612--the-invisible-history"
+    },
+    {
+      "id": "CF-CON-560",
+      "label": "World limits",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Strengths blind spots; mirrors consciousness.",
+      "sources": [
+        "CF-ENTRY-065"
+      ],
+      "canon_ref": "canon/build/BUILD-026-world-engine.md#02613--the-worlds-limits"
+    },
+    {
+      "id": "CF-CON-561",
+      "label": "Readers world mirror",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "What place do I inhabit; real world mirror.",
+      "sources": [
+        "CF-ENTRY-065"
+      ],
+      "canon_ref": "canon/build/BUILD-026-world-engine.md#02614--the-readers-world"
+    },
+    {
+      "id": "CF-CON-562",
+      "label": "World final principle",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Reality larger after leaving book.",
+      "sources": [
+        "CF-ENTRY-065"
+      ],
+      "canon_ref": "canon/build/BUILD-026-world-engine.md#02615--the-final-principle"
+    },
+    {
+      "id": "CF-CON-563",
+      "label": "Universe larger than imagined",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Ordinary world larger after closing book.",
+      "sources": [
+        "CF-ENTRY-065"
+      ],
+      "canon_ref": "canon/build/BUILD-026-world-engine.md"
+    },
+    {
+      "id": "CF-CON-564",
+      "label": "Originality deep borrow",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Borrow courage wonder; never surface tropes.",
+      "sources": [
+        "CF-ENTRY-065"
+      ],
+      "canon_ref": "canon/build/BUILD-026-world-engine.md"
     }
   ],
   "edges": [
@@ -11013,6 +11234,11 @@
       "type": "related"
     },
     {
+      "from": "CF-CON-543",
+      "to": "CF-CON-548",
+      "type": "related"
+    },
+    {
       "from": "CF-CON-544",
       "to": "CF-CON-542",
       "type": "related"
@@ -11020,6 +11246,216 @@
     {
       "from": "CF-CON-544",
       "to": "CF-CON-543",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-544",
+      "to": "CF-CON-545",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-545",
+      "to": "CF-CON-384",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-545",
+      "to": "CF-CON-543",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-545",
+      "to": "CF-CON-546",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-546",
+      "to": "CF-CON-545",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-546",
+      "to": "CF-CON-547",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-547",
+      "to": "CF-CON-545",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-547",
+      "to": "CF-CON-399",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-548",
+      "to": "CF-CON-545",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-548",
+      "to": "CF-CON-401",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-549",
+      "to": "CF-CON-545",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-549",
+      "to": "CF-CON-548",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-550",
+      "to": "CF-CON-545",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-550",
+      "to": "CF-CON-380",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-551",
+      "to": "CF-CON-545",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-551",
+      "to": "CF-CON-505",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-552",
+      "to": "CF-CON-545",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-552",
+      "to": "CF-CON-416",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-553",
+      "to": "CF-CON-545",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-553",
+      "to": "CF-CON-507",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-554",
+      "to": "CF-CON-545",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-554",
+      "to": "CF-CON-158",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-555",
+      "to": "CF-CON-545",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-555",
+      "to": "CF-CON-521",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-556",
+      "to": "CF-CON-545",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-556",
+      "to": "CF-CON-364",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-557",
+      "to": "CF-CON-545",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-557",
+      "to": "CF-CON-549",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-558",
+      "to": "CF-CON-545",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-558",
+      "to": "CF-CON-176",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-559",
+      "to": "CF-CON-545",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-559",
+      "to": "CF-CON-413",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-560",
+      "to": "CF-CON-545",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-560",
+      "to": "CF-CON-401",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-561",
+      "to": "CF-CON-545",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-561",
+      "to": "CF-CON-002",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-562",
+      "to": "CF-CON-545",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-562",
+      "to": "CF-CON-171",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-563",
+      "to": "CF-CON-545",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-563",
+      "to": "CF-CON-039",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-564",
+      "to": "CF-CON-545",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-564",
+      "to": "CF-CON-563",
       "type": "related"
     }
   ]

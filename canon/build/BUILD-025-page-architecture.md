@@ -224,17 +224,9 @@ We stop designing the **instrument**. We begin composing the **symphony**.
 
 ---
 
-## BUILD-026 gate — the world question *(CF-CON-543 · CF-CON-544)*
+## BUILD-027 preview *(CF-ENTRY-065)*
 
-BUILD-026 is **not** another abstract system. It answers the first truly creative question:
-
-> **What world could only exist inside Chronoforge?**
-
-Not because it is strange · not because it is spectacular — but because it is the **only world** whose reality · consciousness · memory · fractures · symbols · tempo · and reader experience **naturally fulfill** everything twenty-five builds created.
-
-*(CF-CON-384 Story-true reality · CF-CON-399 Reality test · OPEN_QUESTIONS story substrate)*
-
-> **That's the point where architecture becomes art.**
+→ **BUILD-027 Civilizations** — Civilization Test · cultures from need *(queued)*
 
 ---
 

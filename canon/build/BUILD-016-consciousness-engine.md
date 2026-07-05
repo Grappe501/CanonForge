@@ -236,9 +236,9 @@ Now that we know **what** experiences the novel and **where** — the architectu
 
 → **BUILD-021 Symbol Genome** — gravity · curves · **v1.0 frozen**
 
-→ **BUILD-025 Page Architecture** — Print Score · story first · **v1.0 frozen**
+→ **BUILD-026 The World Engine** — central question · **v1.0 frozen**
 
-→ **BUILD-024 The Tempo Engine** — five tempos · performance model · **v1.0 frozen**
+→ **BUILD-025 Page Architecture** — Print Score · **v1.0 frozen**
 
 *(Supersedes "Chronology Engine" as BUILD-017 title · chronology remains subsystem in BUILD-015 §015.11)*
 

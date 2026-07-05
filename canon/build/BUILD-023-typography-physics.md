@@ -252,9 +252,9 @@ Silence is the **audible** rest. Typography is the **visible** physics.
 
 ---
 
-## BUILD-026 preview *(CF-ENTRY-064)*
+## BUILD-027 preview *(CF-ENTRY-065)*
 
-→ **BUILD-026 World** — *What world could only exist inside Chronoforge?* *(Phase Three · queued)*
+→ **BUILD-027 Civilizations** *(queued)*
 
 ---
 

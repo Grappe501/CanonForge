@@ -68,18 +68,20 @@ Final sentence grammatically incomplete; thought completes on page one. Novel is
 
 **CF-ENTRY-055 epilogue · Status: Open (BUILD-018+ gate)**
 
-Architecture must now give birth to the actual story. **BUILD-025 Architect's Phase complete.** Phase Three begins with **BUILD-026 World**:
+Architecture must now give birth to the actual story. **BUILD-026 World Engine v1.0** locks the central question:
 
-> **What world could only exist inside Chronoforge?** *(CF-CON-543 · CF-ENTRY-064)*
+> **What if reality has always been whole, but every consciousness experiences only fragments of it?** *(CF-CON-548 · CF-ENTRY-065)*
 
-Concrete questions for Phase Three:
+Gravitational center: **How do separate consciousnesses discover that they belong to the same reality?** *(CF-CON-549)*
 
-- What actually happened in the **true chronology**?
+Concrete questions for Phase Three (BUILD-027+):
+
 - Who are the **consciousnesses** that inhabit this world?
 - What is the **central fracture** — the governing gap all others orbit?
 - Why does the story **begin where it begins** — not at the chronological beginning?
+- What actually happened in the **true chronology**?
 
-BUILD-017 defines reality laws. BUILD-018 defines the gap between reality and understanding. Concrete instances live in Matrix fracture records and Phase Three — not yet in Master Canon.
+BUILD-017 defines reality laws. BUILD-018 defines the gap between reality and understanding. Concrete instances live in Matrix fracture records and Phase Three BUILDs — not yet in Master Canon.
 
 ## Hidden mathematics {#hidden-math}
 

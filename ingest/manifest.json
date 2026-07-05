@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "2.4.0",
-  "generated_at": "2026-07-05T22:10:19.463621+00:00",
+  "canonforge_version": "2.5.0",
+  "generated_at": "2026-07-05T22:13:11.115852+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 64,
-  "concept_count": 544,
+  "entry_count": 65,
+  "concept_count": 564,
   "project_version": "0.3.0",
   "phase_two": "complete",
   "build_016_version": "1.0",
@@ -29,6 +29,9 @@
   "build_024_title": "Tempo Engine",
   "build_025_version": "1.0",
   "build_025_title": "Page Architecture",
+  "build_026_version": "1.0",
+  "build_026_title": "World Engine",
+  "phase_three": "begun",
   "phase_one": "complete",
   "build_015_5_version": "0.1",
   "build_015_5_title": "Chronoforge Master Architecture",
@@ -58,7 +61,7 @@
   "foundational_layer": "BUILD-001-013 complete",
   "engineering_layer": "BUILD-014-015 complete",
   "roadmap_version": "1.0",
-  "build_layer": "BUILD-001-025 frozen \u00b7 BUILD-015.5 active",
+  "build_layer": "BUILD-001-026 frozen \u00b7 BUILD-015.5 active",
   "entries": [
     {
       "entry_id": "CF-ENTRY-001",
@@ -1285,6 +1288,37 @@
         "CF-CON-544"
       ],
       "byte_size": 7592
+    },
+    {
+      "entry_id": "CF-ENTRY-065",
+      "file": "knowledge/entries/065-build-026-world-engine-v1.md",
+      "sha256": "fade71299b42c88b1b5ce7463a8f1afe50a0a0c576357043c724dd17a0cbc732",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-543",
+        "CF-CON-545",
+        "CF-CON-546",
+        "CF-CON-547",
+        "CF-CON-548",
+        "CF-CON-549",
+        "CF-CON-550",
+        "CF-CON-551",
+        "CF-CON-552",
+        "CF-CON-553",
+        "CF-CON-554",
+        "CF-CON-555",
+        "CF-CON-556",
+        "CF-CON-557",
+        "CF-CON-558",
+        "CF-CON-559",
+        "CF-CON-560",
+        "CF-CON-561",
+        "CF-CON-562",
+        "CF-CON-563",
+        "CF-CON-564"
+      ],
+      "byte_size": 7335
     }
   ],
   "indexes": {

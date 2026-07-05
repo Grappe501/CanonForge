@@ -18,7 +18,8 @@ BUILD-021                             → Phase Two **v1.0**
 BUILD-023                             → Phase Two **v1.0**
 BUILD-024                             → Phase Two **v1.0**
 BUILD-025                             → Phase Two **v1.0**
-BUILD-026–036                         → queued
+BUILD-026                             → Phase Three **v1.0**
+BUILD-027–036                         → queued
 architecture/                         → expanded specs (derived · cross-ref)
 knowledge/entries/                    → verbatim source uploads
 ```
@@ -61,7 +62,8 @@ knowledge/entries/                    → verbatim source uploads
 | **023** | Typography Physics | **1.0** | **Frozen** | 062 | CF-CON-089, 340, 489–504 | [BUILD-023](BUILD-023-typography-physics.md) |
 | **024** | The Tempo Engine | **1.0** | **Frozen** | 063 | CF-CON-069, 341, 505–524 | [BUILD-024](BUILD-024-tempo-engine.md) |
 | **025** | Page Architecture | **1.0** | **Frozen** | 064 | CF-CON-067, 347, 525–544 | [BUILD-025](BUILD-025-page-architecture.md) |
-| **026–036** | Phase Three novel | — | **Queued** | — | — | [CHRONOFORGE_PHASES](../architecture/CHRONOFORGE_PHASES.md) |
+| **026** | The World Engine | **1.0** | **Frozen** | 065 | CF-CON-384, 543, 545–564 | [BUILD-026](BUILD-026-world-engine.md) |
+| **027–036** | Phase Three novel | — | **Queued** | — | — | [CHRONOFORGE_PHASES](../architecture/CHRONOFORGE_PHASES.md) |
 
 ---
 
@@ -101,6 +103,7 @@ knowledge/entries/                    → verbatim source uploads
 | 023 Typography Physics | Lexicon · law of rarity · one typeface · print test |
 | 024 Tempo Engine | Five tempos · tempo ledger · percussion · performance model |
 | 025 Page Architecture | Print Score · story first · density map · Phase Two complete |
+| 026 World Engine | Central question · gravitational center · world as first character |
 
 ---
 

@@ -1,7 +1,7 @@
-# Master Canon v1.4.4
+# Master Canon v1.5.0
 
-> **BUILD-025:** Page Architecture · story first · Print Score · Architect's Phase complete
-> Supersedes v1.4.3 (2026-07-05 · BUILD-025 CF-ENTRY-064 · CanonForge 2.4.0)
+> **BUILD-026:** The World Engine · reality whole · consciousness fragmented · world as first character
+> Supersedes v1.4.4 (2026-07-05 · BUILD-026 CF-ENTRY-065 · CanonForge 2.5.0)
 
 ---
 
@@ -42,7 +42,9 @@ Key locked insights:
 | **Four Pillars** | Strengthen ≥1 of Wonder · **Connection** · Resonance · Transformation? | BUILD-003 v1.0 |
 | Seven Laws | Immutable · complies with BUILD-004 v1.0? | BUILD-004 |
 
-**Stack:** BUILD-001 = *why* · … · **024 = *living heartbeat*** · **025 = *page instrument***
+**Stack:** BUILD-001 = *why* · … · **025 = *page instrument*** · **026 = *living world***
+
+→ [build/BUILD-026-world-engine.md](build/BUILD-026-world-engine.md) · Central Question · Gravitational Center · World as First Character
 
 → [build/BUILD-025-page-architecture.md](build/BUILD-025-page-architecture.md) · Print Score · Story First · Phase Two Complete
 
@@ -192,7 +194,17 @@ Renamed from roadmap **Rhythm Score** → **Tempo Engine**. Tempo governs everyt
 
 Printed edition = definitive performance score · digital = faithful adaptation *(CF-CON-539)*. See [build/BUILD-025-page-architecture.md](build/BUILD-025-page-architecture.md).
 
-**Phase Two complete** *(CF-CON-542)*. Phase Three begins: **What world could only exist inside Chronoforge?** *(CF-CON-543)*
+**Phase Two complete** *(CF-CON-542)*. **Phase Three begun** *(BUILD-026 · CF-CON-545)*.
+
+### World immutable law (CF-CON-545 · BUILD-026)
+
+> **The world is not the setting. The world is the first character.**
+
+> **What if reality has always been whole, but every consciousness experiences only fragments of it?** *(CF-CON-548)*
+
+Gravitational center: **How do separate consciousnesses discover that they belong to the same reality?** *(CF-CON-549)*
+
+Reality possesses **dignity apart from the plot** — the story enters a living world · it does not create one *(CF-CON-547)*. Success: reader feels **their own world has always been larger than they realized** *(CF-CON-563)*. See [build/BUILD-026-world-engine.md](build/BUILD-026-world-engine.md).
 
 ### Visual Grammar (CF-CON-080 · CF-CON-081)
 

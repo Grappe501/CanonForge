@@ -42,6 +42,8 @@
 | 2026-07-05 | Master Build Roadmap v1.0 | CF-ENTRY-035 session pause | CF-CON-150–155 |
 | 2026-07-05 | BUILD-001–013 frozen v1.0 | Foundational canon complete | CF-CON-156–320 |
 | 2026-07-05 | BUILD-014 Elements of Meaning | Supersedes Periodic Table stub | CF-CON-170 |
+| 2026-07-05 | BUILD-026 World Engine v1.0 | Central question · gravitational center · deep borrow | CF-CON-545–564 |
+| 2026-07-05 | Phase Three begun | First novel substrate; world as first character | CF-CON-545 |
 | 2026-07-05 | BUILD-025 Page Architecture v1.0 | Print Score · Architect Phase complete | CF-CON-525–544 |
 | 2026-07-05 | Phase Two complete | BUILD-016–025 frozen; Phase Three queued | CF-CON-542 |
 | 2026-07-05 | BUILD-024 Tempo Engine v1.0 | Five tempos · tempo ledger · performance model | CF-CON-505–524 |

@@ -31,7 +31,7 @@ We did not build a novel. We built a **theory of storytelling** — an operating
 |---|---|---|
 | **One** | The Philosophy + Engineering Schema | **✓ COMPLETE** (BUILD-001–015) |
 | **Two** | Engineering Documents | **✓ COMPLETE** (BUILD-016–025) |
-| **Three** | The Novel (world · mystery · ending · opening) | **Queued** (BUILD-026–036) |
+| **Three** | The Novel (world · mystery · ending · opening) | **Begun** (026 ✓ · BUILD-027–036 queued) |
 | **Four** | The People (lives, not characters) | Queued |
 | **Five** | Composition | Queued · prose authorized only after Phase Four |
 | **Six** | Performance | Queued · rewrite · score · typeset |
@@ -128,16 +128,17 @@ We did not build a novel. We built a **theory of storytelling** — an operating
 | **024** | The Tempo Engine | **✓ v1.0** · CF-ENTRY-063 · five tempos |
 | **025** | Page Architecture | **✓ v1.0** · CF-ENTRY-064 · Print Score |
 
-### Phase Three — queued (BUILD-026–036)
+### Phase Three — **begun** (BUILD-026 ✓ · 027–036 queued)
 
-| BUILD | Title |
-|---|---|
-| **026–031** | World · Civilizations · Technology · Transportation · Cosmology · History |
-| **032** | Rules of Time |
-| **033** | Central Mystery |
-| **034** | Human Story |
-| **035** | **The Ending** *(before opening)* |
-| **036** | **The Opening** *(after ending)* |
+| BUILD | Title | Status |
+|---|---|---|
+| **026** | The World Engine | **✓ v1.0** · CF-ENTRY-065 |
+| **027–031** | Civilizations · Technology · Transportation · Cosmology · History | Queued |
+| **032** | Rules of Time | Queued |
+| **033** | Central Mystery | Queued |
+| **034** | Human Story | Queued |
+| **035** | **The Ending** *(before opening)* | Queued |
+| **036** | **The Opening** *(after ending)* | Queued |
 
 ---
 
@@ -219,7 +220,7 @@ Author upload  →  CF-ENTRY-NNN  (verbatim)
 - [ ] Phase One complete ✓
 - [ ] BUILD-015.5 v1.0 complete
 - [x] Phase Two engines populated (BUILD-016–025)
-- [ ] Phase Three novel substrate (BUILD-026–036)
+- [ ] Phase Three novel substrate complete (BUILD-027–036)
 - [ ] Phase Four lives complete
 - [ ] Matrix rows for target movement complete
 - [ ] Book of Secrets compile gate passed
@@ -264,7 +265,7 @@ Build Bible v1.0 requires:
 
 ## 015.5.11 — What happens next
 
-**Do not proceed to BUILD-026** until BUILD-015.5 reaches v1.0 *(BUILD-016–025 excepted per author uploads)*.
+**Do not proceed to BUILD-027** until BUILD-015.5 reaches v1.0 *(BUILD-016–026 excepted per author uploads)*.
 
 Next passes expand this document into the full 100–200 page Build Bible:
 
@@ -274,7 +275,7 @@ Next passes expand this document into the full 100–200 page Build Bible:
 4. Master data dictionary (elements · symbols · echo IDs)
 5. Execution index (which BUILD when · blocking rules)
 
-When v1.0 ships — Phase Three begins with **BUILD-026 World**.
+When v1.0 ships — Phase Three continues with **BUILD-027 Civilizations**.
 
 ---
 
