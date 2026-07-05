@@ -42,6 +42,8 @@
 | 2026-07-05 | Master Build Roadmap v1.0 | CF-ENTRY-035 session pause | CF-CON-150–155 |
 | 2026-07-05 | BUILD-001–013 frozen v1.0 | Foundational canon complete | CF-CON-156–320 |
 | 2026-07-05 | BUILD-014 Elements of Meaning | Supersedes Periodic Table stub | CF-CON-170 |
+| 2026-07-05 | BUILD-030 Cosmology Engine v1.0 | Cosmic ledger · mystery permanent · Universal Architecture | CF-CON-625–644 |
+| 2026-07-05 | Universal Architecture Phase complete | BUILD-026–030 frozen; BUILD-031 Secret History queued | CF-CON-640 |
 | 2026-07-05 | BUILD-029 Journey Engine v1.0 | Five journeys · hidden destination · reader journey | CF-CON-605–624 |
 | 2026-07-05 | BUILD-028 Tool Engine v1.0 | Six families · tool record · understanding final tool | CF-CON-585–604 |
 | 2026-07-05 | BUILD-027 Civilization Engine v1.0 | Founding question · six foundations · cumulative truth | CF-CON-565–584 |

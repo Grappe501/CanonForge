@@ -31,7 +31,7 @@ We did not build a novel. We built a **theory of storytelling** — an operating
 |---|---|---|
 | **One** | The Philosophy + Engineering Schema | **✓ COMPLETE** (BUILD-001–015) |
 | **Two** | Engineering Documents | **✓ COMPLETE** (BUILD-016–025) |
-| **Three** | The Novel (world · mystery · ending · opening) | **Begun** (026–029 ✓ · BUILD-030–036 queued) |
+| **Three** | The Novel (world · mystery · ending · opening) | **Begun** (026–030 ✓ · Universal Architecture complete · BUILD-031–036 queued) |
 | **Four** | The People (lives, not characters) | Queued |
 | **Five** | Composition | Queued · prose authorized only after Phase Four |
 | **Six** | Performance | Queued · rewrite · score · typeset |
@@ -128,7 +128,7 @@ We did not build a novel. We built a **theory of storytelling** — an operating
 | **024** | The Tempo Engine | **✓ v1.0** · CF-ENTRY-063 · five tempos |
 | **025** | Page Architecture | **✓ v1.0** · CF-ENTRY-064 · Print Score |
 
-### Phase Three — **begun** (BUILD-026–029 ✓ · 030–036 queued)
+### Phase Three — **begun** (BUILD-026–030 ✓ · Universal Architecture complete · 031–036 queued)
 
 | BUILD | Title | Status |
 |---|---|---|
@@ -136,7 +136,8 @@ We did not build a novel. We built a **theory of storytelling** — an operating
 | **027** | The Civilization Engine | **✓ v1.0** · CF-ENTRY-066 |
 | **028** | The Tool Engine | **✓ v1.0** · CF-ENTRY-067 |
 | **029** | The Journey Engine | **✓ v1.0** · CF-ENTRY-068 |
-| **030–031** | Cosmology · History | Queued |
+| **030** | The Cosmology Engine | **✓ v1.0** · CF-ENTRY-069 |
+| **031** | **Secret History** | Queued · most protected |
 | **032** | Rules of Time | Queued |
 | **033** | Central Mystery | Queued |
 | **034** | Human Story | Queued |
@@ -268,7 +269,7 @@ Build Bible v1.0 requires:
 
 ## 015.5.11 — What happens next
 
-**Do not proceed to BUILD-030** until BUILD-015.5 reaches v1.0 *(BUILD-016–029 excepted per author uploads)*.
+**Do not proceed to BUILD-031** until BUILD-015.5 reaches v1.0 *(BUILD-016–030 excepted per author uploads)*.
 
 Next passes expand this document into the full 100–200 page Build Bible:
 
@@ -278,7 +279,7 @@ Next passes expand this document into the full 100–200 page Build Bible:
 4. Master data dictionary (elements · symbols · echo IDs)
 5. Execution index (which BUILD when · blocking rules)
 
-When v1.0 ships — Phase Three continues with **BUILD-030 Cosmology**.
+When v1.0 ships — Phase Three continues with **BUILD-031 Secret History** *(most protected document)*.
 
 ---
 

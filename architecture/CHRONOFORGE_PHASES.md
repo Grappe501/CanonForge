@@ -11,7 +11,7 @@
 ```txt
 PHASE ONE     Philosophy + engineering schema     ✓ COMPLETE
 PHASE TWO     Engineering documents               **✓ COMPLETE** (016–025)
-PHASE THREE   The novel (substrate)               **026–029 ✓** · BUILD-030–036 queued
+PHASE THREE   The novel (substrate)               **026–030 ✓** · Universal Architecture **complete** · BUILD-031–036 queued
 PHASE FOUR    The people (lives)                  Per-consciousness packages
 PHASE FIVE    Composition                         Prose · one movement at a time
 PHASE SIX     Performance                         Rewrite · score · typeset
@@ -62,7 +62,7 @@ Engineer the book — not outline chapters.
 | **024** | **The Tempo Engine** | **✓ v1.0** · five tempos · performance model · CF-ENTRY-063 |
 | **025** | **Page Architecture** | **✓ v1.0** · Print Score · CF-ENTRY-064 |
 
-**Phase Two: ✓ COMPLETE** · **Phase Three: begun** (026–029 ✓) · BUILD-030 queued
+**Phase Two: ✓ COMPLETE** · **Phase Three: begun** (026–030 ✓ · Universal Architecture complete) · BUILD-031 queued
 
 **Gate:** BUILD-015.5 v1.0 · Matrix schema understood
 
@@ -78,8 +78,8 @@ Engineer the book — not outline chapters.
 | **027** | **The Civilization Engine** | **✓ v1.0** · founding question · CF-ENTRY-066 |
 | **028** | **The Tool Engine** | **✓ v1.0** · six families · CF-ENTRY-067 |
 | **029** | **The Journey Engine** | **✓ v1.0** · five journeys · CF-ENTRY-068 |
-| **030** | Cosmology | Queued |
-| **031** | History | Queued |
+| **030** | **The Cosmology Engine** | **✓ v1.0** · mystery permanent · CF-ENTRY-069 |
+| **031** | **Secret History** | Queued · most protected |
 | **032** | Rules of Time | Queued |
 | **033** | Central Mystery | Queued |
 | **034** | Human Story | Queued |

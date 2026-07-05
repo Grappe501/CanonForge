@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 2.8.0 · 2026-07-05 · 624 concepts registered
+> Version 2.9.0 · 2026-07-05 · 644 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -628,6 +628,26 @@
 | CF-CON-622 | Misunderstanding to understanding | Mission | **Frozen** | Longest journey distance between fracture and recognition. | CF-ENTRY-068 |
 | CF-CON-623 | What journey changes | Mission | **Frozen** | Central question; traveler destination relationship. | CF-ENTRY-068 |
 | CF-CON-624 | Adventure tradition redefined | Mission | **Frozen** | Honor journey into world; hidden deeper voyage. | CF-ENTRY-068 |
+| CF-CON-625 | Cosmology Engine | Architecture | **Frozen** | Largest scale; universe before and after story. | CF-ENTRY-069 |
+| CF-CON-626 | Universe to be explored | Mission | **Frozen** | Not machine to solve; reality to explore. | CF-ENTRY-069 |
+| CF-CON-627 | First law of cosmology | Governance | **Frozen** | Universe larger than any consciousness. | CF-ENTRY-069 |
+| CF-CON-628 | Scale of existence | Architecture | **Frozen** | Individual to universe; fractal integrity. | CF-ENTRY-069 |
+| CF-CON-629 | Constellation principle | Architecture | **Frozen** | Universe fundamentally relational; nothing alone. | CF-ENTRY-069 |
+| CF-CON-630 | Rule of cosmic distance | Architecture | **Frozen** | Physical emotional temporal intellectual spiritual. | CF-ENTRY-069 |
+| CF-CON-631 | Cosmic horizon | Architecture | **Frozen** | No final map; discovery enlarges unknown. | CF-ENTRY-069 |
+| CF-CON-632 | Architecture of wonder | Architecture | **Frozen** | Knowledge mystery trust; remove one collapses. | CF-ENTRY-069 |
+| CF-CON-633 | Age of universe | Architecture | **Frozen** | Ancient through memory not numbers. | CF-ENTRY-069 |
+| CF-CON-634 | Silence of space | Architecture | **Frozen** | Spacious not noisy; BUILD-022 expression. | CF-ENTRY-069 |
+| CF-CON-635 | Place of humanity | Mission | **Frozen** | Neither insignificant nor central; humility dignity. | CF-ENTRY-069 |
+| CF-CON-636 | Many observers | Architecture | **Frozen** | Stars unchanged; meaning varies by civilization. | CF-ENTRY-069 |
+| CF-CON-637 | Rule of cosmic discovery | Governance | **Frozen** | Never familiar; invited not finished. | CF-ENTRY-069 |
+| CF-CON-638 | Cosmic ledger record | Architecture | **Frozen** | Seven fields; remaining mystery intentional. | CF-ENTRY-069 |
+| CF-CON-639 | Cosmology final principle | Mission | **Frozen** | How live in universe never fully understood. | CF-ENTRY-069 |
+| CF-CON-640 | Universal Architecture complete | Mission | **Frozen** | BUILD-026-030 universal scale; Phase gate. | CF-ENTRY-069 |
+| CF-CON-641 | Secret History gate | Governance | **Frozen** | BUILD-031 actual chronology; most protected. | CF-ENTRY-069 |
+| CF-CON-642 | Mystery permanent feature | Governance | **Frozen** | Not temporary defect; universe larger than mind. | CF-ENTRY-069 |
+| CF-CON-643 | Wonder triad | Architecture | **Frozen** | Knowledge mystery trust required for wonder. | CF-ENTRY-069 |
+| CF-CON-644 | Fractal integrity existence | Architecture | **Frozen** | Nested scales reflect patterns of others. | CF-ENTRY-069 |
 
 ## Related Concepts
 
@@ -1255,3 +1275,23 @@
 - **CF-CON-622** (Misunderstanding to understanding, Frozen): CF-CON-621, CF-CON-415 → `canon/build/BUILD-029-journey-engine.md`
 - **CF-CON-623** (What journey changes, Frozen): CF-CON-605, CF-CON-607 → `canon/build/BUILD-029-journey-engine.md#0291--the-first-law`
 - **CF-CON-624** (Adventure tradition redefined, Frozen): CF-CON-605, CF-CON-039 → `canon/build/BUILD-029-journey-engine.md`
+- **CF-CON-625** (Cosmology Engine, Frozen): CF-CON-545, CF-CON-639, CF-CON-640 → `canon/build/BUILD-030-cosmology-engine.md`
+- **CF-CON-626** (Universe to be explored, Frozen): CF-CON-625, CF-CON-627 → `canon/build/BUILD-030-cosmology-engine.md`
+- **CF-CON-627** (First law of cosmology, Frozen): CF-CON-625, CF-CON-642 → `canon/build/BUILD-030-cosmology-engine.md#0301--the-first-law`
+- **CF-CON-628** (Scale of existence, Frozen): CF-CON-625, CF-CON-644 → `canon/build/BUILD-030-cosmology-engine.md#0302--the-scale-of-existence`
+- **CF-CON-629** (Constellation principle, Frozen): CF-CON-625, CF-CON-358 → `canon/build/BUILD-030-cosmology-engine.md#0303--the-constellation-principle`
+- **CF-CON-630** (Rule of cosmic distance, Frozen): CF-CON-625, CF-CON-616 → `canon/build/BUILD-030-cosmology-engine.md#0304--the-rule-of-distance`
+- **CF-CON-631** (Cosmic horizon, Frozen): CF-CON-625, CF-CON-554 → `canon/build/BUILD-030-cosmology-engine.md#0305--the-cosmic-horizon`
+- **CF-CON-632** (Architecture of wonder, Frozen): CF-CON-625, CF-CON-643 → `canon/build/BUILD-030-cosmology-engine.md#0306--the-architecture-of-wonder`
+- **CF-CON-633** (Age of universe, Frozen): CF-CON-625, CF-CON-552 → `canon/build/BUILD-030-cosmology-engine.md#0307--the-age-of-the-universe`
+- **CF-CON-634** (Silence of space, Frozen): CF-CON-625, CF-CON-457 → `canon/build/BUILD-030-cosmology-engine.md#0308--the-silence-of-space`
+- **CF-CON-635** (Place of humanity, Frozen): CF-CON-625, CF-CON-145 → `canon/build/BUILD-030-cosmology-engine.md#0309--the-place-of-humanity`
+- **CF-CON-636** (Many observers, Frozen): CF-CON-625, CF-CON-581 → `canon/build/BUILD-030-cosmology-engine.md#03010--the-many-observers`
+- **CF-CON-637** (Rule of cosmic discovery, Frozen): CF-CON-625, CF-CON-176 → `canon/build/BUILD-030-cosmology-engine.md#03011--the-rule-of-discovery`
+- **CF-CON-638** (Cosmic ledger record, Frozen): CF-CON-625, CF-CON-134 → `canon/build/BUILD-030-cosmology-engine.md#03012--the-cosmic-ledger`
+- **CF-CON-639** (Cosmology final principle, Frozen): CF-CON-625, CF-CON-171 → `canon/build/BUILD-030-cosmology-engine.md#03013--the-final-principle`
+- **CF-CON-640** (Universal Architecture complete, Frozen): CF-CON-625, CF-CON-542 → `canon/build/BUILD-030-cosmology-engine.md`
+- **CF-CON-641** (Secret History gate, Frozen): CF-CON-640, CF-CON-014 → `canon/build/BUILD-030-cosmology-engine.md`
+- **CF-CON-642** (Mystery permanent feature, Frozen): CF-CON-625, CF-CON-627 → `canon/build/BUILD-030-cosmology-engine.md`
+- **CF-CON-643** (Wonder triad, Frozen): CF-CON-632, CF-CON-159 → `canon/build/BUILD-030-cosmology-engine.md#0306--the-architecture-of-wonder`
+- **CF-CON-644** (Fractal integrity existence, Frozen): CF-CON-628, CF-CON-484 → `canon/build/BUILD-030-cosmology-engine.md#0302--the-scale-of-existence`

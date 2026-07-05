@@ -3,6 +3,17 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [2.9.0] — 2026-07-05
+
+### Added
+- CF-ENTRY-069: BUILD-030 The Cosmology Engine Canonical v1.0
+- Concepts CF-CON-625 through CF-CON-644
+- Cosmic ledger · architecture of wonder · constellation principle · silence of space
+- **Mystery permanent feature** · universe larger than consciousness
+- **Universal Architecture Phase complete** (BUILD-026–030)
+- **BUILD-031 gate:** Secret History — most protected document
+- Master Canon v1.5.4
+
 ## [2.8.0] — 2026-07-05
 
 ### Added

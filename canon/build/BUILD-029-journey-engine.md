@@ -198,9 +198,9 @@ Spacecraft · portals · time fractures · strange worlds → all expressions of
 
 ---
 
-## BUILD-030 preview *(CF-ENTRY-068)*
+## BUILD-031 preview *(CF-ENTRY-069)*
 
-→ **BUILD-030 Cosmology** — the sky above every journey *(queued)*
+→ **BUILD-031 Secret History** — actual chronology before page one *(most protected · queued)*
 
 ---
 

@@ -1,7 +1,7 @@
-# Master Canon v1.5.3
+# Master Canon v1.5.4
 
-> **BUILD-029:** Journey Engine · what every journey changes · other world = consciousness
-> Supersedes v1.5.2 (2026-07-05 · BUILD-029 CF-ENTRY-068 · CanonForge 2.8.0)
+> **BUILD-030:** Cosmology Engine · mystery permanent · Universal Architecture complete
+> Supersedes v1.5.3 (2026-07-05 · BUILD-030 CF-ENTRY-069 · CanonForge 2.9.0)
 
 ---
 
@@ -42,11 +42,11 @@ Key locked insights:
 | **Four Pillars** | Strengthen ≥1 of Wonder · **Connection** · Resonance · Transformation? | BUILD-003 v1.0 |
 | Seven Laws | Immutable · complies with BUILD-004 v1.0? | BUILD-004 |
 
-**Stack:** BUILD-001 = *why* · … · **028 = *tools not gadgets*** · **029 = *transformation not travel***
+**Stack:** BUILD-001 = *why* · … · **029 = *transformation not travel*** · **030 = *cosmos larger than mind***
+
+→ [build/BUILD-030-cosmology-engine.md](build/BUILD-030-cosmology-engine.md) · Cosmic Ledger · Mystery Permanent · Universal Architecture Complete
 
 → [build/BUILD-029-journey-engine.md](build/BUILD-029-journey-engine.md) · Five Journeys · Hidden Destination · Reader Journey
-
-→ [build/BUILD-028-tool-engine.md](build/BUILD-028-tool-engine.md) · Six Families · Tool Record · Final Tool = Understanding
 
 → [build/BUILD-024-tempo-engine.md](build/BUILD-024-tempo-engine.md) · Five Tempos · Tempo Ledger · Performance Model
 
@@ -230,7 +230,17 @@ The most powerful tool is **understanding** — not a machine *(CF-CON-599)*. Se
 
 Not *"How do people travel?"* — **"What does every journey change?"** *(CF-CON-623)*. Five journey types · threshold · return · **reader journey** *(first page = departure · reread = return home · CF-CON-618)*.
 
-Hidden destination: **the greatest other world was never another planet — it was another consciousness** *(CF-CON-621)*. Longest journey: **misunderstanding to understanding** *(CF-CON-622)*. See [build/BUILD-029-journey-engine.md](build/BUILD-029-journey-engine.md).
+Hidden destination: **the greatest other world was never another planet — it was another consciousness** *(CF-CON-621)*. See [build/BUILD-029-journey-engine.md](build/BUILD-029-journey-engine.md).
+
+### Cosmology immutable law (CF-CON-625 · BUILD-030)
+
+> **The universe is not a machine to be solved. It is a reality to be explored.**
+
+> The universe is **larger than any consciousness** — wonder survives because knowledge remains **incomplete** *(CF-CON-627 · CF-CON-642)*. Mystery is **permanent feature** — not temporary defect.
+
+Final question: **"How should conscious beings live within a universe they can never fully understand?"** *(CF-CON-639)*
+
+**Universal Architecture Phase complete** *(BUILD-026–030 · CF-CON-640)*. Next: **BUILD-031 Secret History** — actual chronology · most protected document *(CF-CON-641)*. See [build/BUILD-030-cosmology-engine.md](build/BUILD-030-cosmology-engine.md).
 
 ### Visual Grammar (CF-CON-080 · CF-CON-081)
 

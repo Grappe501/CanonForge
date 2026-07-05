@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "2.8.0",
-  "generated_at": "2026-07-05T22:22:12.864950+00:00",
+  "canonforge_version": "2.9.0",
+  "generated_at": "2026-07-05T22:25:15.134545+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -6911,6 +6911,226 @@
         "CF-ENTRY-068"
       ],
       "canon_ref": "canon/build/BUILD-029-journey-engine.md"
+    },
+    {
+      "id": "CF-CON-625",
+      "label": "Cosmology Engine",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Largest scale; universe before and after story.",
+      "sources": [
+        "CF-ENTRY-069"
+      ],
+      "canon_ref": "canon/build/BUILD-030-cosmology-engine.md"
+    },
+    {
+      "id": "CF-CON-626",
+      "label": "Universe to be explored",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Not machine to solve; reality to explore.",
+      "sources": [
+        "CF-ENTRY-069"
+      ],
+      "canon_ref": "canon/build/BUILD-030-cosmology-engine.md"
+    },
+    {
+      "id": "CF-CON-627",
+      "label": "First law of cosmology",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Universe larger than any consciousness.",
+      "sources": [
+        "CF-ENTRY-069"
+      ],
+      "canon_ref": "canon/build/BUILD-030-cosmology-engine.md#0301--the-first-law"
+    },
+    {
+      "id": "CF-CON-628",
+      "label": "Scale of existence",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Individual to universe; fractal integrity.",
+      "sources": [
+        "CF-ENTRY-069"
+      ],
+      "canon_ref": "canon/build/BUILD-030-cosmology-engine.md#0302--the-scale-of-existence"
+    },
+    {
+      "id": "CF-CON-629",
+      "label": "Constellation principle",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Universe fundamentally relational; nothing alone.",
+      "sources": [
+        "CF-ENTRY-069"
+      ],
+      "canon_ref": "canon/build/BUILD-030-cosmology-engine.md#0303--the-constellation-principle"
+    },
+    {
+      "id": "CF-CON-630",
+      "label": "Rule of cosmic distance",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Physical emotional temporal intellectual spiritual.",
+      "sources": [
+        "CF-ENTRY-069"
+      ],
+      "canon_ref": "canon/build/BUILD-030-cosmology-engine.md#0304--the-rule-of-distance"
+    },
+    {
+      "id": "CF-CON-631",
+      "label": "Cosmic horizon",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "No final map; discovery enlarges unknown.",
+      "sources": [
+        "CF-ENTRY-069"
+      ],
+      "canon_ref": "canon/build/BUILD-030-cosmology-engine.md#0305--the-cosmic-horizon"
+    },
+    {
+      "id": "CF-CON-632",
+      "label": "Architecture of wonder",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Knowledge mystery trust; remove one collapses.",
+      "sources": [
+        "CF-ENTRY-069"
+      ],
+      "canon_ref": "canon/build/BUILD-030-cosmology-engine.md#0306--the-architecture-of-wonder"
+    },
+    {
+      "id": "CF-CON-633",
+      "label": "Age of universe",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Ancient through memory not numbers.",
+      "sources": [
+        "CF-ENTRY-069"
+      ],
+      "canon_ref": "canon/build/BUILD-030-cosmology-engine.md#0307--the-age-of-the-universe"
+    },
+    {
+      "id": "CF-CON-634",
+      "label": "Silence of space",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Spacious not noisy; BUILD-022 expression.",
+      "sources": [
+        "CF-ENTRY-069"
+      ],
+      "canon_ref": "canon/build/BUILD-030-cosmology-engine.md#0308--the-silence-of-space"
+    },
+    {
+      "id": "CF-CON-635",
+      "label": "Place of humanity",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Neither insignificant nor central; humility dignity.",
+      "sources": [
+        "CF-ENTRY-069"
+      ],
+      "canon_ref": "canon/build/BUILD-030-cosmology-engine.md#0309--the-place-of-humanity"
+    },
+    {
+      "id": "CF-CON-636",
+      "label": "Many observers",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Stars unchanged; meaning varies by civilization.",
+      "sources": [
+        "CF-ENTRY-069"
+      ],
+      "canon_ref": "canon/build/BUILD-030-cosmology-engine.md#03010--the-many-observers"
+    },
+    {
+      "id": "CF-CON-637",
+      "label": "Rule of cosmic discovery",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Never familiar; invited not finished.",
+      "sources": [
+        "CF-ENTRY-069"
+      ],
+      "canon_ref": "canon/build/BUILD-030-cosmology-engine.md#03011--the-rule-of-discovery"
+    },
+    {
+      "id": "CF-CON-638",
+      "label": "Cosmic ledger record",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Seven fields; remaining mystery intentional.",
+      "sources": [
+        "CF-ENTRY-069"
+      ],
+      "canon_ref": "canon/build/BUILD-030-cosmology-engine.md#03012--the-cosmic-ledger"
+    },
+    {
+      "id": "CF-CON-639",
+      "label": "Cosmology final principle",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "How live in universe never fully understood.",
+      "sources": [
+        "CF-ENTRY-069"
+      ],
+      "canon_ref": "canon/build/BUILD-030-cosmology-engine.md#03013--the-final-principle"
+    },
+    {
+      "id": "CF-CON-640",
+      "label": "Universal Architecture complete",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "BUILD-026-030 universal scale; Phase gate.",
+      "sources": [
+        "CF-ENTRY-069"
+      ],
+      "canon_ref": "canon/build/BUILD-030-cosmology-engine.md"
+    },
+    {
+      "id": "CF-CON-641",
+      "label": "Secret History gate",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "BUILD-031 actual chronology; most protected.",
+      "sources": [
+        "CF-ENTRY-069"
+      ],
+      "canon_ref": "canon/build/BUILD-030-cosmology-engine.md"
+    },
+    {
+      "id": "CF-CON-642",
+      "label": "Mystery permanent feature",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Not temporary defect; universe larger than mind.",
+      "sources": [
+        "CF-ENTRY-069"
+      ],
+      "canon_ref": "canon/build/BUILD-030-cosmology-engine.md"
+    },
+    {
+      "id": "CF-CON-643",
+      "label": "Wonder triad",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Knowledge mystery trust required for wonder.",
+      "sources": [
+        "CF-ENTRY-069"
+      ],
+      "canon_ref": "canon/build/BUILD-030-cosmology-engine.md#0306--the-architecture-of-wonder"
+    },
+    {
+      "id": "CF-CON-644",
+      "label": "Fractal integrity existence",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Nested scales reflect patterns of others.",
+      "sources": [
+        "CF-ENTRY-069"
+      ],
+      "canon_ref": "canon/build/BUILD-030-cosmology-engine.md#0302--the-scale-of-existence"
     }
   ],
   "edges": [
@@ -12732,6 +12952,211 @@
     {
       "from": "CF-CON-624",
       "to": "CF-CON-039",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-625",
+      "to": "CF-CON-545",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-625",
+      "to": "CF-CON-639",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-625",
+      "to": "CF-CON-640",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-626",
+      "to": "CF-CON-625",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-626",
+      "to": "CF-CON-627",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-627",
+      "to": "CF-CON-625",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-627",
+      "to": "CF-CON-642",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-628",
+      "to": "CF-CON-625",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-628",
+      "to": "CF-CON-644",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-629",
+      "to": "CF-CON-625",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-629",
+      "to": "CF-CON-358",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-630",
+      "to": "CF-CON-625",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-630",
+      "to": "CF-CON-616",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-631",
+      "to": "CF-CON-625",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-631",
+      "to": "CF-CON-554",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-632",
+      "to": "CF-CON-625",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-632",
+      "to": "CF-CON-643",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-633",
+      "to": "CF-CON-625",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-633",
+      "to": "CF-CON-552",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-634",
+      "to": "CF-CON-625",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-634",
+      "to": "CF-CON-457",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-635",
+      "to": "CF-CON-625",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-635",
+      "to": "CF-CON-145",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-636",
+      "to": "CF-CON-625",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-636",
+      "to": "CF-CON-581",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-637",
+      "to": "CF-CON-625",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-637",
+      "to": "CF-CON-176",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-638",
+      "to": "CF-CON-625",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-638",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-639",
+      "to": "CF-CON-625",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-639",
+      "to": "CF-CON-171",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-640",
+      "to": "CF-CON-625",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-640",
+      "to": "CF-CON-542",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-641",
+      "to": "CF-CON-640",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-641",
+      "to": "CF-CON-014",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-642",
+      "to": "CF-CON-625",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-642",
+      "to": "CF-CON-627",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-643",
+      "to": "CF-CON-632",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-643",
+      "to": "CF-CON-159",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-644",
+      "to": "CF-CON-628",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-644",
+      "to": "CF-CON-484",
       "type": "related"
     }
   ]
