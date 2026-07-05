@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0.0",
   "canonforge_version": "1.3.0",
-  "generated_at": "2026-07-05T21:37:51.990143+00:00",
+  "generated_at": "2026-07-05T21:38:15.670484+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
   "entry_count": 52,
   "concept_count": 363,
-  "project_version": "0.0.1",
+  "project_version": "0.1.0",
   "phase_one": "complete",
   "build_015_5_version": "0.1",
   "build_015_5_title": "Chronoforge Master Architecture",
@@ -37,7 +37,7 @@
   "foundational_layer": "BUILD-001-013 complete",
   "engineering_layer": "BUILD-014-015 complete",
   "roadmap_version": "1.0",
-  "build_layer": "BUILD-001-013 frozen",
+  "build_layer": "BUILD-001-015 frozen \u00b7 BUILD-015.5 active",
   "entries": [
     {
       "entry_id": "CF-ENTRY-001",
