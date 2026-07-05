@@ -1,8 +1,8 @@
 # The Rhythm Bible
 
-> Not a style guide — a **score**
+> Temporal dimension of [THE_SCORE.md](THE_SCORE.md)
 > Compose, don't write · CF-CON-070 · CF-ENTRY-027
-> Status: **framework only** — page-level scoring begins Phase 4+
+> **Silence** not white space (CF-CON-095 · CF-ENTRY-029)
 
 ---
 

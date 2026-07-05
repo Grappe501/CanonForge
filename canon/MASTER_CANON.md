@@ -1,8 +1,8 @@
-# Master Canon v0.2.6
+# Master Canon v0.2.7
 
 > Governing creative constitution for CHRONOFORGE
 > Derived from locked concepts · open forks marked explicitly
-> Supersedes v0.2.5 (2026-07-05 · CF-ENTRY-028 Visual Grammar)
+> Supersedes v0.2.6 (2026-07-05 · CF-ENTRY-029 Resonance · The Score)
 
 ---
 
@@ -14,7 +14,7 @@
 | **Repo** | CanonForge (`Grappe501/CanonForge`) |
 | **Form** | ~100–120 pages · **no chapters** · invisible movements |
 | **Architecture** | Recursive novel · Five Locks · Chronology Lie · artifact · **scored composition** |
-| **Medium** | Symphony disguised as novella (CF-CON-076) |
+| **Medium** | Symphony disguised as novella · **Resonance** is central metaphor |
 
 ---
 
@@ -36,21 +36,43 @@ Tell the **best adventure story we can possibly tell** — with invisible engine
 >
 > **Every reread changes the music.**
 
-We **compose**, we do not merely write. The book is **scored** — see [architecture/RHYTHM_BIBLE.md](../architecture/RHYTHM_BIBLE.md).
+We **compose**, we do not merely write. Master score: [architecture/THE_SCORE.md](../architecture/THE_SCORE.md).
 
-Compose for: breathing · pulse · subvocalization · the reader's inner voice.
+### Resonance (CF-CON-094 · CF-CON-100 · locked CF-ENTRY-029)
+
+**Central metaphor of the entire project** — not time, not memory, not space.
+
+Every event · word · silence · typographic anomaly · emotional beat **resonates** across the book like vibrations through an instrument.
+
+```txt
+NOT:  reader collects clues → assembles truth
+IS:   reader hears harmony present all along → new melodies each read
+```
+
+Compose for the **subconscious pattern-recognition system** (CF-CON-098).
+
+### Typography immutable law (CF-CON-089)
+
+> **Typography is never decorative.**
+
+If typography changes → **reality changed** — not author voice, not narrator.
+
+Rare typography = **evidence**, not emphasis (six bold words in 100 pages). See [architecture/PHYSICS_OF_READING.md](../architecture/PHYSICS_OF_READING.md).
 
 ### Visual Grammar (CF-CON-080 · CF-CON-081)
 
 Typography is an **invisible emotional score** — not decoration. See [architecture/VISUAL_GRAMMAR.md](../architecture/VISUAL_GRAMMAR.md).
 
-| Instrument | Meaning (never changes) |
+| Instrument | Physics layer (never changes) |
 |---|---|
-| Roman | Reality — baseline |
-| *Italics* | **Certainty** (not thoughts) |
-| **Bold** | **Collision** — overlapping timelines/interpretations |
+| Roman | **Observed reality** |
+| *Italics* | **Believed reality** |
+| **Bold** | **Objective reality leaking through** |
+| Small caps | **Immutable truth** |
 
-Formatting **never lies**. On Recognition reads, reader discovers they assigned conventional meaning to a second language.
+Page = **seismograph** — typographic shifts mark stress/fractures, not importance (CF-CON-099).
+
+Typography **obeys universe even when it hurts the story** (CF-CON-096).
 
 **Rarity rule (CF-CON-086):** If everything is accented, nothing is accented.
 
@@ -295,4 +317,4 @@ See [knowledge/OPEN_QUESTIONS.md](../knowledge/OPEN_QUESTIONS.md):
 
 ---
 
-*v0.2.6 · 2026-07-05 · synthesized from CF-ENTRY-001 through CF-ENTRY-028*
+*v0.2.7 · 2026-07-05 · synthesized from CF-ENTRY-001 through CF-ENTRY-029 · 100 concepts*

@@ -24,7 +24,9 @@
 | **Compose** | Score the book; do not merely write prose | CF-CON-069 |
 | **Rhythm Bible** | Page-level score: tempo, pulse, silence, density | CF-CON-070 |
 | **Heartbeat pulse** | Three short sentences · pause · recurring pattern | CF-CON-073 |
-| **Visual Grammar** | Typographic language — one meaning per instrument | CF-CON-080 |
+| **Resonance** | Central metaphor — harmony discovered across reads | CF-CON-094 |
+| **The Score** | Master per-page composition map | CF-CON-093 |
+| **Silence** | Not white space — rests with rules and memory | CF-CON-095 |
 | **Experience product** | The reading journey is the product, not the artifact | CF-CON-037 |
 | **3-text-before-page-5** | Experience success scene: text three people before reaching page five on reread | CF-CON-045 |
 | **Call me when you finish** | Target recommendation type — experience sharing, not craft admiration | CF-CON-038 |

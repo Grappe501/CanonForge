@@ -1,8 +1,7 @@
 # Visual Grammar
 
-> Not a style guide — a **language**
+> Visual dimension of [THE_SCORE.md](THE_SCORE.md) · governed by [PHYSICS_OF_READING.md](PHYSICS_OF_READING.md)
 > Invisible typographic score · CF-CON-080 · CF-ENTRY-028
-> Status: **canonical vocabulary locked** — page application Phase 4+
 
 ---
 
@@ -27,11 +26,11 @@ Fifth read realization: *"I've been reading typography as emphasis... but it was
 
 | Instrument | Canonical meaning | NOT |
 |---|---|---|
-| **Roman** | Reality — reader's baseline | Default "neutral" |
-| *Italics* | **Certainty** | Thoughts · emphasis |
-| **Bold** | **Collision** — timelines/interpretations overlap | Emphasis · shouting |
-| Small caps | TBD — register in Phase 4 | Decorative caps |
-| White space | Rest · breath (see [RHYTHM_BIBLE.md](RHYTHM_BIBLE.md)) | Formatting |
+| **Roman** | **Observed reality** | Default "neutral" |
+| *Italics* | **Believed reality** | Thoughts · emphasis |
+| **Bold** | **Objective reality leaking** | Emphasis · collision |
+| Small caps | **Immutable truth** | Decorative caps |
+| **Silence** | Rest · breath (not "white space") | Formatting |
 | Indentation | Shift · entry into memory/register | Random layout |
 | Em dash | Interruption · break in causal flow | Style choice |
 | Ellipsis | Unfinished thought · trailing causality | Drama dots |

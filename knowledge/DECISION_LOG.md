@@ -29,7 +29,9 @@
 | 2026-07-05 | Artifact not novel | Physical form reinforces experience | CF-CON-067 |
 | 2026-07-05 | Compose not write | Rhythm Bible discipline | CF-CON-069, CF-CON-070 |
 | 2026-07-05 | Compose Laws center doctrine | Six-line governing principle | CF-CON-077 |
-| 2026-07-05 | Visual Grammar language | Typographic fair-play system | CF-CON-080–088 |
+| 2026-07-05 | Resonance central metaphor | Harmony not clue collection | CF-CON-094, CF-CON-100 |
+| 2026-07-05 | Typography never decorative | Reality changed—not emphasis | CF-CON-089 |
+| 2026-07-05 | The Score master document | Unified page composition | CF-CON-093 |
 | 2026-07-05 | Originality firewall | Genre pillars as physics not copy | CF-CON-039 |
 
 ## Open Forks (see OPEN_QUESTIONS.md)

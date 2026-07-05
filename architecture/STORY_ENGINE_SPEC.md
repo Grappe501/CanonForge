@@ -29,7 +29,8 @@ OUTPUT:  manuscript/ (Phase 14+ ONLY)
 | World Atlas | 7 | future |
 | Clue Ledger | 8 | future |
 | Rhythm Bible | 4+ | `architecture/RHYTHM_BIBLE.md` ✓ (framework) |
-| Visual Grammar | 4+ | `architecture/VISUAL_GRAMMAR.md` ✓ (framework) |
+| The Score | 4+ | `architecture/THE_SCORE.md` ✓ (framework) |
+| Physics of Reading | 4+ | `architecture/PHYSICS_OF_READING.md` ✓ (framework) |
 | Chapter One / Opening | 9 | **LAST** |
 
 ---

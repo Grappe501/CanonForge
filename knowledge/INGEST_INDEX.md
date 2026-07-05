@@ -32,3 +32,4 @@
 | CF-ENTRY-026 | `knowledge/entries/026-eliminate-chapters-artifact-movements.md` | 2026-07-05 | processed | CF-CON-044, CF-CON-059, CF-CON-060, CF-CON-061, CF-CON-062, CF-CON-063, CF-CON-064, CF-CON-065, CF-CON-066, CF-CON-067, CF-CON-068 |
 | CF-ENTRY-027 | `knowledge/entries/027-compose-not-write-rhythm-bible.md` | 2026-07-05 | processed | CF-CON-069, CF-CON-070, CF-CON-071, CF-CON-072, CF-CON-073, CF-CON-074, CF-CON-075, CF-CON-076, CF-CON-077, CF-CON-078, CF-CON-079 |
 | CF-ENTRY-028 | `knowledge/entries/028-visual-grammar-typography-score.md` | 2026-07-05 | processed | CF-CON-080, CF-CON-081, CF-CON-082, CF-CON-083, CF-CON-084, CF-CON-085, CF-CON-086, CF-CON-087, CF-CON-088 |
+| CF-ENTRY-029 | `knowledge/entries/029-physics-of-reading-score-resonance.md` | 2026-07-05 | processed | CF-CON-089, CF-CON-090, CF-CON-091, CF-CON-092, CF-CON-093, CF-CON-094, CF-CON-095, CF-CON-096, CF-CON-097, CF-CON-098, CF-CON-099, CF-CON-100 |

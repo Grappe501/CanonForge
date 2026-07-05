@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0.0",
   "canonforge_version": "0.2.0",
-  "generated_at": "2026-07-05T20:55:06.700042+00:00",
+  "generated_at": "2026-07-05T20:57:17.579492+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 28,
-  "concept_count": 44,
+  "entry_count": 29,
+  "concept_count": 100,
   "entries": [
     {
       "entry_id": "CF-ENTRY-001",
@@ -376,6 +376,28 @@
         "CF-CON-088"
       ],
       "byte_size": 4101
+    },
+    {
+      "entry_id": "CF-ENTRY-029",
+      "file": "knowledge/entries/029-physics-of-reading-score-resonance.md",
+      "sha256": "59fd6b53ae498bf254176a7330d0e6466d476bad020bb6e54d8ff2e5bf293ace",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-089",
+        "CF-CON-090",
+        "CF-CON-091",
+        "CF-CON-092",
+        "CF-CON-093",
+        "CF-CON-094",
+        "CF-CON-095",
+        "CF-CON-096",
+        "CF-CON-097",
+        "CF-CON-098",
+        "CF-CON-099",
+        "CF-CON-100"
+      ],
+      "byte_size": 4763
     }
   ],
   "indexes": {

@@ -3,6 +3,14 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [0.2.7] — 2026-07-05
+
+### Added
+- CF-ENTRY-029: Physics of Reading · The Score · Resonance central metaphor
+- Concepts CF-CON-089 through CF-CON-100 (100 concepts milestone)
+- `architecture/PHYSICS_OF_READING.md` · `architecture/THE_SCORE.md`
+- Immutable law: Typography is never decorative
+
 ## [0.2.6] — 2026-07-05
 
 ### Added

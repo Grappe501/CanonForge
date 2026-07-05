@@ -60,6 +60,12 @@ Placeholder examples from CF-ENTRY-025 — not locked prose:
 
 Final sentence grammatically incomplete; thought completes on page one. Novel is **continuous**, not circular.
 
+## Punctuation invariant {#punctuation}
+
+**CF-CON-097 · Status: Candidate**
+
+Example pattern: one punctuation mark appears exactly 17 times — never 18. Answer to "why 17?" changes across Recognition passes. Exact mark and count TBD in The Score (Phase 4).
+
 ## No page numbers {#page-numbers}
 
 **CF-CON-065 · Status: Open**

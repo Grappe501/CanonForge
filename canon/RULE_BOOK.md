@@ -15,6 +15,12 @@ Every sentence on Read 1 must remain factually true on Read 5. Meaning may refra
 
 ## Immutable Structure Laws
 
+### Law 0 — Typography never decorative (CF-CON-089)
+
+> **Typography is never decorative.**
+
+If typography changes → reality changed. Not voice. Not emphasis.
+
 ### Second Law — No Beginning (CF-CON-057)
 
 > **The book has no beginning.**
