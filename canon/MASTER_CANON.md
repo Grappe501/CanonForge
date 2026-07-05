@@ -1,8 +1,7 @@
-# Master Canon v1.2.0
+# Master Canon v1.3.0
 
-> **Phase One complete** · **The Chronoforge Method** · novel = Version 1
-> **Next:** BUILD-015.5 Build Bible (blocks BUILD-016)
-> Supersedes v1.1.0 (2026-07-05 · CF-ENTRY-052)
+> **BUILD-016:** The Consciousness Engine · soul of the method · fundamental unit
+> Supersedes v1.2.0 (2026-07-05 · BUILD-016 CF-ENTRY-053 · CanonForge 1.4.0)
 
 ---
 
@@ -43,11 +42,11 @@ Key locked insights:
 | **Four Pillars** | Strengthen ≥1 of Wonder · **Connection** · Resonance · Transformation? | BUILD-003 v1.0 |
 | Seven Laws | Immutable · complies with BUILD-004 v1.0? | BUILD-004 |
 
-**Stack:** BUILD-001 = *why* · … · BUILD-015 = *where* · **015.5 = Build Bible**
+**Stack:** BUILD-001 = *why* · … · BUILD-015 = *where* · **016 = *consciousness***
 
-→ [build/BUILD-015.5-chronoforge-master-architecture.md](build/BUILD-015.5-chronoforge-master-architecture.md) · Phase One complete · Chronoforge Method · BUILD-016 blocked
+→ [build/BUILD-016-consciousness-engine.md](build/BUILD-016-consciousness-engine.md) · Five Layers · Consciousness Loop · Ecology of Awareness
 
-→ [build/BUILD-015-resonance-matrix.md](build/BUILD-015-resonance-matrix.md) · Grand Matrix · Ledgers · Keystone Levels
+→ [build/BUILD-015.5-chronoforge-master-architecture.md](build/BUILD-015.5-chronoforge-master-architecture.md) · Build Bible · Chronoforge Method
 
 → [build/BUILD-004-seven-laws.md](build/BUILD-004-seven-laws.md)
 

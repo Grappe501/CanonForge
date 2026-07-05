@@ -19,7 +19,7 @@ If BUILD-015 is the master **control board** for the novel, BUILD-015.5 is the m
 
 *(CF-CON-362 · CF-CON-361 Chronoforge Method)*
 
-**Gate:** Do not begin BUILD-016 (Consciousness Engine) until this document reaches **v1.0**.
+**Gate:** BUILD-015.5 v1.0 recommended before Phase Two · **BUILD-016 began** per author directive CF-ENTRY-053 (soul document)
 
 ---
 
@@ -264,7 +264,7 @@ Build Bible v1.0 requires:
 
 ## 015.5.11 — What happens next
 
-**Do not proceed to BUILD-016** until BUILD-015.5 reaches v1.0.
+**Do not proceed to BUILD-017** until BUILD-015.5 reaches v1.0 *(BUILD-016 excepted per CF-ENTRY-053)*.
 
 Next passes expand this document into the full 100–200 page Build Bible:
 

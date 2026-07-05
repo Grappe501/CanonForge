@@ -3,6 +3,20 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [1.4.0] — 2026-07-05
+
+### Added
+- CF-ENTRY-053: BUILD-016 The Consciousness Engine Canonical v1.0
+- Concepts CF-CON-364 through CF-CON-380
+- Five layers · consciousness loop · multiple consciousness model · consciousness map
+- Three questions · test of life · ecology of consciousness · reader mirror
+
+### Changed
+- CF-CON-240 now authoritative in BUILD-016
+- Phase Two begun (author override of 015.5 gate)
+- Master Canon v1.3.0 · project version 0.2.0
+- BUILD-016 epilogue truncated — OPEN_QUESTIONS
+
 ## [1.3.0] — 2026-07-05
 
 ### Added

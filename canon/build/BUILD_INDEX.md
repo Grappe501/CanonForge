@@ -11,8 +11,9 @@
 BUILD-000.000   THE CONSTITUTION          → law (never broken)
 BUILD-000.001–003                     → North Star · One Question · Thematic
 BUILD-001–015                         → Phase One **complete** (001 v0.1 · 002–015 v1.0)
-BUILD-015.5                           → Build Bible **in progress** (blocks 016)
-BUILD-016–036                         → queued (see CHRONOFORGE_PHASES.md)
+BUILD-015.5                           → Build Bible **in progress**
+BUILD-016                             → Phase Two begun **v1.0**
+BUILD-017–036                         → queued
 architecture/                         → expanded specs (derived · cross-ref)
 knowledge/entries/                    → verbatim source uploads
 ```
@@ -45,7 +46,8 @@ knowledge/entries/                    → verbatim source uploads
 | **014** | The Elements of Meaning | **1.0** | **Frozen** | 036, 050 | CF-CON-170, 321–334 | [BUILD-014](BUILD-014-elements-of-meaning.md) |
 | **015** | The Resonance Matrix | **1.0** | **Frozen** | 032, 050, 051 | CF-CON-134, 335–359 | [BUILD-015](BUILD-015-resonance-matrix.md) |
 | **015.5** | Chronoforge Master Architecture | **0.1** | **Active** | 052 | CF-CON-360–363 | [BUILD-015.5](BUILD-015.5-chronoforge-master-architecture.md) |
-| **016–025** | Phase Two engines | — | **Queued** | — | — | [CHRONOFORGE_PHASES](../architecture/CHRONOFORGE_PHASES.md) |
+| **016** | The Consciousness Engine | **1.0** | **Frozen** | 043, 053 | CF-CON-240, 364–380 | [BUILD-016](BUILD-016-consciousness-engine.md) |
+| **017–025** | Phase Two engines | — | **Queued** | — | — | [CHRONOFORGE_PHASES](../architecture/CHRONOFORGE_PHASES.md) |
 | **026–036** | Phase Three novel | — | **Queued** | — | — | [CHRONOFORGE_PHASES](../architecture/CHRONOFORGE_PHASES.md) |
 
 ---
@@ -76,6 +78,7 @@ knowledge/entries/                    → verbatim source uploads
 | 013 Composer's Oath | Twenty-one oaths · Daily ritual · Three councils |
 | 014 Elements of Meaning | Twelve primaries · forces · molecules · design language |
 | 015 Resonance Matrix | Grand Matrix · ledgers · tests · keystone levels · constellation |
+| 016 Consciousness Engine | Five layers · loop · network · consciousness maps |
 
 ---
 

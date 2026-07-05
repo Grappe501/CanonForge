@@ -10,7 +10,7 @@
 
 ```txt
 PHASE ONE     Philosophy + engineering schema     ✓ COMPLETE
-PHASE TWO     Engineering documents               BUILD-016–025
+PHASE TWO     Engineering documents               **016 ✓** · 017–025 queued
 PHASE THREE   The novel (substrate)               BUILD-026–036
 PHASE FOUR    The people (lives)                  Per-consciousness packages
 PHASE FIVE    Composition                         Prose · one movement at a time
@@ -51,7 +51,7 @@ Engineer the book — not outline chapters.
 
 | BUILD | Title | Notes |
 |---|---|---|
-| **016** | Consciousness Engine | Not characters · awareness · perception · memory edit |
+| **016** | Consciousness Engine | **✓ v1.0** · soul document · CF-ENTRY-053 |
 | **017** | Chronology Engine | Actual timeline · causality · secret order |
 | **018** | Fracture Map | Where chronology breaks · no randomness |
 | **019** | Memory Engine | Storage · editing · false certainty |

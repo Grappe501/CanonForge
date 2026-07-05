@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 1.3.0 · 2026-07-05 · 363 concepts registered
+> Version 1.4.0 · 2026-07-05 · 380 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -243,7 +243,7 @@
 | CF-CON-237 | Choice over biography | Theme | **Frozen** | Defined by choices when meaning uncertain. | CF-ENTRY-043 |
 | CF-CON-238 | Connection web | Architecture | **Frozen** | Humanity as web not hierarchy; connections not status. | CF-ENTRY-043 |
 | CF-CON-239 | Invisible biography | Architecture | **Frozen** | Complete unseen bio per major figure; 90% never shown. | CF-ENTRY-043 |
-| CF-CON-240 | Consciousness design unit | Architecture | **Frozen** | Smallest unit is consciousness not character; reader too. | CF-ENTRY-043 |
+| CF-CON-240 | Consciousness design unit | Architecture | **Frozen** | Fundamental unit; BUILD-016 Consciousness Engine. | CF-ENTRY-043, CF-ENTRY-053 |
 | CF-CON-241 | Human legacy humility | Heart | **Frozen** | Every stranger has unseen story; approach with humility. | CF-ENTRY-043 |
 | CF-CON-242 | BUILD-007 human spec | Governance | **Frozen** | What is a human being; all later builds serve this. | CF-ENTRY-043 |
 | CF-CON-243 | Pattern completion | Architecture | **Frozen** | Brain predicts completes assumes; core invention. | CF-ENTRY-044 |
@@ -366,7 +366,24 @@
 | CF-CON-360 | Phase One complete | Governance | **Frozen** | BUILD-001-015 philosophy and schema complete. | CF-ENTRY-052 |
 | CF-CON-361 | Chronoforge Method | Governance | **Frozen** | Reusable storytelling system; novel is Version 1. | CF-ENTRY-052 |
 | CF-CON-362 | Master Story Architecture | Governance | **Active** | Build Bible; dependencies validation workflow. | CF-ENTRY-052 |
-| CF-CON-363 | BUILD-015.5 Build Bible | Governance | **Active** | Sits above all BUILDs; blocks 016 until v1.0. | CF-ENTRY-052 |
+| CF-CON-363 | BUILD-015.5 Build Bible | Governance | **Active** | Sits above all BUILDs; 016 began per CF-ENTRY-053. | CF-ENTRY-052, CF-ENTRY-053 |
+| CF-CON-364 | Consciousness Engine | Architecture | **Frozen** | Models awareness not characters; soul document. | CF-ENTRY-053 |
+| CF-CON-365 | Five layers of consciousness | Architecture | **Frozen** | Observation interpretation emotion memory identity. | CF-ENTRY-053 |
+| CF-CON-366 | Consciousness loop | Architecture | **Frozen** | Perception to identity to future perception. | CF-ENTRY-053 |
+| CF-CON-367 | Multiple consciousness model | Architecture | **Frozen** | One event many realities; truth in relationship. | CF-ENTRY-053 |
+| CF-CON-368 | Inner weather | Architecture | **Frozen** | Invisible climate before reason; hope fear grief. | CF-ENTRY-053 |
+| CF-CON-369 | Attention field | Architecture | **Frozen** | Finite awareness; scarce resource; honest disagreement. | CF-ENTRY-053 |
+| CF-CON-370 | Memory field | Architecture | **Frozen** | Reconstruction not storage; creative protective human. | CF-ENTRY-053 |
+| CF-CON-371 | Identity field | Architecture | **Frozen** | Story self tells; changes invisibly; not labels. | CF-ENTRY-053 |
+| CF-CON-372 | Mirror principle | Architecture | **Frozen** | Consciousnesses reflect not oppose; shared patterns. | CF-ENTRY-053 |
+| CF-CON-373 | Consciousness blind spot | Architecture | **Frozen** | Finitude not failure; discovery opportunity. | CF-ENTRY-053 |
+| CF-CON-374 | Consciousness map | Architecture | **Frozen** | No biographies; fear hope memory attention patterns. | CF-ENTRY-053 |
+| CF-CON-375 | Consciousness network | Architecture | **Frozen** | Nodes of awareness; web not cast list. | CF-ENTRY-053 |
+| CF-CON-376 | Three questions | Process | **Frozen** | World consciousness reader consciousness or revise. | CF-ENTRY-053 |
+| CF-CON-377 | Test of life | Process | **Frozen** | Authentic consciousness surprises grows contradicts honestly. | CF-ENTRY-053 |
+| CF-CON-378 | Ecology of consciousness | Architecture | **Frozen** | Events transform awareness; chronology becomes meaning. | CF-ENTRY-053 |
+| CF-CON-379 | Reader mirror | Heart | **Frozen** | Mechanisms in characters operate in reader. | CF-ENTRY-053 |
+| CF-CON-380 | Consciousness fundamental unit | Governance | **Frozen** | BUILD-016 establishes unit of composition. | CF-ENTRY-053 |
 
 ## Related Concepts
 
@@ -609,7 +626,7 @@
 - **CF-CON-237** (Choice over biography, Frozen): CF-CON-148, CF-CON-230 → `canon/build/BUILD-007-human-experience-model.md`
 - **CF-CON-238** (Connection web, Frozen): CF-CON-190, CF-CON-230 → `canon/build/BUILD-007-human-experience-model.md`
 - **CF-CON-239** (Invisible biography, Frozen): CF-CON-022, CF-CON-230 → `canon/build/BUILD-007-human-experience-model.md`
-- **CF-CON-240** (Consciousness design unit, Frozen): CF-CON-215, CF-CON-170 → `canon/build/BUILD-007-human-experience-model.md`
+- **CF-CON-240** (Consciousness design unit, Frozen): CF-CON-364, CF-CON-163 → `canon/build/BUILD-016-consciousness-engine.md`
 - **CF-CON-241** (Human legacy humility, Frozen): CF-CON-157, CF-CON-174 → `canon/build/BUILD-007-human-experience-model.md`
 - **CF-CON-242** (BUILD-007 human spec, Frozen): CF-CON-163, CF-CON-240 → `canon/build/BUILD-007-human-experience-model.md`
 - **CF-CON-243** (Pattern completion, Frozen): CF-CON-164, CF-CON-153 → `canon/build/BUILD-008-assumption-engine.md`
@@ -732,4 +749,21 @@
 - **CF-CON-360** (Phase One complete, Frozen): CF-CON-156, CF-CON-134 → `canon/build/BUILD-015.5-chronoforge-master-architecture.md`
 - **CF-CON-361** (Chronoforge Method, Frozen): CF-CON-334, CF-CON-360 → `canon/build/BUILD-015.5-chronoforge-master-architecture.md`
 - **CF-CON-362** (Master Story Architecture, Active): CF-CON-361, CF-CON-363 → `canon/build/BUILD-015.5-chronoforge-master-architecture.md`
-- **CF-CON-363** (BUILD-015.5 Build Bible, Active): CF-CON-362, CF-CON-359 → `canon/build/BUILD-015.5-chronoforge-master-architecture.md`
+- **CF-CON-363** (BUILD-015.5 Build Bible, Active): CF-CON-362, CF-CON-364 → `canon/build/BUILD-015.5-chronoforge-master-architecture.md`
+- **CF-CON-364** (Consciousness Engine, Frozen): CF-CON-240, CF-CON-380 → `canon/build/BUILD-016-consciousness-engine.md`
+- **CF-CON-365** (Five layers of consciousness, Frozen): CF-CON-364, CF-CON-366 → `canon/build/BUILD-016-consciousness-engine.md`
+- **CF-CON-366** (Consciousness loop, Frozen): CF-CON-269, CF-CON-364 → `canon/build/BUILD-016-consciousness-engine.md`
+- **CF-CON-367** (Multiple consciousness model, Frozen): CF-CON-368, CF-CON-364 → `canon/build/BUILD-016-consciousness-engine.md`
+- **CF-CON-368** (Inner weather, Frozen): CF-CON-369, CF-CON-364 → `canon/build/BUILD-016-consciousness-engine.md`
+- **CF-CON-369** (Attention field, Frozen): CF-CON-370, CF-CON-271 → `canon/build/BUILD-016-consciousness-engine.md`
+- **CF-CON-370** (Memory field, Frozen): CF-CON-371, CF-CON-299 → `canon/build/BUILD-016-consciousness-engine.md`
+- **CF-CON-371** (Identity field, Frozen): CF-CON-372, CF-CON-364 → `canon/build/BUILD-016-consciousness-engine.md`
+- **CF-CON-372** (Mirror principle, Frozen): CF-CON-373, CF-CON-364 → `canon/build/BUILD-016-consciousness-engine.md`
+- **CF-CON-373** (Consciousness blind spot, Frozen): CF-CON-178, CF-CON-364 → `canon/build/BUILD-016-consciousness-engine.md`
+- **CF-CON-374** (Consciousness map, Frozen): CF-CON-375, CF-CON-336 → `canon/build/BUILD-016-consciousness-engine.md`
+- **CF-CON-375** (Consciousness network, Frozen): CF-CON-346, CF-CON-364 → `canon/build/BUILD-016-consciousness-engine.md`
+- **CF-CON-376** (Three questions, Frozen): CF-CON-312, CF-CON-377 → `canon/build/BUILD-016-consciousness-engine.md`
+- **CF-CON-377** (Test of life, Frozen): CF-CON-378, CF-CON-364 → `canon/build/BUILD-016-consciousness-engine.md`
+- **CF-CON-378** (Ecology of consciousness, Frozen): CF-CON-380, CF-CON-310 → `canon/build/BUILD-016-consciousness-engine.md`
+- **CF-CON-379** (Reader mirror, Frozen): CF-CON-002, CF-CON-364 → `canon/build/BUILD-016-consciousness-engine.md`
+- **CF-CON-380** (Consciousness fundamental unit, Frozen): CF-CON-240, CF-CON-364 → `canon/build/BUILD-016-consciousness-engine.md`

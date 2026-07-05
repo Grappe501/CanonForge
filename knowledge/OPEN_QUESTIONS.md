@@ -23,6 +23,12 @@ Strong thematic fit with Chronology Lie; not yet confirmed as apex truth.
 
 Title emerges from the Genome (§012.4–012.15), not the reverse. CHRONOFORGE is codename only. Selection blocked until full machine built · Title Test passed · fifth-read gate satisfied.
 
+## BUILD-016 epilogue {#build-016-epilogue}
+
+**CF-ENTRY-053 · Status: Truncated**
+
+Upload ended at: *"Every consciousness"* — sentence incomplete. Likely refines "The reader changes" into a consciousness-centered principle. Completion pending author upload.
+
 ## Final image
 
 Closing visual/symbolic image not locked. Must pass Sixth Sense fair-play audit.

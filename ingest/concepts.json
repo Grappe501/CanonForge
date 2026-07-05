@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "1.3.0",
-  "generated_at": "2026-07-05T21:37:52.004096+00:00",
+  "canonforge_version": "1.4.0",
+  "generated_at": "2026-07-05T21:41:21.594422+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -2666,11 +2666,12 @@
       "label": "Consciousness design unit",
       "category": "Architecture",
       "status": "Frozen",
-      "definition": "Smallest unit is consciousness not character; reader too.",
+      "definition": "Fundamental unit; BUILD-016 Consciousness Engine.",
       "sources": [
-        "CF-ENTRY-043"
+        "CF-ENTRY-043",
+        "CF-ENTRY-053"
       ],
-      "canon_ref": "canon/build/BUILD-007-human-experience-model.md"
+      "canon_ref": "canon/build/BUILD-016-consciousness-engine.md"
     },
     {
       "id": "CF-CON-241",
@@ -4022,11 +4023,199 @@
       "label": "BUILD-015.5 Build Bible",
       "category": "Governance",
       "status": "Active",
-      "definition": "Sits above all BUILDs; blocks 016 until v1.0.",
+      "definition": "Sits above all BUILDs; 016 began per CF-ENTRY-053.",
       "sources": [
-        "CF-ENTRY-052"
+        "CF-ENTRY-052",
+        "CF-ENTRY-053"
       ],
       "canon_ref": "canon/build/BUILD-015.5-chronoforge-master-architecture.md"
+    },
+    {
+      "id": "CF-CON-364",
+      "label": "Consciousness Engine",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Models awareness not characters; soul document.",
+      "sources": [
+        "CF-ENTRY-053"
+      ],
+      "canon_ref": "canon/build/BUILD-016-consciousness-engine.md"
+    },
+    {
+      "id": "CF-CON-365",
+      "label": "Five layers of consciousness",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Observation interpretation emotion memory identity.",
+      "sources": [
+        "CF-ENTRY-053"
+      ],
+      "canon_ref": "canon/build/BUILD-016-consciousness-engine.md"
+    },
+    {
+      "id": "CF-CON-366",
+      "label": "Consciousness loop",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Perception to identity to future perception.",
+      "sources": [
+        "CF-ENTRY-053"
+      ],
+      "canon_ref": "canon/build/BUILD-016-consciousness-engine.md"
+    },
+    {
+      "id": "CF-CON-367",
+      "label": "Multiple consciousness model",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "One event many realities; truth in relationship.",
+      "sources": [
+        "CF-ENTRY-053"
+      ],
+      "canon_ref": "canon/build/BUILD-016-consciousness-engine.md"
+    },
+    {
+      "id": "CF-CON-368",
+      "label": "Inner weather",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Invisible climate before reason; hope fear grief.",
+      "sources": [
+        "CF-ENTRY-053"
+      ],
+      "canon_ref": "canon/build/BUILD-016-consciousness-engine.md"
+    },
+    {
+      "id": "CF-CON-369",
+      "label": "Attention field",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Finite awareness; scarce resource; honest disagreement.",
+      "sources": [
+        "CF-ENTRY-053"
+      ],
+      "canon_ref": "canon/build/BUILD-016-consciousness-engine.md"
+    },
+    {
+      "id": "CF-CON-370",
+      "label": "Memory field",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Reconstruction not storage; creative protective human.",
+      "sources": [
+        "CF-ENTRY-053"
+      ],
+      "canon_ref": "canon/build/BUILD-016-consciousness-engine.md"
+    },
+    {
+      "id": "CF-CON-371",
+      "label": "Identity field",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Story self tells; changes invisibly; not labels.",
+      "sources": [
+        "CF-ENTRY-053"
+      ],
+      "canon_ref": "canon/build/BUILD-016-consciousness-engine.md"
+    },
+    {
+      "id": "CF-CON-372",
+      "label": "Mirror principle",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Consciousnesses reflect not oppose; shared patterns.",
+      "sources": [
+        "CF-ENTRY-053"
+      ],
+      "canon_ref": "canon/build/BUILD-016-consciousness-engine.md"
+    },
+    {
+      "id": "CF-CON-373",
+      "label": "Consciousness blind spot",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Finitude not failure; discovery opportunity.",
+      "sources": [
+        "CF-ENTRY-053"
+      ],
+      "canon_ref": "canon/build/BUILD-016-consciousness-engine.md"
+    },
+    {
+      "id": "CF-CON-374",
+      "label": "Consciousness map",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "No biographies; fear hope memory attention patterns.",
+      "sources": [
+        "CF-ENTRY-053"
+      ],
+      "canon_ref": "canon/build/BUILD-016-consciousness-engine.md"
+    },
+    {
+      "id": "CF-CON-375",
+      "label": "Consciousness network",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Nodes of awareness; web not cast list.",
+      "sources": [
+        "CF-ENTRY-053"
+      ],
+      "canon_ref": "canon/build/BUILD-016-consciousness-engine.md"
+    },
+    {
+      "id": "CF-CON-376",
+      "label": "Three questions",
+      "category": "Process",
+      "status": "Frozen",
+      "definition": "World consciousness reader consciousness or revise.",
+      "sources": [
+        "CF-ENTRY-053"
+      ],
+      "canon_ref": "canon/build/BUILD-016-consciousness-engine.md"
+    },
+    {
+      "id": "CF-CON-377",
+      "label": "Test of life",
+      "category": "Process",
+      "status": "Frozen",
+      "definition": "Authentic consciousness surprises grows contradicts honestly.",
+      "sources": [
+        "CF-ENTRY-053"
+      ],
+      "canon_ref": "canon/build/BUILD-016-consciousness-engine.md"
+    },
+    {
+      "id": "CF-CON-378",
+      "label": "Ecology of consciousness",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Events transform awareness; chronology becomes meaning.",
+      "sources": [
+        "CF-ENTRY-053"
+      ],
+      "canon_ref": "canon/build/BUILD-016-consciousness-engine.md"
+    },
+    {
+      "id": "CF-CON-379",
+      "label": "Reader mirror",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Mechanisms in characters operate in reader.",
+      "sources": [
+        "CF-ENTRY-053"
+      ],
+      "canon_ref": "canon/build/BUILD-016-consciousness-engine.md"
+    },
+    {
+      "id": "CF-CON-380",
+      "label": "Consciousness fundamental unit",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "BUILD-016 establishes unit of composition.",
+      "sources": [
+        "CF-ENTRY-053"
+      ],
+      "canon_ref": "canon/build/BUILD-016-consciousness-engine.md"
     }
   ],
   "edges": [
@@ -5912,12 +6101,12 @@
     },
     {
       "from": "CF-CON-240",
-      "to": "CF-CON-215",
+      "to": "CF-CON-364",
       "type": "related"
     },
     {
       "from": "CF-CON-240",
-      "to": "CF-CON-170",
+      "to": "CF-CON-163",
       "type": "related"
     },
     {
@@ -7127,7 +7316,177 @@
     },
     {
       "from": "CF-CON-363",
-      "to": "CF-CON-359",
+      "to": "CF-CON-364",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-364",
+      "to": "CF-CON-240",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-364",
+      "to": "CF-CON-380",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-365",
+      "to": "CF-CON-364",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-365",
+      "to": "CF-CON-366",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-366",
+      "to": "CF-CON-269",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-366",
+      "to": "CF-CON-364",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-367",
+      "to": "CF-CON-368",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-367",
+      "to": "CF-CON-364",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-368",
+      "to": "CF-CON-369",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-368",
+      "to": "CF-CON-364",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-369",
+      "to": "CF-CON-370",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-369",
+      "to": "CF-CON-271",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-370",
+      "to": "CF-CON-371",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-370",
+      "to": "CF-CON-299",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-371",
+      "to": "CF-CON-372",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-371",
+      "to": "CF-CON-364",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-372",
+      "to": "CF-CON-373",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-372",
+      "to": "CF-CON-364",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-373",
+      "to": "CF-CON-178",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-373",
+      "to": "CF-CON-364",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-374",
+      "to": "CF-CON-375",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-374",
+      "to": "CF-CON-336",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-375",
+      "to": "CF-CON-346",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-375",
+      "to": "CF-CON-364",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-376",
+      "to": "CF-CON-312",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-376",
+      "to": "CF-CON-377",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-377",
+      "to": "CF-CON-378",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-377",
+      "to": "CF-CON-364",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-378",
+      "to": "CF-CON-380",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-378",
+      "to": "CF-CON-310",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-379",
+      "to": "CF-CON-002",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-379",
+      "to": "CF-CON-364",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-380",
+      "to": "CF-CON-240",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-380",
+      "to": "CF-CON-364",
       "type": "related"
     }
   ]

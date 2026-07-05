@@ -37,6 +37,9 @@
 | **Living constellation** | Galaxy visualization of novel graph | CF-CON-358 |
 | **Chronoforge Method** | Novel is Version 1; reusable system | CF-CON-361 |
 | **Build Bible** | BUILD-015.5 master architecture | CF-CON-363 |
+| **Consciousness Engine** | Fundamental unit; soul document | CF-CON-364 |
+| **Consciousness loop** | Perception to identity to future perception | CF-CON-366 |
+| **Three questions** | World · consciousness · reader consciousness | CF-CON-376 |
 | **Prime Directive** | Does this increase discovery? | CF-CON-158 |
 | **I was out of order** | Reader not timeline is the deeper realization | CF-CON-172 |
 | **Wrong chapter anchor** | Hidden development bone · may not be printed | CF-CON-174 |

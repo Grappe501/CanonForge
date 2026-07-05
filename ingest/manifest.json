@@ -1,13 +1,16 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "1.3.0",
-  "generated_at": "2026-07-05T21:38:15.670484+00:00",
+  "canonforge_version": "1.4.0",
+  "generated_at": "2026-07-05T21:41:21.569885+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 52,
-  "concept_count": 363,
-  "project_version": "0.1.0",
+  "entry_count": 53,
+  "concept_count": 380,
+  "project_version": "0.2.0",
+  "phase_two": "begun",
+  "build_016_version": "1.0",
+  "build_016_title": "Consciousness Engine",
   "phase_one": "complete",
   "build_015_5_version": "0.1",
   "build_015_5_title": "Chronoforge Master Architecture",
@@ -938,6 +941,34 @@
         "CF-CON-363"
       ],
       "byte_size": 6426
+    },
+    {
+      "entry_id": "CF-ENTRY-053",
+      "file": "knowledge/entries/053-build-016-consciousness-engine-v1.md",
+      "sha256": "7f38f6412654b26dc9d9ca5c4822cc49630ff189bcbc3107615acae183bb0f0b",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-240",
+        "CF-CON-364",
+        "CF-CON-365",
+        "CF-CON-366",
+        "CF-CON-367",
+        "CF-CON-368",
+        "CF-CON-369",
+        "CF-CON-370",
+        "CF-CON-371",
+        "CF-CON-372",
+        "CF-CON-373",
+        "CF-CON-374",
+        "CF-CON-375",
+        "CF-CON-376",
+        "CF-CON-377",
+        "CF-CON-378",
+        "CF-CON-379",
+        "CF-CON-380"
+      ],
+      "byte_size": 7640
     }
   ],
   "indexes": {
