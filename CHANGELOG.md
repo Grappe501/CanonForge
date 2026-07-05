@@ -3,6 +3,17 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [2.6.0] — 2026-07-05
+
+### Added
+- CF-ENTRY-066: BUILD-027 The Civilization Engine Canonical v1.0
+- Concepts CF-CON-565 through CF-CON-584
+- Founding question · six foundations · civilization ledger · cumulative truth
+- **Human race discovery** — experience not proof · reader arrives alone
+- Renamed: Civilizations → **Civilization Engine**
+- CF-CON-557 expanded · Civilization test → Founding Question
+- Master Canon v1.5.1
+
 ## [2.5.0] — 2026-07-05
 
 ### Added

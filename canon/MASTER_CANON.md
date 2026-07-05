@@ -1,7 +1,7 @@
-# Master Canon v1.5.0
+# Master Canon v1.5.1
 
-> **BUILD-026:** The World Engine · reality whole · consciousness fragmented · world as first character
-> Supersedes v1.4.4 (2026-07-05 · BUILD-026 CF-ENTRY-065 · CanonForge 2.5.0)
+> **BUILD-027:** Civilization Engine · founding question · ways of being human
+> Supersedes v1.5.0 (2026-07-05 · BUILD-027 CF-ENTRY-066 · CanonForge 2.6.0)
 
 ---
 
@@ -42,11 +42,11 @@ Key locked insights:
 | **Four Pillars** | Strengthen ≥1 of Wonder · **Connection** · Resonance · Transformation? | BUILD-003 v1.0 |
 | Seven Laws | Immutable · complies with BUILD-004 v1.0? | BUILD-004 |
 
-**Stack:** BUILD-001 = *why* · … · **025 = *page instrument*** · **026 = *living world***
+**Stack:** BUILD-001 = *why* · … · **026 = *living world*** · **027 = *ways of being human***
+
+→ [build/BUILD-027-civilization-engine.md](build/BUILD-027-civilization-engine.md) · Founding Question · Six Foundations · Cumulative Truth
 
 → [build/BUILD-026-world-engine.md](build/BUILD-026-world-engine.md) · Central Question · Gravitational Center · World as First Character
-
-→ [build/BUILD-025-page-architecture.md](build/BUILD-025-page-architecture.md) · Print Score · Story First · Phase Two Complete
 
 → [build/BUILD-024-tempo-engine.md](build/BUILD-024-tempo-engine.md) · Five Tempos · Tempo Ledger · Performance Model
 
@@ -205,6 +205,16 @@ Printed edition = definitive performance score · digital = faithful adaptation 
 Gravitational center: **How do separate consciousnesses discover that they belong to the same reality?** *(CF-CON-549)*
 
 Reality possesses **dignity apart from the plot** — the story enters a living world · it does not create one *(CF-CON-547)*. Success: reader feels **their own world has always been larger than they realized** *(CF-CON-563)*. See [build/BUILD-026-world-engine.md](build/BUILD-026-world-engine.md).
+
+### Civilization immutable law (CF-CON-565 · BUILD-027)
+
+> **Every civilization is a story people tell together about how to live.**
+
+Government · economy · military are **downstream** *(CF-CON-584)* — civilizations begin with a **Founding Question** *(CF-CON-568)*. Six foundations: memory · relationship · work · learning · beauty · hope *(CF-CON-569)*.
+
+Truth is **cumulative not competitive** — *"What does each civilization see that the others cannot?"* *(CF-CON-581)*.
+
+**Human race** is a **discovery** the reader arrives at — not a slogan the book proves *(CF-CON-582 · CF-CON-583)*. See [build/BUILD-027-civilization-engine.md](build/BUILD-027-civilization-engine.md).
 
 ### Visual Grammar (CF-CON-080 · CF-CON-081)
 

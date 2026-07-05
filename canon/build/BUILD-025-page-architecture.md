@@ -224,9 +224,9 @@ We stop designing the **instrument**. We begin composing the **symphony**.
 
 ---
 
-## BUILD-027 preview *(CF-ENTRY-065)*
+## BUILD-028 preview *(CF-ENTRY-066)*
 
-→ **BUILD-027 Civilizations** — Civilization Test · cultures from need *(queued)*
+→ **BUILD-028 Technology** *(queued)*
 
 ---
 

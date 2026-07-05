@@ -31,7 +31,7 @@ We did not build a novel. We built a **theory of storytelling** — an operating
 |---|---|---|
 | **One** | The Philosophy + Engineering Schema | **✓ COMPLETE** (BUILD-001–015) |
 | **Two** | Engineering Documents | **✓ COMPLETE** (BUILD-016–025) |
-| **Three** | The Novel (world · mystery · ending · opening) | **Begun** (026 ✓ · BUILD-027–036 queued) |
+| **Three** | The Novel (world · mystery · ending · opening) | **Begun** (026–027 ✓ · BUILD-028–036 queued) |
 | **Four** | The People (lives, not characters) | Queued |
 | **Five** | Composition | Queued · prose authorized only after Phase Four |
 | **Six** | Performance | Queued · rewrite · score · typeset |
@@ -128,12 +128,13 @@ We did not build a novel. We built a **theory of storytelling** — an operating
 | **024** | The Tempo Engine | **✓ v1.0** · CF-ENTRY-063 · five tempos |
 | **025** | Page Architecture | **✓ v1.0** · CF-ENTRY-064 · Print Score |
 
-### Phase Three — **begun** (BUILD-026 ✓ · 027–036 queued)
+### Phase Three — **begun** (BUILD-026–027 ✓ · 028–036 queued)
 
 | BUILD | Title | Status |
 |---|---|---|
 | **026** | The World Engine | **✓ v1.0** · CF-ENTRY-065 |
-| **027–031** | Civilizations · Technology · Transportation · Cosmology · History | Queued |
+| **027** | The Civilization Engine | **✓ v1.0** · CF-ENTRY-066 |
+| **028–031** | Technology · Transportation · Cosmology · History | Queued |
 | **032** | Rules of Time | Queued |
 | **033** | Central Mystery | Queued |
 | **034** | Human Story | Queued |
@@ -265,7 +266,7 @@ Build Bible v1.0 requires:
 
 ## 015.5.11 — What happens next
 
-**Do not proceed to BUILD-027** until BUILD-015.5 reaches v1.0 *(BUILD-016–026 excepted per author uploads)*.
+**Do not proceed to BUILD-028** until BUILD-015.5 reaches v1.0 *(BUILD-016–027 excepted per author uploads)*.
 
 Next passes expand this document into the full 100–200 page Build Bible:
 
@@ -275,7 +276,7 @@ Next passes expand this document into the full 100–200 page Build Bible:
 4. Master data dictionary (elements · symbols · echo IDs)
 5. Execution index (which BUILD when · blocking rules)
 
-When v1.0 ships — Phase Three continues with **BUILD-027 Civilizations**.
+When v1.0 ships — Phase Three continues with **BUILD-028 Technology**.
 
 ---
 

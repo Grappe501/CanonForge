@@ -252,9 +252,9 @@ Silence is the **audible** rest. Typography is the **visible** physics.
 
 ---
 
-## BUILD-027 preview *(CF-ENTRY-065)*
+## BUILD-028 preview *(CF-ENTRY-066)*
 
-→ **BUILD-027 Civilizations** *(queued)*
+→ **BUILD-028 Technology** *(queued)*
 
 ---
 

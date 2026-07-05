@@ -362,9 +362,9 @@ Registry tracks **what comes back**. Genome tracks **what it comes to mean** —
 
 ---
 
-## BUILD-027 preview *(CF-ENTRY-065)*
+## BUILD-028 preview *(CF-ENTRY-066)*
 
-→ **BUILD-027 Civilizations** *(queued)*
+→ **BUILD-028 Technology** *(queued)*
 
 ---
 

@@ -126,7 +126,7 @@ Before inventing any society:
 
 > **What problem were they trying to solve?**
 
-Every culture grows from a **need** — never from aesthetics alone. *(CF-CON-557 · gates BUILD-027 Civilizations)*
+Every culture grows from a **need** — never from aesthetics alone. *(CF-CON-557 · BUILD-027 Civilization Engine)*
 
 ---
 
@@ -221,9 +221,9 @@ The world's central question **is** the fracture made cosmic.
 
 ---
 
-## BUILD-027 preview *(CF-ENTRY-065)*
+## BUILD-028 preview *(CF-ENTRY-066)*
 
-→ **BUILD-027 Civilizations** — cultures grown from need · Civilization Test *(queued)*
+→ **BUILD-028 Technology** — downstream of meaning *(queued)*
 
 ---
 

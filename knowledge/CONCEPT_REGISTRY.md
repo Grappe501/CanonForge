@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 2.5.0 · 2026-07-05 · 564 concepts registered
+> Version 2.6.0 · 2026-07-05 · 584 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -560,7 +560,7 @@
 | CF-CON-554 | Horizon principle | Architecture | **Frozen** | What lies beyond; emotional exploration. | CF-ENTRY-065 |
 | CF-CON-555 | Scale principle geography | Architecture | **Frozen** | Room to sky; fractal integrity. | CF-ENTRY-065 |
 | CF-CON-556 | World shapes consciousness | Architecture | **Frozen** | Place not conscious; influences perception. | CF-ENTRY-065 |
-| CF-CON-557 | Civilization test | Governance | **Frozen** | What problem solved; need not aesthetics. | CF-ENTRY-065 |
+| CF-CON-557 | Civilization test | Governance | **Frozen** | Founding question seed; BUILD-027 operationalized. | CF-ENTRY-065, CF-ENTRY-066 |
 | CF-CON-558 | Rule of world discovery | Governance | **Frozen** | No travel guide; curiosity not exposition. | CF-ENTRY-065 |
 | CF-CON-559 | Invisible history | Architecture | **Frozen** | Forgotten ages beneath; mystery deepens scale. | CF-ENTRY-065 |
 | CF-CON-560 | World limits | Architecture | **Frozen** | Strengths blind spots; mirrors consciousness. | CF-ENTRY-065 |
@@ -568,6 +568,26 @@
 | CF-CON-562 | World final principle | Mission | **Frozen** | Reality larger after leaving book. | CF-ENTRY-065 |
 | CF-CON-563 | Universe larger than imagined | Mission | **Frozen** | Ordinary world larger after closing book. | CF-ENTRY-065 |
 | CF-CON-564 | Originality deep borrow | Governance | **Frozen** | Borrow courage wonder; never surface tropes. | CF-ENTRY-065 |
+| CF-CON-565 | Civilization Engine | Architecture | **Frozen** | Societies as shared meaning not government. | CF-ENTRY-066 |
+| CF-CON-566 | Shared way of making meaning | Mission | **Frozen** | Story people tell together about living. | CF-ENTRY-066 |
+| CF-CON-567 | First law of civilization | Governance | **Frozen** | Each solves problem; all incomplete. | CF-ENTRY-066 |
+| CF-CON-568 | Founding question | Architecture | **Frozen** | Question that shaped people; everything grows. | CF-ENTRY-066 |
+| CF-CON-569 | Six foundations | Architecture | **Frozen** | Memory relationship work learning beauty hope. | CF-ENTRY-066 |
+| CF-CON-570 | Rule of civilization imperfection | Governance | **Frozen** | Strengths blind spots; understand before judge. | CF-ENTRY-066 |
+| CF-CON-571 | Civilization rhythm | Architecture | **Frozen** | Recognize culture by tempo before politics. | CF-ENTRY-066 |
+| CF-CON-572 | Language of a people | Architecture | **Frozen** | Metaphors greetings silences reveal culture. | CF-ENTRY-066 |
+| CF-CON-573 | Invisible cultural rules | Architecture | **Frozen** | Assumptions not laws; greatest differences invisible. | CF-ENTRY-066 |
+| CF-CON-574 | Shared stories | Architecture | **Frozen** | Myth aspiration warning; all influence behavior. | CF-ENTRY-066 |
+| CF-CON-575 | Civilization memory | Architecture | **Frozen** | Selective celebrate forget regret refuse. | CF-ENTRY-066 |
+| CF-CON-576 | Edge of the map | Architecture | **Frozen** | Beyond-self assumptions reveal more than geography. | CF-ENTRY-066 |
+| CF-CON-577 | Measure of greatness | Governance | **Frozen** | Vulnerable disagreement children mistakes unfamiliar. | CF-ENTRY-066 |
+| CF-CON-578 | Collision of worlds | Heart | **Frozen** | Recognize truths; where Chronoforge lives. | CF-ENTRY-066 |
+| CF-CON-579 | Civilization ledger record | Architecture | **Frozen** | Eleven fields per society; Resonance Matrix. | CF-ENTRY-066 |
+| CF-CON-580 | Human test civilization | Governance | **Frozen** | Learn from them even if not live there. | CF-ENTRY-066 |
+| CF-CON-581 | Cumulative truth | Mission | **Frozen** | What each sees others cannot; not competitive. | CF-ENTRY-066 |
+| CF-CON-582 | Human race discovery | Mission | **Frozen** | Reader arrives at human belonging alone. | CF-ENTRY-066 |
+| CF-CON-583 | Experience not proof humanity | Heart | **Frozen** | Novel experiences equality not proves slogan. | CF-ENTRY-066 |
+| CF-CON-584 | Downstream institutions | Governance | **Frozen** | Gov economy military downstream of meaning. | CF-ENTRY-066 |
 
 ## Related Concepts
 
@@ -1127,7 +1147,7 @@
 - **CF-CON-554** (Horizon principle, Frozen): CF-CON-545, CF-CON-158 → `canon/build/BUILD-026-world-engine.md#0267--the-horizon-principle`
 - **CF-CON-555** (Scale principle geography, Frozen): CF-CON-545, CF-CON-521 → `canon/build/BUILD-026-world-engine.md#0268--the-scale-principle`
 - **CF-CON-556** (World shapes consciousness, Frozen): CF-CON-545, CF-CON-364 → `canon/build/BUILD-026-world-engine.md#0269--the-worlds-consciousness`
-- **CF-CON-557** (Civilization test, Frozen): CF-CON-545, CF-CON-549 → `canon/build/BUILD-026-world-engine.md#02610--the-civilization-test`
+- **CF-CON-557** (Civilization test, Frozen): CF-CON-545, CF-CON-568 → `canon/build/BUILD-027-civilization-engine.md#0272--the-founding-question`
 - **CF-CON-558** (Rule of world discovery, Frozen): CF-CON-545, CF-CON-176 → `canon/build/BUILD-026-world-engine.md#02611--the-rule-of-discovery`
 - **CF-CON-559** (Invisible history, Frozen): CF-CON-545, CF-CON-413 → `canon/build/BUILD-026-world-engine.md#02612--the-invisible-history`
 - **CF-CON-560** (World limits, Frozen): CF-CON-545, CF-CON-401 → `canon/build/BUILD-026-world-engine.md#02613--the-worlds-limits`
@@ -1135,3 +1155,23 @@
 - **CF-CON-562** (World final principle, Frozen): CF-CON-545, CF-CON-171 → `canon/build/BUILD-026-world-engine.md#02615--the-final-principle`
 - **CF-CON-563** (Universe larger than imagined, Frozen): CF-CON-545, CF-CON-039 → `canon/build/BUILD-026-world-engine.md`
 - **CF-CON-564** (Originality deep borrow, Frozen): CF-CON-545, CF-CON-563 → `canon/build/BUILD-026-world-engine.md`
+- **CF-CON-565** (Civilization Engine, Frozen): CF-CON-557, CF-CON-545, CF-CON-566 → `canon/build/BUILD-027-civilization-engine.md`
+- **CF-CON-566** (Shared way of making meaning, Frozen): CF-CON-565, CF-CON-568 → `canon/build/BUILD-027-civilization-engine.md`
+- **CF-CON-567** (First law of civilization, Frozen): CF-CON-565, CF-CON-557 → `canon/build/BUILD-027-civilization-engine.md#0271--the-first-law`
+- **CF-CON-568** (Founding question, Frozen): CF-CON-565, CF-CON-557 → `canon/build/BUILD-027-civilization-engine.md#0272--the-founding-question`
+- **CF-CON-569** (Six foundations, Frozen): CF-CON-565, CF-CON-568 → `canon/build/BUILD-027-civilization-engine.md#0273--the-six-foundations`
+- **CF-CON-570** (Rule of civilization imperfection, Frozen): CF-CON-565, CF-CON-164 → `canon/build/BUILD-027-civilization-engine.md#0274--the-rule-of-imperfection`
+- **CF-CON-571** (Civilization rhythm, Frozen): CF-CON-565, CF-CON-505 → `canon/build/BUILD-027-civilization-engine.md#0275--the-civilization-rhythm`
+- **CF-CON-572** (Language of a people, Frozen): CF-CON-565, CF-CON-457 → `canon/build/BUILD-027-civilization-engine.md#0276--the-language-of-a-people`
+- **CF-CON-573** (Invisible cultural rules, Frozen): CF-CON-565, CF-CON-164 → `canon/build/BUILD-027-civilization-engine.md#0277--the-invisible-rules`
+- **CF-CON-574** (Shared stories, Frozen): CF-CON-565, CF-CON-431 → `canon/build/BUILD-027-civilization-engine.md#0278--the-shared-stories`
+- **CF-CON-575** (Civilization memory, Frozen): CF-CON-565, CF-CON-416 → `canon/build/BUILD-027-civilization-engine.md#0279--the-civilization-memory`
+- **CF-CON-576** (Edge of the map, Frozen): CF-CON-565, CF-CON-554 → `canon/build/BUILD-027-civilization-engine.md#02710--the-edge-of-the-map`
+- **CF-CON-577** (Measure of greatness, Frozen): CF-CON-565, CF-CON-282 → `canon/build/BUILD-027-civilization-engine.md#02711--the-measure-of-greatness`
+- **CF-CON-578** (Collision of worlds, Frozen): CF-CON-565, CF-CON-549 → `canon/build/BUILD-027-civilization-engine.md#02712--the-collision-of-worlds`
+- **CF-CON-579** (Civilization ledger record, Frozen): CF-CON-565, CF-CON-134 → `canon/build/BUILD-027-civilization-engine.md#02713--the-civilization-ledger`
+- **CF-CON-580** (Human test civilization, Frozen): CF-CON-565, CF-CON-171 → `canon/build/BUILD-027-civilization-engine.md#02714--the-human-test`
+- **CF-CON-581** (Cumulative truth, Frozen): CF-CON-565, CF-CON-310 → `canon/build/BUILD-027-civilization-engine.md#02715--the-final-principle`
+- **CF-CON-582** (Human race discovery, Frozen): CF-CON-565, CF-CON-145 → `canon/build/BUILD-027-civilization-engine.md`
+- **CF-CON-583** (Experience not proof humanity, Frozen): CF-CON-582, CF-CON-171 → `canon/build/BUILD-027-civilization-engine.md`
+- **CF-CON-584** (Downstream institutions, Frozen): CF-CON-565, CF-CON-568 → `canon/build/BUILD-027-civilization-engine.md#0270--purpose`

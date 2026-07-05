@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "2.5.0",
-  "generated_at": "2026-07-05T22:13:11.115852+00:00",
+  "canonforge_version": "2.6.0",
+  "generated_at": "2026-07-05T22:15:35.636742+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 65,
-  "concept_count": 564,
+  "entry_count": 66,
+  "concept_count": 584,
   "project_version": "0.3.0",
   "phase_two": "complete",
   "build_016_version": "1.0",
@@ -61,7 +61,7 @@
   "foundational_layer": "BUILD-001-013 complete",
   "engineering_layer": "BUILD-014-015 complete",
   "roadmap_version": "1.0",
-  "build_layer": "BUILD-001-026 frozen \u00b7 BUILD-015.5 active",
+  "build_layer": "BUILD-001-027 frozen \u00b7 BUILD-015.5 active",
   "entries": [
     {
       "entry_id": "CF-ENTRY-001",
@@ -1319,6 +1319,37 @@
         "CF-CON-564"
       ],
       "byte_size": 7335
+    },
+    {
+      "entry_id": "CF-ENTRY-066",
+      "file": "knowledge/entries/066-build-027-civilization-engine-v1.md",
+      "sha256": "db05d1c3105b651d24577292e9f69c7848d21b7d52387226365d0dbe5997084f",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-557",
+        "CF-CON-565",
+        "CF-CON-566",
+        "CF-CON-567",
+        "CF-CON-568",
+        "CF-CON-569",
+        "CF-CON-570",
+        "CF-CON-571",
+        "CF-CON-572",
+        "CF-CON-573",
+        "CF-CON-574",
+        "CF-CON-575",
+        "CF-CON-576",
+        "CF-CON-577",
+        "CF-CON-578",
+        "CF-CON-579",
+        "CF-CON-580",
+        "CF-CON-581",
+        "CF-CON-582",
+        "CF-CON-583",
+        "CF-CON-584"
+      ],
+      "byte_size": 8801
     }
   ],
   "indexes": {

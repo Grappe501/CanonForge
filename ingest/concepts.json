@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "2.5.0",
-  "generated_at": "2026-07-05T22:13:11.136620+00:00",
+  "canonforge_version": "2.6.0",
+  "generated_at": "2026-07-05T22:15:35.660623+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -6168,11 +6168,12 @@
       "label": "Civilization test",
       "category": "Governance",
       "status": "Frozen",
-      "definition": "What problem solved; need not aesthetics.",
+      "definition": "Founding question seed; BUILD-027 operationalized.",
       "sources": [
-        "CF-ENTRY-065"
+        "CF-ENTRY-065",
+        "CF-ENTRY-066"
       ],
-      "canon_ref": "canon/build/BUILD-026-world-engine.md#02610--the-civilization-test"
+      "canon_ref": "canon/build/BUILD-027-civilization-engine.md#0272--the-founding-question"
     },
     {
       "id": "CF-CON-558",
@@ -6250,6 +6251,226 @@
         "CF-ENTRY-065"
       ],
       "canon_ref": "canon/build/BUILD-026-world-engine.md"
+    },
+    {
+      "id": "CF-CON-565",
+      "label": "Civilization Engine",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Societies as shared meaning not government.",
+      "sources": [
+        "CF-ENTRY-066"
+      ],
+      "canon_ref": "canon/build/BUILD-027-civilization-engine.md"
+    },
+    {
+      "id": "CF-CON-566",
+      "label": "Shared way of making meaning",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Story people tell together about living.",
+      "sources": [
+        "CF-ENTRY-066"
+      ],
+      "canon_ref": "canon/build/BUILD-027-civilization-engine.md"
+    },
+    {
+      "id": "CF-CON-567",
+      "label": "First law of civilization",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Each solves problem; all incomplete.",
+      "sources": [
+        "CF-ENTRY-066"
+      ],
+      "canon_ref": "canon/build/BUILD-027-civilization-engine.md#0271--the-first-law"
+    },
+    {
+      "id": "CF-CON-568",
+      "label": "Founding question",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Question that shaped people; everything grows.",
+      "sources": [
+        "CF-ENTRY-066"
+      ],
+      "canon_ref": "canon/build/BUILD-027-civilization-engine.md#0272--the-founding-question"
+    },
+    {
+      "id": "CF-CON-569",
+      "label": "Six foundations",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Memory relationship work learning beauty hope.",
+      "sources": [
+        "CF-ENTRY-066"
+      ],
+      "canon_ref": "canon/build/BUILD-027-civilization-engine.md#0273--the-six-foundations"
+    },
+    {
+      "id": "CF-CON-570",
+      "label": "Rule of civilization imperfection",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Strengths blind spots; understand before judge.",
+      "sources": [
+        "CF-ENTRY-066"
+      ],
+      "canon_ref": "canon/build/BUILD-027-civilization-engine.md#0274--the-rule-of-imperfection"
+    },
+    {
+      "id": "CF-CON-571",
+      "label": "Civilization rhythm",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Recognize culture by tempo before politics.",
+      "sources": [
+        "CF-ENTRY-066"
+      ],
+      "canon_ref": "canon/build/BUILD-027-civilization-engine.md#0275--the-civilization-rhythm"
+    },
+    {
+      "id": "CF-CON-572",
+      "label": "Language of a people",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Metaphors greetings silences reveal culture.",
+      "sources": [
+        "CF-ENTRY-066"
+      ],
+      "canon_ref": "canon/build/BUILD-027-civilization-engine.md#0276--the-language-of-a-people"
+    },
+    {
+      "id": "CF-CON-573",
+      "label": "Invisible cultural rules",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Assumptions not laws; greatest differences invisible.",
+      "sources": [
+        "CF-ENTRY-066"
+      ],
+      "canon_ref": "canon/build/BUILD-027-civilization-engine.md#0277--the-invisible-rules"
+    },
+    {
+      "id": "CF-CON-574",
+      "label": "Shared stories",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Myth aspiration warning; all influence behavior.",
+      "sources": [
+        "CF-ENTRY-066"
+      ],
+      "canon_ref": "canon/build/BUILD-027-civilization-engine.md#0278--the-shared-stories"
+    },
+    {
+      "id": "CF-CON-575",
+      "label": "Civilization memory",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Selective celebrate forget regret refuse.",
+      "sources": [
+        "CF-ENTRY-066"
+      ],
+      "canon_ref": "canon/build/BUILD-027-civilization-engine.md#0279--the-civilization-memory"
+    },
+    {
+      "id": "CF-CON-576",
+      "label": "Edge of the map",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Beyond-self assumptions reveal more than geography.",
+      "sources": [
+        "CF-ENTRY-066"
+      ],
+      "canon_ref": "canon/build/BUILD-027-civilization-engine.md#02710--the-edge-of-the-map"
+    },
+    {
+      "id": "CF-CON-577",
+      "label": "Measure of greatness",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Vulnerable disagreement children mistakes unfamiliar.",
+      "sources": [
+        "CF-ENTRY-066"
+      ],
+      "canon_ref": "canon/build/BUILD-027-civilization-engine.md#02711--the-measure-of-greatness"
+    },
+    {
+      "id": "CF-CON-578",
+      "label": "Collision of worlds",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Recognize truths; where Chronoforge lives.",
+      "sources": [
+        "CF-ENTRY-066"
+      ],
+      "canon_ref": "canon/build/BUILD-027-civilization-engine.md#02712--the-collision-of-worlds"
+    },
+    {
+      "id": "CF-CON-579",
+      "label": "Civilization ledger record",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Eleven fields per society; Resonance Matrix.",
+      "sources": [
+        "CF-ENTRY-066"
+      ],
+      "canon_ref": "canon/build/BUILD-027-civilization-engine.md#02713--the-civilization-ledger"
+    },
+    {
+      "id": "CF-CON-580",
+      "label": "Human test civilization",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Learn from them even if not live there.",
+      "sources": [
+        "CF-ENTRY-066"
+      ],
+      "canon_ref": "canon/build/BUILD-027-civilization-engine.md#02714--the-human-test"
+    },
+    {
+      "id": "CF-CON-581",
+      "label": "Cumulative truth",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "What each sees others cannot; not competitive.",
+      "sources": [
+        "CF-ENTRY-066"
+      ],
+      "canon_ref": "canon/build/BUILD-027-civilization-engine.md#02715--the-final-principle"
+    },
+    {
+      "id": "CF-CON-582",
+      "label": "Human race discovery",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Reader arrives at human belonging alone.",
+      "sources": [
+        "CF-ENTRY-066"
+      ],
+      "canon_ref": "canon/build/BUILD-027-civilization-engine.md"
+    },
+    {
+      "id": "CF-CON-583",
+      "label": "Experience not proof humanity",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Novel experiences equality not proves slogan.",
+      "sources": [
+        "CF-ENTRY-066"
+      ],
+      "canon_ref": "canon/build/BUILD-027-civilization-engine.md"
+    },
+    {
+      "id": "CF-CON-584",
+      "label": "Downstream institutions",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Gov economy military downstream of meaning.",
+      "sources": [
+        "CF-ENTRY-066"
+      ],
+      "canon_ref": "canon/build/BUILD-027-civilization-engine.md#0270--purpose"
     }
   ],
   "edges": [
@@ -11385,7 +11606,7 @@
     },
     {
       "from": "CF-CON-557",
-      "to": "CF-CON-549",
+      "to": "CF-CON-568",
       "type": "related"
     },
     {
@@ -11456,6 +11677,211 @@
     {
       "from": "CF-CON-564",
       "to": "CF-CON-563",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-565",
+      "to": "CF-CON-557",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-565",
+      "to": "CF-CON-545",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-565",
+      "to": "CF-CON-566",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-566",
+      "to": "CF-CON-565",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-566",
+      "to": "CF-CON-568",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-567",
+      "to": "CF-CON-565",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-567",
+      "to": "CF-CON-557",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-568",
+      "to": "CF-CON-565",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-568",
+      "to": "CF-CON-557",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-569",
+      "to": "CF-CON-565",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-569",
+      "to": "CF-CON-568",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-570",
+      "to": "CF-CON-565",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-570",
+      "to": "CF-CON-164",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-571",
+      "to": "CF-CON-565",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-571",
+      "to": "CF-CON-505",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-572",
+      "to": "CF-CON-565",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-572",
+      "to": "CF-CON-457",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-573",
+      "to": "CF-CON-565",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-573",
+      "to": "CF-CON-164",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-574",
+      "to": "CF-CON-565",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-574",
+      "to": "CF-CON-431",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-575",
+      "to": "CF-CON-565",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-575",
+      "to": "CF-CON-416",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-576",
+      "to": "CF-CON-565",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-576",
+      "to": "CF-CON-554",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-577",
+      "to": "CF-CON-565",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-577",
+      "to": "CF-CON-282",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-578",
+      "to": "CF-CON-565",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-578",
+      "to": "CF-CON-549",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-579",
+      "to": "CF-CON-565",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-579",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-580",
+      "to": "CF-CON-565",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-580",
+      "to": "CF-CON-171",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-581",
+      "to": "CF-CON-565",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-581",
+      "to": "CF-CON-310",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-582",
+      "to": "CF-CON-565",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-582",
+      "to": "CF-CON-145",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-583",
+      "to": "CF-CON-582",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-583",
+      "to": "CF-CON-171",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-584",
+      "to": "CF-CON-565",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-584",
+      "to": "CF-CON-568",
       "type": "related"
     }
   ]
