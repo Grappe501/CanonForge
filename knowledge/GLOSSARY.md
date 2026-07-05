@@ -91,6 +91,9 @@
 | **Opposing Consciousness** | Incompleteness not villainy | CF-CON-737 |
 | **No single villain** | Collisions of partial understanding | CF-CON-753 |
 | **Partial truth whole truth question** | Reader's lifelong invitation | CF-CON-754 |
+| **Relationship Engine** | Consciousness evolves through connection | CF-CON-757 |
+| **Relationship arcs not character arcs** | Primary story arc unit | CF-CON-773 |
+| **Five reads through relationships** | Reread ladder via relationship questions | CF-CON-774 |
 | **Universe larger than imagined** | Ordinary world larger after closing book | CF-CON-563 |
 | **Motif not symbol** | Returns vs carries meaning | CF-CON-450 |
 | **Language of Silence** | Composed silence · seven forms | CF-CON-457 |

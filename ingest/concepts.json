@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "canonforge_version": "2.14.0",
-  "generated_at": "2026-07-05T22:45:27.646104+00:00",
+  "generated_at": "2026-07-05T22:48:56.129792+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -8371,6 +8371,226 @@
         "CF-ENTRY-075"
       ],
       "canon_ref": "canon/build/BUILD-035-opposing-consciousness.md#03510--the-true-adversary"
+    },
+    {
+      "id": "CF-CON-757",
+      "label": "Relationship Engine",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Primary mechanism consciousness evolves; not supporting structure.",
+      "sources": [
+        "CF-ENTRY-076"
+      ],
+      "canon_ref": "canon/build/BUILD-036-relationship-engine.md"
+    },
+    {
+      "id": "CF-CON-758",
+      "label": "Relationship first law",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "No important relationship static; belongs to time.",
+      "sources": [
+        "CF-ENTRY-076"
+      ],
+      "canon_ref": "canon/build/BUILD-036-relationship-engine.md#0361--the-first-law"
+    },
+    {
+      "id": "CF-CON-759",
+      "label": "Relationship question",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Lived question; every interaction attempts answer.",
+      "sources": [
+        "CF-ENTRY-076"
+      ],
+      "canon_ref": "canon/build/BUILD-036-relationship-engine.md#0362--the-relationship-question"
+    },
+    {
+      "id": "CF-CON-760",
+      "label": "First encounter",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Relationship begins before introductions; unseen history.",
+      "sources": [
+        "CF-ENTRY-076"
+      ],
+      "canon_ref": "canon/build/BUILD-036-relationship-engine.md#0363--the-first-encounter"
+    },
+    {
+      "id": "CF-CON-761",
+      "label": "Distance map",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Physical emotional intellectual temporal moral spiritual.",
+      "sources": [
+        "CF-ENTRY-076"
+      ],
+      "canon_ref": "canon/build/BUILD-036-relationship-engine.md#0364--the-distance-map"
+    },
+    {
+      "id": "CF-CON-762",
+      "label": "Rhythm of two",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Pair creates own rhythm; music independent of individuals.",
+      "sources": [
+        "CF-ENTRY-076"
+      ],
+      "canon_ref": "canon/build/BUILD-036-relationship-engine.md#0365--the-rhythm-of-two"
+    },
+    {
+      "id": "CF-CON-763",
+      "label": "Relationship exchange",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Every interaction exchanges; both changed.",
+      "sources": [
+        "CF-ENTRY-076"
+      ],
+      "canon_ref": "canon/build/BUILD-036-relationship-engine.md#0366--the-exchange"
+    },
+    {
+      "id": "CF-CON-764",
+      "label": "Hidden gifts",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Consciousness carries way of seeing another needs.",
+      "sources": [
+        "CF-ENTRY-076"
+      ],
+      "canon_ref": "canon/build/BUILD-036-relationship-engine.md#0367--the-hidden-gifts"
+    },
+    {
+      "id": "CF-CON-765",
+      "label": "Necessary misunderstanding",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Misunderstanding begins deeper understanding not failure.",
+      "sources": [
+        "CF-ENTRY-076"
+      ],
+      "canon_ref": "canon/build/BUILD-036-relationship-engine.md#0368--the-necessary-misunderstanding"
+    },
+    {
+      "id": "CF-CON-766",
+      "label": "Shared silence relationship",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Mature relationships; silence becomes fluency.",
+      "sources": [
+        "CF-ENTRY-076"
+      ],
+      "canon_ref": "canon/build/BUILD-036-relationship-engine.md#0369--the-shared-silence"
+    },
+    {
+      "id": "CF-CON-767",
+      "label": "Relationship fracture",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Season not always repair; completion not reconciliation.",
+      "sources": [
+        "CF-ENTRY-076"
+      ],
+      "canon_ref": "canon/build/BUILD-036-relationship-engine.md#03610--the-relationship-fracture"
+    },
+    {
+      "id": "CF-CON-768",
+      "label": "Invisible relationships",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Ancestor teacher child; time creates relationships.",
+      "sources": [
+        "CF-ENTRY-076"
+      ],
+      "canon_ref": "canon/build/BUILD-036-relationship-engine.md#03611--the-invisible-relationships"
+    },
+    {
+      "id": "CF-CON-769",
+      "label": "Relationship web",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Every relationship influences others beyond visible story.",
+      "sources": [
+        "CF-ENTRY-076"
+      ],
+      "canon_ref": "canon/build/BUILD-036-relationship-engine.md#03612--the-web"
+    },
+    {
+      "id": "CF-CON-770",
+      "label": "Relationship ledger record",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Eleven fields per major relationship.",
+      "sources": [
+        "CF-ENTRY-076"
+      ],
+      "canon_ref": "canon/build/BUILD-036-relationship-engine.md#03613--the-relationship-ledger"
+    },
+    {
+      "id": "CF-CON-771",
+      "label": "Relationship final principle",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "How did they change one another not who won.",
+      "sources": [
+        "CF-ENTRY-076"
+      ],
+      "canon_ref": "canon/build/BUILD-036-relationship-engine.md#03614--the-final-principle"
+    },
+    {
+      "id": "CF-CON-772",
+      "label": "Consciousness visible in relationship",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Two meet; assumptions fears blind spots illuminated.",
+      "sources": [
+        "CF-ENTRY-076"
+      ],
+      "canon_ref": "canon/build/BUILD-036-relationship-engine.md"
+    },
+    {
+      "id": "CF-CON-773",
+      "label": "Relationship arcs not character arcs",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Chronoforge builds relationship arcs not character arcs.",
+      "sources": [
+        "CF-ENTRY-076"
+      ],
+      "canon_ref": "canon/build/BUILD-036-relationship-engine.md"
+    },
+    {
+      "id": "CF-CON-774",
+      "label": "Five reads through relationships",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Five relationship questions one per read pass.",
+      "sources": [
+        "CF-ENTRY-076"
+      ],
+      "canon_ref": "canon/build/BUILD-036-relationship-engine.md#five-reads-through-relationships-cf-con-774--author-closing"
+    },
+    {
+      "id": "CF-CON-775",
+      "label": "Relationship mirrors after ink",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Reader life changes how relationships read after closing.",
+      "sources": [
+        "CF-ENTRY-076"
+      ],
+      "canon_ref": "canon/build/BUILD-036-relationship-engine.md#five-reads-through-relationships-cf-con-774--author-closing"
+    },
+    {
+      "id": "CF-CON-776",
+      "label": "People rarely change alone",
+      "category": "Theme",
+      "status": "Frozen",
+      "definition": "Transformation through relationship not isolation.",
+      "sources": [
+        "CF-ENTRY-076"
+      ],
+      "canon_ref": "canon/build/BUILD-036-relationship-engine.md"
     }
   ],
   "edges": [
@@ -15542,6 +15762,211 @@
     {
       "from": "CF-CON-756",
       "to": "CF-CON-003",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-757",
+      "to": "CF-CON-697",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-757",
+      "to": "CF-CON-717",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-757",
+      "to": "CF-CON-772",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-758",
+      "to": "CF-CON-757",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-758",
+      "to": "CF-CON-401",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-759",
+      "to": "CF-CON-757",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-759",
+      "to": "CF-CON-699",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-760",
+      "to": "CF-CON-757",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-760",
+      "to": "CF-CON-647",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-761",
+      "to": "CF-CON-757",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-761",
+      "to": "CF-CON-714",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-762",
+      "to": "CF-CON-757",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-762",
+      "to": "CF-CON-505",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-763",
+      "to": "CF-CON-757",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-763",
+      "to": "CF-CON-401",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-764",
+      "to": "CF-CON-757",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-764",
+      "to": "CF-CON-742",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-765",
+      "to": "CF-CON-757",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-765",
+      "to": "CF-CON-650",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-766",
+      "to": "CF-CON-757",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-766",
+      "to": "CF-CON-457",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-767",
+      "to": "CF-CON-757",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-767",
+      "to": "CF-CON-401",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-768",
+      "to": "CF-CON-757",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-768",
+      "to": "CF-CON-665",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-769",
+      "to": "CF-CON-757",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-769",
+      "to": "CF-CON-717",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-770",
+      "to": "CF-CON-757",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-770",
+      "to": "CF-CON-729",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-771",
+      "to": "CF-CON-757",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-771",
+      "to": "CF-CON-190",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-772",
+      "to": "CF-CON-757",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-772",
+      "to": "CF-CON-697",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-773",
+      "to": "CF-CON-757",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-773",
+      "to": "CF-CON-710",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-774",
+      "to": "CF-CON-757",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-774",
+      "to": "CF-CON-161",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-775",
+      "to": "CF-CON-774",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-775",
+      "to": "CF-CON-025",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-776",
+      "to": "CF-CON-757",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-776",
+      "to": "CF-CON-710",
       "type": "related"
     }
   ]

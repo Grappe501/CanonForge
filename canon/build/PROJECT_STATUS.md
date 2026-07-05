@@ -24,10 +24,10 @@
 | Field | Value |
 |---|---|
 | **Repo** | CanonForge (`Grappe501/CanonForge`) |
-| **Repo Version** | See [VERSION](../../VERSION) · **2.15.0** |
-| **Build Layer** | BUILD-001–035 frozen · **015.5 active** |
-| **Entries** | CF-ENTRY-001 through CF-ENTRY-075 |
-| **Concepts** | 756+ |
+| **Repo Version** | See [VERSION](../../VERSION) · **2.16.0** |
+| **Build Layer** | BUILD-001–036 frozen · **015.5 active** |
+| **Entries** | CF-ENTRY-001 through CF-ENTRY-076 |
+| **Concepts** | 776+ |
 | **Traceability** | Entry → Concept → BUILD → Architecture → Matrix |
 
 ---
@@ -39,7 +39,7 @@
 | **One** | Philosophy | **✓ COMPLETE** |
 | **Two** | Engines (016–032) | **✓ COMPLETE** |
 | **II.5** | Design Language (034–045) | **NEXT** |
-| **Three** | Story Genome (033–052) | **Active** (033–035 ✓) |
+| **Three** | Story Genome (033–052) | **Active** (033–036 ✓) |
 | **Four–Seven** | Five Reads · Score · Audits · Novel | Queued |
 | **015.5** | Build Bible | **In progress** |
 
@@ -50,11 +50,11 @@
 ## Governance mode
 
 ```txt
-STOP:   BUILD-036 until BUILD-015.5 v1.0 (016–035 excepted per author uploads)
-START:  Story Genome · BUILD-036 Relationship Engine
+STOP:   BUILD-037 until BUILD-015.5 v1.0 (016–036 excepted per author uploads)
+START:  Story Genome · BUILD-037 Dialogue Engine
 NEVER:  manuscript/ until Phase VII (BUILD-073+) · BUILD-031–032 never reader-facing
 ```
 
 ---
 
-*Project v0.4.0 · BUILD-035 Opposing Consciousness frozen · BUILD-036 Relationship Engine next · CF-ENTRY-075*
+*Project v0.4.0 · BUILD-036 Relationship Engine frozen · BUILD-037 Dialogue Engine next · CF-ENTRY-076*

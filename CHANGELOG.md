@@ -3,6 +3,16 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [2.16.0] — 2026-07-05
+
+### Added
+- CF-ENTRY-076: BUILD-036 The Relationship Engine Canonical v1.0
+- Concepts CF-CON-757 through CF-CON-776
+- Relationship arcs · consciousness visible in meeting · relationship ledger
+- **Five reads through relationships** — reread ladder via relationship questions (CF-CON-774–775)
+- **People rarely change alone** · how did they change one another (CF-CON-771 · CF-CON-776)
+- Master Canon v1.6.0
+
 ## [2.15.0] — 2026-07-05
 
 ### Added

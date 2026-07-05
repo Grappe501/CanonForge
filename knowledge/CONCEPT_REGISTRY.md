@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 2.15.0 · 2026-07-05 · 756 concepts registered
+> Version 2.16.0 · 2026-07-05 · 776 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -760,6 +760,26 @@
 | CF-CON-754 | Partial truth whole truth question | Heart | **Frozen** | Where in my life mistaken partial for whole. | CF-ENTRY-075 |
 | CF-CON-755 | Lifelong invitation conflict | Mission | **Frozen** | Central conflict continues beyond last chapter. | CF-ENTRY-075 |
 | CF-CON-756 | Antagonist Certainty embodied | Theme | **Frozen** | BUILD-003 Certainty at opposing consciousness scale. | CF-ENTRY-075 |
+| CF-CON-757 | Relationship Engine | Architecture | **Frozen** | Primary mechanism consciousness evolves; not supporting structure. | CF-ENTRY-076 |
+| CF-CON-758 | Relationship first law | Governance | **Frozen** | No important relationship static; belongs to time. | CF-ENTRY-076 |
+| CF-CON-759 | Relationship question | Architecture | **Frozen** | Lived question; every interaction attempts answer. | CF-ENTRY-076 |
+| CF-CON-760 | First encounter | Architecture | **Frozen** | Relationship begins before introductions; unseen history. | CF-ENTRY-076 |
+| CF-CON-761 | Distance map | Architecture | **Frozen** | Physical emotional intellectual temporal moral spiritual. | CF-ENTRY-076 |
+| CF-CON-762 | Rhythm of two | Architecture | **Frozen** | Pair creates own rhythm; music independent of individuals. | CF-ENTRY-076 |
+| CF-CON-763 | Relationship exchange | Architecture | **Frozen** | Every interaction exchanges; both changed. | CF-ENTRY-076 |
+| CF-CON-764 | Hidden gifts | Heart | **Frozen** | Consciousness carries way of seeing another needs. | CF-ENTRY-076 |
+| CF-CON-765 | Necessary misunderstanding | Architecture | **Frozen** | Misunderstanding begins deeper understanding not failure. | CF-ENTRY-076 |
+| CF-CON-766 | Shared silence relationship | Architecture | **Frozen** | Mature relationships; silence becomes fluency. | CF-ENTRY-076 |
+| CF-CON-767 | Relationship fracture | Architecture | **Frozen** | Season not always repair; completion not reconciliation. | CF-ENTRY-076 |
+| CF-CON-768 | Invisible relationships | Architecture | **Frozen** | Ancestor teacher child; time creates relationships. | CF-ENTRY-076 |
+| CF-CON-769 | Relationship web | Architecture | **Frozen** | Every relationship influences others beyond visible story. | CF-ENTRY-076 |
+| CF-CON-770 | Relationship ledger record | Architecture | **Frozen** | Eleven fields per major relationship. | CF-ENTRY-076 |
+| CF-CON-771 | Relationship final principle | Mission | **Frozen** | How did they change one another not who won. | CF-ENTRY-076 |
+| CF-CON-772 | Consciousness visible in relationship | Heart | **Frozen** | Two meet; assumptions fears blind spots illuminated. | CF-ENTRY-076 |
+| CF-CON-773 | Relationship arcs not character arcs | Mission | **Frozen** | Chronoforge builds relationship arcs not character arcs. | CF-ENTRY-076 |
+| CF-CON-774 | Five reads through relationships | Mission | **Frozen** | Five relationship questions one per read pass. | CF-ENTRY-076 |
+| CF-CON-775 | Relationship mirrors after ink | Heart | **Frozen** | Reader life changes how relationships read after closing. | CF-ENTRY-076 |
+| CF-CON-776 | People rarely change alone | Theme | **Frozen** | Transformation through relationship not isolation. | CF-ENTRY-076 |
 
 ## Related Concepts
 
@@ -1519,3 +1539,23 @@
 - **CF-CON-754** (Partial truth whole truth question, Frozen): CF-CON-753, CF-CON-171 → `canon/build/BUILD-035-opposing-consciousness.md`
 - **CF-CON-755** (Lifelong invitation conflict, Frozen): CF-CON-754, CF-CON-176 → `canon/build/BUILD-035-opposing-consciousness.md`
 - **CF-CON-756** (Antagonist Certainty embodied, Frozen): CF-CON-737, CF-CON-003 → `canon/build/BUILD-035-opposing-consciousness.md#03510--the-true-adversary`
+- **CF-CON-757** (Relationship Engine, Frozen): CF-CON-697, CF-CON-717, CF-CON-772 → `canon/build/BUILD-036-relationship-engine.md`
+- **CF-CON-758** (Relationship first law, Frozen): CF-CON-757, CF-CON-401 → `canon/build/BUILD-036-relationship-engine.md#0361--the-first-law`
+- **CF-CON-759** (Relationship question, Frozen): CF-CON-757, CF-CON-699 → `canon/build/BUILD-036-relationship-engine.md#0362--the-relationship-question`
+- **CF-CON-760** (First encounter, Frozen): CF-CON-757, CF-CON-647 → `canon/build/BUILD-036-relationship-engine.md#0363--the-first-encounter`
+- **CF-CON-761** (Distance map, Frozen): CF-CON-757, CF-CON-714 → `canon/build/BUILD-036-relationship-engine.md#0364--the-distance-map`
+- **CF-CON-762** (Rhythm of two, Frozen): CF-CON-757, CF-CON-505 → `canon/build/BUILD-036-relationship-engine.md#0365--the-rhythm-of-two`
+- **CF-CON-763** (Relationship exchange, Frozen): CF-CON-757, CF-CON-401 → `canon/build/BUILD-036-relationship-engine.md#0366--the-exchange`
+- **CF-CON-764** (Hidden gifts, Frozen): CF-CON-757, CF-CON-742 → `canon/build/BUILD-036-relationship-engine.md#0367--the-hidden-gifts`
+- **CF-CON-765** (Necessary misunderstanding, Frozen): CF-CON-757, CF-CON-650 → `canon/build/BUILD-036-relationship-engine.md#0368--the-necessary-misunderstanding`
+- **CF-CON-766** (Shared silence relationship, Frozen): CF-CON-757, CF-CON-457 → `canon/build/BUILD-036-relationship-engine.md#0369--the-shared-silence`
+- **CF-CON-767** (Relationship fracture, Frozen): CF-CON-757, CF-CON-401 → `canon/build/BUILD-036-relationship-engine.md#03610--the-relationship-fracture`
+- **CF-CON-768** (Invisible relationships, Frozen): CF-CON-757, CF-CON-665 → `canon/build/BUILD-036-relationship-engine.md#03611--the-invisible-relationships`
+- **CF-CON-769** (Relationship web, Frozen): CF-CON-757, CF-CON-717 → `canon/build/BUILD-036-relationship-engine.md#03612--the-web`
+- **CF-CON-770** (Relationship ledger record, Frozen): CF-CON-757, CF-CON-729 → `canon/build/BUILD-036-relationship-engine.md#03613--the-relationship-ledger`
+- **CF-CON-771** (Relationship final principle, Frozen): CF-CON-757, CF-CON-190 → `canon/build/BUILD-036-relationship-engine.md#03614--the-final-principle`
+- **CF-CON-772** (Consciousness visible in relationship, Frozen): CF-CON-757, CF-CON-697 → `canon/build/BUILD-036-relationship-engine.md`
+- **CF-CON-773** (Relationship arcs not character arcs, Frozen): CF-CON-757, CF-CON-710 → `canon/build/BUILD-036-relationship-engine.md`
+- **CF-CON-774** (Five reads through relationships, Frozen): CF-CON-757, CF-CON-161 → `canon/build/BUILD-036-relationship-engine.md#five-reads-through-relationships-cf-con-774--author-closing`
+- **CF-CON-775** (Relationship mirrors after ink, Frozen): CF-CON-774, CF-CON-025 → `canon/build/BUILD-036-relationship-engine.md#five-reads-through-relationships-cf-con-774--author-closing`
+- **CF-CON-776** (People rarely change alone, Frozen): CF-CON-757, CF-CON-710 → `canon/build/BUILD-036-relationship-engine.md`
