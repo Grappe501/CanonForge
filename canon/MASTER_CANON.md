@@ -1,8 +1,8 @@
-# Master Canon v0.2.7
+# Master Canon v0.2.8
 
 > Governing creative constitution for CHRONOFORGE
 > Derived from locked concepts · open forks marked explicitly
-> Supersedes v0.2.6 (2026-07-05 · CF-ENTRY-029 Resonance · The Score)
+> Supersedes v0.2.7 (2026-07-05 · CF-ENTRY-030 reader performance model)
 
 ---
 
@@ -50,6 +50,23 @@ IS:   reader hears harmony present all along → new melodies each read
 ```
 
 Compose for the **subconscious pattern-recognition system** (CF-CON-098).
+
+### Reader performance model (CF-CON-106 · CF-CON-108 · locked CF-ENTRY-030)
+
+> **The novel is not complete when it is printed.**
+>
+> **The novel is completed each time it is read.**
+
+```txt
+BOOK    = score
+READER  = performer
+READ 1  = first rehearsal (Adagio)
+READ 5  = concert (Presto)
+```
+
+Same text · different tempo each read — patterns recognized sooner (CF-CON-107). Compose experience that **matures as performed**.
+
+**Organic structure only** — reject mechanical word/line/page counts (CF-CON-102). See [architecture/NARRATIVE_METER.md](../architecture/NARRATIVE_METER.md).
 
 ### Typography immutable law (CF-CON-089)
 
@@ -317,4 +334,4 @@ See [knowledge/OPEN_QUESTIONS.md](../knowledge/OPEN_QUESTIONS.md):
 
 ---
 
-*v0.2.7 · 2026-07-05 · synthesized from CF-ENTRY-001 through CF-ENTRY-029 · 100 concepts*
+*v0.2.8 · 2026-07-05 · synthesized from CF-ENTRY-001 through CF-ENTRY-030 · 110 concepts*

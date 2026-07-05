@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 0.2.7 · 2026-07-05 · 100 concepts registered
+> Version 0.2.8 · 2026-07-05 · 110 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -104,6 +104,16 @@
 | CF-CON-098 | Subconscious composition | Discipline | **Locked** | Compose for pattern-recognition system not conscious mind. | CF-ENTRY-029 |
 | CF-CON-099 | Seismograph page | Architecture | **Locked** | Page measures reality stress; typographic shifts = fractures. | CF-ENTRY-029 |
 | CF-CON-100 | Harmony not clues | Heart | **Locked** | Truth by hearing harmony present all along—not clue collection. | CF-ENTRY-029 |
+| CF-CON-101 | Narrative Meter | Architecture | **Locked** | Page weight fingerprint—not word count; pulse density silence certainty gap. | CF-ENTRY-030 |
+| CF-CON-102 | Organic not mechanical structure | Discipline | **Locked** | Reject fixed words-per-line; rhythm emerges from story demand. | CF-ENTRY-030 |
+| CF-CON-103 | Two Architectures | Architecture | **Locked** | Surface (edition performance) vs Deep (survives all formats). | CF-ENTRY-030 |
+| CF-CON-104 | Breathing cycles | Architecture | **Locked** | 12–15 page emotional phrases; rhythm not page numbers. | CF-ENTRY-030 |
+| CF-CON-105 | Hidden mathematics | Architecture | **Candidate** | One invisible Bach/fugue architecture—not per-line math. | CF-ENTRY-030 |
+| CF-CON-106 | Reader performance model | Mission | **Locked** | Book=score; reader=performer; read 1=rehearsal; read 5=concert. | CF-ENTRY-030 |
+| CF-CON-107 | Reread tempo arc | Architecture | **Locked** | Same text; Adagio→Presto across reads as patterns recognized. | CF-ENTRY-030 |
+| CF-CON-108 | Novel completed each read | Governance | **Locked** | Novel not complete at print; completed each time read. | CF-ENTRY-030 |
+| CF-CON-109 | Publication-survivable anchors | Architecture | **Locked** | Anchor to sentences/motifs/cadence—not line 14 page 37. | CF-ENTRY-030 |
+| CF-CON-110 | Page fingerprint | Architecture | **Locked** | Weighted attributes per page including certainty gap. | CF-ENTRY-030 |
 
 ## Related Concepts
 
@@ -207,3 +217,13 @@
 - **CF-CON-098** (Subconscious composition, Locked): CF-CON-069, CF-CON-094 → `architecture/THE_SCORE.md`
 - **CF-CON-099** (Seismograph page, Locked): CF-CON-082 → `architecture/PHYSICS_OF_READING.md`
 - **CF-CON-100** (Harmony not clues, Locked): CF-CON-094 → `canon/MASTER_CANON.md`
+- **CF-CON-101** (Narrative Meter, Locked): CF-CON-110, CF-CON-093 → `architecture/NARRATIVE_METER.md`
+- **CF-CON-102** (Organic not mechanical structure, Locked): CF-CON-101 → `architecture/NARRATIVE_METER.md`
+- **CF-CON-103** (Two Architectures, Locked): CF-CON-106, CF-CON-109 → `architecture/NARRATIVE_METER.md`
+- **CF-CON-104** (Breathing cycles, Locked): CF-CON-101 → `architecture/NARRATIVE_METER.md`
+- **CF-CON-105** (Hidden mathematics, Candidate): CF-CON-094 → `knowledge/OPEN_QUESTIONS.md`
+- **CF-CON-106** (Reader performance model, Locked): CF-CON-108, CF-CON-107 → `canon/MASTER_CANON.md`
+- **CF-CON-107** (Reread tempo arc, Locked): CF-CON-106 → `architecture/NARRATIVE_METER.md`
+- **CF-CON-108** (Novel completed each read, Locked): CF-CON-106, CF-CON-025 → `canon/MASTER_CANON.md`
+- **CF-CON-109** (Publication-survivable anchors, Locked): CF-CON-103 → `architecture/NARRATIVE_METER.md`
+- **CF-CON-110** (Page fingerprint, Locked): CF-CON-101 → `architecture/THE_SCORE.md`

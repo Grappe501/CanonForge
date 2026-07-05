@@ -31,7 +31,7 @@ OUTPUT:  manuscript/ (Phase 14+ ONLY)
 | Rhythm Bible | 4+ | `architecture/RHYTHM_BIBLE.md` ✓ (framework) |
 | Visual Grammar | 4+ | `architecture/VISUAL_GRAMMAR.md` ✓ (framework) |
 | The Score | 4+ | `architecture/THE_SCORE.md` ✓ (framework) |
-| Physics of Reading | 4+ | `architecture/PHYSICS_OF_READING.md` ✓ (framework) |
+| Narrative Meter | 4+ | `architecture/NARRATIVE_METER.md` ✓ (framework) |
 | Chapter One / Opening | 9 | **LAST** |
 
 ---

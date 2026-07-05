@@ -60,6 +60,12 @@ Placeholder examples from CF-ENTRY-025 — not locked prose:
 
 Final sentence grammatically incomplete; thought completes on page one. Novel is **continuous**, not circular.
 
+## Hidden mathematics {#hidden-math}
+
+**CF-CON-105 · Status: Candidate**
+
+One invisible Bach/fugue-like architecture — not per-line or per-page math. Readers hear beauty; mathematics makes it possible. Exact structure TBD Phase 4 / Book of Secrets.
+
 ## Punctuation invariant {#punctuation}
 
 **CF-CON-097 · Status: Candidate**

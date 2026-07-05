@@ -44,6 +44,8 @@ THE SCORE         →  unified page map (this document)
 | **Typography events** | Bold/italic/caps count | Visual Grammar · Physics |
 | **Punctuation inventory** | Mark frequency audit | Physics of Reading |
 | **Resonance links** | Cross-page vibration map | CF-CON-094 |
+| **Narrative fingerprint** | Pulse · density · silence · certainty gap | CF-CON-110 |
+| **Breathing cycle** | Phrase position in ~12–15 page arc | CF-CON-104 |
 
 ---
 

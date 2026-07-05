@@ -31,7 +31,9 @@
 | 2026-07-05 | Compose Laws center doctrine | Six-line governing principle | CF-CON-077 |
 | 2026-07-05 | Resonance central metaphor | Harmony not clue collection | CF-CON-094, CF-CON-100 |
 | 2026-07-05 | Typography never decorative | Reality changed—not emphasis | CF-CON-089 |
-| 2026-07-05 | The Score master document | Unified page composition | CF-CON-093 |
+| 2026-07-05 | Reader performance model | Novel completed each read | CF-CON-106, CF-CON-108 |
+| 2026-07-05 | Narrative Meter | Weight not word count; organic structure | CF-CON-101, CF-CON-102 |
+| 2026-07-05 | Two Architectures | Surface vs deep; publication-survivable | CF-CON-103, CF-CON-109 |
 | 2026-07-05 | Originality firewall | Genre pillars as physics not copy | CF-CON-039 |
 
 ## Open Forks (see OPEN_QUESTIONS.md)

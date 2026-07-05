@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0.0",
   "canonforge_version": "0.2.0",
-  "generated_at": "2026-07-05T20:57:17.579492+00:00",
+  "generated_at": "2026-07-05T20:58:23.175839+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 29,
-  "concept_count": 100,
+  "entry_count": 30,
+  "concept_count": 110,
   "entries": [
     {
       "entry_id": "CF-ENTRY-001",
@@ -398,6 +398,26 @@
         "CF-CON-100"
       ],
       "byte_size": 4763
+    },
+    {
+      "entry_id": "CF-ENTRY-030",
+      "file": "knowledge/entries/030-narrative-meter-reader-performance.md",
+      "sha256": "22f6cca33d5223e86dde5e6993678d7bbbec4a329c280d6a6f17ed908cb488a4",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-101",
+        "CF-CON-102",
+        "CF-CON-103",
+        "CF-CON-104",
+        "CF-CON-105",
+        "CF-CON-106",
+        "CF-CON-107",
+        "CF-CON-108",
+        "CF-CON-109",
+        "CF-CON-110"
+      ],
+      "byte_size": 4625
     }
   ],
   "indexes": {

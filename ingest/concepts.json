@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "canonforge_version": "0.2.0",
-  "generated_at": "2026-07-05T20:57:17.587251+00:00",
+  "generated_at": "2026-07-05T20:58:23.183054+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -1116,6 +1116,116 @@
         "CF-ENTRY-029"
       ],
       "canon_ref": "canon/MASTER_CANON.md"
+    },
+    {
+      "id": "CF-CON-101",
+      "label": "Narrative Meter",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "Page weight fingerprint\u2014not word count; pulse density silence certainty gap.",
+      "sources": [
+        "CF-ENTRY-030"
+      ],
+      "canon_ref": "architecture/NARRATIVE_METER.md"
+    },
+    {
+      "id": "CF-CON-102",
+      "label": "Organic not mechanical structure",
+      "category": "Discipline",
+      "status": "Locked",
+      "definition": "Reject fixed words-per-line; rhythm emerges from story demand.",
+      "sources": [
+        "CF-ENTRY-030"
+      ],
+      "canon_ref": "architecture/NARRATIVE_METER.md"
+    },
+    {
+      "id": "CF-CON-103",
+      "label": "Two Architectures",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "Surface (edition performance) vs Deep (survives all formats).",
+      "sources": [
+        "CF-ENTRY-030"
+      ],
+      "canon_ref": "architecture/NARRATIVE_METER.md"
+    },
+    {
+      "id": "CF-CON-104",
+      "label": "Breathing cycles",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "12\u201315 page emotional phrases; rhythm not page numbers.",
+      "sources": [
+        "CF-ENTRY-030"
+      ],
+      "canon_ref": "architecture/NARRATIVE_METER.md"
+    },
+    {
+      "id": "CF-CON-105",
+      "label": "Hidden mathematics",
+      "category": "Architecture",
+      "status": "Candidate",
+      "definition": "One invisible Bach/fugue architecture\u2014not per-line math.",
+      "sources": [
+        "CF-ENTRY-030"
+      ],
+      "canon_ref": "knowledge/OPEN_QUESTIONS.md"
+    },
+    {
+      "id": "CF-CON-106",
+      "label": "Reader performance model",
+      "category": "Mission",
+      "status": "Locked",
+      "definition": "Book=score; reader=performer; read 1=rehearsal; read 5=concert.",
+      "sources": [
+        "CF-ENTRY-030"
+      ],
+      "canon_ref": "canon/MASTER_CANON.md"
+    },
+    {
+      "id": "CF-CON-107",
+      "label": "Reread tempo arc",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "Same text; Adagio\u2192Presto across reads as patterns recognized.",
+      "sources": [
+        "CF-ENTRY-030"
+      ],
+      "canon_ref": "architecture/NARRATIVE_METER.md"
+    },
+    {
+      "id": "CF-CON-108",
+      "label": "Novel completed each read",
+      "category": "Governance",
+      "status": "Locked",
+      "definition": "Novel not complete at print; completed each time read.",
+      "sources": [
+        "CF-ENTRY-030"
+      ],
+      "canon_ref": "canon/MASTER_CANON.md"
+    },
+    {
+      "id": "CF-CON-109",
+      "label": "Publication-survivable anchors",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "Anchor to sentences/motifs/cadence\u2014not line 14 page 37.",
+      "sources": [
+        "CF-ENTRY-030"
+      ],
+      "canon_ref": "architecture/NARRATIVE_METER.md"
+    },
+    {
+      "id": "CF-CON-110",
+      "label": "Page fingerprint",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "Weighted attributes per page including certainty gap.",
+      "sources": [
+        "CF-ENTRY-030"
+      ],
+      "canon_ref": "architecture/THE_SCORE.md"
     }
   ],
   "edges": [
@@ -1847,6 +1957,76 @@
     {
       "from": "CF-CON-100",
       "to": "CF-CON-094",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-101",
+      "to": "CF-CON-110",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-101",
+      "to": "CF-CON-093",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-102",
+      "to": "CF-CON-101",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-103",
+      "to": "CF-CON-106",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-103",
+      "to": "CF-CON-109",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-104",
+      "to": "CF-CON-101",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-105",
+      "to": "CF-CON-094",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-106",
+      "to": "CF-CON-108",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-106",
+      "to": "CF-CON-107",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-107",
+      "to": "CF-CON-106",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-108",
+      "to": "CF-CON-106",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-108",
+      "to": "CF-CON-025",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-109",
+      "to": "CF-CON-103",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-110",
+      "to": "CF-CON-101",
       "type": "related"
     }
   ]

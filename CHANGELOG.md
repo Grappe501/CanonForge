@@ -3,6 +3,14 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [0.2.8] — 2026-07-05
+
+### Added
+- CF-ENTRY-030: Narrative Meter · Two Architectures · reader performance model
+- Concepts CF-CON-101 through CF-CON-110
+- `architecture/NARRATIVE_METER.md`
+- Master Canon: novel completed each time it is read
+
 ## [0.2.7] — 2026-07-05
 
 ### Added
