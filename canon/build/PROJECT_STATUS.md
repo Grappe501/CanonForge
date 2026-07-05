@@ -24,10 +24,10 @@
 | Field | Value |
 |---|---|
 | **Repo** | CanonForge (`Grappe501/CanonForge`) |
-| **Repo Version** | See [VERSION](../../VERSION) · **1.4.0** |
+| **Repo Version** | See [VERSION](../../VERSION) · **1.4.1** |
 | **Build Layer** | BUILD-001–016 frozen · **015.5 active** |
-| **Entries** | CF-ENTRY-001 through CF-ENTRY-053 |
-| **Concepts** | 380+ |
+| **Entries** | CF-ENTRY-001 through CF-ENTRY-054 |
+| **Concepts** | 383+ |
 | **Traceability** | Entry → Concept → BUILD → Architecture → Matrix |
 
 ---

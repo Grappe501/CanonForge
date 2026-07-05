@@ -46,8 +46,9 @@ knowledge/entries/                    → verbatim source uploads
 | **014** | The Elements of Meaning | **1.0** | **Frozen** | 036, 050 | CF-CON-170, 321–334 | [BUILD-014](BUILD-014-elements-of-meaning.md) |
 | **015** | The Resonance Matrix | **1.0** | **Frozen** | 032, 050, 051 | CF-CON-134, 335–359 | [BUILD-015](BUILD-015-resonance-matrix.md) |
 | **015.5** | Chronoforge Master Architecture | **0.1** | **Active** | 052 | CF-CON-360–363 | [BUILD-015.5](BUILD-015.5-chronoforge-master-architecture.md) |
-| **016** | The Consciousness Engine | **1.0** | **Frozen** | 043, 053 | CF-CON-240, 364–380 | [BUILD-016](BUILD-016-consciousness-engine.md) |
-| **017–025** | Phase Two engines | — | **Queued** | — | — | [CHRONOFORGE_PHASES](../architecture/CHRONOFORGE_PHASES.md) |
+| **016** | The Consciousness Engine | **1.0** | **Frozen** | 043, 053, 054 | CF-CON-240, 364–383 | [BUILD-016](BUILD-016-consciousness-engine.md) |
+| **017** | The Reality Engine | — | **Queued** | 054 | CF-CON-383, 345 | [BUILD-017](BUILD-017-reality-engine.md) |
+| **018–025** | Phase Two engines | — | **Queued** | — | — | [CHRONOFORGE_PHASES](../architecture/CHRONOFORGE_PHASES.md) |
 | **026–036** | Phase Three novel | — | **Queued** | — | — | [CHRONOFORGE_PHASES](../architecture/CHRONOFORGE_PHASES.md) |
 
 ---

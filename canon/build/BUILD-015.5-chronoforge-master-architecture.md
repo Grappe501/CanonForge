@@ -118,7 +118,7 @@ We did not build a novel. We built a **theory of storytelling** — an operating
 | BUILD | Title | Role |
 |---|---|---|
 | **016** | Consciousness Engine | Replaces character sheets |
-| **017** | Chronology Engine | Actual timeline · no writing until done |
+| **017** | The Reality Engine | Actual timeline · causality · reality laws · boundaries |
 | **018** | Fracture Map | Where · why · how chronology breaks |
 | **019** | Memory Engine | Storage · editing · false certainty |
 | **020** | Resonance Registry | Every recurring motif |
@@ -157,7 +157,7 @@ BUILD-015 defines **what** gets tracked. Phase Two BUILDs **populate** each ledg
 | Emotion Ledger | BUILD-015 §015.8 | BUILD-006 |
 | Assumption Ledger | BUILD-015 §015.9 | BUILD-008 · BUILD-019 |
 | Discovery Ledger | BUILD-015 §015.10 | BUILD-002 |
-| Chronology Engine | BUILD-015 §015.11 | BUILD-017 · BUILD-018 |
+| Chronology Engine | BUILD-015 §015.11 | BUILD-017 Reality Engine · BUILD-018 |
 | Resonance Web | BUILD-015 §015.12 | BUILD-020 · BUILD-021 |
 | Page Score | BUILD-015 §015.13 | BUILD-024 · BUILD-025 |
 | Five-Read Map | BUILD-015 §015.14 | BUILD-005 · FIVE_LOCKS |

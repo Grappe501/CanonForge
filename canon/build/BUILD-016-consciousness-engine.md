@@ -1,241 +1,240 @@
 # BUILD-016 — The Consciousness Engine
 
 > **Canonical Version 1.0 · Status: FROZEN**
-> CF-CON-240 · CF-CON-364–380 · CF-ENTRY-043 · CF-ENTRY-053
-> **Traces to:** BUILD-007 Human Experience · BUILD-008 Assumption · BUILD-010 Reading · BUILD-015 Reader Ledger
-> **Author override:** CF-ENTRY-053 began Phase Two before BUILD-015.5 v1.0 (soul document)
+> CF-CON-240 · CF-CON-364–383 · CF-ENTRY-043 · CF-ENTRY-053 · CF-ENTRY-054
+> Supersedes CF-ENTRY-053 truncated upload · **Authoritative:** CF-ENTRY-054
+> **Traces to:** BUILD-007 Humanity · BUILD-008 Assumption · BUILD-009 Time · BUILD-010 Reading · BUILD-015 Matrix
 
-> **"The novel is not about people moving through time. It is about consciousness moving through experience."**
+> **"The story is not about people moving through time. It is about consciousness moving through meaning."**
 
-> If Chronoforge has a soul — it begins here. Only **consciousness** exists. Everything else is experienced by consciousness.
+> A character is something a reader **watches**. A consciousness is something the reader gradually learns to **inhabit**.
 
 ---
 
 ## 016.0 — Purpose
 
-Chronoforge does not model **characters**. Chronoforge models **consciousness**.
+Chronoforge does not ask *"What does this character do?"*
 
-The story does not happen to bodies — it happens to **awareness**. The reader is not observing consciousness. The reader is another consciousness entering relationship with them.
+Chronoforge asks: **"How does this consciousness experience reality?"**
 
-This is the deepest architecture of the novel — and the **fundamental unit of composition**. *(CF-CON-364 · CF-CON-380)*
+Every major person possesses a unique way of: Seeing · Remembering · Feeling · Choosing · Believing · Misunderstanding · Growing
 
-*(Supersedes character-sheet model · extends BUILD-007 CF-CON-240)*
+The story emerges from the **interaction of consciousnesses** — not from plot moving bodies through time.
 
----
-
-## 016.1 — The First Principle
-
-Everything in the novel is experienced through consciousness — not reality · not objective truth · **experience**.
-
-| Phenomenon | Exists because |
-|---|---|
-| Reality | Experienced |
-| Memory | Remembered |
-| Identity | Perceived |
-| Time | Experienced |
-
-*(CF-CON-365 · BUILD-009 Grammar of Time · BUILD-012 real subject)*
+*(CF-CON-364 · CF-CON-380 · CF-CON-381 Inhabit not watch)*
 
 ---
 
-## 016.2 — The Five Layers of Consciousness
+## 016.1 — The Consciousness Model: Ten Living Systems
 
-Every major consciousness possesses five simultaneous layers: *(CF-CON-366)*
+Not personality traits. **Living systems.** *(CF-CON-365)*
 
-| Layer | Function |
-|---|---|
-| **One — Observation** | What enters awareness · not everything present |
-| **Two — Interpretation** | Meaning assigned · assumptions begin |
-| **Three — Emotion** | How experience feels · colors interpretation |
-| **Four — Memory** | What remains · not necessarily what happened |
-| **Five — Identity** | How experience changes the self · evolves continuously |
+| # | System | Governs |
+|---|---|---|
+| **1** | **Perception** | What is naturally noticed — people · patterns · danger · beauty · silence |
+| **2** | **Attention** | What captures · what is ignored · attention determines reality |
+| **3** | **Memory** | How experience is stored — emotion · images · words · music · relationships |
+| **4** | **Time** | How time is experienced — linear · fragmented · elastic · past/future orientation |
+| **5** | **Emotion** | How emotions **move** — quickly · quietly · internally · externally |
+| **6** | **Meaning** | How meaning is built — logic · relationship · beauty · duty · faith · curiosity |
+| **7** | **Choice** | How decisions are made under uncertainty — instinct · compassion · fear · hope |
+| **8** | **Connection** | How bonding occurs — slowly · reluctantly · protectively |
+| **9** | **Identity** | Self-understanding · not labels · how wrong · how right · how it evolves |
+| **10** | **Hope** | What keeps consciousness moving — **deepest engine** · without it the story stops |
 
-*(Aligns: BUILD-010 Five Instruments · BUILD-008 Assumption Engine)*
+No two consciousnesses perceive the same world.
 
----
-
-## 016.3 — The Consciousness Loop
-
-Every experience follows this cycle: *(CF-CON-367)*
-
-```txt
-Perception → Interpretation → Emotion → Memory → Meaning → Identity → Future Perception
-```
-
-Every loop changes the next. Nothing repeats exactly.
-
-*(Parallel: BUILD-010 Reading Loop · BUILD-008 Cognitive Loop)*
+*(Aligns: BUILD-007 · BUILD-009 personal clocks · BUILD-014 elements)*
 
 ---
 
-## 016.4 — The Reader's Consciousness
+## 016.2 — The Inner Rhythm
 
-The reader is **not outside** the system. Same loop: Read · Interpret · Feel · Remember · Assign meaning · Change · Read again.
+Every consciousness possesses **music** — not metaphorically. Rhythm.
 
-The novel **mirrors the reader's own cognition**. *(CF-CON-379 · BUILD-005 Theory of Reading · BUILD-010)*
+Long flowing movements · fragments · silence · questions · certainty
 
----
-
-## 016.5 — The Multiple Consciousness Model
-
-No two consciousnesses experience the same event identically. One event · many realities · none necessarily false · none complete.
-
-**Truth emerges only through relationship.** *(CF-CON-368 · BUILD-007 · BUILD-011 Covenant of Reading)*
+Readers should recognize individual rhythms **without dialogue tags**. *(CF-CON-366 · BUILD-006 · RHYTHM_BIBLE)*
 
 ---
 
-## 016.6 — The Inner Weather
+## 016.3 — The Perception Filter
 
-Every consciousness carries invisible climate: Hope · Fear · Grief · Wonder · Patience · Exhaustion.
+Reality never enters directly. Every consciousness filters through: Experience · Memory · Fear · Love · Loss · Expectation · Hope
 
-Influences perception **before reason begins**. Readers experience this naturally. *(CF-CON-369)*
-
----
-
-## 016.7 — The Attention Field
-
-Awareness is **finite**. Every consciousness notices some things · misses others. Attention is a scarce resource.
-
-Explains why two honest people remember differently. *(CF-CON-370 · BUILD-010 §010.3 · BUILD-014 Attention element)*
+The novel never presents objective reality first — only **experienced reality**. *(CF-CON-367 · BUILD-010 perception first)*
 
 ---
 
-## 016.8 — The Memory Field
+## 016.4 — The Blind Spot
 
-Memory is not storage — **memory is reconstruction**. Each recall slightly reshapes the remembered event.
+Every consciousness has things it cannot naturally perceive — not stupidity · **humanity**.
 
-Memory is creative · protective · human — not unreliability. *(CF-CON-371 · BUILD-019 Memory Engine queued · BUILD-008)*
-
----
-
-## 016.9 — The Identity Field
-
-Identity is not fixed. Identity is the **story consciousness tells itself** — changing slowly · often invisibly.
-
-Explore identity through experience · not labels. *(CF-CON-372 · BUILD-007 · Article XVII)*
+Blind spots are essential. Growth occurs when they become visible. *(CF-CON-373 · BUILD-008)*
 
 ---
 
-## 016.10 — The Mirror Principle
+## 016.5 — The Inner Questions
 
-Every major consciousness mirrors another in at least one way — not as opposites · as **reflections**.
+Every major consciousness carries one **lifelong question** — not spoken · lived:
 
-Readers recognize shared human patterns across different lives. *(CF-CON-373)*
+*Am I enough? · Can I trust? · Who belongs? · What is home? · Can people change? · What is worth remembering?*
 
----
-
-## 016.11 — The Blind Spot
-
-Every consciousness has blind spots — not foolishness · **finitude**. Blind spots are opportunities for discovery · not failure.
-
-*(BUILD-008 · BUILD-002 Discovery · CF-CON-276 productive uncertainty)*
+The story continually explores these. *(CF-CON-368)*
 
 ---
 
-## 016.12 — The Consciousness Map
+## 016.6 — The False Certainty
 
-For every major figure — **no biographies. Only consciousness maps:** *(CF-CON-374 · CF-CON-375)*
+Every consciousness begins with something believed absolutely — not evil · not foolish · **incomplete**.
 
-Core fear · core hope · dominant memory · dominant assumption · pattern of attention · pattern of silence · pattern of rhythm · pattern of change
-
-→ Feeds BUILD-015 Reader Ledger · Resonance Matrix rows · Phase Four lives
-
-*(Replaces traditional character sheets)*
+Growth through revision. Never humiliation. *(CF-CON-369 · BUILD-001 humility · BUILD-008)*
 
 ---
 
-## 016.13 — The Intersection
+## 016.7 — The Memory Map
 
-The story occurs where consciousnesses **intersect**: Dialogue · conflict · love · misunderstanding · forgiveness.
+Every major event leaves different traces — sound · faces · weather · words
 
-Everything emerges from shared experience. *(BUILD-007 Invisible Biography · connection)*
-
----
-
-## 016.14 — The Silence of Consciousness
-
-Much of consciousness remains unspoken. Readers feel far more than is verbalized. Silence becomes **interior life**.
-
-*(BUILD-022 Silence Ledger queued · BUILD-010 Breath Model)*
+Readers gradually realize **memory itself is individualized**. *(CF-CON-370 · BUILD-019 Memory Engine queued)*
 
 ---
 
-## 016.15 — The Reader Mirror
+## 016.8 — The Language Map
 
-Eventually readers realize: they have been studying **themselves** — not because the novel tells them · because every mechanism in the characters operates in the reader.
+Internal language — not vocabulary: Pattern · Questions · Metaphors · Silence · Cadence
 
-*(CF-CON-379 · BUILD-005 Reader protagonist · CF-CON-002)*
-
----
-
-## 016.16 — The Evolution of Awareness
-
-Purpose is never perfect understanding — only **deeper** understanding. Awareness expands · never completes. The ending is another beginning.
-
-*(CF-CON-293 Central genetic code · BUILD-012 · CF-CON-137 North Star)*
+Creates unique **inner music**. *(CF-CON-371 · BUILD-014 Language genome)*
 
 ---
 
-## 016.17 — The Consciousness Network
+## 016.9 — The Consciousness Collision
 
-Every consciousness is a **node**. Connections: shared memory · misunderstanding · hope · silence · rhythm.
+Conflict rarely comes from good vs evil — from two **sincere consciousnesses** experiencing the same reality differently.
 
-The novel becomes a living web of awareness — not a cast list. *(CF-CON-376 · BUILD-015 Resonance Web · CF-CON-358 constellation)*
-
----
-
-## 016.18 — The Three Questions
-
-Every scene must answer: *(CF-CON-377)*
-
-1. What changed in the **visible world**?
-2. What changed inside a **consciousness**?
-3. What changed inside the **reader's consciousness**?
-
-**If the third answer is "nothing" — revisit the scene.**
-
-*(Extends BUILD-013 Daily Ritual · BUILD-015 Humanity Test · Heart Council)*
+Agreement optional. **Understanding essential.** *(CF-CON-372 · BUILD-007 · BUILD-011)*
 
 ---
 
-## 016.19 — The Test of Life
+## 016.10 — The Evolution Map
 
-A consciousness is authentic when it can: surprise us · remain consistent · grow naturally · contradict itself honestly · hold incompatible emotions · revise beliefs · remain recognizably itself.
+Each consciousness evolves in four dimensions: **Perception · Meaning · Connection · Hope**
 
-That is how people live. *(CF-CON-378)*
-
----
-
-## 016.20 — The Final Principle
-
-The novel is not an arrangement of events. It is an **ecology of consciousness**.
-
-Events matter because they transform awareness. Without transformation — chronology. With transformation — **meaning**.
-
-*(CF-CON-380 · BUILD-009 · BUILD-016 soul)*
+Everything else grows from these. *(CF-CON-374 · BUILD-012 Evolution test)*
 
 ---
 
-## 016.21 — Epilogue *(CF-ENTRY-053 · truncated)*
+## 016.11 — The Invisible Life
 
-We've said *"The reader changes."* That may not be precise enough.
+Readers witness moments only. Every consciousness **continues beyond observation**.
 
-The novel is really about:
-
-> **Every consciousness**
-
-*(Upload truncated at this line · OPEN_QUESTIONS §016-epilogue · completion pending)*
+We build complete inner lives — even when unwritten. *(CF-CON-375 · BUILD-007 Invisible Biography)*
 
 ---
 
-## 016.22 — Build Traceability
+## 016.12 — The Mirror Effect
+
+Readers recognize themselves — not in behavior · in **consciousness**:
+
+*"I've thought like this."* — not *"I've done this."*
+
+Empathy through shared cognition. *(CF-CON-379 · CF-CON-381)*
+
+---
+
+## 016.13 — The Consciousness Web
+
+No consciousness exists alone. Every interaction changes both participants — even silent ones.
+
+Meaning · memory · hope · fear transfer. Nothing isolated. *(CF-CON-375 · BUILD-015 Resonance Web)*
+
+---
+
+## 016.14 — The Reader as Consciousness
+
+The reader is **another consciousness inside the system** — not outside it.
+
+The novel does not have five characters. It has **six**. The reader is the final node. The story cannot complete without that sixth consciousness.
+
+*(CF-CON-382 · CF-CON-002 Reader protagonist · BUILD-005)*
+
+---
+
+## 016.15 — The Consciousness Scorecard
+
+Every major consciousness receives a **living profile** — continuously updated:
+
+| System | Initial | Midpoint | Ending | Second Read | Fifth Read |
+|---|---|---|---|---|---|
+| Perception | | | | | |
+| Memory | | | | | |
+| Hope | | | | | |
+| Identity | | | | | |
+| Meaning | | | | | |
+
+The **fifth-read column** exists because readers understand consciousness differently after multiple readings.
+
+*(CF-CON-376 · BUILD-015 Grand Matrix · Phase Four lives)*
+
+---
+
+## 016.16 — The Consciousness Test
+
+Every scene asks: *(CF-CON-377)*
+
+- Whose consciousness **expanded**?
+- Whose **perception** shifted?
+- Whose **hope** changed?
+- Whose **assumptions** evolved?
+
+If no consciousness changed — the scene probably belongs somewhere else.
+
+*(Extends BUILD-013 Daily Ritual · BUILD-015 Humanity Test)*
+
+---
+
+## 016.17 — The Consciousness Constellation
+
+Every consciousness is a **star**. Connections are lines. The constellation changes — not because stars move · because the **observer's perspective** changes.
+
+The reader redraws the sky. *(CF-CON-378 · CF-CON-358 Living constellation)*
+
+---
+
+## 016.18 — The Deepest Realization
+
+Reader Transformation · Character Arc · Human Experience · Assumption Engine — all manifestations of one principle:
+
+> **Every consciousness is always incomplete.**
+
+Not broken. **Incomplete.**
+
+The novel doesn't complete anyone. It helps each consciousness see a little farther — **including the reader**.
+
+*(CF-CON-380 · CF-CON-293 Understanding is never finished · BUILD-012 Genome)*
+
+---
+
+## 016.19 — Build Traceability
 
 | BUILD | Provides |
 |---|---|
 | **001–015** | Philosophy through Matrix |
-| **016** | **Consciousness as fundamental unit** — soul of the method |
+| **016** | **Consciousness as fundamental unit** — ten living systems |
 
-Phase Two begins. Next: BUILD-017 Chronology Engine.
+---
+
+## BUILD-017 preview *(CF-ENTRY-054 · CF-CON-383)*
+
+Now that we know **what** experiences the novel — we define **where** those experiences occur.
+
+Not planet · city · timeline — the **architecture of reality itself**.
+
+→ **The Reality Engine** — what reality may do · what it cannot · how time · memory · causality · identity · consciousness interact · where boundaries lie
+
+→ [BUILD-017-reality-engine.md](BUILD-017-reality-engine.md) (queued)
+
+*(Supersedes "Chronology Engine" as BUILD-017 title · chronology remains subsystem in BUILD-015 §015.11)*
 
 ---
 
@@ -243,11 +242,9 @@ Phase Two begins. Next: BUILD-017 Chronology Engine.
 
 | BUILD-007 | BUILD-016 |
 |---|---|
-| Human beings not characters | Consciousness not characters |
-| Invisible biography · dignity | Consciousness map · ecology |
-| Design unit named (CF-CON-240) | Design unit **specified** (this BUILD) |
-
-BUILD-007 remains authoritative on **humanity**. BUILD-016 is authoritative on **consciousness mechanics**.
+| Human beings not characters | **Consciousnesses** not characters |
+| Dignity · invisible biography | Ten systems · scorecard · invisible life |
+| CF-CON-240 named | CF-CON-240 **specified** |
 
 ---
 
@@ -256,8 +253,9 @@ BUILD-007 remains authoritative on **humanity**. BUILD-016 is authoritative on *
 | Version | Entry | Change |
 |---|---|---|
 | — | CF-ENTRY-043 | BUILD-007 named consciousness design unit |
-| **1.0** | CF-ENTRY-053 | Full Consciousness Engine · five layers · loop · network |
+| 1.0 (partial) | CF-ENTRY-053 | First upload · truncated epilogue |
+| **1.0** | CF-ENTRY-054 | **Authoritative** · ten systems · incomplete consciousness · sixth node |
 
 ---
 
-*BUILD-016 Canonical v1.0 · frozen · CF-ENTRY-053*
+*BUILD-016 Canonical v1.0 · frozen · CF-ENTRY-054*

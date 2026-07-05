@@ -3,6 +3,14 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [1.4.1] — 2026-07-05
+
+### Changed
+- CF-ENTRY-054: BUILD-016 revised authoritative v1.0 (supersedes truncated CF-ENTRY-053)
+- Ten living systems · consciousness scorecard · incomplete consciousness · sixth node
+- BUILD-017 renamed: Chronology Engine → **The Reality Engine** (queued)
+- Concepts CF-CON-365–383 updated
+
 ## [1.4.0] — 2026-07-05
 
 ### Added

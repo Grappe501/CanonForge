@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "1.4.0",
-  "generated_at": "2026-07-05T21:41:21.569885+00:00",
+  "canonforge_version": "1.4.1",
+  "generated_at": "2026-07-05T21:43:32.130478+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 53,
+  "entry_count": 54,
   "concept_count": 380,
   "project_version": "0.2.0",
   "phase_two": "begun",
@@ -969,6 +969,37 @@
         "CF-CON-380"
       ],
       "byte_size": 7640
+    },
+    {
+      "entry_id": "CF-ENTRY-054",
+      "file": "knowledge/entries/054-build-016-consciousness-engine-v1-revised.md",
+      "sha256": "08a256633b0de3eee22c44b64a229080bd154dc0ef33145e35ed5f5a717b3718",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-240",
+        "CF-CON-364",
+        "CF-CON-365",
+        "CF-CON-366",
+        "CF-CON-367",
+        "CF-CON-373",
+        "CF-CON-368",
+        "CF-CON-369",
+        "CF-CON-370",
+        "CF-CON-371",
+        "CF-CON-372",
+        "CF-CON-374",
+        "CF-CON-375",
+        "CF-CON-376",
+        "CF-CON-377",
+        "CF-CON-378",
+        "CF-CON-379",
+        "CF-CON-380",
+        "CF-CON-381",
+        "CF-CON-382",
+        "CF-CON-383"
+      ],
+      "byte_size": 9690
     }
   ],
   "indexes": {
