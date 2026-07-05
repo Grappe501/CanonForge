@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "canonforge_version": "2.6.0",
-  "generated_at": "2026-07-05T22:15:35.636742+00:00",
+  "generated_at": "2026-07-05T22:16:07.473108+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
@@ -31,6 +31,8 @@
   "build_025_title": "Page Architecture",
   "build_026_version": "1.0",
   "build_026_title": "World Engine",
+  "build_027_version": "1.0",
+  "build_027_title": "Civilization Engine",
   "phase_three": "begun",
   "phase_one": "complete",
   "build_015_5_version": "0.1",
