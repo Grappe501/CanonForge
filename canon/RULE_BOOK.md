@@ -13,6 +13,28 @@ Every sentence on Read 1 must remain factually true on Read 5. Meaning may refra
 
 ---
 
+## Immutable Structure Laws
+
+### Second Law — No Beginning (CF-CON-057)
+
+> **The book has no beginning.**
+>
+> **The reader chooses where to enter the loop.**
+
+### Third Law — Invisible Contract (CF-CON-054)
+
+The reader unconsciously assumes linear reading. The novel never confirms or denies this until Recognition. Never state the contract. Never hint at it.
+
+### Opening/closing continuity (CF-CON-055 · CF-CON-056)
+
+- First page begins **mid-sentence** — no Chapter One · no prologue · no "start" signal
+- Book feels **already in progress**
+- Final sentence may be **grammatically incomplete** — thought completes on page one
+- Structure is **continuous**, not merely circular
+- Subconscious hook: *"Did I miss a page?"* → discovery: beginning waited for ending
+
+---
+
 ## Compile Stack
 
 Ordered gates before any prose reaches `manuscript/`:
@@ -73,9 +95,10 @@ Internal engineering vocabulary stays in `architecture/` and `canon/`.
 ## Ending Rules
 
 1. Invitation ending — reader completes meaning; answers *"Why did I think that happened?"* not *"What happened?"*
-2. Final image must pass Sixth Sense audit (same facts, new meaning)
-3. First/last sentence dyad locked before prose
+2. Final line may be grammatically incomplete — thought completes on page one (CF-CON-056)
+3. Final image must pass Sixth Sense audit (same facts, new meaning)
+4. First/last sentence dyad locked before prose — continuous, not circular
 
 ---
 
-*Derived from CF-CON-023 · CF-CON-047 · CF-ENTRY-010 · CF-ENTRY-014 · CF-ENTRY-023*
+*Derived from CF-CON-023 · CF-CON-047 · CF-CON-054 · CF-CON-057 · CF-ENTRY-010 · CF-ENTRY-014 · CF-ENTRY-023 · CF-ENTRY-025*

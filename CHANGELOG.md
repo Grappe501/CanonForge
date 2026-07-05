@@ -3,6 +3,13 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [0.2.3] — 2026-07-05
+
+### Added
+- CF-ENTRY-025: invisible reader contract · continuous opening/closing dyad · No Beginning law
+- Concepts CF-CON-054 through CF-CON-058
+- Immutable law locked: "The book has no beginning. The reader chooses where to enter the loop."
+
 ## [0.2.2] — 2026-07-05
 
 ### Added

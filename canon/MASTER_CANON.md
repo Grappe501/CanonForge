@@ -1,8 +1,8 @@
-# Master Canon v0.2.2
+# Master Canon v0.2.3
 
 > Governing creative constitution for CHRONOFORGE
 > Derived from locked concepts · open forks marked explicitly
-> Supersedes v0.2.1 (2026-07-05 · CF-ENTRY-024 mission reframe)
+> Supersedes v0.2.2 (2026-07-05 · CF-ENTRY-025 No Beginning law)
 
 ---
 
@@ -83,8 +83,8 @@ Each reread is a **Recognition** pass, not a twist:
 
 The reader is the **sixth protagonist**. The book does not change — the reader does.
 
-- Opening reads as **continuation** of the reader's prior life
-- First and last sentences form a **locked dyad**
+- Opening reads as **continuation** — mid-sentence, book already in progress (CF-CON-055)
+- First and last sentences form a **locked dyad** — continuous, not circular (CF-CON-036 · CF-CON-056)
 - Ending is an **invitation**, not a puzzle answer
 - Admire the **reader**, not the author
 
@@ -177,6 +177,42 @@ Readers cannot lean on author intent, interviews, or confirmations. They stay **
 
 If readers hunt the author's identity instead of the novel → focus has shifted away from the experience (failure mode).
 
+- **Copyright** exists in publication metadata only — invisible to reading experience (CF-CON-058)
+
+---
+
+## Immutable Structure Laws {#immutable-laws}
+
+### Law I — No Beginning (CF-CON-057)
+
+> **The book has no beginning.**
+>
+> **The reader chooses where to enter the loop.**
+
+Supports fractured chronology · layered rereads · reader transformation. Form and theme become one.
+
+### Law II — Invisible Contract (CF-CON-054)
+
+Reader assumes: *"I'm reading from beginning to end."*
+Novel silently: *"That's an interesting assumption."*
+Never stated. Never hinted. Carried until final pages.
+
+### Opening/closing continuity (CF-CON-055 · CF-CON-056 · exact text open fork)
+
+```txt
+PAGE ONE (example placeholder — not locked):
+  "...because by then the stars had already forgotten our names."
+
+FINAL LINE (example placeholder — not locked):
+  "...and only then did I finally understand why I had said..."
+
+READ 1:  "Did I miss a page?"
+READ 5:  The beginning was waiting for the ending.
+STRUCTURE: continuous — not merely circular
+```
+
+Presentation: black cover · one title · no By-line · no praise · story begins immediately.
+
 ---
 
 ## Originality Firewall
@@ -196,10 +232,11 @@ See [knowledge/OPEN_QUESTIONS.md](../knowledge/OPEN_QUESTIONS.md):
 - Memory-not-time apex confirmation
 - Final image
 - Promise sentence (Phase 1)
+- Opening/closing sentence dyad (exact text — CF-CON-036)
 - Final page text ("Begin again." vs silence — CF-CON-051)
 - Title page presentation (CF-CON-050)
 - Authorship mechanism (pseudonym vs anonymity — publication path)
 
 ---
 
-*v0.2.2 · 2026-07-05 · synthesized from CF-ENTRY-001 through CF-ENTRY-024*
+*v0.2.3 · 2026-07-05 · synthesized from CF-ENTRY-001 through CF-ENTRY-025*

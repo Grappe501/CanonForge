@@ -25,7 +25,9 @@
 | **Call me when you finish** | Target recommendation type — experience sharing, not craft admiration | CF-CON-038 |
 | **Conversation architecture** | Build for reader-to-reader uncovering dialogues | CF-CON-046 |
 | **Teaches rereading** | Novel teaches rereading of memories, assumptions, and lives | CF-CON-053 |
-| **Authorship philosophy** | Remove author from conversation; not author-mystery gimmick | CF-CON-048 |
+| **No beginning law** | The book has no beginning; reader chooses where to enter the loop | CF-CON-057 |
+| **Invisible contract** | Reader assumes linear read; novel silently subverts | CF-CON-054 |
+| **Continuous novel** | Final thought completes on page one—not circular, continuous | CF-CON-056 |
 | **7/10 reread** | Target: 7 of 10 finishers reread without prompting | CF-CON-029 |
 | **Compile stack** | Ordered validation gates before prose emission | CF-CON-023 |
 | **Design fork** | Explicitly unresolved decision; never smuggled as fact | CF-CON-005 |

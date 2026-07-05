@@ -28,3 +28,4 @@
 | CF-ENTRY-022 | `knowledge/entries/022-knowledge-os-system-design.md` | 2026-07-05 | processed | CF-CON-044 |
 | CF-ENTRY-023 | `knowledge/entries/023-experience-product-reaffirmation.md` | 2026-07-05 | processed | CF-CON-037, CF-CON-038, CF-CON-045, CF-CON-046, CF-CON-047 |
 | CF-ENTRY-024 | `knowledge/entries/024-anonymous-authorship-teaches-rereading.md` | 2026-07-05 | processed | CF-CON-048, CF-CON-049, CF-CON-050, CF-CON-051, CF-CON-052, CF-CON-053 |
+| CF-ENTRY-025 | `knowledge/entries/025-no-beginning-continuous-opening-closing.md` | 2026-07-05 | processed | CF-CON-054, CF-CON-055, CF-CON-056, CF-CON-057, CF-CON-058, CF-CON-036 |

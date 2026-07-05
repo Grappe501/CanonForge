@@ -49,6 +49,24 @@ Pseudonym acceptable for legal/publication (publisher knows identity). Complete 
 
 **CF-CON-051 · Open** — Final page: *"Begin again."* · nothing · silence as ending.
 
+## Opening/closing dyad {#opening-closing}
+
+**CF-CON-036 · CF-CON-055 · CF-CON-056 · Status: Open (exact text)**
+
+Placeholder examples from CF-ENTRY-025 — not locked prose:
+
+- Page one: *"...because by then the stars had already forgotten our names."*
+- Final line: *"...and only then did I finally understand why I had said..."*
+
+Final sentence grammatically incomplete; thought completes on page one. Novel is **continuous**, not circular.
+
+## Copyright page {#copyright}
+
+**CF-CON-058 · Locked distinction**
+
+Reading experience: no foreword · no dedication · no acknowledgments · story begins immediately.
+Legal requirement: copyright ownership in metadata/copyright page — not part of reading experience.
+
 ## Publication note
 
 Traditional publication may require pseudonym over total anonymity (contracts, copyright, royalties). Real identity protected with publisher; reader experience nearly identical.

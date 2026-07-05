@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 0.2.2 · 2026-07-05 · 53 concepts registered
+> Version 0.2.3 · 2026-07-05 · 58 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | CF-CON-033 | Butterfly small moments | Technique | **Locked** | Tiny choices ripple across time; small moments carry weight. | CF-ENTRY-016 |
 | CF-CON-034 | Meaning in interpreter | Theme | **Locked** | Meaning-making not puzzle-solving; invitation ending. | CF-ENTRY-017 |
 | CF-CON-035 | Opening as continuation | Heart | **Locked** | Opening reads as continuation of reader's prior life. | CF-ENTRY-018 |
-| CF-CON-036 | First/last sentence dyad | Heart | **Locked** | Opening and closing sentences form a locked pair. | CF-ENTRY-018 |
+| CF-CON-036 | First/last sentence dyad | Heart | **Locked** | Opening completes ending thought; grammatically incomplete final line; continuous not circular. | CF-ENTRY-018, CF-ENTRY-025 |
 | CF-CON-037 | Experience is product | Commerce | **Locked** | The reading experience—not the book object—is the product. | CF-ENTRY-019, CF-ENTRY-023 |
 | CF-CON-038 | Give it away / admire reader | Commerce | **Locked** | Generosity model; novel invites reader to admire their own discovery. | CF-ENTRY-019, CF-ENTRY-023 |
 | CF-CON-039 | Originality firewall | Genre | **Locked** | Borrow techniques; never plots, characters, planets, dialogue. | CF-ENTRY-006 |
@@ -57,6 +57,11 @@
 | CF-CON-051 | Ending silence | Design fork | **Open** | Final page: 'Begin again.' or nothing—silence as part of ending. | CF-ENTRY-024 |
 | CF-CON-052 | How did this book know | Heart | **Locked** | Target reader reaction—not 'who wrote this?' but 'how did it know I would think that?' | CF-ENTRY-024 |
 | CF-CON-053 | Teaches how to reread | Mission | **Locked** | Novel teaches rereading of books, memories, assumptions, and lives—not merely a rereadable novel. | CF-ENTRY-024 |
+| CF-CON-054 | Invisible reader contract | Architecture | **Locked** | Reader assumes beginning-to-end; novel silently subverts—never stated, never hinted. | CF-ENTRY-025 |
+| CF-CON-055 | Opening mid-sentence | Architecture | **Locked** | First page begins inside a sentence; book feels already in progress—no Chapter One. | CF-ENTRY-025 |
+| CF-CON-056 | Continuous not circular | Architecture | **Locked** | Final thought completes on page one; novel is continuous, not merely circular. | CF-ENTRY-025 |
+| CF-CON-057 | No beginning law | Governance | **Locked** | The book has no beginning; the reader chooses where to enter the loop. | CF-ENTRY-025 |
+| CF-CON-058 | Copyright invisible to reader | Commerce | **Locked** | Legal copyright exists in metadata; not part of reading experience. | CF-ENTRY-025 |
 
 ## Related Concepts
 
@@ -95,7 +100,7 @@
 - **CF-CON-033** (Butterfly small moments, Locked): CF-CON-014 → `knowledge/INFLUENCE_MATRIX.md`
 - **CF-CON-034** (Meaning in interpreter, Locked): CF-CON-003 → `canon/MASTER_CANON.md`
 - **CF-CON-035** (Opening as continuation, Locked): CF-CON-002 → `canon/MASTER_CANON.md`
-- **CF-CON-036** (First/last sentence dyad, Locked): CF-CON-002 → `canon/MASTER_CANON.md`
+- **CF-CON-036** (First/last sentence dyad, Locked): CF-CON-055, CF-CON-056 → `canon/MASTER_CANON.md`
 - **CF-CON-037** (Experience is product, Locked): CF-CON-038, CF-CON-045 → `canon/MASTER_CANON.md`
 - **CF-CON-038** (Give it away / admire reader, Locked): CF-CON-037 → `canon/MASTER_CANON.md`
 - **CF-CON-039** (Originality firewall, Locked): CF-CON-011 → `knowledge/INFLUENCE_MATRIX.md`
@@ -113,3 +118,8 @@
 - **CF-CON-051** (Ending silence, Open): CF-CON-036 → `knowledge/OPEN_QUESTIONS.md`
 - **CF-CON-052** (How did this book know, Locked): CF-CON-049, CF-CON-002 → `canon/MASTER_CANON.md`
 - **CF-CON-053** (Teaches how to reread, Locked): CF-CON-025, CF-CON-002 → `canon/MASTER_CANON.md`
+- **CF-CON-054** (Invisible reader contract, Locked): CF-CON-057, CF-CON-014 → `canon/RULE_BOOK.md`
+- **CF-CON-055** (Opening mid-sentence, Locked): CF-CON-035, CF-CON-056 → `canon/MASTER_CANON.md`
+- **CF-CON-056** (Continuous not circular, Locked): CF-CON-036, CF-CON-055 → `canon/MASTER_CANON.md`
+- **CF-CON-057** (No beginning law, Locked): CF-CON-054, CF-CON-056 → `canon/RULE_BOOK.md`
+- **CF-CON-058** (Copyright invisible to reader, Locked): CF-CON-048, CF-CON-050 → `knowledge/OPEN_QUESTIONS.md`

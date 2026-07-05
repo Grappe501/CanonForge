@@ -22,7 +22,10 @@
 | 2026-07-05 | Conversation architecture | Build for shared discovery | CF-CON-046 |
 | 2026-07-05 | Teaches-how-to-reread mission | CF-ENTRY-024 meta-mission | CF-CON-053 |
 | 2026-07-05 | Authorship as philosophy | Remove author from reader escape hatch | CF-CON-048, CF-CON-049 |
-| 2026-07-05 | Target reaction locked | "How did this book know I would think that?" | CF-CON-052 |
+| 2026-07-05 | No Beginning immutable law | CF-ENTRY-025 structural principle | CF-CON-057 |
+| 2026-07-05 | Invisible reader contract | Silent assumption subversion | CF-CON-054 |
+| 2026-07-05 | Continuous opening/closing dyad | Form and theme unified | CF-CON-055, CF-CON-056 |
+| 2026-07-05 | Copyright invisible to reader | Legal vs reading experience split | CF-CON-058 |
 | 2026-07-05 | Originality firewall | Genre pillars as physics not copy | CF-CON-039 |
 
 ## Open Forks (see OPEN_QUESTIONS.md)

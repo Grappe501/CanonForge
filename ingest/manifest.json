@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0.0",
   "canonforge_version": "0.2.0",
-  "generated_at": "2026-07-05T20:50:02.341328+00:00",
+  "generated_at": "2026-07-05T20:51:59.294669+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 24,
+  "entry_count": 25,
   "concept_count": 44,
   "entries": [
     {
@@ -299,6 +299,22 @@
         "CF-CON-053"
       ],
       "byte_size": 3026
+    },
+    {
+      "entry_id": "CF-ENTRY-025",
+      "file": "knowledge/entries/025-no-beginning-continuous-opening-closing.md",
+      "sha256": "e9e032282c3c00768427b03b695df442f7a4dee9fe86f67a85af14c8cef329d6",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-054",
+        "CF-CON-055",
+        "CF-CON-056",
+        "CF-CON-057",
+        "CF-CON-058",
+        "CF-CON-036"
+      ],
+      "byte_size": 3309
     }
   ],
   "indexes": {

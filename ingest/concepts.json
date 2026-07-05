@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "canonforge_version": "0.2.0",
-  "generated_at": "2026-07-05T20:50:02.343812+00:00",
+  "generated_at": "2026-07-05T20:51:59.294669+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -397,9 +397,10 @@
       "label": "First/last sentence dyad",
       "category": "Heart",
       "status": "Locked",
-      "definition": "Opening and closing sentences form a locked pair.",
+      "definition": "Opening completes ending thought; grammatically incomplete final line; continuous not circular.",
       "sources": [
-        "CF-ENTRY-018"
+        "CF-ENTRY-018",
+        "CF-ENTRY-025"
       ],
       "canon_ref": "canon/MASTER_CANON.md"
     },
@@ -596,6 +597,61 @@
         "CF-ENTRY-024"
       ],
       "canon_ref": "canon/MASTER_CANON.md"
+    },
+    {
+      "id": "CF-CON-054",
+      "label": "Invisible reader contract",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "Reader assumes beginning-to-end; novel silently subverts\u2014never stated, never hinted.",
+      "sources": [
+        "CF-ENTRY-025"
+      ],
+      "canon_ref": "canon/RULE_BOOK.md"
+    },
+    {
+      "id": "CF-CON-055",
+      "label": "Opening mid-sentence",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "First page begins inside a sentence; book feels already in progress\u2014no Chapter One.",
+      "sources": [
+        "CF-ENTRY-025"
+      ],
+      "canon_ref": "canon/MASTER_CANON.md"
+    },
+    {
+      "id": "CF-CON-056",
+      "label": "Continuous not circular",
+      "category": "Architecture",
+      "status": "Locked",
+      "definition": "Final thought completes on page one; novel is continuous, not merely circular.",
+      "sources": [
+        "CF-ENTRY-025"
+      ],
+      "canon_ref": "canon/MASTER_CANON.md"
+    },
+    {
+      "id": "CF-CON-057",
+      "label": "No beginning law",
+      "category": "Governance",
+      "status": "Locked",
+      "definition": "The book has no beginning; the reader chooses where to enter the loop.",
+      "sources": [
+        "CF-ENTRY-025"
+      ],
+      "canon_ref": "canon/RULE_BOOK.md"
+    },
+    {
+      "id": "CF-CON-058",
+      "label": "Copyright invisible to reader",
+      "category": "Commerce",
+      "status": "Locked",
+      "definition": "Legal copyright exists in metadata; not part of reading experience.",
+      "sources": [
+        "CF-ENTRY-025"
+      ],
+      "canon_ref": "knowledge/OPEN_QUESTIONS.md"
     }
   ],
   "edges": [
@@ -816,7 +872,12 @@
     },
     {
       "from": "CF-CON-036",
-      "to": "CF-CON-002",
+      "to": "CF-CON-055",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-036",
+      "to": "CF-CON-056",
       "type": "related"
     },
     {
@@ -932,6 +993,56 @@
     {
       "from": "CF-CON-053",
       "to": "CF-CON-002",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-054",
+      "to": "CF-CON-057",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-054",
+      "to": "CF-CON-014",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-055",
+      "to": "CF-CON-035",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-055",
+      "to": "CF-CON-056",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-056",
+      "to": "CF-CON-036",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-056",
+      "to": "CF-CON-055",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-057",
+      "to": "CF-CON-054",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-057",
+      "to": "CF-CON-056",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-058",
+      "to": "CF-CON-048",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-058",
+      "to": "CF-CON-050",
       "type": "related"
     }
   ]
