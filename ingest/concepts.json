@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "1.2.0",
-  "generated_at": "2026-07-05T21:36:05.024368+00:00",
+  "canonforge_version": "1.3.0",
+  "generated_at": "2026-07-05T21:37:52.004096+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -3983,6 +3983,50 @@
         "CF-ENTRY-051"
       ],
       "canon_ref": "canon/build/BUILD-015-resonance-matrix.md"
+    },
+    {
+      "id": "CF-CON-360",
+      "label": "Phase One complete",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "BUILD-001-015 philosophy and schema complete.",
+      "sources": [
+        "CF-ENTRY-052"
+      ],
+      "canon_ref": "canon/build/BUILD-015.5-chronoforge-master-architecture.md"
+    },
+    {
+      "id": "CF-CON-361",
+      "label": "Chronoforge Method",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Reusable storytelling system; novel is Version 1.",
+      "sources": [
+        "CF-ENTRY-052"
+      ],
+      "canon_ref": "canon/build/BUILD-015.5-chronoforge-master-architecture.md"
+    },
+    {
+      "id": "CF-CON-362",
+      "label": "Master Story Architecture",
+      "category": "Governance",
+      "status": "Active",
+      "definition": "Build Bible; dependencies validation workflow.",
+      "sources": [
+        "CF-ENTRY-052"
+      ],
+      "canon_ref": "canon/build/BUILD-015.5-chronoforge-master-architecture.md"
+    },
+    {
+      "id": "CF-CON-363",
+      "label": "BUILD-015.5 Build Bible",
+      "category": "Governance",
+      "status": "Active",
+      "definition": "Sits above all BUILDs; blocks 016 until v1.0.",
+      "sources": [
+        "CF-ENTRY-052"
+      ],
+      "canon_ref": "canon/build/BUILD-015.5-chronoforge-master-architecture.md"
     }
   ],
   "edges": [
@@ -7044,6 +7088,46 @@
     {
       "from": "CF-CON-359",
       "to": "CF-CON-335",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-360",
+      "to": "CF-CON-156",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-360",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-361",
+      "to": "CF-CON-334",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-361",
+      "to": "CF-CON-360",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-362",
+      "to": "CF-CON-361",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-362",
+      "to": "CF-CON-363",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-363",
+      "to": "CF-CON-362",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-363",
+      "to": "CF-CON-359",
       "type": "related"
     }
   ]

@@ -10,8 +10,9 @@
 ```txt
 BUILD-000.000   THE CONSTITUTION          → law (never broken)
 BUILD-000.001–003                     → North Star · One Question · Thematic
-BUILD-001–013                         → foundational canon **complete** (001 v0.1 · 002–013 v1.0)
-BUILD-014–015                         → engineering layer **complete** (014–015 v1.0)
+BUILD-001–015                         → Phase One **complete** (001 v0.1 · 002–015 v1.0)
+BUILD-015.5                           → Build Bible **in progress** (blocks 016)
+BUILD-016–036                         → queued (see CHRONOFORGE_PHASES.md)
 architecture/                         → expanded specs (derived · cross-ref)
 knowledge/entries/                    → verbatim source uploads
 ```
@@ -43,6 +44,9 @@ knowledge/entries/                    → verbatim source uploads
 | **013** | The Composer's Oath | **1.0** | **Frozen** | 036, 049 | CF-CON-169, 311–320 | [BUILD-013](BUILD-013-composers-oath.md) |
 | **014** | The Elements of Meaning | **1.0** | **Frozen** | 036, 050 | CF-CON-170, 321–334 | [BUILD-014](BUILD-014-elements-of-meaning.md) |
 | **015** | The Resonance Matrix | **1.0** | **Frozen** | 032, 050, 051 | CF-CON-134, 335–359 | [BUILD-015](BUILD-015-resonance-matrix.md) |
+| **015.5** | Chronoforge Master Architecture | **0.1** | **Active** | 052 | CF-CON-360–363 | [BUILD-015.5](BUILD-015.5-chronoforge-master-architecture.md) |
+| **016–025** | Phase Two engines | — | **Queued** | — | — | [CHRONOFORGE_PHASES](../architecture/CHRONOFORGE_PHASES.md) |
+| **026–036** | Phase Three novel | — | **Queued** | — | — | [CHRONOFORGE_PHASES](../architecture/CHRONOFORGE_PHASES.md) |
 
 ---
 

@@ -42,6 +42,8 @@
 | 2026-07-05 | Master Build Roadmap v1.0 | CF-ENTRY-035 session pause | CF-CON-150–155 |
 | 2026-07-05 | BUILD-001–013 frozen v1.0 | Foundational canon complete | CF-CON-156–320 |
 | 2026-07-05 | BUILD-014 Elements of Meaning | Supersedes Periodic Table stub | CF-CON-170 |
+| 2026-07-05 | Phase One complete | BUILD-001-015; Chronoforge Method | CF-CON-360 |
+| 2026-07-05 | BUILD-015.5 Build Bible started | Blocks BUILD-016 until v1.0 | CF-CON-362–363 |
 | 2026-07-05 | BUILD-015 Resonance Matrix v1.0 | Master control board · machine complete | CF-CON-336–359 |
 | 2026-07-05 | BUILD-014 Elements of Meaning v1.0 | Design language · storytelling system | CF-CON-321–335 |
 | 2026-07-05 | Resonance Matrix frozen | Crown jewel BUILD-015 canonical | CF-CON-134 |

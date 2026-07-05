@@ -1,5 +1,7 @@
 # Master Build Roadmap
 
+> **Phase One complete** · BUILD-015.5 Build Bible active · See [CHRONOFORGE_PHASES.md](CHRONOFORGE_PHASES.md)
+
 > **PROJECT CHRONOFORGE · Version 1.0**
 > *"The Novel That Reads the Reader"*
 > CF-CON-150 · CF-ENTRY-035
@@ -41,7 +43,7 @@ Treat with cathedral / operating-system discipline. Every piece serves the whole
 | **12** | Typography Physics | Rare · canonical meanings | **✓** VISUAL_GRAMMAR |
 | **13** | Symbol Engine | Every recurring motif tracked | Not started |
 | **14** | Echo Ledger | Every callback · page refs · payoff | Not started |
-| **15** | Resonance Matrix | Crown jewel spreadsheet · every page | Not started |
+| **15** | Resonance Matrix | Crown jewel spreadsheet · every page | **✓ BUILD-015 v1.0** |
 | **16** | Five Reading Engine | Every page maps to 5 reads | **Spec ✓** FIVE_LOCKS |
 | **17** | Humanity Engine | Experience not preach · Article XVI–XVII | **✓** Constitution |
 | **18** | Performance Edition | Composer's Pass · Original Score | **Framework ✓** |
@@ -178,7 +180,7 @@ PHASE 14 (author directive)     →  Prose emission gate (separate · TBD)
 
 ```txt
 COMPLETE:  Phase 0 (BUILD-001) · Phase 1 · BUILD-001–013 frozen · frameworks 3–4, 9–12, 16–19
-NEXT:      BUILD-015 Resonance Matrix → Phase 2 Book of Secrets
+NEXT:      BUILD-015.5 Build Bible v1.0 → then BUILD-016 Consciousness Engine
 ```
 
 ---

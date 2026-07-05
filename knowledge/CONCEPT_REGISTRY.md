@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 1.2.0 · 2026-07-05 · 359 concepts registered
+> Version 1.3.0 · 2026-07-05 · 363 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -363,6 +363,10 @@
 | CF-CON-357 | Keystone scene | Architecture | **Frozen** | 5-10 scenes; every system; structural arches. | CF-ENTRY-051 |
 | CF-CON-358 | Living constellation | Architecture | **Candidate** | Galaxy visualization of resonance web. | CF-ENTRY-051 |
 | CF-CON-359 | Matrix single source of truth | Governance | **Frozen** | Nothing in MS without Matrix; gate all prose. | CF-ENTRY-051 |
+| CF-CON-360 | Phase One complete | Governance | **Frozen** | BUILD-001-015 philosophy and schema complete. | CF-ENTRY-052 |
+| CF-CON-361 | Chronoforge Method | Governance | **Frozen** | Reusable storytelling system; novel is Version 1. | CF-ENTRY-052 |
+| CF-CON-362 | Master Story Architecture | Governance | **Active** | Build Bible; dependencies validation workflow. | CF-ENTRY-052 |
+| CF-CON-363 | BUILD-015.5 Build Bible | Governance | **Active** | Sits above all BUILDs; blocks 016 until v1.0. | CF-ENTRY-052 |
 
 ## Related Concepts
 
@@ -725,3 +729,7 @@
 - **CF-CON-357** (Keystone scene, Frozen): CF-CON-356, CF-CON-134 → `canon/build/BUILD-015-resonance-matrix.md`
 - **CF-CON-358** (Living constellation, Candidate): CF-CON-346, CF-CON-134 → `canon/build/BUILD-015-resonance-matrix.md`
 - **CF-CON-359** (Matrix single source of truth, Frozen): CF-CON-134, CF-CON-335 → `canon/build/BUILD-015-resonance-matrix.md`
+- **CF-CON-360** (Phase One complete, Frozen): CF-CON-156, CF-CON-134 → `canon/build/BUILD-015.5-chronoforge-master-architecture.md`
+- **CF-CON-361** (Chronoforge Method, Frozen): CF-CON-334, CF-CON-360 → `canon/build/BUILD-015.5-chronoforge-master-architecture.md`
+- **CF-CON-362** (Master Story Architecture, Active): CF-CON-361, CF-CON-363 → `canon/build/BUILD-015.5-chronoforge-master-architecture.md`
+- **CF-CON-363** (BUILD-015.5 Build Bible, Active): CF-CON-362, CF-CON-359 → `canon/build/BUILD-015.5-chronoforge-master-architecture.md`

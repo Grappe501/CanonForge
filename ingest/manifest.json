@@ -1,12 +1,17 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "1.2.0",
-  "generated_at": "2026-07-05T21:36:05.011055+00:00",
+  "canonforge_version": "1.3.0",
+  "generated_at": "2026-07-05T21:37:51.990143+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 51,
-  "concept_count": 359,
+  "entry_count": 52,
+  "concept_count": 363,
+  "project_version": "0.0.1",
+  "phase_one": "complete",
+  "build_015_5_version": "0.1",
+  "build_015_5_title": "Chronoforge Master Architecture",
+  "build_015_5_status": "active_blocks_016",
   "build_001_version": "0.1",
   "build_002_version": "1.0",
   "build_003_version": "1.0",
@@ -32,7 +37,6 @@
   "foundational_layer": "BUILD-001-013 complete",
   "engineering_layer": "BUILD-014-015 complete",
   "roadmap_version": "1.0",
-  "project_version": "0.0.1",
   "build_layer": "BUILD-001-013 frozen",
   "entries": [
     {
@@ -920,6 +924,20 @@
         "CF-CON-359"
       ],
       "byte_size": 10171
+    },
+    {
+      "entry_id": "CF-ENTRY-052",
+      "file": "knowledge/entries/052-phase-one-complete-master-architecture-directive.md",
+      "sha256": "dc47b1c4fc15f1c6dbde34550c421f52b90c2f2addc97330a5582dafcfd5e78a",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-360",
+        "CF-CON-361",
+        "CF-CON-362",
+        "CF-CON-363"
+      ],
+      "byte_size": 6426
     }
   ],
   "indexes": {

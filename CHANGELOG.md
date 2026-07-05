@@ -3,6 +3,20 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [1.3.0] — 2026-07-05
+
+### Added
+- CF-ENTRY-052: Phase One complete · Chronoforge Method · Master Architecture directive
+- BUILD-015.5 Chronoforge Master Architecture v0.1 (Build Bible scaffold)
+- architecture/CHRONOFORGE_PHASES.md — Phases 1–6 · BUILD-016–036 queue
+- Concepts CF-CON-360 through CF-CON-363
+
+### Changed
+- **Phase One declared complete** (BUILD-001–015)
+- **The Chronoforge Method** named — novel is Version 1
+- BUILD-016 blocked until BUILD-015.5 v1.0
+- PROJECT_STATUS · Master Canon v1.2.0 · project version 0.1.0
+
 ## [1.2.0] — 2026-07-05
 
 ### Added

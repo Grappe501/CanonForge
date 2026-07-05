@@ -35,6 +35,8 @@
 | **Resonance Matrix** | Master blueprint · Grand Matrix · SSOT | CF-CON-134 |
 | **Keystone scene** | 5-10 structural arches · every system | CF-CON-357 |
 | **Living constellation** | Galaxy visualization of novel graph | CF-CON-358 |
+| **Chronoforge Method** | Novel is Version 1; reusable system | CF-CON-361 |
+| **Build Bible** | BUILD-015.5 master architecture | CF-CON-363 |
 | **Prime Directive** | Does this increase discovery? | CF-CON-158 |
 | **I was out of order** | Reader not timeline is the deeper realization | CF-CON-172 |
 | **Wrong chapter anchor** | Hidden development bone · may not be printed | CF-CON-174 |
