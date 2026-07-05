@@ -1,0 +1,28 @@
+# Secrets and local-only
+.env
+.env.*
+*.key
+*.pem
+credentials.json
+secrets/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Build helpers (ephemeral)
+_build_scaffold.py
+generate_knowledge_layer.py
+generate_ingest.py
+generate_all.py
+
+# Future prose layer (not yet authorized)
+manuscript/
+
+# Local brain / temp
+*.tmp
+*.bak
+~$*
