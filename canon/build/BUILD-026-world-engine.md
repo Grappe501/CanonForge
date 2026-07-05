@@ -221,9 +221,9 @@ The world's central question **is** the fracture made cosmic.
 
 ---
 
-## BUILD-028 preview *(CF-ENTRY-066)*
+## BUILD-029 preview *(CF-ENTRY-067)*
 
-→ **BUILD-028 Technology** — downstream of meaning *(queued)*
+→ **BUILD-029 Transportation** — Movement-family tools *(queued)*
 
 ---
 

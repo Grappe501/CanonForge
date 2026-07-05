@@ -236,9 +236,9 @@ BUILD-015 named the ledger. BUILD-022 **specifies the grammar**.
 
 ---
 
-## BUILD-028 preview *(CF-ENTRY-066)*
+## BUILD-029 preview *(CF-ENTRY-067)*
 
-→ **BUILD-028 Technology** *(queued)*
+→ **BUILD-029 Transportation** *(queued)*
 
 ---
 

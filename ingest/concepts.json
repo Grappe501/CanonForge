@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "2.6.0",
-  "generated_at": "2026-07-05T22:15:35.660623+00:00",
+  "canonforge_version": "2.7.0",
+  "generated_at": "2026-07-05T22:19:25.652447+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -6471,6 +6471,226 @@
         "CF-ENTRY-066"
       ],
       "canon_ref": "canon/build/BUILD-027-civilization-engine.md#0270--purpose"
+    },
+    {
+      "id": "CF-CON-585",
+      "label": "Tool Engine",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Every artifact; tools reveal civilization.",
+      "sources": [
+        "CF-ENTRY-067"
+      ],
+      "canon_ref": "canon/build/BUILD-028-tool-engine.md"
+    },
+    {
+      "id": "CF-CON-586",
+      "label": "Tools reveal civilization",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Fingerprints of need hope fear values.",
+      "sources": [
+        "CF-ENTRY-067"
+      ],
+      "canon_ref": "canon/build/BUILD-028-tool-engine.md#0280--purpose"
+    },
+    {
+      "id": "CF-CON-587",
+      "label": "First law of tools",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Problem demanded tool or tool does not exist.",
+      "sources": [
+        "CF-ENTRY-067"
+      ],
+      "canon_ref": "canon/build/BUILD-028-tool-engine.md#0281--the-first-law"
+    },
+    {
+      "id": "CF-CON-588",
+      "label": "Cost of tools",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "No tool neutral; reshapes users.",
+      "sources": [
+        "CF-ENTRY-067"
+      ],
+      "canon_ref": "canon/build/BUILD-028-tool-engine.md#0282--the-cost-of-tools"
+    },
+    {
+      "id": "CF-CON-589",
+      "label": "Six families of tools",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Survival movement communication memory creation discovery.",
+      "sources": [
+        "CF-ENTRY-067"
+      ],
+      "canon_ref": "canon/build/BUILD-028-tool-engine.md#0283--the-six-families-of-tools"
+    },
+    {
+      "id": "CF-CON-590",
+      "label": "Tool record",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Eight fields per tool; Matrix Registry.",
+      "sources": [
+        "CF-ENTRY-067"
+      ],
+      "canon_ref": "canon/build/BUILD-028-tool-engine.md#0284--the-tool-record"
+    },
+    {
+      "id": "CF-CON-591",
+      "label": "Rule of tool elegance",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Inevitable simple; of course they created this.",
+      "sources": [
+        "CF-ENTRY-067"
+      ],
+      "canon_ref": "canon/build/BUILD-028-tool-engine.md#0285--the-rule-of-elegance"
+    },
+    {
+      "id": "CF-CON-592",
+      "label": "Tool of time",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Rare; obeys Reality Engine; no shortcut consequence.",
+      "sources": [
+        "CF-ENTRY-067"
+      ],
+      "canon_ref": "canon/build/BUILD-028-tool-engine.md#0286--the-tool-of-time"
+    },
+    {
+      "id": "CF-CON-593",
+      "label": "Tool of music",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Rhythm labor melody memory harmony belonging.",
+      "sources": [
+        "CF-ENTRY-067"
+      ],
+      "canon_ref": "canon/build/BUILD-028-tool-engine.md#0287--the-tool-of-music"
+    },
+    {
+      "id": "CF-CON-594",
+      "label": "Tool of story",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Stories preserve transmit warn comfort challenge.",
+      "sources": [
+        "CF-ENTRY-067"
+      ],
+      "canon_ref": "canon/build/BUILD-028-tool-engine.md#0288--the-tool-of-story"
+    },
+    {
+      "id": "CF-CON-595",
+      "label": "Tool of language",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Vocabulary infrastructure; what culture notices.",
+      "sources": [
+        "CF-ENTRY-067"
+      ],
+      "canon_ref": "canon/build/BUILD-028-tool-engine.md#0289--the-tool-of-language"
+    },
+    {
+      "id": "CF-CON-596",
+      "label": "Limit principle tools",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Limits create creativity; impossible stays impossible.",
+      "sources": [
+        "CF-ENTRY-067"
+      ],
+      "canon_ref": "canon/build/BUILD-028-tool-engine.md#02810--the-limit-principle"
+    },
+    {
+      "id": "CF-CON-597",
+      "label": "Human test tools",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Strengthen weaken human quality or lacks depth.",
+      "sources": [
+        "CF-ENTRY-067"
+      ],
+      "canon_ref": "canon/build/BUILD-028-tool-engine.md#02811--the-human-test"
+    },
+    {
+      "id": "CF-CON-598",
+      "label": "Reader tools",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Memory imagination empathy curiosity sharpened.",
+      "sources": [
+        "CF-ENTRY-067"
+      ],
+      "canon_ref": "canon/build/BUILD-028-tool-engine.md#02812--the-readers-tools"
+    },
+    {
+      "id": "CF-CON-599",
+      "label": "Final tool understanding",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Most powerful not machine; all supports it.",
+      "sources": [
+        "CF-ENTRY-067"
+      ],
+      "canon_ref": "canon/build/BUILD-028-tool-engine.md#02813--the-final-tool"
+    },
+    {
+      "id": "CF-CON-600",
+      "label": "Simplest tool",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Readers talk about quiet tool not spacecraft.",
+      "sources": [
+        "CF-ENTRY-067"
+      ],
+      "canon_ref": "canon/build/BUILD-028-tool-engine.md"
+    },
+    {
+      "id": "CF-CON-601",
+      "label": "Timeless science fiction",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Fresh fifty years; understanding not gadgets.",
+      "sources": [
+        "CF-ENTRY-067"
+      ],
+      "canon_ref": "canon/build/BUILD-028-tool-engine.md"
+    },
+    {
+      "id": "CF-CON-602",
+      "label": "Chronoforge as tool",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Novel one tool in story-tool philosophy.",
+      "sources": [
+        "CF-ENTRY-067"
+      ],
+      "canon_ref": "canon/build/BUILD-028-tool-engine.md#0288--the-tool-of-story"
+    },
+    {
+      "id": "CF-CON-603",
+      "label": "Understanding convergence",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Greatest invention mutual understanding; all builds converge.",
+      "sources": [
+        "CF-ENTRY-067"
+      ],
+      "canon_ref": "canon/build/BUILD-028-tool-engine.md"
+    },
+    {
+      "id": "CF-CON-604",
+      "label": "Tools not technology",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Renamed Technology; gadgets date human questions remain.",
+      "sources": [
+        "CF-ENTRY-067"
+      ],
+      "canon_ref": "canon/build/BUILD-028-tool-engine.md"
     }
   ],
   "edges": [
@@ -11882,6 +12102,211 @@
     {
       "from": "CF-CON-584",
       "to": "CF-CON-568",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-585",
+      "to": "CF-CON-565",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-585",
+      "to": "CF-CON-589",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-585",
+      "to": "CF-CON-599",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-586",
+      "to": "CF-CON-585",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-586",
+      "to": "CF-CON-587",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-587",
+      "to": "CF-CON-585",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-587",
+      "to": "CF-CON-568",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-588",
+      "to": "CF-CON-585",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-588",
+      "to": "CF-CON-163",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-589",
+      "to": "CF-CON-585",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-589",
+      "to": "CF-CON-569",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-590",
+      "to": "CF-CON-585",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-590",
+      "to": "CF-CON-431",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-591",
+      "to": "CF-CON-585",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-591",
+      "to": "CF-CON-491",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-592",
+      "to": "CF-CON-585",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-592",
+      "to": "CF-CON-383",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-593",
+      "to": "CF-CON-585",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-593",
+      "to": "CF-CON-505",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-594",
+      "to": "CF-CON-585",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-594",
+      "to": "CF-CON-574",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-595",
+      "to": "CF-CON-585",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-595",
+      "to": "CF-CON-572",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-596",
+      "to": "CF-CON-585",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-596",
+      "to": "CF-CON-384",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-597",
+      "to": "CF-CON-585",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-597",
+      "to": "CF-CON-580",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-598",
+      "to": "CF-CON-585",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-598",
+      "to": "CF-CON-164",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-599",
+      "to": "CF-CON-585",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-599",
+      "to": "CF-CON-581",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-600",
+      "to": "CF-CON-585",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-600",
+      "to": "CF-CON-601",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-601",
+      "to": "CF-CON-585",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-601",
+      "to": "CF-CON-599",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-602",
+      "to": "CF-CON-594",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-602",
+      "to": "CF-CON-361",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-603",
+      "to": "CF-CON-599",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-603",
+      "to": "CF-CON-549",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-604",
+      "to": "CF-CON-585",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-604",
+      "to": "CF-CON-039",
       "type": "related"
     }
   ]

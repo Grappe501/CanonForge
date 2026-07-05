@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "2.6.0",
-  "generated_at": "2026-07-05T22:16:07.473108+00:00",
+  "canonforge_version": "2.7.0",
+  "generated_at": "2026-07-05T22:19:25.621631+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 66,
-  "concept_count": 584,
+  "entry_count": 67,
+  "concept_count": 604,
   "project_version": "0.3.0",
   "phase_two": "complete",
   "build_016_version": "1.0",
@@ -1352,6 +1352,36 @@
         "CF-CON-584"
       ],
       "byte_size": 8801
+    },
+    {
+      "entry_id": "CF-ENTRY-067",
+      "file": "knowledge/entries/067-build-028-tool-engine-v1.md",
+      "sha256": "bb509fadda7a3a63e46317dae605030158b72b79dd9c7462760dd496f00f9b70",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-585",
+        "CF-CON-586",
+        "CF-CON-587",
+        "CF-CON-588",
+        "CF-CON-589",
+        "CF-CON-590",
+        "CF-CON-591",
+        "CF-CON-592",
+        "CF-CON-593",
+        "CF-CON-594",
+        "CF-CON-595",
+        "CF-CON-596",
+        "CF-CON-597",
+        "CF-CON-598",
+        "CF-CON-599",
+        "CF-CON-600",
+        "CF-CON-601",
+        "CF-CON-602",
+        "CF-CON-603",
+        "CF-CON-604"
+      ],
+      "byte_size": 7656
     }
   ],
   "indexes": {

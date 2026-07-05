@@ -69,6 +69,8 @@
 | **Civilization Engine** | Ways of being human; meaning not government | CF-CON-565 |
 | **Founding question** | Question that shaped a people; everything grows | CF-CON-568 |
 | **Human race discovery** | Reader arrives at belonging; not slogan | CF-CON-582 |
+| **Tool Engine** | Artifacts express civilization; not gadget SF | CF-CON-585 |
+| **Final tool understanding** | Most powerful tool is understanding | CF-CON-599 |
 | **Universe larger than imagined** | Ordinary world larger after closing book | CF-CON-563 |
 | **Motif not symbol** | Returns vs carries meaning | CF-CON-450 |
 | **Language of Silence** | Composed silence · seven forms | CF-CON-457 |

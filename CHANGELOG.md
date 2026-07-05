@@ -3,6 +3,16 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [2.7.0] — 2026-07-05
+
+### Added
+- CF-ENTRY-067: BUILD-028 The Tool Engine Canonical v1.0
+- Concepts CF-CON-585 through CF-CON-604
+- Six families of tools · tool record · cost of tools · rule of elegance
+- **Final tool = understanding** · Chronoforge as tool · timeless SF
+- Renamed: Technology → **Tool Engine**
+- Master Canon v1.5.2
+
 ## [2.6.0] — 2026-07-05
 
 ### Added

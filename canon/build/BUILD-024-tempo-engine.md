@@ -267,9 +267,9 @@ The sheet music is essential. The music only truly exists in **performance**.
 
 → **BUILD-026 The World Engine** — central question · **v1.0 frozen**
 
-## BUILD-028 preview *(CF-ENTRY-066)*
+## BUILD-029 preview *(CF-ENTRY-067)*
 
-→ **BUILD-028 Technology** *(queued)*
+→ **BUILD-029 Transportation** *(queued)*
 
 ---
 

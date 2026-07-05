@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 2.6.0 · 2026-07-05 · 584 concepts registered
+> Version 2.7.0 · 2026-07-05 · 604 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -588,6 +588,26 @@
 | CF-CON-582 | Human race discovery | Mission | **Frozen** | Reader arrives at human belonging alone. | CF-ENTRY-066 |
 | CF-CON-583 | Experience not proof humanity | Heart | **Frozen** | Novel experiences equality not proves slogan. | CF-ENTRY-066 |
 | CF-CON-584 | Downstream institutions | Governance | **Frozen** | Gov economy military downstream of meaning. | CF-ENTRY-066 |
+| CF-CON-585 | Tool Engine | Architecture | **Frozen** | Every artifact; tools reveal civilization. | CF-ENTRY-067 |
+| CF-CON-586 | Tools reveal civilization | Mission | **Frozen** | Fingerprints of need hope fear values. | CF-ENTRY-067 |
+| CF-CON-587 | First law of tools | Governance | **Frozen** | Problem demanded tool or tool does not exist. | CF-ENTRY-067 |
+| CF-CON-588 | Cost of tools | Architecture | **Frozen** | No tool neutral; reshapes users. | CF-ENTRY-067 |
+| CF-CON-589 | Six families of tools | Architecture | **Frozen** | Survival movement communication memory creation discovery. | CF-ENTRY-067 |
+| CF-CON-590 | Tool record | Architecture | **Frozen** | Eight fields per tool; Matrix Registry. | CF-ENTRY-067 |
+| CF-CON-591 | Rule of tool elegance | Governance | **Frozen** | Inevitable simple; of course they created this. | CF-ENTRY-067 |
+| CF-CON-592 | Tool of time | Governance | **Frozen** | Rare; obeys Reality Engine; no shortcut consequence. | CF-ENTRY-067 |
+| CF-CON-593 | Tool of music | Architecture | **Frozen** | Rhythm labor melody memory harmony belonging. | CF-ENTRY-067 |
+| CF-CON-594 | Tool of story | Architecture | **Frozen** | Stories preserve transmit warn comfort challenge. | CF-ENTRY-067 |
+| CF-CON-595 | Tool of language | Architecture | **Frozen** | Vocabulary infrastructure; what culture notices. | CF-ENTRY-067 |
+| CF-CON-596 | Limit principle tools | Governance | **Frozen** | Limits create creativity; impossible stays impossible. | CF-ENTRY-067 |
+| CF-CON-597 | Human test tools | Governance | **Frozen** | Strengthen weaken human quality or lacks depth. | CF-ENTRY-067 |
+| CF-CON-598 | Reader tools | Heart | **Frozen** | Memory imagination empathy curiosity sharpened. | CF-ENTRY-067 |
+| CF-CON-599 | Final tool understanding | Mission | **Frozen** | Most powerful not machine; all supports it. | CF-ENTRY-067 |
+| CF-CON-600 | Simplest tool | Mission | **Frozen** | Readers talk about quiet tool not spacecraft. | CF-ENTRY-067 |
+| CF-CON-601 | Timeless science fiction | Mission | **Frozen** | Fresh fifty years; understanding not gadgets. | CF-ENTRY-067 |
+| CF-CON-602 | Chronoforge as tool | Mission | **Frozen** | Novel one tool in story-tool philosophy. | CF-ENTRY-067 |
+| CF-CON-603 | Understanding convergence | Mission | **Frozen** | Greatest invention mutual understanding; all builds converge. | CF-ENTRY-067 |
+| CF-CON-604 | Tools not technology | Governance | **Frozen** | Renamed Technology; gadgets date human questions remain. | CF-ENTRY-067 |
 
 ## Related Concepts
 
@@ -1175,3 +1195,23 @@
 - **CF-CON-582** (Human race discovery, Frozen): CF-CON-565, CF-CON-145 → `canon/build/BUILD-027-civilization-engine.md`
 - **CF-CON-583** (Experience not proof humanity, Frozen): CF-CON-582, CF-CON-171 → `canon/build/BUILD-027-civilization-engine.md`
 - **CF-CON-584** (Downstream institutions, Frozen): CF-CON-565, CF-CON-568 → `canon/build/BUILD-027-civilization-engine.md#0270--purpose`
+- **CF-CON-585** (Tool Engine, Frozen): CF-CON-565, CF-CON-589, CF-CON-599 → `canon/build/BUILD-028-tool-engine.md`
+- **CF-CON-586** (Tools reveal civilization, Frozen): CF-CON-585, CF-CON-587 → `canon/build/BUILD-028-tool-engine.md#0280--purpose`
+- **CF-CON-587** (First law of tools, Frozen): CF-CON-585, CF-CON-568 → `canon/build/BUILD-028-tool-engine.md#0281--the-first-law`
+- **CF-CON-588** (Cost of tools, Frozen): CF-CON-585, CF-CON-163 → `canon/build/BUILD-028-tool-engine.md#0282--the-cost-of-tools`
+- **CF-CON-589** (Six families of tools, Frozen): CF-CON-585, CF-CON-569 → `canon/build/BUILD-028-tool-engine.md#0283--the-six-families-of-tools`
+- **CF-CON-590** (Tool record, Frozen): CF-CON-585, CF-CON-431 → `canon/build/BUILD-028-tool-engine.md#0284--the-tool-record`
+- **CF-CON-591** (Rule of tool elegance, Frozen): CF-CON-585, CF-CON-491 → `canon/build/BUILD-028-tool-engine.md#0285--the-rule-of-elegance`
+- **CF-CON-592** (Tool of time, Frozen): CF-CON-585, CF-CON-383 → `canon/build/BUILD-028-tool-engine.md#0286--the-tool-of-time`
+- **CF-CON-593** (Tool of music, Frozen): CF-CON-585, CF-CON-505 → `canon/build/BUILD-028-tool-engine.md#0287--the-tool-of-music`
+- **CF-CON-594** (Tool of story, Frozen): CF-CON-585, CF-CON-574 → `canon/build/BUILD-028-tool-engine.md#0288--the-tool-of-story`
+- **CF-CON-595** (Tool of language, Frozen): CF-CON-585, CF-CON-572 → `canon/build/BUILD-028-tool-engine.md#0289--the-tool-of-language`
+- **CF-CON-596** (Limit principle tools, Frozen): CF-CON-585, CF-CON-384 → `canon/build/BUILD-028-tool-engine.md#02810--the-limit-principle`
+- **CF-CON-597** (Human test tools, Frozen): CF-CON-585, CF-CON-580 → `canon/build/BUILD-028-tool-engine.md#02811--the-human-test`
+- **CF-CON-598** (Reader tools, Frozen): CF-CON-585, CF-CON-164 → `canon/build/BUILD-028-tool-engine.md#02812--the-readers-tools`
+- **CF-CON-599** (Final tool understanding, Frozen): CF-CON-585, CF-CON-581 → `canon/build/BUILD-028-tool-engine.md#02813--the-final-tool`
+- **CF-CON-600** (Simplest tool, Frozen): CF-CON-585, CF-CON-601 → `canon/build/BUILD-028-tool-engine.md`
+- **CF-CON-601** (Timeless science fiction, Frozen): CF-CON-585, CF-CON-599 → `canon/build/BUILD-028-tool-engine.md`
+- **CF-CON-602** (Chronoforge as tool, Frozen): CF-CON-594, CF-CON-361 → `canon/build/BUILD-028-tool-engine.md#0288--the-tool-of-story`
+- **CF-CON-603** (Understanding convergence, Frozen): CF-CON-599, CF-CON-549 → `canon/build/BUILD-028-tool-engine.md`
+- **CF-CON-604** (Tools not technology, Frozen): CF-CON-585, CF-CON-039 → `canon/build/BUILD-028-tool-engine.md`

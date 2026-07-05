@@ -1,7 +1,7 @@
-# Master Canon v1.5.1
+# Master Canon v1.5.2
 
-> **BUILD-027:** Civilization Engine · founding question · ways of being human
-> Supersedes v1.5.0 (2026-07-05 · BUILD-027 CF-ENTRY-066 · CanonForge 2.6.0)
+> **BUILD-028:** Tool Engine · tools not technology · final tool = understanding
+> Supersedes v1.5.1 (2026-07-05 · BUILD-028 CF-ENTRY-067 · CanonForge 2.7.0)
 
 ---
 
@@ -42,11 +42,11 @@ Key locked insights:
 | **Four Pillars** | Strengthen ≥1 of Wonder · **Connection** · Resonance · Transformation? | BUILD-003 v1.0 |
 | Seven Laws | Immutable · complies with BUILD-004 v1.0? | BUILD-004 |
 
-**Stack:** BUILD-001 = *why* · … · **026 = *living world*** · **027 = *ways of being human***
+**Stack:** BUILD-001 = *why* · … · **027 = *ways of being human*** · **028 = *tools not gadgets***
+
+→ [build/BUILD-028-tool-engine.md](build/BUILD-028-tool-engine.md) · Six Families · Tool Record · Final Tool = Understanding
 
 → [build/BUILD-027-civilization-engine.md](build/BUILD-027-civilization-engine.md) · Founding Question · Six Foundations · Cumulative Truth
-
-→ [build/BUILD-026-world-engine.md](build/BUILD-026-world-engine.md) · Central Question · Gravitational Center · World as First Character
 
 → [build/BUILD-024-tempo-engine.md](build/BUILD-024-tempo-engine.md) · Five Tempos · Tempo Ledger · Performance Model
 
@@ -215,6 +215,14 @@ Government · economy · military are **downstream** *(CF-CON-584)* — civiliza
 Truth is **cumulative not competitive** — *"What does each civilization see that the others cannot?"* *(CF-CON-581)*.
 
 **Human race** is a **discovery** the reader arrives at — not a slogan the book proves *(CF-CON-582 · CF-CON-583)*. See [build/BUILD-027-civilization-engine.md](build/BUILD-027-civilization-engine.md).
+
+### Tool immutable law (CF-CON-585 · BUILD-028)
+
+> **Tools reveal the civilization that created them.**
+
+Technology is **one category of tools** *(CF-CON-604)* — language · music · memory · maps · stories · time may all be tools. Every tool solves a **problem** or does not exist *(CF-CON-587)*. **No tool is neutral** *(CF-CON-588)*.
+
+The most powerful tool is **understanding** — not a machine *(CF-CON-599)*. Readers should remember **the simplest tool** that changed how they think *(CF-CON-600)*. See [build/BUILD-028-tool-engine.md](build/BUILD-028-tool-engine.md).
 
 ### Visual Grammar (CF-CON-080 · CF-CON-081)
 

@@ -16,7 +16,7 @@
 | **Story Written** | 0% |
 | **Philosophy + Schema** | **100%** (BUILD-001–015 frozen) |
 | **Engineering** | **100%** (BUILD-016–025 frozen) |
-| **Novel Substrate** | **Begun** (026–027 frozen) |
+| **Novel Substrate** | **Begun** (026–028 frozen) |
 | **Build Bible** | **~15%** (BUILD-015.5 v0.1 scaffold) |
 
 ---
@@ -26,10 +26,10 @@
 | Field | Value |
 |---|---|
 | **Repo** | CanonForge (`Grappe501/CanonForge`) |
-| **Repo Version** | See [VERSION](../../VERSION) · **2.6.0** |
-| **Build Layer** | BUILD-001–027 frozen · **015.5 active** |
-| **Entries** | CF-ENTRY-001 through CF-ENTRY-066 |
-| **Concepts** | 584+ |
+| **Repo Version** | See [VERSION](../../VERSION) · **2.7.0** |
+| **Build Layer** | BUILD-001–028 frozen · **015.5 active** |
+| **Entries** | CF-ENTRY-001 through CF-ENTRY-067 |
+| **Concepts** | 604+ |
 | **Traceability** | Entry → Concept → BUILD → Architecture → Matrix |
 
 ---
@@ -41,7 +41,7 @@
 | **One** | Philosophy + engineering schema | **✓ COMPLETE** |
 | **015.5** | Build Bible (master architecture) | **In progress** |
 | **Two** | Engineering (BUILD-016–025) | **✓ COMPLETE** |
-| **Three** | Novel substrate (BUILD-026–036) | **Begun** (026–027 ✓) |
+| **Three** | Novel substrate (BUILD-026–036) | **Begun** (026–028 ✓) |
 | **Four–Six** | Lives · Composition · Performance | Queued |
 
 → [BUILD-026](BUILD-026-world-engine.md) · [BUILD-015.5](BUILD-015.5-chronoforge-master-architecture.md)
@@ -51,11 +51,11 @@
 ## Governance mode
 
 ```txt
-STOP:   BUILD-028 until BUILD-015.5 v1.0 (016–027 done per author uploads)
-START:  Phase Three · BUILD-028 Technology · Build Bible expansion
+STOP:   BUILD-029 until BUILD-015.5 v1.0 (016–028 done per author uploads)
+START:  Phase Three · BUILD-029 Transportation · Build Bible expansion
 NEVER:  manuscript/ until Phase Five gate
 ```
 
 ---
 
-*Project v0.3.0 · Phase Three · BUILD-026–027 frozen · CF-ENTRY-066*
+*Project v0.3.0 · Phase Three · BUILD-026–028 frozen · CF-ENTRY-067*
