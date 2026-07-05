@@ -68,14 +68,14 @@ Final sentence grammatically incomplete; thought completes on page one. Novel is
 
 **CF-ENTRY-055 epilogue · Status: Open (BUILD-018+ gate)**
 
-Architecture must now give birth to the actual story. Concrete questions deferred until Fracture Map and Phase Three:
+Architecture must now give birth to the actual story. Concrete questions deferred until **Fracture Engine** records and Phase Three:
 
 - What actually happened in the **true chronology**?
 - Who are the **consciousnesses** that inhabit this world?
-- What is the **central wound** that fractured time?
+- What is the **central fracture** — the governing gap all others orbit?
 - Why does the story **begin where it begins** — not at the chronological beginning?
 
-BUILD-017 defines reality laws. Answers live in BUILD-018+ and Phase Three — not yet in Master Canon.
+BUILD-017 defines reality laws. BUILD-018 defines the gap between reality and understanding. Concrete instances live in Matrix fracture records and Phase Three — not yet in Master Canon.
 
 ## Hidden mathematics {#hidden-math}
 

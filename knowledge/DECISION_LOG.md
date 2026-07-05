@@ -42,6 +42,7 @@
 | 2026-07-05 | Master Build Roadmap v1.0 | CF-ENTRY-035 session pause | CF-CON-150–155 |
 | 2026-07-05 | BUILD-001–013 frozen v1.0 | Foundational canon complete | CF-CON-156–320 |
 | 2026-07-05 | BUILD-014 Elements of Meaning | Supersedes Periodic Table stub | CF-CON-170 |
+| 2026-07-05 | BUILD-018 Fracture Engine v1.0 | Understanding not damage · recognition not puzzle | CF-CON-401–415 |
 | 2026-07-05 | BUILD-017 Reality Engine v1.0 | Five layers · story-true reality · seventeen principles | CF-CON-383–400 |
 | 2026-07-05 | BUILD-016 revised v1.0 | Ten systems · incomplete consciousness | CF-CON-365–382 |
 | 2026-07-05 | BUILD-017 Reality Engine queued | Supersedes chronology as BUILD title | CF-CON-383 |

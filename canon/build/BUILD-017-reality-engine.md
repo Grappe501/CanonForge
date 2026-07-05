@@ -250,22 +250,15 @@ BUILD-015 §015.11 **Chronology Engine** remains operational authority for seque
 
 BUILD-017 defines **reality laws** within which chronology operates — not a replacement chronology doc.
 
-→ **BUILD-018 Fracture Map** — where · why · how chronology breaks *(next concrete layer)*
+→ **BUILD-018 Fracture Engine** — governs the gap between reality and understanding *(frozen)*
 
 ---
 
-## BUILD-018 preview *(CF-ENTRY-055)*
+## BUILD-019 preview *(CF-ENTRY-056)*
 
-Architecture must now give birth to the **actual story**.
+The Fracture Engine names **how** understanding fragments and integrates. The next engines populate **records** — memory storage · resonance registry · concrete fracture instances.
 
-The next builds become increasingly concrete:
-
-- What actually happened in the **true chronology**?
-- Who are the **consciousnesses** that inhabit this world?
-- What is the **central wound** that fractured time?
-- Why does the story **begin where it begins** — not at the chronological beginning?
-
-→ [BUILD-018](BUILD-018-fracture-map.md) *(queued)*
+→ **BUILD-019 Memory Engine** *(queued)*
 
 ---
 

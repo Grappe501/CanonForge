@@ -1,18 +1,20 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "1.5.0",
-  "generated_at": "2026-07-05T21:45:52.405538+00:00",
+  "canonforge_version": "1.6.0",
+  "generated_at": "2026-07-05T21:47:21.705959+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 55,
-  "concept_count": 400,
+  "entry_count": 56,
+  "concept_count": 415,
   "project_version": "0.2.0",
   "phase_two": "begun",
   "build_016_version": "1.0",
   "build_016_title": "Consciousness Engine",
   "build_017_version": "1.0",
   "build_017_title": "Reality Engine",
+  "build_018_version": "1.0",
+  "build_018_title": "Fracture Engine",
   "phase_one": "complete",
   "build_015_5_version": "0.1",
   "build_015_5_title": "Chronoforge Master Architecture",
@@ -1031,6 +1033,31 @@
         "CF-CON-400"
       ],
       "byte_size": 7115
+    },
+    {
+      "entry_id": "CF-ENTRY-056",
+      "file": "knowledge/entries/056-build-018-fracture-engine-v1.md",
+      "sha256": "c84730d849420d60175778f2e725fbbdbcf61d00f91277924f7f9ce5e0f7e693",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-401",
+        "CF-CON-402",
+        "CF-CON-403",
+        "CF-CON-404",
+        "CF-CON-405",
+        "CF-CON-406",
+        "CF-CON-407",
+        "CF-CON-408",
+        "CF-CON-409",
+        "CF-CON-410",
+        "CF-CON-411",
+        "CF-CON-412",
+        "CF-CON-413",
+        "CF-CON-414",
+        "CF-CON-415"
+      ],
+      "byte_size": 6995
     }
   ],
   "indexes": {

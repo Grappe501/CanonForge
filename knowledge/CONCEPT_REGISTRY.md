@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 1.5.0 · 2026-07-05 · 400 concepts registered
+> Version 1.6.0 · 2026-07-05 · 415 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -404,6 +404,21 @@
 | CF-CON-398 | Reality discovered not lectured | Heart | **Frozen** | World rules learned by living inside them. | CF-ENTRY-055 |
 | CF-CON-399 | Reality test | Governance | **Frozen** | Five questions before worldbuilding enters manuscript. | CF-ENTRY-055 |
 | CF-CON-400 | Truthful universe | Mission | **Frozen** | Foundation for honest mysteries; truthful not strange. | CF-ENTRY-055 |
+| CF-CON-401 | Fracture Engine | Architecture | **Frozen** | Gap between reality and understanding; fragments integrate. | CF-ENTRY-056 |
+| CF-CON-402 | Fracture as perspective | Theme | **Frozen** | Fracture is not damage; nothing broke in reality. | CF-ENTRY-056 |
+| CF-CON-403 | Reality whole understanding fragments | Mission | **Frozen** | Reality complete; observer and reader arrive in fragments. | CF-ENTRY-056 |
+| CF-CON-404 | Five fracture domains | Architecture | **Frozen** | Chronological memory identity relationship meaning. | CF-ENTRY-056 |
+| CF-CON-405 | Fracture curve | Process | **Frozen** | Encounter to wonder; integration not resolution. | CF-ENTRY-056 |
+| CF-CON-406 | Fracture map record | Architecture | **Frozen** | Ledger row per fracture; ID domain recognition integration. | CF-ENTRY-056 |
+| CF-CON-407 | Fracture limit | Governance | **Frozen** | Productive curiosity not overload; breathing rhythm. | CF-ENTRY-056 |
+| CF-CON-408 | Fractures as music | Architecture | **Frozen** | Suspended chord not surprise; tension to harmony. | CF-ENTRY-056 |
+| CF-CON-409 | Human parallel fracture | Heart | **Frozen** | Meaning arrives late; Chronoforge makes visible. | CF-ENTRY-056 |
+| CF-CON-410 | Readers fracture | Heart | **Frozen** | Deepest fracture in reader; integration outside book. | CF-ENTRY-056 |
+| CF-CON-411 | Fracture web | Architecture | **Frozen** | Fractures networked; Matrix tracks cross-domain. | CF-ENTRY-056 |
+| CF-CON-412 | Fracture test | Governance | **Frozen** | Five questions; remove if merely to surprise. | CF-ENTRY-056 |
+| CF-CON-413 | Central fracture | Architecture | **Frozen** | One governing fracture; all others orbit. | CF-ENTRY-056 |
+| CF-CON-414 | Integration moment | Heart | **Frozen** | See more not fooled; essential emotional distinction. | CF-ENTRY-056 |
+| CF-CON-415 | Recognition not puzzle | Mission | **Frozen** | Present pieces not missing; moments not riddles. | CF-ENTRY-056 |
 
 ## Related Concepts
 
@@ -807,3 +822,18 @@
 - **CF-CON-398** (Reality discovered not lectured, Frozen): CF-CON-383, CF-CON-282 → `canon/build/BUILD-017-reality-engine.md#01714--the-readers-experience`
 - **CF-CON-399** (Reality test, Frozen): CF-CON-383, CF-CON-204 → `canon/build/BUILD-017-reality-engine.md#01715--the-reality-test`
 - **CF-CON-400** (Truthful universe, Frozen): CF-CON-383, CF-CON-384 → `canon/build/BUILD-017-reality-engine.md#01716--the-final-principle`
+- **CF-CON-401** (Fracture Engine, Frozen): CF-CON-383, CF-CON-403, CF-CON-415 → `canon/build/BUILD-018-fracture-engine.md`
+- **CF-CON-402** (Fracture as perspective, Frozen): CF-CON-401, CF-CON-385 → `canon/build/BUILD-018-fracture-engine.md#0180--purpose`
+- **CF-CON-403** (Reality whole understanding fragments, Frozen): CF-CON-401, CF-CON-380 → `canon/build/BUILD-018-fracture-engine.md#0181--the-first-principle`
+- **CF-CON-404** (Five fracture domains, Frozen): CF-CON-401, CF-CON-140 → `canon/build/BUILD-018-fracture-engine.md#0182--the-five-fractures`
+- **CF-CON-405** (Fracture curve, Frozen): CF-CON-401, CF-CON-161 → `canon/build/BUILD-018-fracture-engine.md#0183--the-fracture-curve`
+- **CF-CON-406** (Fracture map record, Frozen): CF-CON-401, CF-CON-134 → `canon/build/BUILD-018-fracture-engine.md#0184--the-fracture-map`
+- **CF-CON-407** (Fracture limit, Frozen): CF-CON-401, CF-CON-177 → `canon/build/BUILD-018-fracture-engine.md#0185--the-fracture-limit`
+- **CF-CON-408** (Fractures as music, Frozen): CF-CON-401, CF-CON-162 → `canon/build/BUILD-018-fracture-engine.md#0186--fractures-as-music`
+- **CF-CON-409** (Human parallel fracture, Frozen): CF-CON-401, CF-CON-140 → `canon/build/BUILD-018-fracture-engine.md#0187--the-human-parallel`
+- **CF-CON-410** (Readers fracture, Frozen): CF-CON-401, CF-CON-382 → `canon/build/BUILD-018-fracture-engine.md#0188--the-readers-fracture`
+- **CF-CON-411** (Fracture web, Frozen): CF-CON-401, CF-CON-388 → `canon/build/BUILD-018-fracture-engine.md#0189--the-fracture-web`
+- **CF-CON-412** (Fracture test, Frozen): CF-CON-401, CF-CON-399 → `canon/build/BUILD-018-fracture-engine.md#01810--the-fracture-test`
+- **CF-CON-413** (Central fracture, Frozen): CF-CON-401, CF-CON-134 → `canon/build/BUILD-018-fracture-engine.md#01811--the-central-fracture`
+- **CF-CON-414** (Integration moment, Frozen): CF-CON-401, CF-CON-100 → `canon/build/BUILD-018-fracture-engine.md#01812--the-integration-moment`
+- **CF-CON-415** (Recognition not puzzle, Frozen): CF-CON-401, CF-CON-034 → `canon/build/BUILD-018-fracture-engine.md`

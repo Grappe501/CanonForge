@@ -230,7 +230,9 @@ Now that we know **what** experiences the novel and **where** — the architectu
 
 → [BUILD-017-reality-engine.md](BUILD-017-reality-engine.md) · **v1.0 frozen**
 
-→ **BUILD-018 Fracture Map** — true chronology · central wound · why the story begins where it begins *(queued)*
+→ **BUILD-018 Fracture Engine** — gap between reality and understanding · **v1.0 frozen**
+
+→ **BUILD-019 Memory Engine** *(queued)*
 
 *(Supersedes "Chronology Engine" as BUILD-017 title · chronology remains subsystem in BUILD-015 §015.11)*
 

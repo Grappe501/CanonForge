@@ -44,6 +44,9 @@
 | **Story-true reality** | What reality makes this story true | CF-CON-384 |
 | **Five layers of reality** | Physical · experienced · remembered · shared · underlying | CF-CON-386 |
 | **Reality test** | Five gates before worldbuilding enters MS | CF-CON-399 |
+| **Fracture Engine** | Gap between reality and understanding | CF-CON-401 |
+| **Recognition not puzzle** | Present pieces; moments not riddles | CF-CON-415 |
+| **Central fracture** | Governing fracture all others orbit | CF-CON-413 |
 | **Prime Directive** | Does this increase discovery? | CF-CON-158 |
 | **I was out of order** | Reader not timeline is the deeper realization | CF-CON-172 |
 | **Wrong chapter anchor** | Hidden development bone · may not be printed | CF-CON-174 |

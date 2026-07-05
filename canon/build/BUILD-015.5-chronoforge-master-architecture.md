@@ -119,7 +119,7 @@ We did not build a novel. We built a **theory of storytelling** — an operating
 |---|---|---|
 | **016** | Consciousness Engine | Replaces character sheets |
 | **017** | The Reality Engine | **✓ v1.0** · five layers · CF-ENTRY-055 |
-| **018** | Fracture Map | Where · why · how chronology breaks |
+| **018** | The Fracture Engine | **✓ v1.0** · five domains · CF-ENTRY-056 |
 | **019** | Memory Engine | Storage · editing · false certainty |
 | **020** | Resonance Registry | Every recurring motif |
 | **021** | Symbol Genome | Symbolic language · families · payoffs |
@@ -157,7 +157,7 @@ BUILD-015 defines **what** gets tracked. Phase Two BUILDs **populate** each ledg
 | Emotion Ledger | BUILD-015 §015.8 | BUILD-006 |
 | Assumption Ledger | BUILD-015 §015.9 | BUILD-008 · BUILD-019 |
 | Discovery Ledger | BUILD-015 §015.10 | BUILD-002 |
-| Chronology Engine | BUILD-015 §015.11 | BUILD-017 Reality Engine · BUILD-018 |
+| Chronology Engine | BUILD-015 §015.11 | BUILD-017 Reality Engine · BUILD-018 Fracture Engine |
 | Resonance Web | BUILD-015 §015.12 | BUILD-020 · BUILD-021 |
 | Page Score | BUILD-015 §015.13 | BUILD-024 · BUILD-025 |
 | Five-Read Map | BUILD-015 §015.14 | BUILD-005 · FIVE_LOCKS |
@@ -264,7 +264,7 @@ Build Bible v1.0 requires:
 
 ## 015.5.11 — What happens next
 
-**Do not proceed to BUILD-018** until BUILD-015.5 reaches v1.0 *(BUILD-016–017 excepted per CF-ENTRY-053/055)*.
+**Do not proceed to BUILD-019** until BUILD-015.5 reaches v1.0 *(BUILD-016–018 excepted per CF-ENTRY-053/055/056)*.
 
 Next passes expand this document into the full 100–200 page Build Bible:
 
@@ -274,7 +274,7 @@ Next passes expand this document into the full 100–200 page Build Bible:
 4. Master data dictionary (elements · symbols · echo IDs)
 5. Execution index (which BUILD when · blocking rules)
 
-When v1.0 ships — Phase Two continues with **BUILD-018 Fracture Map**.
+When v1.0 ships — Phase Two continues with **BUILD-019 Memory Engine**.
 
 ---
 

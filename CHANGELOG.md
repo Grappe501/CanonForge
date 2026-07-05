@@ -3,6 +3,19 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [1.6.0] — 2026-07-05
+
+### Added
+- CF-ENTRY-056: BUILD-018 The Fracture Engine Canonical v1.0
+- Concepts CF-CON-401 through CF-CON-415
+- Five fracture domains · fracture curve · central fracture · recognition not puzzle
+- Renamed: Fracture Map → **Fracture Engine** (understanding gap, not broken reality)
+- Master Canon v1.3.3
+
+### Changed
+- Thematic fracture: damage → **perspective** · puzzle → **recognition**
+- OPEN_QUESTIONS: central wound → **central fracture**
+
 ## [1.5.0] — 2026-07-05
 
 ### Added

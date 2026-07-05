@@ -1,7 +1,7 @@
-# Master Canon v1.3.2
+# Master Canon v1.3.3
 
-> **BUILD-017:** The Reality Engine · story-true universe · five layers
-> Supersedes v1.3.1 (2026-07-05 · BUILD-017 CF-ENTRY-055 · CanonForge 1.5.0)
+> **BUILD-018:** The Fracture Engine · understanding gap · recognition not puzzle
+> Supersedes v1.3.2 (2026-07-05 · BUILD-018 CF-ENTRY-056 · CanonForge 1.6.0)
 
 ---
 
@@ -42,7 +42,9 @@ Key locked insights:
 | **Four Pillars** | Strengthen ≥1 of Wonder · **Connection** · Resonance · Transformation? | BUILD-003 v1.0 |
 | Seven Laws | Immutable · complies with BUILD-004 v1.0? | BUILD-004 |
 
-**Stack:** BUILD-001 = *why* · … · BUILD-015 = *where* · **016 = *consciousness*** · **017 = *reality***
+**Stack:** BUILD-001 = *why* · … · **016 = *consciousness*** · **017 = *reality*** · **018 = *understanding gap***
+
+→ [build/BUILD-018-fracture-engine.md](build/BUILD-018-fracture-engine.md) · Five Domains · Fracture Curve · Recognition Not Puzzle
 
 → [build/BUILD-017-reality-engine.md](build/BUILD-017-reality-engine.md) · Five Layers · Story-True Reality · Reality Test
 
@@ -54,6 +56,8 @@ Key locked insights:
 
 → Full registry: [build/BUILD_INDEX.md](build/BUILD_INDEX.md)
 
+→ [build/BUILD-016-consciousness-engine.md](build/BUILD-016-consciousness-engine.md) · Ten Living Systems · Sixth Consciousness · Incomplete Principle
+
 Tell the **best adventure story we can possibly tell** — tested against Constitution, BUILD layer, and filters above.
 
 > **The book never changes. Only the reader does.** (BUILD-000.001)
@@ -64,7 +68,7 @@ Tell the **best adventure story we can possibly tell** — tested against Consti
 
 > **Every human being carries a story that cannot be understood from a single moment, a single memory, or a single label.**
 
-Novel about **fractured perception** — not merely fractured time. Read 1 categorizes · Read 2 weakens · Read 3+ dissolves. Reader experiences empathy through mistaken assumptions — **no moral lecture**.
+Novel about **fractured perception** — not merely fractured time · not something that **broke** in reality (BUILD-018). Read 1 categorizes · Read 2 weakens · Read 3+ dissolves. Reader experiences empathy through mistaken assumptions — **no moral lecture**.
 
 See Article XVI — Humanity · **Article XVII — Assumption** in Constitution.
 

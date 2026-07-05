@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "1.5.0",
-  "generated_at": "2026-07-05T21:45:52.418105+00:00",
+  "canonforge_version": "1.6.0",
+  "generated_at": "2026-07-05T21:47:21.721078+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -4440,6 +4440,171 @@
         "CF-ENTRY-055"
       ],
       "canon_ref": "canon/build/BUILD-017-reality-engine.md#01716--the-final-principle"
+    },
+    {
+      "id": "CF-CON-401",
+      "label": "Fracture Engine",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Gap between reality and understanding; fragments integrate.",
+      "sources": [
+        "CF-ENTRY-056"
+      ],
+      "canon_ref": "canon/build/BUILD-018-fracture-engine.md"
+    },
+    {
+      "id": "CF-CON-402",
+      "label": "Fracture as perspective",
+      "category": "Theme",
+      "status": "Frozen",
+      "definition": "Fracture is not damage; nothing broke in reality.",
+      "sources": [
+        "CF-ENTRY-056"
+      ],
+      "canon_ref": "canon/build/BUILD-018-fracture-engine.md#0180--purpose"
+    },
+    {
+      "id": "CF-CON-403",
+      "label": "Reality whole understanding fragments",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Reality complete; observer and reader arrive in fragments.",
+      "sources": [
+        "CF-ENTRY-056"
+      ],
+      "canon_ref": "canon/build/BUILD-018-fracture-engine.md#0181--the-first-principle"
+    },
+    {
+      "id": "CF-CON-404",
+      "label": "Five fracture domains",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Chronological memory identity relationship meaning.",
+      "sources": [
+        "CF-ENTRY-056"
+      ],
+      "canon_ref": "canon/build/BUILD-018-fracture-engine.md#0182--the-five-fractures"
+    },
+    {
+      "id": "CF-CON-405",
+      "label": "Fracture curve",
+      "category": "Process",
+      "status": "Frozen",
+      "definition": "Encounter to wonder; integration not resolution.",
+      "sources": [
+        "CF-ENTRY-056"
+      ],
+      "canon_ref": "canon/build/BUILD-018-fracture-engine.md#0183--the-fracture-curve"
+    },
+    {
+      "id": "CF-CON-406",
+      "label": "Fracture map record",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Ledger row per fracture; ID domain recognition integration.",
+      "sources": [
+        "CF-ENTRY-056"
+      ],
+      "canon_ref": "canon/build/BUILD-018-fracture-engine.md#0184--the-fracture-map"
+    },
+    {
+      "id": "CF-CON-407",
+      "label": "Fracture limit",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Productive curiosity not overload; breathing rhythm.",
+      "sources": [
+        "CF-ENTRY-056"
+      ],
+      "canon_ref": "canon/build/BUILD-018-fracture-engine.md#0185--the-fracture-limit"
+    },
+    {
+      "id": "CF-CON-408",
+      "label": "Fractures as music",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Suspended chord not surprise; tension to harmony.",
+      "sources": [
+        "CF-ENTRY-056"
+      ],
+      "canon_ref": "canon/build/BUILD-018-fracture-engine.md#0186--fractures-as-music"
+    },
+    {
+      "id": "CF-CON-409",
+      "label": "Human parallel fracture",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Meaning arrives late; Chronoforge makes visible.",
+      "sources": [
+        "CF-ENTRY-056"
+      ],
+      "canon_ref": "canon/build/BUILD-018-fracture-engine.md#0187--the-human-parallel"
+    },
+    {
+      "id": "CF-CON-410",
+      "label": "Readers fracture",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Deepest fracture in reader; integration outside book.",
+      "sources": [
+        "CF-ENTRY-056"
+      ],
+      "canon_ref": "canon/build/BUILD-018-fracture-engine.md#0188--the-readers-fracture"
+    },
+    {
+      "id": "CF-CON-411",
+      "label": "Fracture web",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Fractures networked; Matrix tracks cross-domain.",
+      "sources": [
+        "CF-ENTRY-056"
+      ],
+      "canon_ref": "canon/build/BUILD-018-fracture-engine.md#0189--the-fracture-web"
+    },
+    {
+      "id": "CF-CON-412",
+      "label": "Fracture test",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Five questions; remove if merely to surprise.",
+      "sources": [
+        "CF-ENTRY-056"
+      ],
+      "canon_ref": "canon/build/BUILD-018-fracture-engine.md#01810--the-fracture-test"
+    },
+    {
+      "id": "CF-CON-413",
+      "label": "Central fracture",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "One governing fracture; all others orbit.",
+      "sources": [
+        "CF-ENTRY-056"
+      ],
+      "canon_ref": "canon/build/BUILD-018-fracture-engine.md#01811--the-central-fracture"
+    },
+    {
+      "id": "CF-CON-414",
+      "label": "Integration moment",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "See more not fooled; essential emotional distinction.",
+      "sources": [
+        "CF-ENTRY-056"
+      ],
+      "canon_ref": "canon/build/BUILD-018-fracture-engine.md#01812--the-integration-moment"
+    },
+    {
+      "id": "CF-CON-415",
+      "label": "Recognition not puzzle",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Present pieces not missing; moments not riddles.",
+      "sources": [
+        "CF-ENTRY-056"
+      ],
+      "canon_ref": "canon/build/BUILD-018-fracture-engine.md"
     }
   ],
   "edges": [
@@ -7916,6 +8081,161 @@
     {
       "from": "CF-CON-400",
       "to": "CF-CON-384",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-401",
+      "to": "CF-CON-383",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-401",
+      "to": "CF-CON-403",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-401",
+      "to": "CF-CON-415",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-402",
+      "to": "CF-CON-401",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-402",
+      "to": "CF-CON-385",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-403",
+      "to": "CF-CON-401",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-403",
+      "to": "CF-CON-380",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-404",
+      "to": "CF-CON-401",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-404",
+      "to": "CF-CON-140",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-405",
+      "to": "CF-CON-401",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-405",
+      "to": "CF-CON-161",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-406",
+      "to": "CF-CON-401",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-406",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-407",
+      "to": "CF-CON-401",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-407",
+      "to": "CF-CON-177",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-408",
+      "to": "CF-CON-401",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-408",
+      "to": "CF-CON-162",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-409",
+      "to": "CF-CON-401",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-409",
+      "to": "CF-CON-140",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-410",
+      "to": "CF-CON-401",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-410",
+      "to": "CF-CON-382",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-411",
+      "to": "CF-CON-401",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-411",
+      "to": "CF-CON-388",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-412",
+      "to": "CF-CON-401",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-412",
+      "to": "CF-CON-399",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-413",
+      "to": "CF-CON-401",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-413",
+      "to": "CF-CON-134",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-414",
+      "to": "CF-CON-401",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-414",
+      "to": "CF-CON-100",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-415",
+      "to": "CF-CON-401",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-415",
+      "to": "CF-CON-034",
       "type": "related"
     }
   ]
