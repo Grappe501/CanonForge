@@ -236,11 +236,9 @@ BUILD-015 named the ledger. BUILD-022 **specifies the grammar**.
 
 ---
 
-## BUILD-023 preview *(CF-ENTRY-060)*
+## BUILD-024 preview *(CF-ENTRY-062)*
 
-Rhythmic and typographic silence intersect **Typography Physics** — canonical visual events.
-
-→ **BUILD-023 Typography Physics** *(queued)*
+→ **BUILD-024 Rhythm Score** *(queued)*
 
 ---
 

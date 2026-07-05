@@ -53,6 +53,8 @@
 | **Closed and open motifs** | Complete in book vs alive after | CF-CON-448 |
 | **Symbol Genome** | Symbolic language · gravity · curves | CF-CON-449 |
 | **Live with this** | Recognition not clues; symbols migrate | CF-CON-488 |
+| **Typography Physics** | Visible physics of thought · language | CF-CON-489 |
+| **One typeface** | Single visual voice canonical edition | CF-CON-504 |
 | **Motif not symbol** | Returns vs carries meaning | CF-CON-450 |
 | **Language of Silence** | Composed silence · seven forms | CF-CON-457 |
 | **Fifth read hears silence** | Words to architecture to silence | CF-CON-472 |

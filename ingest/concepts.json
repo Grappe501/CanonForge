@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "2.1.0",
-  "generated_at": "2026-07-05T21:56:33.557565+00:00",
+  "canonforge_version": "2.2.0",
+  "generated_at": "2026-07-05T22:03:24.297014+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -3772,11 +3772,12 @@
       "label": "Typography Ledger",
       "category": "Architecture",
       "status": "Frozen",
-      "definition": "Every typographic deviation tracked.",
+      "definition": "Every typographic deviation tracked; BUILD-023 lexicon.",
       "sources": [
-        "CF-ENTRY-051"
+        "CF-ENTRY-051",
+        "CF-ENTRY-062"
       ],
-      "canon_ref": "canon/build/BUILD-015-resonance-matrix.md"
+      "canon_ref": "canon/build/BUILD-023-typography-physics.md#0234--the-typography-ledger"
     },
     {
       "id": "CF-CON-341",
@@ -5410,6 +5411,182 @@
         "CF-ENTRY-061"
       ],
       "canon_ref": "canon/build/BUILD-021-symbol-genome.md"
+    },
+    {
+      "id": "CF-CON-489",
+      "label": "Typography Physics",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Visible physics of thought; language not emphasis.",
+      "sources": [
+        "CF-ENTRY-062"
+      ],
+      "canon_ref": "canon/build/BUILD-023-typography-physics.md"
+    },
+    {
+      "id": "CF-CON-490",
+      "label": "Default typography sacred",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Trust first; deviation permanent immutable meaning.",
+      "sources": [
+        "CF-ENTRY-062"
+      ],
+      "canon_ref": "canon/build/BUILD-023-typography-physics.md#0231--the-first-principle"
+    },
+    {
+      "id": "CF-CON-491",
+      "label": "Law of typographic rarity",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Fewer than dozen major events; restraint power.",
+      "sources": [
+        "CF-ENTRY-062"
+      ],
+      "canon_ref": "canon/build/BUILD-023-typography-physics.md#0232--the-law-of-rarity"
+    },
+    {
+      "id": "CF-CON-492",
+      "label": "Typographic lexicon",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "One meaning per form; consistency trust.",
+      "sources": [
+        "CF-ENTRY-062"
+      ],
+      "canon_ref": "canon/build/BUILD-023-typography-physics.md#0233--the-typographic-lexicon"
+    },
+    {
+      "id": "CF-CON-493",
+      "label": "Typography ledger record",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Permanent record per typographic event.",
+      "sources": [
+        "CF-ENTRY-062"
+      ],
+      "canon_ref": "canon/build/BUILD-023-typography-physics.md#0234--the-typography-ledger"
+    },
+    {
+      "id": "CF-CON-494",
+      "label": "Typography reader discovery",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Notice not understand; earned recognition.",
+      "sources": [
+        "CF-ENTRY-062"
+      ],
+      "canon_ref": "canon/build/BUILD-023-typography-physics.md#0235--the-readers-discovery"
+    },
+    {
+      "id": "CF-CON-495",
+      "label": "Typographic rhythm",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Eye conducts pacing before mind interprets.",
+      "sources": [
+        "CF-ENTRY-062"
+      ],
+      "canon_ref": "canon/build/BUILD-023-typography-physics.md#0236--typographic-rhythm"
+    },
+    {
+      "id": "CF-CON-496",
+      "label": "Physics of the page",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Margins shape space as narrative instruments.",
+      "sources": [
+        "CF-ENTRY-062"
+      ],
+      "canon_ref": "canon/build/BUILD-023-typography-physics.md#0237--the-physics-of-the-page"
+    },
+    {
+      "id": "CF-CON-497",
+      "label": "Rule of typographic stability",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Mode of experience not stronger emotion.",
+      "sources": [
+        "CF-ENTRY-062"
+      ],
+      "canon_ref": "canon/build/BUILD-023-typography-physics.md#0238--the-rule-of-stability"
+    },
+    {
+      "id": "CF-CON-498",
+      "label": "Typographic constellation",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Events connect; visual grammar emerges.",
+      "sources": [
+        "CF-ENTRY-062"
+      ],
+      "canon_ref": "canon/build/BUILD-023-typography-physics.md#0239--the-typographic-constellation"
+    },
+    {
+      "id": "CF-CON-499",
+      "label": "Danger of typographic novelty",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Never for looks; must survive rereads.",
+      "sources": [
+        "CF-ENTRY-062"
+      ],
+      "canon_ref": "canon/build/BUILD-023-typography-physics.md#02310--the-danger-of-novelty"
+    },
+    {
+      "id": "CF-CON-500",
+      "label": "Canonical visual score",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "One edition visual rhythm part of work.",
+      "sources": [
+        "CF-ENTRY-062"
+      ],
+      "canon_ref": "canon/build/BUILD-023-typography-physics.md#02311--the-canonical-edition"
+    },
+    {
+      "id": "CF-CON-501",
+      "label": "Print test typography",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Enrich never rescue; remove if not deepen.",
+      "sources": [
+        "CF-ENTRY-062"
+      ],
+      "canon_ref": "canon/build/BUILD-023-typography-physics.md#02312--the-print-test"
+    },
+    {
+      "id": "CF-CON-502",
+      "label": "Five reads of typography",
+      "category": "Process",
+      "status": "Frozen",
+      "definition": "Natural to intentional as dialogue.",
+      "sources": [
+        "CF-ENTRY-062"
+      ],
+      "canon_ref": "canon/build/BUILD-023-typography-physics.md#02313--the-five-reads"
+    },
+    {
+      "id": "CF-CON-503",
+      "label": "Final typographic principle",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Nothing accidental; page is architecture.",
+      "sources": [
+        "CF-ENTRY-062"
+      ],
+      "canon_ref": "canon/build/BUILD-023-typography-physics.md#02314--the-final-typographic-principle"
+    },
+    {
+      "id": "CF-CON-504",
+      "label": "One typeface principle",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Single visual voice; one typeface only.",
+      "sources": [
+        "CF-ENTRY-062"
+      ],
+      "canon_ref": "canon/build/BUILD-023-typography-physics.md"
     }
   ],
   "edges": [
@@ -8289,6 +8466,11 @@
       "type": "related"
     },
     {
+      "from": "CF-CON-340",
+      "to": "CF-CON-489",
+      "type": "related"
+    },
+    {
       "from": "CF-CON-341",
       "to": "CF-CON-300",
       "type": "related"
@@ -9811,6 +9993,171 @@
     {
       "from": "CF-CON-488",
       "to": "CF-CON-415",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-489",
+      "to": "CF-CON-089",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-489",
+      "to": "CF-CON-340",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-489",
+      "to": "CF-CON-504",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-490",
+      "to": "CF-CON-489",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-490",
+      "to": "CF-CON-282",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-491",
+      "to": "CF-CON-489",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-491",
+      "to": "CF-CON-086",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-492",
+      "to": "CF-CON-489",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-492",
+      "to": "CF-CON-440",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-493",
+      "to": "CF-CON-489",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-493",
+      "to": "CF-CON-340",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-494",
+      "to": "CF-CON-489",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-494",
+      "to": "CF-CON-415",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-495",
+      "to": "CF-CON-489",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-495",
+      "to": "CF-CON-462",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-496",
+      "to": "CF-CON-489",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-496",
+      "to": "CF-CON-467",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-497",
+      "to": "CF-CON-489",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-497",
+      "to": "CF-CON-083",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-498",
+      "to": "CF-CON-489",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-498",
+      "to": "CF-CON-358",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-499",
+      "to": "CF-CON-489",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-499",
+      "to": "CF-CON-468",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-500",
+      "to": "CF-CON-489",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-500",
+      "to": "CF-CON-067",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-501",
+      "to": "CF-CON-489",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-501",
+      "to": "CF-CON-447",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-502",
+      "to": "CF-CON-489",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-502",
+      "to": "CF-CON-470",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-503",
+      "to": "CF-CON-489",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-503",
+      "to": "CF-CON-397",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-504",
+      "to": "CF-CON-489",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-504",
+      "to": "CF-CON-491",
       "type": "related"
     }
   ]

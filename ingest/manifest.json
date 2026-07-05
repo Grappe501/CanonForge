@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "2.1.0",
-  "generated_at": "2026-07-05T21:56:33.533739+00:00",
+  "canonforge_version": "2.2.0",
+  "generated_at": "2026-07-05T22:03:24.273581+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 61,
+  "entry_count": 62,
   "concept_count": 488,
   "project_version": "0.2.0",
   "phase_two": "begun",
@@ -1190,6 +1190,33 @@
         "CF-CON-488"
       ],
       "byte_size": 7141
+    },
+    {
+      "entry_id": "CF-ENTRY-062",
+      "file": "knowledge/entries/062-build-023-typography-physics-v1.md",
+      "sha256": "06edd3d11a92cefb461a6f5ba18e8d7ff2f8e069671faa89c24601d4d94496f8",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-340",
+        "CF-CON-489",
+        "CF-CON-490",
+        "CF-CON-491",
+        "CF-CON-492",
+        "CF-CON-493",
+        "CF-CON-494",
+        "CF-CON-495",
+        "CF-CON-496",
+        "CF-CON-497",
+        "CF-CON-498",
+        "CF-CON-499",
+        "CF-CON-500",
+        "CF-CON-501",
+        "CF-CON-502",
+        "CF-CON-503",
+        "CF-CON-504"
+      ],
+      "byte_size": 7441
     }
   ],
   "indexes": {

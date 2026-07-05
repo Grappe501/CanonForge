@@ -362,9 +362,9 @@ Registry tracks **what comes back**. Genome tracks **what it comes to mean** —
 
 ---
 
-## BUILD-023 preview *(CF-ENTRY-061)*
+## BUILD-024 preview *(CF-ENTRY-062)*
 
-→ **BUILD-023 Typography Physics** *(queued)*
+→ **BUILD-024 Rhythm Score** *(queued)*
 
 ---
 

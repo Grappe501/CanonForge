@@ -1,7 +1,7 @@
-# Master Canon v1.4.1
+# Master Canon v1.4.2
 
-> **BUILD-021:** The Symbol Genome · complete · live with this not notice this
-> Supersedes v1.4.0 (2026-07-05 · BUILD-021 CF-ENTRY-061 · CanonForge 2.1.0)
+> **BUILD-023:** Typography Physics · language not emphasis · one typeface
+> Supersedes v1.4.1 (2026-07-05 · BUILD-023 CF-ENTRY-062 · CanonForge 2.2.0)
 
 ---
 
@@ -42,11 +42,11 @@ Key locked insights:
 | **Four Pillars** | Strengthen ≥1 of Wonder · **Connection** · Resonance · Transformation? | BUILD-003 v1.0 |
 | Seven Laws | Immutable · complies with BUILD-004 v1.0? | BUILD-004 |
 
-**Stack:** BUILD-001 = *why* · … · **021 = *symbol language*** · **022 = *silence language***
+**Stack:** BUILD-001 = *why* · … · **022 = *silence language*** · **023 = *visual physics***
+
+→ [build/BUILD-023-typography-physics.md](build/BUILD-023-typography-physics.md) · Typographic Lexicon · Law of Rarity · One Typeface
 
 → [build/BUILD-022-language-of-silence.md](build/BUILD-022-language-of-silence.md) · Seven Forms · Breath Map · Fifth Read Hears Silence
-
-→ [build/BUILD-021-symbol-genome.md](build/BUILD-021-symbol-genome.md) · Symbolic Gravity · Evolution Curves · Live With This
 
 → [build/BUILD-020-resonance-registry.md](build/BUILD-020-resonance-registry.md) · Motif Families · Rule of Return · Closed/Open Motifs
 
@@ -158,9 +158,11 @@ Hidden systems amplify emotion — they do not compete with it.
 
 CanonForge repo = live OS instance. Full map: [architecture/COMPOSERS_BLUEPRINT.md](../architecture/COMPOSERS_BLUEPRINT.md).
 
-### Typography immutable law (CF-CON-089)
+### Typography immutable law (CF-CON-089 · BUILD-023)
 
 > **Typography is never decorative.**
+
+> **Typography is a language** — not emphasis. Default is sacred · fewer than a dozen major events · **one typeface** in the canonical edition (CF-CON-504).
 
 If typography changes → **reality changed** — not author voice, not narrator.
 

@@ -42,7 +42,8 @@
 | 2026-07-05 | Master Build Roadmap v1.0 | CF-ENTRY-035 session pause | CF-CON-150–155 |
 | 2026-07-05 | BUILD-001–013 frozen v1.0 | Foundational canon complete | CF-CON-156–320 |
 | 2026-07-05 | BUILD-014 Elements of Meaning | Supersedes Periodic Table stub | CF-CON-170 |
-| 2026-07-05 | BUILD-021 Symbol Genome complete | Gravity · curves · live with this | CF-CON-473–488 |
+| 2026-07-05 | BUILD-023 Typography Physics v1.0 | Lexicon · one typeface · print test | CF-CON-489–504 |
+| 2026-07-05 | BUILD-021 Symbol Genome complete | Gravity · live with this | CF-CON-473–488 |
 | 2026-07-05 | BUILD-022 Language of Silence v1.0 | Seven forms · fifth read hears silence | CF-CON-457–472 |
 | 2026-07-05 | BUILD-020 Resonance Registry v1.0 | Motif families · closed/open · living network | CF-CON-431–448 |
 | 2026-07-05 | BUILD-019 Memory Engine v1.0 | Reconstruction · five states · true medium | CF-CON-416–430 |

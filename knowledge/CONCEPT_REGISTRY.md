@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 2.1.0 · 2026-07-05 · 488 concepts registered
+> Version 2.2.0 · 2026-07-05 · 504 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -343,7 +343,7 @@
 | CF-CON-337 | Echo Registry | Architecture | **Frozen** | Echo ID; meaning evolution; nothing once. | CF-ENTRY-051 |
 | CF-CON-338 | Symbol Registry | Architecture | **Frozen** | Recurring objects; no accidental symbolism. | CF-ENTRY-051 |
 | CF-CON-339 | Silence Ledger | Architecture | **Frozen** | Trackable silence network; specified BUILD-022 Language of Silence. | CF-ENTRY-051, CF-ENTRY-060 |
-| CF-CON-340 | Typography Ledger | Architecture | **Frozen** | Every typographic deviation tracked. | CF-ENTRY-051 |
+| CF-CON-340 | Typography Ledger | Architecture | **Frozen** | Every typographic deviation tracked; BUILD-023 lexicon. | CF-ENTRY-051, CF-ENTRY-062 |
 | CF-CON-341 | Rhythm Ledger | Architecture | **Frozen** | Movement meter cadence velocity silence ratio. | CF-ENTRY-051 |
 | CF-CON-342 | Reader Ledger | Architecture | **Frozen** | Believe discover reconsider feel per scene. | CF-ENTRY-051 |
 | CF-CON-343 | Emotion Ledger | Architecture | **Frozen** | Emotional energy not plot tracking. | CF-ENTRY-051 |
@@ -492,6 +492,22 @@
 | CF-CON-486 | Symbol validation test | Governance | **Frozen** | Seven questions; else decoration. | CF-ENTRY-061 |
 | CF-CON-487 | Reader lives with symbols | Mission | **Frozen** | Not solve symbols; expanded meaning after book. | CF-ENTRY-061 |
 | CF-CON-488 | Live with this not notice | Mission | **Frozen** | Recognition not clues; symbols migrate to life. | CF-ENTRY-061 |
+| CF-CON-489 | Typography Physics | Architecture | **Frozen** | Visible physics of thought; language not emphasis. | CF-ENTRY-062 |
+| CF-CON-490 | Default typography sacred | Governance | **Frozen** | Trust first; deviation permanent immutable meaning. | CF-ENTRY-062 |
+| CF-CON-491 | Law of typographic rarity | Governance | **Frozen** | Fewer than dozen major events; restraint power. | CF-ENTRY-062 |
+| CF-CON-492 | Typographic lexicon | Architecture | **Frozen** | One meaning per form; consistency trust. | CF-ENTRY-062 |
+| CF-CON-493 | Typography ledger record | Architecture | **Frozen** | Permanent record per typographic event. | CF-ENTRY-062 |
+| CF-CON-494 | Typography reader discovery | Heart | **Frozen** | Notice not understand; earned recognition. | CF-ENTRY-062 |
+| CF-CON-495 | Typographic rhythm | Architecture | **Frozen** | Eye conducts pacing before mind interprets. | CF-ENTRY-062 |
+| CF-CON-496 | Physics of the page | Architecture | **Frozen** | Margins shape space as narrative instruments. | CF-ENTRY-062 |
+| CF-CON-497 | Rule of typographic stability | Governance | **Frozen** | Mode of experience not stronger emotion. | CF-ENTRY-062 |
+| CF-CON-498 | Typographic constellation | Architecture | **Frozen** | Events connect; visual grammar emerges. | CF-ENTRY-062 |
+| CF-CON-499 | Danger of typographic novelty | Governance | **Frozen** | Never for looks; must survive rereads. | CF-ENTRY-062 |
+| CF-CON-500 | Canonical visual score | Architecture | **Frozen** | One edition visual rhythm part of work. | CF-ENTRY-062 |
+| CF-CON-501 | Print test typography | Governance | **Frozen** | Enrich never rescue; remove if not deepen. | CF-ENTRY-062 |
+| CF-CON-502 | Five reads of typography | Process | **Frozen** | Natural to intentional as dialogue. | CF-ENTRY-062 |
+| CF-CON-503 | Final typographic principle | Mission | **Frozen** | Nothing accidental; page is architecture. | CF-ENTRY-062 |
+| CF-CON-504 | One typeface principle | Governance | **Frozen** | Single visual voice; one typeface only. | CF-ENTRY-062 |
 
 ## Related Concepts
 
@@ -834,7 +850,7 @@
 - **CF-CON-337** (Echo Registry, Frozen): CF-CON-134, CF-CON-304 → `canon/build/BUILD-015-resonance-matrix.md`
 - **CF-CON-338** (Symbol Registry, Frozen): CF-CON-297, CF-CON-134 → `canon/build/BUILD-015-resonance-matrix.md`
 - **CF-CON-339** (Silence Ledger, Frozen): CF-CON-134, CF-CON-273, CF-CON-457 → `canon/build/BUILD-022-language-of-silence.md#0223--the-silence-ledger`
-- **CF-CON-340** (Typography Ledger, Frozen): CF-CON-089, CF-CON-134 → `canon/build/BUILD-015-resonance-matrix.md`
+- **CF-CON-340** (Typography Ledger, Frozen): CF-CON-089, CF-CON-134, CF-CON-489 → `canon/build/BUILD-023-typography-physics.md#0234--the-typography-ledger`
 - **CF-CON-341** (Rhythm Ledger, Frozen): CF-CON-300, CF-CON-134 → `canon/build/BUILD-015-resonance-matrix.md`
 - **CF-CON-342** (Reader Ledger, Frozen): CF-CON-161, CF-CON-134 → `canon/build/BUILD-015-resonance-matrix.md`
 - **CF-CON-343** (Emotion Ledger, Frozen): CF-CON-162, CF-CON-134 → `canon/build/BUILD-015-resonance-matrix.md`
@@ -983,3 +999,19 @@
 - **CF-CON-486** (Symbol validation test, Frozen): CF-CON-449, CF-CON-447 → `canon/build/BUILD-021-symbol-genome.md#02120--the-symbol-validation-test`
 - **CF-CON-487** (Reader lives with symbols, Frozen): CF-CON-449, CF-CON-430 → `canon/build/BUILD-021-symbol-genome.md#02121--the-readers-discovery`
 - **CF-CON-488** (Live with this not notice, Frozen): CF-CON-449, CF-CON-415 → `canon/build/BUILD-021-symbol-genome.md`
+- **CF-CON-489** (Typography Physics, Frozen): CF-CON-089, CF-CON-340, CF-CON-504 → `canon/build/BUILD-023-typography-physics.md`
+- **CF-CON-490** (Default typography sacred, Frozen): CF-CON-489, CF-CON-282 → `canon/build/BUILD-023-typography-physics.md#0231--the-first-principle`
+- **CF-CON-491** (Law of typographic rarity, Frozen): CF-CON-489, CF-CON-086 → `canon/build/BUILD-023-typography-physics.md#0232--the-law-of-rarity`
+- **CF-CON-492** (Typographic lexicon, Frozen): CF-CON-489, CF-CON-440 → `canon/build/BUILD-023-typography-physics.md#0233--the-typographic-lexicon`
+- **CF-CON-493** (Typography ledger record, Frozen): CF-CON-489, CF-CON-340 → `canon/build/BUILD-023-typography-physics.md#0234--the-typography-ledger`
+- **CF-CON-494** (Typography reader discovery, Frozen): CF-CON-489, CF-CON-415 → `canon/build/BUILD-023-typography-physics.md#0235--the-readers-discovery`
+- **CF-CON-495** (Typographic rhythm, Frozen): CF-CON-489, CF-CON-462 → `canon/build/BUILD-023-typography-physics.md#0236--typographic-rhythm`
+- **CF-CON-496** (Physics of the page, Frozen): CF-CON-489, CF-CON-467 → `canon/build/BUILD-023-typography-physics.md#0237--the-physics-of-the-page`
+- **CF-CON-497** (Rule of typographic stability, Frozen): CF-CON-489, CF-CON-083 → `canon/build/BUILD-023-typography-physics.md#0238--the-rule-of-stability`
+- **CF-CON-498** (Typographic constellation, Frozen): CF-CON-489, CF-CON-358 → `canon/build/BUILD-023-typography-physics.md#0239--the-typographic-constellation`
+- **CF-CON-499** (Danger of typographic novelty, Frozen): CF-CON-489, CF-CON-468 → `canon/build/BUILD-023-typography-physics.md#02310--the-danger-of-novelty`
+- **CF-CON-500** (Canonical visual score, Frozen): CF-CON-489, CF-CON-067 → `canon/build/BUILD-023-typography-physics.md#02311--the-canonical-edition`
+- **CF-CON-501** (Print test typography, Frozen): CF-CON-489, CF-CON-447 → `canon/build/BUILD-023-typography-physics.md#02312--the-print-test`
+- **CF-CON-502** (Five reads of typography, Frozen): CF-CON-489, CF-CON-470 → `canon/build/BUILD-023-typography-physics.md#02313--the-five-reads`
+- **CF-CON-503** (Final typographic principle, Frozen): CF-CON-489, CF-CON-397 → `canon/build/BUILD-023-typography-physics.md#02314--the-final-typographic-principle`
+- **CF-CON-504** (One typeface principle, Frozen): CF-CON-489, CF-CON-491 → `canon/build/BUILD-023-typography-physics.md`

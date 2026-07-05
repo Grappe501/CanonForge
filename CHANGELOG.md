@@ -3,6 +3,16 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [2.2.0] — 2026-07-05
+
+### Added
+- CF-ENTRY-062: BUILD-023 Typography Physics Canonical v1.0
+- Concepts CF-CON-489 through CF-CON-504
+- Typographic lexicon · law of rarity · print test · five reads of typography
+- **One typeface principle** — single visual voice
+- CF-CON-340 expanded · links to BUILD-023
+- Master Canon v1.4.2
+
 ## [2.1.0] — 2026-07-05
 
 ### Added
