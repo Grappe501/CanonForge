@@ -77,18 +77,6 @@ Architecture must now give birth to the actual story. Concrete questions deferre
 
 BUILD-017 defines reality laws. BUILD-018 defines the gap between reality and understanding. Concrete instances live in Matrix fracture records and Phase Three — not yet in Master Canon.
 
-## BUILD-021 truncation {#build-021-truncation}
-
-**CF-ENTRY-059 · Status: Partial · §021.7+ missing**
-
-Author upload truncated at **§021.7 THE SYMBOLIC GR...**
-
-**Frozen through §021.6:** motif≠symbol · symbol life cycle · seven families · symbol record · rule of emergence · symbol web
-
-**Pending completion:** inheritance · evolution · payoffs · tests · traceability *(per CF-ENTRY-052 roadmap)*
-
-Do not invent §021.7+ content. Await author completion upload (CF-ENTRY-059 revised or CF-ENTRY-060).
-
 ## Hidden mathematics {#hidden-math}
 
 **CF-CON-105 · Status: Candidate**

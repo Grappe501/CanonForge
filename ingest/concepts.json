@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "2.0.0",
-  "generated_at": "2026-07-05T21:54:46.259387+00:00",
+  "canonforge_version": "2.1.0",
+  "generated_at": "2026-07-05T21:56:33.557565+00:00",
   "nodes": [
     {
       "id": "CF-CON-001",
@@ -4975,9 +4975,10 @@
       "label": "Symbol Genome",
       "category": "Architecture",
       "status": "Frozen",
-      "definition": "Symbolic language; emergence not assignment; partial BUILD.",
+      "definition": "Symbolic language; emergence not allegory; gravity and curves.",
       "sources": [
-        "CF-ENTRY-059"
+        "CF-ENTRY-059",
+        "CF-ENTRY-061"
       ],
       "canon_ref": "canon/build/BUILD-021-symbol-genome.md"
     },
@@ -5233,6 +5234,182 @@
         "CF-ENTRY-060"
       ],
       "canon_ref": "canon/build/BUILD-022-language-of-silence.md"
+    },
+    {
+      "id": "CF-CON-473",
+      "label": "Symbolic gravity",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Five levels I atmospheric to V foundational.",
+      "sources": [
+        "CF-ENTRY-061"
+      ],
+      "canon_ref": "canon/build/BUILD-021-symbol-genome.md#0217--the-symbolic-gravity"
+    },
+    {
+      "id": "CF-CON-474",
+      "label": "Symbol evolution curves",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Linear exponential recursive dormant open.",
+      "sources": [
+        "CF-ENTRY-061"
+      ],
+      "canon_ref": "canon/build/BUILD-021-symbol-genome.md#0218--symbol-evolution-curves"
+    },
+    {
+      "id": "CF-CON-475",
+      "label": "Rule of subtlety",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Avoid allegory; cultivate discovery not announce.",
+      "sources": [
+        "CF-ENTRY-061"
+      ],
+      "canon_ref": "canon/build/BUILD-021-symbol-genome.md#0219--the-rule-of-subtlety"
+    },
+    {
+      "id": "CF-CON-476",
+      "label": "Symbol network",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Symbols point to one another; alive web.",
+      "sources": [
+        "CF-ENTRY-061"
+      ],
+      "canon_ref": "canon/build/BUILD-021-symbol-genome.md#02110--the-symbol-network"
+    },
+    {
+      "id": "CF-CON-477",
+      "label": "Symbolic contrast",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Opposing symbols create tension and meaning.",
+      "sources": [
+        "CF-ENTRY-061"
+      ],
+      "canon_ref": "canon/build/BUILD-021-symbol-genome.md#02111--symbolic-contrast"
+    },
+    {
+      "id": "CF-CON-478",
+      "label": "Readers symbols",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Some symbols belong to reader; multiple honest readings.",
+      "sources": [
+        "CF-ENTRY-061"
+      ],
+      "canon_ref": "canon/build/BUILD-021-symbol-genome.md#02112--the-readers-symbols"
+    },
+    {
+      "id": "CF-CON-479",
+      "label": "Symbol garden",
+      "category": "Heart",
+      "status": "Frozen",
+      "definition": "Authenticity precedes symbolism; organic growth.",
+      "sources": [
+        "CF-ENTRY-061"
+      ],
+      "canon_ref": "canon/build/BUILD-021-symbol-genome.md#02113--the-symbol-garden"
+    },
+    {
+      "id": "CF-CON-480",
+      "label": "Rule of restraint symbols",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "One symbol never explains another; discover web.",
+      "sources": [
+        "CF-ENTRY-061"
+      ],
+      "canon_ref": "canon/build/BUILD-021-symbol-genome.md#02114--the-rule-of-restraint"
+    },
+    {
+      "id": "CF-CON-481",
+      "label": "Symbolic tempo",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Movements harvest deepen transform remember.",
+      "sources": [
+        "CF-ENTRY-061"
+      ],
+      "canon_ref": "canon/build/BUILD-021-symbol-genome.md#02115--symbolic-tempo"
+    },
+    {
+      "id": "CF-CON-482",
+      "label": "Symbolic seasons",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Spring summer autumn winter renewal not repetition.",
+      "sources": [
+        "CF-ENTRY-061"
+      ],
+      "canon_ref": "canon/build/BUILD-021-symbol-genome.md#02116--the-symbolic-seasons"
+    },
+    {
+      "id": "CF-CON-483",
+      "label": "Invisible symbol",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Strongest never named; cannot be underlined.",
+      "sources": [
+        "CF-ENTRY-061"
+      ],
+      "canon_ref": "canon/build/BUILD-021-symbol-genome.md#02117--the-invisible-symbol"
+    },
+    {
+      "id": "CF-CON-484",
+      "label": "Symbolic fractal",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "Word to novel every scale echoes patterns.",
+      "sources": [
+        "CF-ENTRY-061"
+      ],
+      "canon_ref": "canon/build/BUILD-021-symbol-genome.md#02118--the-symbolic-fractal"
+    },
+    {
+      "id": "CF-CON-485",
+      "label": "Final symbol",
+      "category": "Architecture",
+      "status": "Frozen",
+      "definition": "One symbolic center discovered not invented.",
+      "sources": [
+        "CF-ENTRY-061"
+      ],
+      "canon_ref": "canon/build/BUILD-021-symbol-genome.md#02119--the-final-symbol"
+    },
+    {
+      "id": "CF-CON-486",
+      "label": "Symbol validation test",
+      "category": "Governance",
+      "status": "Frozen",
+      "definition": "Seven questions; else decoration.",
+      "sources": [
+        "CF-ENTRY-061"
+      ],
+      "canon_ref": "canon/build/BUILD-021-symbol-genome.md#02120--the-symbol-validation-test"
+    },
+    {
+      "id": "CF-CON-487",
+      "label": "Reader lives with symbols",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Not solve symbols; expanded meaning after book.",
+      "sources": [
+        "CF-ENTRY-061"
+      ],
+      "canon_ref": "canon/build/BUILD-021-symbol-genome.md#02121--the-readers-discovery"
+    },
+    {
+      "id": "CF-CON-488",
+      "label": "Live with this not notice",
+      "category": "Mission",
+      "status": "Frozen",
+      "definition": "Recognition not clues; symbols migrate to life.",
+      "sources": [
+        "CF-ENTRY-061"
+      ],
+      "canon_ref": "canon/build/BUILD-021-symbol-genome.md"
     }
   ],
   "edges": [
@@ -9238,7 +9415,7 @@
     },
     {
       "from": "CF-CON-449",
-      "to": "CF-CON-453",
+      "to": "CF-CON-473",
       "type": "related"
     },
     {
@@ -9474,6 +9651,166 @@
     {
       "from": "CF-CON-472",
       "to": "CF-CON-470",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-473",
+      "to": "CF-CON-449",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-473",
+      "to": "CF-CON-485",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-474",
+      "to": "CF-CON-449",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-474",
+      "to": "CF-CON-435",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-475",
+      "to": "CF-CON-449",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-475",
+      "to": "CF-CON-455",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-476",
+      "to": "CF-CON-449",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-476",
+      "to": "CF-CON-456",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-477",
+      "to": "CF-CON-449",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-477",
+      "to": "CF-CON-457",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-478",
+      "to": "CF-CON-449",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-478",
+      "to": "CF-CON-034",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-479",
+      "to": "CF-CON-449",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-479",
+      "to": "CF-CON-384",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-480",
+      "to": "CF-CON-449",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-480",
+      "to": "CF-CON-463",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-481",
+      "to": "CF-CON-449",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-481",
+      "to": "CF-CON-162",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-482",
+      "to": "CF-CON-449",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-482",
+      "to": "CF-CON-481",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-483",
+      "to": "CF-CON-449",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-483",
+      "to": "CF-CON-439",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-484",
+      "to": "CF-CON-449",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-484",
+      "to": "CF-CON-333",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-485",
+      "to": "CF-CON-449",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-485",
+      "to": "CF-CON-413",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-486",
+      "to": "CF-CON-449",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-486",
+      "to": "CF-CON-447",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-487",
+      "to": "CF-CON-449",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-487",
+      "to": "CF-CON-430",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-488",
+      "to": "CF-CON-449",
+      "type": "related"
+    },
+    {
+      "from": "CF-CON-488",
+      "to": "CF-CON-415",
       "type": "related"
     }
   ]

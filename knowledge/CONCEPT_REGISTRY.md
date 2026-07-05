@@ -1,6 +1,6 @@
 # Concept Registry
 
-> Version 2.0.0 · 2026-07-05 · 472 concepts registered
+> Version 2.1.0 · 2026-07-05 · 488 concepts registered
 
 | ID | Concept | Category | Status | Definition | Sources |
 |---|---|---|---|---|---|
@@ -452,7 +452,7 @@
 | CF-CON-446 | Living network motifs | Architecture | **Frozen** | Registry as graph not list; full symbolic system. | CF-ENTRY-058 |
 | CF-CON-447 | Motif test | Governance | **Frozen** | Six questions before motif enters manuscript. | CF-ENTRY-058 |
 | CF-CON-448 | Closed and open motifs | Mission | **Frozen** | Closed complete in book; open alive after final page. | CF-ENTRY-058 |
-| CF-CON-449 | Symbol Genome | Architecture | **Frozen** | Symbolic language; emergence not assignment; partial BUILD. | CF-ENTRY-059 |
+| CF-CON-449 | Symbol Genome | Architecture | **Frozen** | Symbolic language; emergence not allegory; gravity and curves. | CF-ENTRY-059, CF-ENTRY-061 |
 | CF-CON-450 | Motif not symbol | Governance | **Frozen** | Motif returns; symbol carries meaning; keep separate. | CF-ENTRY-059 |
 | CF-CON-451 | Nothing begins as symbol | Mission | **Frozen** | Bridge first bridge; meaning emerges through experience. | CF-ENTRY-059 |
 | CF-CON-452 | Symbol life cycle | Process | **Frozen** | Reality familiarity association transformation integration. | CF-ENTRY-059 |
@@ -476,6 +476,22 @@
 | CF-CON-470 | Five reads of silence | Process | **Frozen** | Pacing to language across five reads. | CF-ENTRY-060 |
 | CF-CON-471 | Final silence | Heart | **Frozen** | After final sentence; belongs entirely to reader. | CF-ENTRY-060 |
 | CF-CON-472 | Fifth read hears silence | Mission | **Frozen** | Words echoes rhythm architecture then silence. | CF-ENTRY-060 |
+| CF-CON-473 | Symbolic gravity | Architecture | **Frozen** | Five levels I atmospheric to V foundational. | CF-ENTRY-061 |
+| CF-CON-474 | Symbol evolution curves | Architecture | **Frozen** | Linear exponential recursive dormant open. | CF-ENTRY-061 |
+| CF-CON-475 | Rule of subtlety | Governance | **Frozen** | Avoid allegory; cultivate discovery not announce. | CF-ENTRY-061 |
+| CF-CON-476 | Symbol network | Architecture | **Frozen** | Symbols point to one another; alive web. | CF-ENTRY-061 |
+| CF-CON-477 | Symbolic contrast | Architecture | **Frozen** | Opposing symbols create tension and meaning. | CF-ENTRY-061 |
+| CF-CON-478 | Readers symbols | Heart | **Frozen** | Some symbols belong to reader; multiple honest readings. | CF-ENTRY-061 |
+| CF-CON-479 | Symbol garden | Heart | **Frozen** | Authenticity precedes symbolism; organic growth. | CF-ENTRY-061 |
+| CF-CON-480 | Rule of restraint symbols | Governance | **Frozen** | One symbol never explains another; discover web. | CF-ENTRY-061 |
+| CF-CON-481 | Symbolic tempo | Architecture | **Frozen** | Movements harvest deepen transform remember. | CF-ENTRY-061 |
+| CF-CON-482 | Symbolic seasons | Architecture | **Frozen** | Spring summer autumn winter renewal not repetition. | CF-ENTRY-061 |
+| CF-CON-483 | Invisible symbol | Architecture | **Frozen** | Strongest never named; cannot be underlined. | CF-ENTRY-061 |
+| CF-CON-484 | Symbolic fractal | Architecture | **Frozen** | Word to novel every scale echoes patterns. | CF-ENTRY-061 |
+| CF-CON-485 | Final symbol | Architecture | **Frozen** | One symbolic center discovered not invented. | CF-ENTRY-061 |
+| CF-CON-486 | Symbol validation test | Governance | **Frozen** | Seven questions; else decoration. | CF-ENTRY-061 |
+| CF-CON-487 | Reader lives with symbols | Mission | **Frozen** | Not solve symbols; expanded meaning after book. | CF-ENTRY-061 |
+| CF-CON-488 | Live with this not notice | Mission | **Frozen** | Recognition not clues; symbols migrate to life. | CF-ENTRY-061 |
 
 ## Related Concepts
 
@@ -927,7 +943,7 @@
 - **CF-CON-446** (Living network motifs, Frozen): CF-CON-431, CF-CON-358 → `canon/build/BUILD-020-resonance-registry.md#02015--the-living-network`
 - **CF-CON-447** (Motif test, Frozen): CF-CON-431, CF-CON-399 → `canon/build/BUILD-020-resonance-registry.md#02016--the-motif-test`
 - **CF-CON-448** (Closed and open motifs, Frozen): CF-CON-431, CF-CON-380, CF-CON-385 → `canon/build/BUILD-020-resonance-registry.md`
-- **CF-CON-449** (Symbol Genome, Frozen): CF-CON-431, CF-CON-450, CF-CON-453 → `canon/build/BUILD-021-symbol-genome.md`
+- **CF-CON-449** (Symbol Genome, Frozen): CF-CON-431, CF-CON-450, CF-CON-473 → `canon/build/BUILD-021-symbol-genome.md`
 - **CF-CON-450** (Motif not symbol, Frozen): CF-CON-449, CF-CON-431 → `canon/build/BUILD-021-symbol-genome.md#0210--purpose`
 - **CF-CON-451** (Nothing begins as symbol, Frozen): CF-CON-449, CF-CON-455 → `canon/build/BUILD-021-symbol-genome.md#0211--the-first-principle`
 - **CF-CON-452** (Symbol life cycle, Frozen): CF-CON-449, CF-CON-435 → `canon/build/BUILD-021-symbol-genome.md#0212--the-life-cycle-of-a-symbol`
@@ -951,3 +967,19 @@
 - **CF-CON-470** (Five reads of silence, Frozen): CF-CON-457, CF-CON-430 → `canon/build/BUILD-022-language-of-silence.md#02212--the-five-reads-of-silence`
 - **CF-CON-471** (Final silence, Frozen): CF-CON-457, CF-CON-448 → `canon/build/BUILD-022-language-of-silence.md#02213--the-final-silence`
 - **CF-CON-472** (Fifth read hears silence, Frozen): CF-CON-457, CF-CON-470 → `canon/build/BUILD-022-language-of-silence.md`
+- **CF-CON-473** (Symbolic gravity, Frozen): CF-CON-449, CF-CON-485 → `canon/build/BUILD-021-symbol-genome.md#0217--the-symbolic-gravity`
+- **CF-CON-474** (Symbol evolution curves, Frozen): CF-CON-449, CF-CON-435 → `canon/build/BUILD-021-symbol-genome.md#0218--symbol-evolution-curves`
+- **CF-CON-475** (Rule of subtlety, Frozen): CF-CON-449, CF-CON-455 → `canon/build/BUILD-021-symbol-genome.md#0219--the-rule-of-subtlety`
+- **CF-CON-476** (Symbol network, Frozen): CF-CON-449, CF-CON-456 → `canon/build/BUILD-021-symbol-genome.md#02110--the-symbol-network`
+- **CF-CON-477** (Symbolic contrast, Frozen): CF-CON-449, CF-CON-457 → `canon/build/BUILD-021-symbol-genome.md#02111--symbolic-contrast`
+- **CF-CON-478** (Readers symbols, Frozen): CF-CON-449, CF-CON-034 → `canon/build/BUILD-021-symbol-genome.md#02112--the-readers-symbols`
+- **CF-CON-479** (Symbol garden, Frozen): CF-CON-449, CF-CON-384 → `canon/build/BUILD-021-symbol-genome.md#02113--the-symbol-garden`
+- **CF-CON-480** (Rule of restraint symbols, Frozen): CF-CON-449, CF-CON-463 → `canon/build/BUILD-021-symbol-genome.md#02114--the-rule-of-restraint`
+- **CF-CON-481** (Symbolic tempo, Frozen): CF-CON-449, CF-CON-162 → `canon/build/BUILD-021-symbol-genome.md#02115--symbolic-tempo`
+- **CF-CON-482** (Symbolic seasons, Frozen): CF-CON-449, CF-CON-481 → `canon/build/BUILD-021-symbol-genome.md#02116--the-symbolic-seasons`
+- **CF-CON-483** (Invisible symbol, Frozen): CF-CON-449, CF-CON-439 → `canon/build/BUILD-021-symbol-genome.md#02117--the-invisible-symbol`
+- **CF-CON-484** (Symbolic fractal, Frozen): CF-CON-449, CF-CON-333 → `canon/build/BUILD-021-symbol-genome.md#02118--the-symbolic-fractal`
+- **CF-CON-485** (Final symbol, Frozen): CF-CON-449, CF-CON-413 → `canon/build/BUILD-021-symbol-genome.md#02119--the-final-symbol`
+- **CF-CON-486** (Symbol validation test, Frozen): CF-CON-449, CF-CON-447 → `canon/build/BUILD-021-symbol-genome.md#02120--the-symbol-validation-test`
+- **CF-CON-487** (Reader lives with symbols, Frozen): CF-CON-449, CF-CON-430 → `canon/build/BUILD-021-symbol-genome.md#02121--the-readers-discovery`
+- **CF-CON-488** (Live with this not notice, Frozen): CF-CON-449, CF-CON-415 → `canon/build/BUILD-021-symbol-genome.md`

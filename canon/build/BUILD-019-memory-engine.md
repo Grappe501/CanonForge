@@ -250,11 +250,9 @@ Fracture governs the **gap**. Memory governs **how the gap closes across time**.
 
 ---
 
-## BUILD-021 preview *(CF-ENTRY-058)*
+## BUILD-023 preview *(CF-ENTRY-061)*
 
-The Registry catalogs motifs. The **Symbol Genome** governs inheritance · evolution · payoffs across families.
-
-→ **BUILD-021 Symbol Genome** *(queued)*
+→ **BUILD-023 Typography Physics** *(queued)*
 
 ---
 

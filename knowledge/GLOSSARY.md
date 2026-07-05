@@ -51,7 +51,8 @@
 | **True medium** | Fixed text + evolving reader memory | CF-CON-430 |
 | **Resonance Registry** | Motif catalog · composer workbench | CF-CON-431 |
 | **Closed and open motifs** | Complete in book vs alive after | CF-CON-448 |
-| **Symbol Genome** | Symbolic language · emergence not decode | CF-CON-449 |
+| **Symbol Genome** | Symbolic language · gravity · curves | CF-CON-449 |
+| **Live with this** | Recognition not clues; symbols migrate | CF-CON-488 |
 | **Motif not symbol** | Returns vs carries meaning | CF-CON-450 |
 | **Language of Silence** | Composed silence · seven forms | CF-CON-457 |
 | **Fifth read hears silence** | Words to architecture to silence | CF-CON-472 |

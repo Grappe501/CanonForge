@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0.0",
-  "canonforge_version": "2.0.0",
-  "generated_at": "2026-07-05T21:54:46.238636+00:00",
+  "canonforge_version": "2.1.0",
+  "generated_at": "2026-07-05T21:56:33.533739+00:00",
   "project_codename": "CHRONOFORGE",
   "repository": "Grappe501/CanonForge",
   "local_root": "H:/CanonForge",
-  "entry_count": 60,
-  "concept_count": 472,
+  "entry_count": 61,
+  "concept_count": 488,
   "project_version": "0.2.0",
   "phase_two": "begun",
   "build_016_version": "1.0",
@@ -19,9 +19,8 @@
   "build_019_title": "Memory Engine",
   "build_020_version": "1.0",
   "build_020_title": "Resonance Registry",
-  "build_021_version": "1.0-partial",
+  "build_021_version": "1.0",
   "build_021_title": "Symbol Genome",
-  "build_021_status": "truncated_021_7",
   "build_022_version": "1.0",
   "build_022_title": "Language of Silence",
   "phase_one": "complete",
@@ -1165,6 +1164,32 @@
         "CF-CON-472"
       ],
       "byte_size": 7549
+    },
+    {
+      "entry_id": "CF-ENTRY-061",
+      "file": "knowledge/entries/061-build-021-symbol-genome-v1-completion.md",
+      "sha256": "0ffca89be62ad1781f902b611895e0d9e16e962b7138dc5b1068e7d6ab779b8d",
+      "date_ingested": "2026-07-05",
+      "status": "processed",
+      "concepts_extracted": [
+        "CF-CON-473",
+        "CF-CON-474",
+        "CF-CON-475",
+        "CF-CON-476",
+        "CF-CON-477",
+        "CF-CON-478",
+        "CF-CON-479",
+        "CF-CON-480",
+        "CF-CON-481",
+        "CF-CON-482",
+        "CF-CON-483",
+        "CF-CON-484",
+        "CF-CON-485",
+        "CF-CON-486",
+        "CF-CON-487",
+        "CF-CON-488"
+      ],
+      "byte_size": 7141
     }
   ],
   "indexes": {

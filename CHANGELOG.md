@@ -3,6 +3,19 @@
 All notable changes to CanonForge are tracked here.
 Version bumps occur at every ingest step per governance rules.
 
+## [2.1.0] — 2026-07-05
+
+### Added
+- CF-ENTRY-061: BUILD-021 Symbol Genome completion (§021.7–021.22)
+- Concepts CF-CON-473 through CF-CON-488
+- Symbolic gravity · evolution curves · symbol garden · final symbol · validation test
+- **Live with this not notice this** — recognition not clues
+- Master Canon v1.4.1 · BUILD-021 now fully frozen
+
+### Changed
+- CF-ENTRY-059 partial superseded by CF-ENTRY-061 authoritative completion
+- Removed BUILD-021 truncation from OPEN_QUESTIONS
+
 ## [2.0.0] — 2026-07-05
 
 ### Added

@@ -230,11 +230,9 @@ BUILD-015 named the ledger. BUILD-022 **specifies the grammar**.
 
 ---
 
-## Relationship to BUILD-021 (partial)
+## Relationship to BUILD-021
 
-**Symbolic silence** (Form Five) aligns with BUILD-021 Rule of Emergence — objects stand without explanation; meaning accumulates.
-
-**Sacred silence** (Form Seven) aligns with open motifs — wonder preserved by not explaining.
+**Symbolic silence** · **invisible symbol** · **reader's symbols** — silence and absence as symbols that cannot be underlined.
 
 ---
 

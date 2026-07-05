@@ -122,7 +122,7 @@ We did not build a novel. We built a **theory of storytelling** — an operating
 | **018** | The Fracture Engine | **✓ v1.0** · five domains · CF-ENTRY-056 |
 | **019** | The Memory Engine | **✓ v1.0** · living memory · CF-ENTRY-057 |
 | **020** | The Resonance Registry | **✓ v1.0** · motif catalog · CF-ENTRY-058 |
-| **021** | The Symbol Genome | **✓ v1.0 partial** · CF-ENTRY-059 · §021.7+ pending |
+| **021** | The Symbol Genome | **✓ v1.0** · CF-ENTRY-061 |
 | **022** | The Language of Silence | **✓ v1.0** · CF-ENTRY-060 |
 | **023** | Typography Physics | Canonical edition · ~20 events |
 | **024** | Rhythm Score | Movement · page · pulse · breath |
